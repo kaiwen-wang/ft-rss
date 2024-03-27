@@ -33,7 +33,7 @@ async function scrape() {
     $frontRead.find('a').each((index, element) => {
         const href = $(element).attr('href');
         let text = $(element).text();
-        text = text.replace('opinion content .', '');
+        text = text.replace('opinion content.', '');
         const link = `<a href="${url}${href}">${text}</a>`;
         RSSElement.description += `${index + 1}. ${link}<br>`;
     });
