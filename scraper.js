@@ -21,16 +21,21 @@ async function scrape() {
 
     const $frontRead = $('.list__items-wrapper').first();
 
+    const today = new Date();
+    const options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
+    const formattedDate = today.toLocaleDateString('en-US', options);
+
     let RSSElement = {
-        "title": "Latest Articles",
+        "title": "FT Most Read: " + formattedDate,
         "description": ""
     };
 
     $frontRead.find('a').each((index, element) => {
         const href = $(element).attr('href');
-        const text = $(element).text();
-
-        RSSElement.description += `${index + 1}. ${text} - ${url}${href}<br>`;
+        let text = $(element).text();
+        text = text.replace('opinion content .', '');
+        const link = `<a href="${url}${href}">${text}</a>`;
+        RSSElement.description += `${index + 1}. ${link}<br>`;
     });
 
     feed.item(RSSElement);
