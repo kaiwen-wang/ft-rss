@@ -6,6 +6,7 @@ var feed = new RSS(
     {
         title: "FT Top Stories",
         image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Financial_Times_corporate_logo_%28alternative%29.svg/1200px-Financial_Times_corporate_logo_%28alternative%29.svg.png",
+        site_url: "ft.com"
     }
 );
 
