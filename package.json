@@ -4,5 +4,8 @@
     "cheerio": "^1.0.0-rc.12",
     "fs": "^0.0.1-security",
     "rss": "^1.2.2"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
   }
 }
