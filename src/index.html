@@ -10,9 +10,9 @@
 </head>
 
 <body class="bg-[rgb(253,241,230)]">
-    <div class="max-w-lg mx-auto px-2">
+    <div class="max-w-lg px-2 mx-auto">
 
-        <div class="flex gap-2 items-center mt-6">
+        <div class="flex items-center gap-2 mt-6">
             <img src="./rss.png" alt="RSS" class="w-6 h-6">
             <h1 class=" font-serif text-2xl text-[rgb(34,31,32)] mt-42024-03-27-00-34-59.png">FT Most Read RSS Feed
             </h1>
@@ -51,15 +51,25 @@
 
 
             <p>
-                This tool updates once per day at 4AM (EST) using a cron job on Github Actions. The delay doesn't matter
-                to
-                me because the news is already yesterday's news.
+                This tool updates every 12 hours using a cron job on Github Actions. The delay doesn't matter
+                to me because the news is already yesterday's news.
+            </p>
+
+            <p>
+                There's a small issue where my RSS reader (NetNewsWire) replaces only adds a new article if it sees a
+                new rss.xml.
+                I need to find a way where it includes all the past posts in the current rss.xml. Othewise if I don't
+                open the RSS reader for a
+                few days, I miss the previous stories.
+
+                Simultaneously, I don't want any new user who uses the tool to be spammed with 1000 old stories. So I'm
+                not sure what the best answer is there.
             </p>
         </div>
 
         <div class="mt-8">
 
-            <a href="./../rss.xml" class="font-semibold  hover:text-cyan-600 text-lg underline text-blue-700 ">LINK TO
+            <a href="./../rss.xml" class="hover:text-cyan-600 text-lg font-semibold text-blue-700 underline">LINK TO
                 RSS</a>
         </div>
     </div>
