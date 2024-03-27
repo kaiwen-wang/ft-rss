@@ -19,20 +19,21 @@ async function scrape() {
     const $mostReads = $('.o-header__mega-column--articles')
     // console.log($mostReads.html());
 
-    const $frontRead = $('.list__items-wrapper').first()
-    // console.log($frontRead.html())
+    const $frontRead = $('.list__items-wrapper').first();
+
+    let RSSElement = {
+        "title": "Latest Articles",
+        "description": ""
+    };
+
     $frontRead.find('a').each((index, element) => {
-        const href = $(element).attr('href'); // if you want to get the 'href' attribute
-        const text = $(element).text(); // this gets the text within the <a> tag
-        console.log(`Link ${index + 1}: ${text}, URL: ${url}${href}`);
+        const href = $(element).attr('href');
+        const text = $(element).text();
 
-        let RSSElement = {
-            "title": text,
-            "url": url + href
-        }
-
-        feed.item(RSSElement);
+        RSSElement.description += `${index + 1}. ${text} - ${url}${href}<br>`;
     });
+
+    feed.item(RSSElement);
 
     let xml = feed.xml();
     fs.writeFile("rss.xml", xml, function (err) {
