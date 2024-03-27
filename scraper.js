@@ -23,8 +23,22 @@ async function scrape() {
     const $frontRead = $('.list__items-wrapper').first();
 
     const today = new Date();
-    const options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
-    const formattedDate = today.toLocaleDateString('en-US', options);
+    const options = {
+        weekday: 'long',
+        year: 'numeric',
+        month: 'long',
+        day: 'numeric',
+        hour: 'numeric',
+        minute: 'numeric',
+        timeZone: 'UTC',
+        timeZoneName: 'short'
+    };
+
+    // Round the time to the nearest 5 minutes
+    today.setMinutes(Math.round(today.getMinutes() / 5) * 5);
+    today.setSeconds(0, 0);
+
+    const formattedDate = today.toLocaleString('en-US', options);
 
     let RSSElement = {
         "title": "FT Most Read: " + formattedDate,
