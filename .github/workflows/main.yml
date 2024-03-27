@@ -1,25 +1,45 @@
 # Cron Job
-
 # This is a basic workflow to help you get started with Actions
- 
-name:
-  First Cron Job
- 
-  # Controls when the workflow will run
+name: RSS Feed Update
+
+# Controls when the workflow will run
 on:
   # Triggers the workflow every 5 minutes
   schedule:
     - cron: "*/5 * * * *"
- 
-      # A workflow run is made up of one or more jobs that can run sequentially or in parallel
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  # This workflow contains a single job called "cron"
-  cron:
+  # This workflow contains a single job called "update-feed"
+  update-feed:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
- 
+
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      # Runs a single command using the runners shell
-      - name: Run a one-line script
-        run: echo Hello, world!
+      # Checkout the repository
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      # Set up Node.js
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '14'
+
+      # Install dependencies
+      - name: Install dependencies
+        run: npm ci
+
+      # Run the scraper script
+      - name: Run scraper
+        run: node scraper.js
+
+      # Commit and push the updated rss.xml file
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add rss.xml
+          git commit -m "Update rss.xml"
+          git push
