@@ -1,1 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[FT Top Stories]]></title><description><![CDATA[FT Top Stories]]></description><link>http://github.com/dylang/node-rss</link><generator>RSS for Node</generator><lastBuildDate>Wed, 27 Mar 2024 01:21:51 GMT</lastBuildDate><item><title><![CDATA[Latest Articles]]></title><description><![CDATA[1. US faces Liz Truss-style market shock as debt soars, warns watchdog  - https://ft.com/content/c43cf841-174a-457f-92de-be2c44dbb440<br>2. Trump’s stake in social media group hits $4.6bn after market debut - https://ft.com/content/99f713a5-71fa-4a28-b1ee-5b6f8998887e<br>3. Search suspended for missing people in Baltimore bridge collapse  - https://ft.com/content/6225f58f-bd1d-44d1-b061-3b6b9ab30d83<br>4. Larry Fink warns retirement crisis looms for ageing world population - https://ft.com/content/38fcdd1f-481a-44b8-8f0d-e1c0a39cdc55<br>5.  opinion content. Europe’s leaders have woken up to hard power - https://ft.com/content/42a4531a-d50a-46f0-9a23-076c03b0da31<br>]]></description><guid isPermaLink="false">Latest Articles</guid></item></channel></rss>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[FT Top Stories]]></title>
+        <description><![CDATA[FT Top Stories]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Wed, 27 Mar 2024 01:21:51 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[Latest Articles]]></title>
+            <description><![CDATA[1. US faces Liz Truss-style market shock as debt soars, warns watchdog  - https://ft.com/content/c43cf841-174a-457f-92de-be2c44dbb440<br>2. Trump’s stake in social media group hits $4.6bn after market debut - https://ft.com/content/99f713a5-71fa-4a28-b1ee-5b6f8998887e<br>3. Search suspended for missing people in Baltimore bridge collapse  - https://ft.com/content/6225f58f-bd1d-44d1-b061-3b6b9ab30d83<br>4. Larry Fink warns retirement crisis looms for ageing world population - https://ft.com/content/38fcdd1f-481a-44b8-8f0d-e1c0a39cdc55<br>5.  opinion content. Europe’s leaders have woken up to hard power - https://ft.com/content/42a4531a-d50a-46f0-9a23-076c03b0da31<br>]]></description>
+            <guid isPermaLink="false">Latest Articles</guid>
+        </item>
+    </channel>
+</rss>
