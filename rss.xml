@@ -1,1 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[FT Top Stories]]></title><description><![CDATA[FT Top Stories]]></description><link>ft.com</link><image><url>https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Financial_Times_corporate_logo_%28alternative%29.svg/1200px-Financial_Times_corporate_logo_%28alternative%29.svg.png</url><title>FT Top Stories</title><link>ft.com</link></image><generator>RSS for Node</generator><lastBuildDate>Thu, 09 May 2024 17:39:42 GMT</lastBuildDate><item><title><![CDATA[FT Most Read: Thursday, May 9, 2024 at 5:40 PM UTC]]></title><description><![CDATA[1. <a href="https://ft.com/content/b4ea1456-52d8-42d3-aaa3-f4b6b818438e">Bridgewater’s chief says he has ‘rewired’ world’s largest hedge fund </a><br>2. <a href="https://ft.com/content/77248f04-ea59-496f-93bc-36d413e8a2c9">Baidu executive tells staff: ‘I’m not your mum’</a><br>3. <a href="https://ft.com/content/1f7314d7-577c-4263-a69f-b11757d85b4d">Apple crushed by iPad advertising backlash </a><br>4. <a href="https://ft.com/content/b61d4b9b-6584-495e-be4d-023aa36538ac">Private schools bolster advance payment schemes ahead of Labour tax changes</a><br>5. <a href="https://ft.com/content/b8e79700-1892-42c5-85c3-0716200fc035">Bank of England signals summer cut as it holds rates at 5.25%</a><br>]]></description><guid isPermaLink="false">FT Most Read: Thursday, May 9, 2024 at 5:40 PM UTC</guid></item></channel></rss>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[FT Top Stories]]></title>
+        <description><![CDATA[FT Top Stories]]></description>
+        <link>ft.com</link>
+        <image>
+            <url>
+                https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Financial_Times_corporate_logo_%28alternative%29.svg/1200px-Financial_Times_corporate_logo_%28alternative%29.svg.png</url>
+            <title>FT Top Stories</title>
+            <link>ft.com</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Thu, 09 May 2024 17:39:42 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[FT Most Read: Thursday, May 9, 2024 at 5:40 PM UTC]]></title>
+            <description><![CDATA[1. <a href="https://ft.com/content/b4ea1456-52d8-42d3-aaa3-f4b6b818438e">Bridgewater’s chief says he has ‘rewired’ world’s largest hedge fund </a><br>2. <a href="https://ft.com/content/77248f04-ea59-496f-93bc-36d413e8a2c9">Baidu executive tells staff: ‘I’m not your mum’</a><br>3. <a href="https://ft.com/content/1f7314d7-577c-4263-a69f-b11757d85b4d">Apple crushed by iPad advertising backlash </a><br>4. <a href="https://ft.com/content/b61d4b9b-6584-495e-be4d-023aa36538ac">Private schools bolster advance payment schemes ahead of Labour tax changes</a><br>5. <a href="https://ft.com/content/b8e79700-1892-42c5-85c3-0716200fc035">Bank of England signals summer cut as it holds rates at 5.25%</a><br>]]></description>
+            <guid isPermaLink="false">FT Most Read: Thursday, May 9, 2024 at 5:40 PM UTC</guid>
+        </item>
+    </channel>
+</rss>

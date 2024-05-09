@@ -2,7 +2,12 @@
 export default {
   content: ["./src/**/*.{html,js}"],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        'headings': ['Iowan Old Style'],
+        'charter': ['Charter']
+      }
+    },
   },
   plugins: [],
 }
