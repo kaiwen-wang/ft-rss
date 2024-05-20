@@ -6,7 +6,7 @@ name: RSS Feed Update
 on:
   # Triggers the workflow every 5 minutes
   schedule:
-    - cron: "*/60 * * * *"
+    - cron: "*/720 * * * *"
   workflow_dispatch:
 
 
