@@ -58,7 +58,7 @@ async function scrape() {
 
     feed.item(RSSElement);
     let xml = feed.xml();
-    fs.writeFile("rss.xml", xml, function (err) {
+    fs.writeFile("rss_ft.xml", xml, function (err) {
         if (err) {
             return console.log(err);
         }
