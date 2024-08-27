@@ -36,7 +36,11 @@ jobs:
       # Run the scraper script
       - name: Run scraper
         run: node scraper_ft.js
+
+      - name: Run scraper
         run: node scraper_nikkei.js
+        
+      - name: Run scraper
         run: node scraper_hn.js
 
       # Commit and push the updated rss.xml file
