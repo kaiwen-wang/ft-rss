@@ -48,6 +48,9 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add rss.xml
+          git add rss_ft.xml
+          git add rss_lobsters.xml
+          git add rss_nikkei.xml
+          git add rss_hn.xml
           git commit -m "Update rss.xml"
           git push
