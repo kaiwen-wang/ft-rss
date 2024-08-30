@@ -39,7 +39,10 @@ jobs:
 
       - name: Run scraper
         run: node scraper_nikkei.js
-        
+      
+      - name: Run scraper
+        run: node scraper_lobsters.js
+
       - name: Run scraper
         run: node scraper_hn.js
 
