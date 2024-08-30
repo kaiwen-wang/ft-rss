@@ -1,47 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/"
-    xmlns:content="http://purl.org/rss/1.0/modules/content/"
-    xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title><![CDATA[Lobsters Top Stories]]></title>
-        <description><![CDATA[Lobsters Top Stories]]></description>
-        <link>https://lobste.rs/</link>
-        <image>
-            <url>https://lobste.rs/apple-touch-icon-144.png</url>
-            <title>Lobsters Top Stories</title>
-            <link>https://lobste.rs/</link>
-        </image>
-        <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 27 Aug 2024 17:28:41 GMT</lastBuildDate>
-        <item>
-            <title><![CDATA[Lobsters Top Stories: Tuesday, August 27, 2024 at 5:30 PM UTC]]></title>
-            <description><![CDATA[1. <a href="https://www.jvt.me/posts/2024/08/26/v0/">You're not mature enough to release your first version as v1</a> (13 points | 
-              22 comments)<br>2. <a href="https://kmcd.dev/posts/working-with-protobuf-in-2024/">Working with Protobuf in 2024</a> (12 points | 
-              no comments)<br>3. <a href="https://thoughtbot.com/blog/wrap-your-dependencies">Wrap your dependencies</a> (38 points | 
-              43 comments)<br>4. <a href="https://monzo.com/blog/how-we-run-migrations-across-2800-microservices">How we run migrations across 2,800 microservices</a> (6 points | 
-              7 comments)<br>5. <a href="https://github.com/morris/vanilla-prime">Vanilla Prime: A simpler, more sustainable way of web development</a> (5 points | 
-              9 comments)<br>6. <a href="https://box86.org/2024/08/box64-and-risc-v-in-2024/">Box64 and RISC-V in 2024</a> (12 points | 
-              no comments)<br>7. <a href="https://poweruser.blog/using-dtrace-with-sip-enabled-3826a352e64b">Using dtrace with SIP enabled</a> (10 points | 
-              1 comment)<br>8. <a href="https://owickstrom.github.io/the-monospace-web/">The Monospace Web</a> (2 points | 
-              no comments)<br>9. <a href="https://sequentialread.com/bonavita-electric-kettle-repair/">Bonavita 1L Electric Kettle Repair</a> (6 points | 
-              2 comments)<br>10. <a href="https://lucumr.pocoo.org/2024/8/27/minijinja/">MiniJinja: Learnings from Building a Template Engine in Rust</a> (6 points | 
-              no comments)<br>11. <a href="https://maximullaris.com/if_condition.html">Don’t use complex expressions in if conditions</a> (28 points | 
-              38 comments)<br>12. <a href="https://freebsdfoundation.org/blog/sovereign-tech-fund-to-invest-e686400-in-freebsd-infrastructure-modernization/">Sovereign Tech Fund to Invest €686,400 in FreeBSD Infrastructure Modernization</a> (38 points | 
-              3 comments)<br>13. <a href="https://linuxblog.io/linux-tiling-desktop-environments/">Linux: We need Tiling Desktop Environments</a> (21 points | 
-              19 comments)<br>14. <a href="https://www.youtube.com/watch?v=pggcc6fi-ow">OCI Containers for FreeBSD - Doug Rabson, FreeBSD Project</a> (5 points | 
-              1 comment)<br>15. <a href="https://tinkering.xyz/evaluating-process-manager/">Evaluating a process manager</a> (1 points | 
-              no comments)<br>16. <a href="https://simonwillison.net/2024/Aug/26/gemini-bounding-box-visualization/">Building a tool showing how Gemini Pro can return bounding boxes for objects in images</a> (10 points | 
-              4 comments)<br>17. <a href="https://ast-grep.github.io/">ast-grep | structural search/rewrite tool for many languages</a> (7 points | 
-              no comments)<br>18. <a href="https://github.com/nicbarker/clay">Clay: high performance UI layout library in C</a> (5 points | 
-              no comments)<br>19. <a href="https://blog.broulik.de/2024/08/fresh-breeze-dialog-icons/">Fresh Breeze KDE Dialog Icons</a> (2 points | 
-              no comments)<br>20. <a href="https://subethasoftware.com/2024/08/26/in-c-you-can-sizeof-a-string-constant/">In C, you can sizeof() a string constant?</a> (1 points | 
-              3 comments)<br>21. <a href="https://youtube.com/watch?v=mP9e_FDjHLU">Electric Clojure v3: Differential Dataflow for UI</a> (3 points | 
-              no comments)<br>22. <a href="https://andydote.co.uk/2024/07/20/otel-errors/">Multiple errors in an OTEL Span</a> (2 points | 
-              1 comment)<br>23. <a href="https://www.snoyman.com/blog/2024/08/let-the-api-protect-you/">Let the API protect you</a> (2 points | 
-              1 comment)<br>24. <a href="https://karenjex.blogspot.com/2024/07/how-postgres-is-misused-and-abused.html">How Postgres is Misused and Abused in the Wild</a> (11 points | 
-              1 comment)<br>25. <a href="https://blog.trailofbits.com/2024/08/27/provisioning-cloud-infrastructure-the-wrong-way-but-faster/">Provisioning cloud infrastructure the wrong way, but faster</a> (1 points | 
-              2 comments)<br>]]></description>
-            <guid isPermaLink="false">Lobsters Top Stories: Tuesday, August 27, 2024 at 5:30 PM UTC</guid>
-        </item>
-    </channel>
-</rss>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Fri, 30 Aug 2024 01:07:45 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Friday, August 30, 2024 at 1:05 AM UTC]]></title><description><![CDATA[1. <a href="https://lore.kernel.org/lkml/20240828211117.9422-1-wedsonaf@gmail.com/">Retiring from the Rust for Linux project</a> (92 points | 
+              111 comments)<br>2. <a href="https://calebporzio.com/i-just-cracked-1-million-on-github-sponsors-heres-my-playbook">I just crossed $1 million on GitHub Sponsors</a> (46 points | 
+              16 comments)<br>3. <a href="https://eieio.games/essays/the-secret-in-one-million-checkboxes/">The secret inside One Million Checkboxes</a> (14 points | 
+              2 comments)<br>4. <a href="https://www.haskellforall.com/2024/08/firewall-rules-not-as-secure-as-you.html">Firewall rules: not as secure as you think</a> (15 points | 
+              1 comment)<br>5. <a href="https://github.com/aziis98/mup">mup: A micro web file uploader to easily share files over LAN</a> (12 points | 
+              5 comments)<br>6. <a href="https://ian.sh/tsa">Bypassing airport security via SQL injection</a> (19 points | 
+              no comments)<br>7. <a href="https://www.dreamsongs.com/ObjectsHaveNotFailedNarr.html">Objects Have Not Failed (2002)</a> (16 points | 
+              19 comments)<br>8. <a href="https://savannah.gnu.org/news/?id=10668">GNU Screen v.5.0.0 is released</a> (7 points | 
+              9 comments)<br>9. <a href="https://soatok.blog/2024/08/28/introducing-alacrity-to-federated-cryptography/">Introducing Alacrity to Federated Cryptography</a> (22 points | 
+              6 comments)<br>10. <a href="https://x86.lol/generic/2024/08/28/systemd-sysupdate.html">Immutable Systems: NixOS + systemd-repart + systemd-sysupdate</a> (22 points | 
+              8 comments)<br>11. <a href="https://www.patrick-breyer.de/en/posts/chat-control/">Chat Control: The EU's CSEM scanner proposal</a> (11 points | 
+              4 comments)<br>12. <a href="https://btxx.org/posts/useless-key/">"This Key is Useless Now. Discard?"</a> (42 points | 
+              26 comments)<br>13. <a href="https://github.com/coder/wush">wush - p2p wireguard file transfers, shells, and more</a> (7 points | 
+              no comments)<br>14. <a href="https://www.elastic.co/blog/elasticsearch-is-open-source-again">Elasticsearch is open source, again</a> (6 points | 
+              no comments)<br>15. <a href="https://justin.searls.co/links/2024-08-29-why-playwright-is-less-flaky-than-selenium/">Why Playwright is less flaky than Selenium</a> (7 points | 
+              no comments)<br>16. <a href="https://victoriametrics.com/blog/go-sync-pool/">Go sync.Pool and the Mechanics Behind It</a> (10 points | 
+              no comments)<br>17. <a href="https://www.fossjobs.net/job/11427/development-of-an-experimental-devboard-for-a-frugal-smartphone-at-inria/">Development of an Experimental Devboard for a Frugal Smartphone at Inria</a> (18 points | 
+              2 comments)<br>18. <a href="https://mbuffett.com/posts/rust-2030/">The 2030 Rust Update</a> (12 points | 
+              1 comment)<br>19. <a href="https://devblogs.microsoft.com/dotnet/binaryformatter-removed-from-dotnet-9/">BinaryFormatter removed from .NET 9</a> (8 points | 
+              no comments)<br>20. <a href="https://friendshipcastle.zip/blog/glaceon">How I learned to stop worrying and love userspace networking</a> (5 points | 
+              3 comments)<br>21. <a href="https://dgerrells.com/blog/can-you-convert-a-video-to-pure-css">Can you convert a video to pure css?</a> (6 points | 
+              no comments)<br>22. <a href="https://ibis-project.org/posts/farewell-pandas/">Farewell pandas, and thanks for all the fish</a> (4 points | 
+              2 comments)<br>23. <a href="https://www.baldurbjarnason.com/2024/the-slow-evaporation-of-the-foss-surplus/">The slow evaporation of the free/open source surplus</a> (34 points | 
+              30 comments)<br>24. <a href="https://blog.kowalczyk.info/a-9a1d/man-vs-ai-optimizing-javascript-claude-cursor.html">Man vs. AI: optimizing JavaScript</a> (2 points | 
+              no comments)<br>25. <a href="https://www.marcusfolkesson.se/blog/build-host-and-target-explained/">--build, --host and --target explained</a> (4 points | 
+              no comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Friday, August 30, 2024 at 1:05 AM UTC</guid></item></channel></rss>
