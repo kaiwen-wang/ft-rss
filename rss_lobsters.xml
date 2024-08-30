@@ -1,26 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Fri, 30 Aug 2024 11:13:51 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Friday, August 30, 2024 at 11:15 AM UTC]]></title><description><![CDATA[1. <a href="https://eieio.games/essays/the-secret-in-one-million-checkboxes/">The secret inside One Million Checkboxes</a> (68 points | 
-              6 comments)<br>2. <a href="https://vt.social/@lina/113045455229442533">A subset of C kernel developers just seem determined to make the lives of the Rust maintainers as difficult as possible</a> (11 points | 
-              8 comments)<br>3. <a href="https://lore.kernel.org/lkml/20240828211117.9422-1-wedsonaf@gmail.com/">Retiring from the Rust for Linux project</a> (114 points | 
-              153 comments)<br>4. <a href="https://www.elastic.co/blog/elasticsearch-is-open-source-again">Elasticsearch is open source, again</a> (24 points | 
-              16 comments)<br>5. <a href="https://calebporzio.com/i-just-cracked-1-million-on-github-sponsors-heres-my-playbook">I just crossed $1 million on GitHub Sponsors</a> (57 points | 
-              18 comments)<br>6. <a href="https://ian.sh/tsa">Bypassing airport security via SQL injection</a> (35 points | 
-              no comments)<br>7. <a href="https://savannah.gnu.org/news/?id=10668">GNU Screen v.5.0.0 is released</a> (21 points | 
-              10 comments)<br>8. <a href="https://www.haskellforall.com/2024/08/firewall-rules-not-as-secure-as-you.html">Firewall rules: not as secure as you think</a> (20 points | 
-              3 comments)<br>9. <a href="http://h2.jaguarpaw.co.uk/posts/ghc-8.10-9.6-experience-report/">Upgrading from GHC 8.10 to GHC 9.6 – An experience report</a> (5 points | 
-              no comments)<br>10. <a href="https://github.com/aziis98/mup">mup: A micro web file uploader to easily share files over LAN</a> (13 points | 
-              11 comments)<br>11. <a href="https://github.com/coder/wush">wush - p2p wireguard file transfers, shells, and more</a> (13 points | 
-              no comments)<br>12. <a href="https://justin.searls.co/links/2024-08-29-why-playwright-is-less-flaky-than-selenium/">Why Playwright is less flaky than Selenium</a> (11 points | 
-              2 comments)<br>13. <a href="https://www.dreamsongs.com/ObjectsHaveNotFailedNarr.html">Objects Have Not Failed (2002)</a> (18 points | 
-              29 comments)<br>14. <a href="https://digitalpreservation-blog.nb.no/blog/2024-08-28-rearchiving-2-million-hours-of-digital-radio/">Rearchiving 2 million hours of digital radio, a comprehensive process</a> (2 points | 
-              no comments)<br>15. <a href="https://mbuffett.com/posts/rust-2030/">The 2030 Rust Update</a> (30 points | 
-              2 comments)<br>16. <a href="https://x86.lol/generic/2024/08/28/systemd-sysupdate.html">Immutable Systems: NixOS + systemd-repart + systemd-sysupdate</a> (26 points | 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Fri, 30 Aug 2024 12:28:08 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Friday, August 30, 2024 at 12:30 PM UTC]]></title><description><![CDATA[1. <a href="https://vt.social/@lina/113045455229442533">A subset of C kernel developers just seem determined to make the lives of the Rust maintainers as difficult as possible</a> (19 points | 
+              11 comments)<br>2. <a href="https://eieio.games/essays/the-secret-in-one-million-checkboxes/">The secret inside One Million Checkboxes</a> (72 points | 
+              6 comments)<br>3. <a href="https://lore.kernel.org/lkml/20240828211117.9422-1-wedsonaf@gmail.com/">Retiring from the Rust for Linux project</a> (120 points | 
+              158 comments)<br>4. <a href="https://www.elastic.co/blog/elasticsearch-is-open-source-again">Elasticsearch is open source, again</a> (25 points | 
+              16 comments)<br>5. <a href="https://calebporzio.com/i-just-cracked-1-million-on-github-sponsors-heres-my-playbook">I just crossed $1 million on GitHub Sponsors</a> (58 points | 
+              18 comments)<br>6. <a href="https://ian.sh/tsa">Bypassing airport security via SQL injection</a> (41 points | 
+              no comments)<br>7. <a href="https://savannah.gnu.org/news/?id=10668">GNU Screen v.5.0.0 is released</a> (22 points | 
+              10 comments)<br>8. <a href="http://h2.jaguarpaw.co.uk/posts/ghc-8.10-9.6-experience-report/">Upgrading from GHC 8.10 to GHC 9.6 – An experience report</a> (6 points | 
+              no comments)<br>9. <a href="https://www.haskellforall.com/2024/08/firewall-rules-not-as-secure-as-you.html">Firewall rules: not as secure as you think</a> (20 points | 
+              3 comments)<br>10. <a href="https://github.com/aziis98/mup">mup: A micro web file uploader to easily share files over LAN</a> (13 points | 
+              11 comments)<br>11. <a href="https://digitalpreservation-blog.nb.no/blog/2024-08-28-rearchiving-2-million-hours-of-digital-radio/">Rearchiving 2 million hours of digital radio, a comprehensive process</a> (3 points | 
+              no comments)<br>12. <a href="https://github.com/coder/wush">wush - p2p wireguard file transfers, shells, and more</a> (13 points | 
+              no comments)<br>13. <a href="https://justin.searls.co/links/2024-08-29-why-playwright-is-less-flaky-than-selenium/">Why Playwright is less flaky than Selenium</a> (11 points | 
+              2 comments)<br>14. <a href="https://www.dreamsongs.com/ObjectsHaveNotFailedNarr.html">Objects Have Not Failed (2002)</a> (18 points | 
+              34 comments)<br>15. <a href="https://mbuffett.com/posts/rust-2030/">The 2030 Rust Update</a> (31 points | 
+              3 comments)<br>16. <a href="https://x86.lol/generic/2024/08/28/systemd-sysupdate.html">Immutable Systems: NixOS + systemd-repart + systemd-sysupdate</a> (26 points | 
               10 comments)<br>17. <a href="https://soatok.blog/2024/08/28/introducing-alacrity-to-federated-cryptography/">Introducing Alacrity to Federated Cryptography</a> (26 points | 
               6 comments)<br>18. <a href="https://blog.kowalczyk.info/a-9a1d/man-vs-ai-optimizing-javascript-claude-cursor.html">Man vs. AI: optimizing JavaScript</a> (6 points | 
-              2 comments)<br>19. <a href="https://www.patrick-breyer.de/en/posts/chat-control/">Chat Control: The EU's CSEM scanner proposal</a> (13 points | 
-              5 comments)<br>20. <a href="https://lp.jetbrains.com/python-developers-survey-2023/">Python Developers Survey 2023 Results</a> (6 points | 
-              no comments)<br>21. <a href="https://clickhouse.com/blog/chdb-pandas-dataframes-87x-faster">How we made querying Pandas DataFrames with chDB 87x faster</a> (1 points | 
-              no comments)<br>22. <a href="https://btxx.org/posts/useless-key/">"This Key is Useless Now. Discard?"</a> (42 points | 
-              27 comments)<br>23. <a href="https://www.youtube.com/watch?v=uRbqLGj_6mI">Delimited Continuations are all you need</a> (1 points | 
-              no comments)<br>24. <a href="https://victoriametrics.com/blog/go-sync-pool/">Go sync.Pool and the Mechanics Behind It</a> (11 points | 
-              no comments)<br>25. <a href="https://dgerrells.com/blog/can-you-convert-a-video-to-pure-css">Can you convert a video to pure css?</a> (9 points | 
-              no comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Friday, August 30, 2024 at 11:15 AM UTC</guid></item></channel></rss>
+              2 comments)<br>19. <a href="https://blog.fadyothman.com/meta-bug-bounty-fuzzing-netconsd-for-fun-and-profit-part-1-6ffe96eb1419">Meta Bug Bounty — Fuzzing “netconsd” for fun and profit</a> (1 points | 
+              no comments)<br>20. <a href="https://www.patrick-breyer.de/en/posts/chat-control/">Chat Control: The EU's CSEM scanner proposal</a> (13 points | 
+              5 comments)<br>21. <a href="https://lp.jetbrains.com/python-developers-survey-2023/">Python Developers Survey 2023 Results</a> (6 points | 
+              no comments)<br>22. <a href="https://jonathancarter.org/2024/08/29/orphaning-bcachefs-tools-in-debian/">Orphaning bcachefs-tools in Debian</a> (6 points | 
+              2 comments)<br>23. <a href="https://clickhouse.com/blog/chdb-pandas-dataframes-87x-faster">How we made querying Pandas DataFrames with chDB 87x faster</a> (1 points | 
+              no comments)<br>24. <a href="https://btxx.org/posts/useless-key/">"This Key is Useless Now. Discard?"</a> (42 points | 
+              27 comments)<br>25. <a href="https://victoriametrics.com/blog/go-sync-pool/">Go sync.Pool and the Mechanics Behind It</a> (11 points | 
+              1 comment)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Friday, August 30, 2024 at 12:30 PM UTC</guid></item></channel></rss>
