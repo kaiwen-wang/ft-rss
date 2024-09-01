@@ -1,26 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Sun, 01 Sep 2024 01:18:29 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Sunday, September 1, 2024 at 1:20 AM UTC]]></title><description><![CDATA[1. <a href="https://cheriot.org/cheri/myths/2024/08/28/cheri-myths-safe-languages.html">CHERI Myths: I don’t need CHERI if I have safe languages</a> (18 points | 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Sun, 01 Sep 2024 02:51:03 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Sunday, September 1, 2024 at 2:50 AM UTC]]></title><description><![CDATA[1. <a href="https://cheriot.org/cheri/myths/2024/08/28/cheri-myths-safe-languages.html">CHERI Myths: I don’t need CHERI if I have safe languages</a> (18 points | 
               38 comments)<br>2. <a href="https://linderud.dev/blog/ssh-ca-with-device-and-identity-attestation-ssh-tpm-ca-authority/">SSH CA with device and identity attestation: ssh-tpm-ca-authority</a> (10 points | 
-              3 comments)<br>3. <a href="https://servo.org/blog/2024/08/31/this-month-in-servo/">This month in Servo: tabbed browsing, Windows buffs, devtools, and more</a> (49 points | 
-              3 comments)<br>4. <a href="https://tailscale.com/blog/heart-of-dark-mode">Heart of dark mode: done, and still in progress</a> (9 points | 
-              1 comment)<br>5. <a href="https://trifectatech.org/blog/current-zlib-rs-performance/">Current zlib-rs performance</a> (23 points | 
-              6 comments)<br>6. <a href="https://www.alogoulogoi.com/post/2024/lesser-known-operators-in-cs.html">Lesser-known operators in C#</a> (5 points | 
-              no comments)<br>7. <a href="https://www.anandtech.com/show/21542/end-of-the-road-an-anandtech-farewell">End of the Road: An AnandTech Farewell</a> (98 points | 
+              3 comments)<br>3. <a href="https://servo.org/blog/2024/08/31/this-month-in-servo/">This month in Servo: tabbed browsing, Windows buffs, devtools, and more</a> (50 points | 
+              5 comments)<br>4. <a href="https://www.alogoulogoi.com/post/2024/lesser-known-operators-in-cs.html">Lesser-known operators in C#</a> (7 points | 
+              no comments)<br>5. <a href="https://tailscale.com/blog/heart-of-dark-mode">Heart of dark mode: done, and still in progress</a> (9 points | 
+              1 comment)<br>6. <a href="https://trifectatech.org/blog/current-zlib-rs-performance/">Current zlib-rs performance</a> (23 points | 
+              6 comments)<br>7. <a href="https://www.anandtech.com/show/21542/end-of-the-road-an-anandtech-farewell">End of the Road: An AnandTech Farewell</a> (99 points | 
               9 comments)<br>8. <a href="https://two-wrongs.com/bubble-sort-is-not-robust-either">Bubble Sort Is Not Robust Either</a> (20 points | 
               4 comments)<br>9. <a href="https://vitaut.net/posts/2024/binary-size/">Honey, I shrunk {fmt}: bringing binary size to 14k and ditching the C++ runtime</a> (23 points | 
               2 comments)<br>10. <a href="https://ewritable.com/ereaders/boox-palma/review/">Boox Palma Review: A Phone-Sized E-Ink Android Device that isn’t a Phone</a> (1 points | 
               2 comments)<br>11. <a href="https://agj.bearblog.dev/ruby-shebang-behavior/">Ruby shebang behavior</a> (29 points | 
-              11 comments)<br>12. <a href="https://archive.org/details/symbolics-s-geometry-manual">Symbolics S-Geometry manual (1988)</a> (5 points | 
-              no comments)<br>13. <a href="https://olano.dev/blog/my-software-bookshelf/">My Software Bookshelf</a> (17 points | 
-              3 comments)<br>14. <a href="https://dotat.at/@/2024-08-30-gcra.html">GCRA: leaky buckets without the buckets</a> (17 points | 
-              11 comments)<br>15. <a href="https://hurl.dev/blog/2024/08/29/hurl-5.0.0-the-parallel-edition.html">Hurl 5.0.0, the Parallel Edition</a> (37 points | 
-              10 comments)<br>16. <a href="http://ciel-lang.org/">CIEL Is an Extended Lisp</a> (23 points | 
-              18 comments)<br>17. <a href="https://www.jonathanychan.com/blog/llms-struggle-to-explain-themselves/">LLMs struggle to explain themselves</a> (11 points | 
-              23 comments)<br>18. <a href="https://github.com/coder/aicommit">aicommit: become the world's laziest committer</a> (7 points | 
-              1 comment)<br>19. <a href="https://www.youtube.com/watch?v=YzIiUjgnSsA">How to write a programming language and shell in Go with 92% test coverage and instant CI/CD</a> (13 points | 
-              1 comment)<br>20. <a href="https://eieio.games/essays/the-secret-in-one-million-checkboxes/">The secret inside One Million Checkboxes</a> (126 points | 
-              12 comments)<br>21. <a href="https://philpearl.github.io/post/dumb_ways_to_die_random_pointers/">Crash the GC with Random Values in unsafe.Pointers</a> (8 points | 
-              2 comments)<br>22. <a href="https://sled.rs/apis.html">Writing APIs in Rust (2022)</a> (13 points | 
-              1 comment)<br>23. <a href="https://www.youtube.com/watch?v=VSDmkwHWpfA">Think Parallel</a> (3 points | 
-              no comments)<br>24. <a href="/s/6kwid6/what_are_you_doing_this_weekend">What are you doing this weekend?</a> (12 points | 
-              30 comments)<br>25. <a href="https://keymaterial.net/2024/08/30/pqc-for-non-cryptographers/">Post Quantum Cryptography for non-cryptographers</a> (4 points | 
-              no comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Sunday, September 1, 2024 at 1:20 AM UTC</guid></item></channel></rss>
+              11 comments)<br>12. <a href="https://pliutau.com/my-first-experience-with-gleam-lang/">My first experience with Gleam Language</a> (1 points | 
+              no comments)<br>13. <a href="https://archive.org/details/symbolics-s-geometry-manual">Symbolics S-Geometry manual (1988)</a> (5 points | 
+              no comments)<br>14. <a href="https://olano.dev/blog/my-software-bookshelf/">My Software Bookshelf</a> (18 points | 
+              3 comments)<br>15. <a href="https://dotat.at/@/2024-08-30-gcra.html">GCRA: leaky buckets without the buckets</a> (17 points | 
+              11 comments)<br>16. <a href="https://hurl.dev/blog/2024/08/29/hurl-5.0.0-the-parallel-edition.html">Hurl 5.0.0, the Parallel Edition</a> (37 points | 
+              10 comments)<br>17. <a href="https://www.jonathanychan.com/blog/llms-struggle-to-explain-themselves/">LLMs struggle to explain themselves</a> (12 points | 
+              24 comments)<br>18. <a href="http://ciel-lang.org/">CIEL Is an Extended Lisp</a> (23 points | 
+              18 comments)<br>19. <a href="https://github.com/coder/aicommit">aicommit: become the world's laziest committer</a> (7 points | 
+              1 comment)<br>20. <a href="https://www.youtube.com/watch?v=YzIiUjgnSsA">How to write a programming language and shell in Go with 92% test coverage and instant CI/CD</a> (13 points | 
+              1 comment)<br>21. <a href="https://eieio.games/essays/the-secret-in-one-million-checkboxes/">The secret inside One Million Checkboxes</a> (126 points | 
+              12 comments)<br>22. <a href="https://sled.rs/apis.html">Writing APIs in Rust (2022)</a> (14 points | 
+              1 comment)<br>23. <a href="https://philpearl.github.io/post/dumb_ways_to_die_random_pointers/">Crash the GC with Random Values in unsafe.Pointers</a> (8 points | 
+              2 comments)<br>24. <a href="https://www.youtube.com/watch?v=VSDmkwHWpfA">Think Parallel</a> (3 points | 
+              no comments)<br>25. <a href="/s/6kwid6/what_are_you_doing_this_weekend">What are you doing this weekend?</a> (12 points | 
+              30 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Sunday, September 1, 2024 at 2:50 AM UTC</guid></item></channel></rss>
