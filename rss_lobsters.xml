@@ -1,26 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Sat, 07 Sep 2024 08:17:17 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Saturday, September 7, 2024 at 8:15 AM UTC]]></title><description><![CDATA[1. <a href="https://yorickpeterse.com/articles/asynchronous-io-the-next-billion-dollar-mistake/">Asynchronous IO: the next billion-dollar mistake?</a> (27 points | 
-              50 comments)<br>2. <a href="https://spritely.institute/news/guile-hoot-v050-released.html">Guile Hoot v0.5.0 released</a> (22 points | 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Sat, 07 Sep 2024 09:14:12 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Saturday, September 7, 2024 at 9:15 AM UTC]]></title><description><![CDATA[1. <a href="https://yorickpeterse.com/articles/asynchronous-io-the-next-billion-dollar-mistake/">Asynchronous IO: the next billion-dollar mistake?</a> (30 points | 
+              56 comments)<br>2. <a href="https://spritely.institute/news/guile-hoot-v050-released.html">Guile Hoot v0.5.0 released</a> (22 points | 
               no comments)<br>3. <a href="https://mailman.nginx.org/pipermail/nginx-announce/2024/ITL3AOQSAJANFJXMM3VOVOIGOUADWFFK.html">Nginx Has Moved to GitHub</a> (20 points | 
-              28 comments)<br>4. <a href="http://red-green-blue.com/kid-pix-the-early-years">Kid Pix - The Early Years</a> (32 points | 
-              no comments)<br>5. <a href="https://jpmens.net/2024/09/04/the-dot-in-domain-names/">The dot in domain names</a> (5 points | 
-              no comments)<br>6. <a href="https://d3ward.github.io/toolz/adblock">Test Ad Block</a> (20 points | 
-              6 comments)<br>7. <a href="https://blog.rust-lang.org/2024/09/05/impl-trait-capture-rules.html">Changes to `impl Trait` in Rust 2024</a> (4 points | 
-              no comments)<br>8. <a href="https://popey.com/blog/2024/09/windows-3.11-on-qemu-5.2.0/">Windows 3.11 on QEMU 5.2.0</a> (10 points | 
-              8 comments)<br>9. <a href="https://groups.google.com/a/mozilla.org/g/dev-platform/c/vU9hJg343U8/m/4cZsHz7TAQAJ">Intent to unship: HTTP/2 Push</a> (24 points | 
-              7 comments)<br>10. <a href="https://www.hereandthere.club/post/all-maps-are-wrong">All maps are wrong</a> (4 points | 
-              2 comments)<br>11. <a href="https://matklad.github.io/2024/09/06/fix-one-level-deeper.html">Try to Fix It One Level Deeper</a> (6 points | 
+              30 comments)<br>4. <a href="https://blog.rust-lang.org/2024/09/05/impl-trait-capture-rules.html">Changes to `impl Trait` in Rust 2024</a> (6 points | 
+              no comments)<br>5. <a href="http://red-green-blue.com/kid-pix-the-early-years">Kid Pix - The Early Years</a> (32 points | 
+              no comments)<br>6. <a href="https://www.hereandthere.club/post/all-maps-are-wrong">All maps are wrong</a> (6 points | 
+              3 comments)<br>7. <a href="https://jpmens.net/2024/09/04/the-dot-in-domain-names/">The dot in domain names</a> (5 points | 
+              no comments)<br>8. <a href="https://d3ward.github.io/toolz/adblock">Test Ad Block</a> (20 points | 
+              6 comments)<br>9. <a href="https://popey.com/blog/2024/09/windows-3.11-on-qemu-5.2.0/">Windows 3.11 on QEMU 5.2.0</a> (10 points | 
+              8 comments)<br>10. <a href="https://groups.google.com/a/mozilla.org/g/dev-platform/c/vU9hJg343U8/m/4cZsHz7TAQAJ">Intent to unship: HTTP/2 Push</a> (24 points | 
+              7 comments)<br>11. <a href="https://matklad.github.io/2024/09/06/fix-one-level-deeper.html">Try to Fix It One Level Deeper</a> (6 points | 
               no comments)<br>12. <a href="https://github.com/zdimension/macro-forth">macro-forth: Forth implemented in compile-time rust macros</a> (8 points | 
               1 comment)<br>13. <a href="https://blog.orhun.dev/livestreaming/">Why I started livestreaming as a Rust developer?</a> (5 points | 
               no comments)<br>14. <a href="https://www.raspberrypi.com/news/rust-on-rp2350/">Rust on RP2350</a> (14 points | 
               2 comments)<br>15. <a href="https://wiki.qt.io/QtCS2024_Compile_once._Run_everywhere">QtCS2024 Compile once. Run everywhere (Qt via Cosmopolitan libc)</a> (1 points | 
               1 comment)<br>16. <a href="/s/dn4onw/what_are_you_doing_this_weekend">What are you doing this weekend?</a> (11 points | 
-              23 comments)<br>17. <a href="http://ratfactor.com/mnt-pocket-reform/first">MNT Pocket Reform - Unboxing and First Impressions</a> (2 points | 
-              no comments)<br>18. <a href="https://mariusbancila.ro/blog/2024/09/06/whats-new-in-c26-part-1/">What’s new in C++26 (part 1)</a> (1 points | 
-              1 comment)<br>19. <a href="https://blog.trailofbits.com/2024/09/06/unstripping-binaries-restoring-debugging-information-in-gdb-with-pwndbg/">“Unstripping” binaries: Restoring debugging information in GDB with Pwndbg</a> (6 points | 
-              no comments)<br>20. <a href="https://stack-auth.com/blog/oauth-from-first-principles">OAuth from First Principles</a> (3 points | 
-              no comments)<br>21. <a href="https://catfox.life/2024/09/05/porting-systemd-to-musl-libc-powered-linux/">Porting systemd to musl libc-powered Linux</a> (76 points | 
-              28 comments)<br>22. <a href="https://felipefarinon.com/articles/qt-widgets-layout/">Understanding the Layout Process in Qt Widgets</a> (1 points | 
-              no comments)<br>23. <a href="http://blog.namangoel.com/swift-is-the-more-convenient-rust">Swift is a more convenient Rust</a> (33 points | 
-              47 comments)<br>24. <a href="https://youtube.com/watch?v=vohvFpjNBz8">Customizing the NYT Games App for my Wedding</a> (2 points | 
-              2 comments)<br>25. <a href="https://www.gridbugs.org/frustrating-interactions-with-the-ocaml-ecosystem-while-developing-a-synthesizer-library/">Frustrating interactions with the OCaml ecosystem while developing a synthesizer library</a> (17 points | 
-              7 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Saturday, September 7, 2024 at 8:15 AM UTC</guid></item></channel></rss>
+              23 comments)<br>17. <a href="https://daviddrury.substack.com/p/most-interesting-machine">Most Interesting Machine</a> (1 points | 
+              no comments)<br>18. <a href="http://ratfactor.com/mnt-pocket-reform/first">MNT Pocket Reform - Unboxing and First Impressions</a> (2 points | 
+              no comments)<br>19. <a href="https://mariusbancila.ro/blog/2024/09/06/whats-new-in-c26-part-1/">What’s new in C++26 (part 1)</a> (1 points | 
+              1 comment)<br>20. <a href="https://blog.trailofbits.com/2024/09/06/unstripping-binaries-restoring-debugging-information-in-gdb-with-pwndbg/">“Unstripping” binaries: Restoring debugging information in GDB with Pwndbg</a> (6 points | 
+              no comments)<br>21. <a href="https://stack-auth.com/blog/oauth-from-first-principles">OAuth from First Principles</a> (3 points | 
+              no comments)<br>22. <a href="https://catfox.life/2024/09/05/porting-systemd-to-musl-libc-powered-linux/">Porting systemd to musl libc-powered Linux</a> (78 points | 
+              29 comments)<br>23. <a href="https://felipefarinon.com/articles/qt-widgets-layout/">Understanding the Layout Process in Qt Widgets</a> (1 points | 
+              no comments)<br>24. <a href="http://blog.namangoel.com/swift-is-the-more-convenient-rust">Swift is a more convenient Rust</a> (33 points | 
+              47 comments)<br>25. <a href="https://youtube.com/watch?v=vohvFpjNBz8">Customizing the NYT Games App for my Wedding</a> (2 points | 
+              2 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Saturday, September 7, 2024 at 9:15 AM UTC</guid></item></channel></rss>
