@@ -1,18 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Mon, 09 Sep 2024 05:15:33 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Monday, September 9, 2024 at 5:15 AM UTC]]></title><description><![CDATA[1. <a href="https://github.com/teknoraver/car">CAR: Copy-on-write Archive</a> (33 points | 
-              12 comments)<br>2. <a href="https://stoddart.github.io/2024/09/08/managing-dotfiles-with-chezmoi.html">Managing dotfiles with chezmoi</a> (15 points | 
-              11 comments)<br>3. <a href="https://bernsteinbear.com/blog/fenster-microui/">microui+fenster=small gui</a> (35 points | 
-              1 comment)<br>4. <a href="https://mxb.dev/blog/buildless/">Going Buildless</a> (21 points | 
-              17 comments)<br>5. <a href="https://trace.yshui.dev/2024-09-fuzzing.html">Fuzzing an X compositor</a> (24 points | 
-              6 comments)<br>6. <a href="https://hackaday.com/2024/09/04/the-worsening-raspberry-pi-rp2350-e9-erratum-situation/">The worsening Raspberry Pi RP2350 E9 erratum situation</a> (22 points | 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Mon, 09 Sep 2024 06:22:59 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Monday, September 9, 2024 at 6:20 AM UTC]]></title><description><![CDATA[1. <a href="https://github.com/teknoraver/car">CAR: Copy-on-write Archive</a> (34 points | 
+              13 comments)<br>2. <a href="https://stoddart.github.io/2024/09/08/managing-dotfiles-with-chezmoi.html">Managing dotfiles with chezmoi</a> (17 points | 
+              13 comments)<br>3. <a href="https://bernsteinbear.com/blog/fenster-microui/">microui+fenster=small gui</a> (35 points | 
+              1 comment)<br>4. <a href="https://mxb.dev/blog/buildless/">Going Buildless</a> (22 points | 
+              19 comments)<br>5. <a href="https://trace.yshui.dev/2024-09-fuzzing.html">Fuzzing an X compositor</a> (24 points | 
+              6 comments)<br>6. <a href="https://hackaday.com/2024/09/04/the-worsening-raspberry-pi-rp2350-e9-erratum-situation/">The worsening Raspberry Pi RP2350 E9 erratum situation</a> (23 points | 
               4 comments)<br>7. <a href="https://github.com/twolodzko/prolog-rs">prolog-rs: Minimal Prolog implemented in Rust</a> (15 points | 
               no comments)<br>8. <a href="https://purplesyringa.moe/blog/webp-the-webpage-compression-format/">WebP: The WebPage compression format</a> (82 points | 
               13 comments)<br>9. <a href="https://www.youtube.com/watch?v=KOZcJwGdQok">Data-Oriented Design Revisited: Type Safety in the Zig Compiler</a> (4 points | 
               no comments)<br>10. <a href="https://tookmund.com/2024/09/hibernation-preparation">Linux's bedtime routine</a> (3 points | 
               no comments)<br>11. <a href="https://www.datagubbe.se/gnomefiles/">Gnome Files: A detailed UI examination</a> (29 points | 
-              14 comments)<br>12. <a href="https://thecodingtrain.com/tracks/coding-together-apple-ii">Coding Together on the Apple II+ (2022)</a> (2 points | 
-              no comments)<br>13. <a href="https://conspirator0.substack.com/p/baiting-the-bot">Baiting the bot</a> (7 points | 
-              2 comments)<br>14. <a href="https://github.com/tchoutri/confer">confer: The symbolic links manager for your configuration files</a> (6 points | 
-              no comments)<br>15. <a href="https://twdev.blog/2024/09/cpp_pkgmng3/">The state of C++ package management: The build systems</a> (15 points | 
+              14 comments)<br>12. <a href="https://github.com/tchoutri/confer">confer: The symbolic links manager for your configuration files</a> (7 points | 
+              no comments)<br>13. <a href="https://thecodingtrain.com/tracks/coding-together-apple-ii">Coding Together on the Apple II+ (2022)</a> (2 points | 
+              no comments)<br>14. <a href="https://conspirator0.substack.com/p/baiting-the-bot">Baiting the bot</a> (7 points | 
+              2 comments)<br>15. <a href="https://twdev.blog/2024/09/cpp_pkgmng3/">The state of C++ package management: The build systems</a> (15 points | 
               4 comments)<br>16. <a href="https://chipsandcheese.com/2024/09/08/telum-ii-at-hot-chips-2024-mainframe-with-a-unique-caching-strategy/">Telum II at Hot Chips 2024: Mainframe with a Unique Caching Strategy</a> (1 points | 
               no comments)<br>17. <a href="https://github.com/josephburnett/jd">jd: JSON diff and patch</a> (1 points | 
               no comments)<br>18. <a href="https://matvp91.github.io/mixwave/">Open-source streaming API from ingest to player</a> (3 points | 
@@ -23,4 +23,4 @@
               1 comment)<br>23. <a href="https://www.navytimes.com/news/your-navy/2024/09/03/how-navy-chiefs-conspired-to-get-themselves-illegal-warship-wi-fi/">Navy chiefs conspired to get themselves illegal warship Wi-Fi</a> (32 points | 
               19 comments)<br>24. <a href="https://retrododo.com/xavixport-motion-control-console/">XaviXport: The Console Nintendo Copied To Create The Wii</a> (2 points | 
               1 comment)<br>25. <a href="https://blog.jgc.org/2024/09/cracking-old-zip-file-to-help-open.html">Cracking an old ZIP file to help open source the ANC's "Operation Vula" secret crypto code</a> (21 points | 
-              1 comment)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Monday, September 9, 2024 at 5:15 AM UTC</guid></item></channel></rss>
+              1 comment)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Monday, September 9, 2024 at 6:20 AM UTC</guid></item></channel></rss>
