@@ -1,26 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Mon, 09 Sep 2024 15:15:33 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Monday, September 9, 2024 at 3:15 PM UTC]]></title><description><![CDATA[1. <a href="https://coredumped.dev/2024/09/09/what-is-the-best-pointer-tagging-method/">What is the best pointer tagging method?</a> (10 points | 
-              1 comment)<br>2. <a href="https://dl.acm.org/doi/10.1145/3589334.3645323">QUIC is not Quick Enough over Fast Internet</a> (21 points | 
-              6 comments)<br>3. <a href="https://blog.spiraldb.com/compressing-strings-with-fsst/">Random access string compression with FSST and Rust</a> (6 points | 
-              no comments)<br>4. <a href="https://reclaim-the-stack.com/">Reclaim the stack: an Heroku replacement</a> (11 points | 
-              5 comments)<br>5. <a href="https://github.com/teknoraver/car">CAR: Copy-on-write Archive</a> (46 points | 
-              26 comments)<br>6. <a href="/s/jqfp5d/what_are_you_doing_this_week">What are you doing this week?</a> (7 points | 
-              5 comments)<br>7. <a href="https://stoddart.github.io/2024/09/08/managing-dotfiles-with-chezmoi.html">Managing dotfiles with chezmoi</a> (27 points | 
-              15 comments)<br>8. <a href="https://unix.foo/posts/insecurity-of-debian/">The Insecurity of Debian</a> (4 points | 
-              5 comments)<br>9. <a href="https://medium.com/@zhen8838/explore-amx-instructions-unlock-the-performance-of-apple-silicon-e0276a293aec">Explore AMX instructions: Unlock the performance of Apple Silicon</a> (5 points | 
-              3 comments)<br>10. <a href="http://utils.foo">Client-side, ad-free dev utils (encoder/decoder, json format/minify, pivot, time convertor, diffs, QR generator, etc.)</a> (2 points | 
-              1 comment)<br>11. <a href="https://www.apple.com/apple-events/">Apple Event for September 9th, 2024</a> (5 points | 
-              1 comment)<br>12. <a href="https://tookmund.com/2024/09/hibernation-preparation">Linux's bedtime routine</a> (12 points | 
-              2 comments)<br>13. <a href="https://bernsteinbear.com/blog/fenster-microui/">microui+fenster=small gui</a> (46 points | 
-              3 comments)<br>14. <a href="https://github.com/josephburnett/jd">jd: JSON diff and patch</a> (8 points | 
-              1 comment)<br>15. <a href="https://chipsandcheese.com/2024/09/08/telum-ii-at-hot-chips-2024-mainframe-with-a-unique-caching-strategy/">Telum II at Hot Chips 2024: Mainframe with a Unique Caching Strategy</a> (7 points | 
-              no comments)<br>16. <a href="https://mxb.dev/blog/buildless/">Going Buildless</a> (28 points | 
-              23 comments)<br>17. <a href="https://github.com/zyedidia/eget">Easily install prebuilt binaries from GitHub</a> (4 points | 
-              no comments)<br>18. <a href="https://hackaday.com/2024/09/04/the-worsening-raspberry-pi-rp2350-e9-erratum-situation/">The worsening Raspberry Pi RP2350 E9 erratum situation</a> (26 points | 
-              6 comments)<br>19. <a href="https://www.youtube.com/watch?v=KOZcJwGdQok">Data-Oriented Design Revisited: Type Safety in the Zig Compiler</a> (7 points | 
-              1 comment)<br>20. <a href="https://trace.yshui.dev/2024-09-fuzzing.html">Fuzzing an X compositor</a> (28 points | 
-              7 comments)<br>21. <a href="https://github.com/twolodzko/prolog-rs">prolog-rs: Minimal Prolog implemented in Rust</a> (21 points | 
-              no comments)<br>22. <a href="https://philipwalton.com/articles/the-state-of-es5-on-the-web/">The State of ES5 on the Web</a> (5 points | 
-              2 comments)<br>23. <a href="https://www.redox-os.org/news/release-0.9.0/">Redox OS 0.9.0</a> (1 points | 
-              no comments)<br>24. <a href="https://carstein.github.io/fuzzing/2020/04/18/writing-simple-fuzzer-1.html">Build a simple fuzzer: Part 1</a> (2 points | 
-              1 comment)<br>25. <a href="https://www.os2museum.com/wp/os-2-2-11-smp-woes/">OS/2 2.11 SMP woes</a> (3 points | 
-              1 comment)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Monday, September 9, 2024 at 3:15 PM UTC</guid></item></channel></rss>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Mon, 09 Sep 2024 16:18:24 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Monday, September 9, 2024 at 4:20 PM UTC]]></title><description><![CDATA[1. <a href="https://coredumped.dev/2024/09/09/what-is-the-best-pointer-tagging-method/">What is the best pointer tagging method?</a> (19 points | 
+              7 comments)<br>2. <a href="https://blog.spiraldb.com/compressing-strings-with-fsst/">Random access string compression with FSST and Rust</a> (8 points | 
+              5 comments)<br>3. <a href="https://dl.acm.org/doi/10.1145/3589334.3645323">QUIC is not Quick Enough over Fast Internet</a> (27 points | 
+              8 comments)<br>4. <a href="https://www.redox-os.org/news/release-0.9.0/">Redox OS 0.9.0</a> (17 points | 
+              no comments)<br>5. <a href="https://reclaim-the-stack.com/">Reclaim the stack: an Heroku replacement</a> (12 points | 
+              5 comments)<br>6. <a href="https://github.com/teknoraver/car">CAR: Copy-on-write Archive</a> (46 points | 
+              26 comments)<br>7. <a href="https://unix.foo/posts/insecurity-of-debian/">The Insecurity of Debian</a> (6 points | 
+              8 comments)<br>8. <a href="/s/jqfp5d/what_are_you_doing_this_week">What are you doing this week?</a> (7 points | 
+              9 comments)<br>9. <a href="http://utils.foo">Client-side, ad-free dev utils (encoder/decoder, json format/minify, pivot, time convertor, diffs, QR generator, etc.)</a> (3 points | 
+              3 comments)<br>10. <a href="https://stoddart.github.io/2024/09/08/managing-dotfiles-with-chezmoi.html">Managing dotfiles with chezmoi</a> (28 points | 
+              16 comments)<br>11. <a href="https://medium.com/@zhen8838/explore-amx-instructions-unlock-the-performance-of-apple-silicon-e0276a293aec">Explore AMX instructions: Unlock the performance of Apple Silicon</a> (6 points | 
+              4 comments)<br>12. <a href="https://www.apple.com/apple-events/">Apple Event for September 9th, 2024</a> (7 points | 
+              1 comment)<br>13. <a href="https://tookmund.com/2024/09/hibernation-preparation">Linux's bedtime routine</a> (14 points | 
+              2 comments)<br>14. <a href="https://tinkering.xyz/proctrace/">proctrace - a high level profiler for process lifecycle events</a> (1 points | 
+              no comments)<br>15. <a href="https://github.com/josephburnett/jd">jd: JSON diff and patch</a> (9 points | 
+              1 comment)<br>16. <a href="https://bernsteinbear.com/blog/fenster-microui/">microui+fenster=small gui</a> (47 points | 
+              3 comments)<br>17. <a href="https://github.com/zyedidia/eget">Easily install prebuilt binaries from GitHub</a> (5 points | 
+              no comments)<br>18. <a href="https://philipwalton.com/articles/the-state-of-es5-on-the-web/">The State of ES5 on the Web</a> (6 points | 
+              3 comments)<br>19. <a href="https://chipsandcheese.com/2024/09/08/telum-ii-at-hot-chips-2024-mainframe-with-a-unique-caching-strategy/">Telum II at Hot Chips 2024: Mainframe with a Unique Caching Strategy</a> (7 points | 
+              no comments)<br>20. <a href="https://mxb.dev/blog/buildless/">Going Buildless</a> (28 points | 
+              24 comments)<br>21. <a href="https://hackaday.com/2024/09/04/the-worsening-raspberry-pi-rp2350-e9-erratum-situation/">The worsening Raspberry Pi RP2350 E9 erratum situation</a> (26 points | 
+              6 comments)<br>22. <a href="https://www.youtube.com/watch?v=KOZcJwGdQok">Data-Oriented Design Revisited: Type Safety in the Zig Compiler</a> (7 points | 
+              1 comment)<br>23. <a href="https://trace.yshui.dev/2024-09-fuzzing.html">Fuzzing an X compositor</a> (28 points | 
+              7 comments)<br>24. <a href="https://github.com/twolodzko/prolog-rs">prolog-rs: Minimal Prolog implemented in Rust</a> (21 points | 
+              no comments)<br>25. <a href="https://blog.porucha.net/2024/pico-sdr/index.html">Pico SDR</a> (1 points | 
+              no comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Monday, September 9, 2024 at 4:20 PM UTC</guid></item></channel></rss>
