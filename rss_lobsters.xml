@@ -1,26 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Sun, 15 Sep 2024 18:19:42 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Sunday, September 15, 2024 at 6:20 PM UTC]]></title><description><![CDATA[1. <a href="https://bitfieldconsulting.com/posts/rust-errors-option-result">Rust error handling is perfect actually</a> (23 points | 
-              17 comments)<br>2. <a href="https://github.com/piqoni/cast-text">A fast full-text cli reader (works also with lobste.rs articles content)</a> (4 points | 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Sun, 15 Sep 2024 19:11:22 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Sunday, September 15, 2024 at 7:10 PM UTC]]></title><description><![CDATA[1. <a href="https://bitfieldconsulting.com/posts/rust-errors-option-result">Rust error handling is perfect actually</a> (23 points | 
+              17 comments)<br>2. <a href="https://github.com/piqoni/cast-text">A fast full-text cli reader (works also with lobste.rs articles content)</a> (6 points | 
               2 comments)<br>3. <a href="https://www.youtube.com/watch?v=42y2Q9io3Xs">Will we be writing Hare in 2099?</a> (14 points | 
-              2 comments)<br>4. <a href="https://danthegoodman.substack.com/p/notes-llms-dont-know-what-they-are">LLMs don't know what they are talking about</a> (2 points | 
-              4 comments)<br>5. <a href="https://juliobbv.com/avifhash.html">Tiny Thumbnail Hashes with AVIF</a> (26 points | 
-              10 comments)<br>6. <a href="https://wiki.xxiivv.com/site/fractran.html">Fractran</a> (16 points | 
-              4 comments)<br>7. <a href="https://lwn.net/Articles/990281/">Falsehoods programmers believe about TCP</a> (23 points | 
-              14 comments)<br>8. <a href="https://discourse.haskell.org/t/say-hello-to-blog-haskell-org/10355">Say hello to blog.haskell.org</a> (3 points | 
-              no comments)<br>9. <a href="https://youtu.be/ehp23hrrEHY">Turning Disposable Vapes into a Fast Charge Power Bank</a> (3 points | 
-              no comments)<br>10. <a href="/s/begr4l/how_hide_lobste_rs_submissions_include">How to hide lobste.rs submissions that include specific keywords with uBlock Origin</a> (15 points | 
-              3 comments)<br>11. <a href="https://github.com/NICUP14/MiniLang">MiniLang: A type-safe C successor</a> (1 points | 
-              no comments)<br>12. <a href="https://dockyard.com/blog/2024/09/09/liveview-native-is-here">LiveView Native Is Here</a> (22 points | 
+              3 comments)<br>4. <a href="https://youtu.be/ehp23hrrEHY">Turning Disposable Vapes into a Fast Charge Power Bank</a> (5 points | 
+              no comments)<br>5. <a href="https://danthegoodman.substack.com/p/notes-llms-dont-know-what-they-are">LLMs don't know what they are talking about</a> (2 points | 
+              5 comments)<br>6. <a href="https://github.com/NICUP14/MiniLang">MiniLang: A type-safe C successor</a> (1 points | 
+              1 comment)<br>7. <a href="https://discourse.haskell.org/t/say-hello-to-blog-haskell-org/10355">Say hello to blog.haskell.org</a> (4 points | 
+              no comments)<br>8. <a href="https://juliobbv.com/avifhash.html">Tiny Thumbnail Hashes with AVIF</a> (27 points | 
+              10 comments)<br>9. <a href="https://wiki.xxiivv.com/site/fractran.html">Fractran</a> (16 points | 
+              4 comments)<br>10. <a href="https://lwn.net/Articles/990281/">Falsehoods programmers believe about TCP</a> (24 points | 
+              14 comments)<br>11. <a href="/s/begr4l/how_hide_lobste_rs_submissions_include">How to hide lobste.rs submissions that include specific keywords with uBlock Origin</a> (16 points | 
+              4 comments)<br>12. <a href="https://dockyard.com/blog/2024/09/09/liveview-native-is-here">LiveView Native Is Here</a> (24 points | 
               9 comments)<br>13. <a href="https://www.youtube.com/watch?v=q8qn0dyT3xc">Oxidize Conference: How Rust makes Oxide possible</a> (18 points | 
               4 comments)<br>14. <a href="https://addisoncrump.info/research/fuzzers-and-gaming/">Fuzzers vs Games</a> (2 points | 
-              no comments)<br>15. <a href="https://louwrentius.com/my-71-tib-zfs-nas-after-10-years-and-zero-drive-failures.html">My 71 TiB ZFS NAS after 10 years and zero drive failures</a> (20 points | 
-              9 comments)<br>16. <a href="https://blog.yoshuawuyts.com/nesting-allocators/">Nesting Arena Allocators in Rust</a> (16 points | 
-              11 comments)<br>17. <a href="https://arxiv.org/abs/2409.05746">LLMs Will Always Hallucinate, and We Need to Live With This</a> (13 points | 
-              9 comments)<br>18. <a href="https://piccalil.li/blog/a-more-modern-css-reset/">A (more) Modern CSS Reset</a> (1 points | 
-              no comments)<br>19. <a href="https://github.com/satmihir/fair/">fair: A Go library for serving resources fairly</a> (6 points | 
-              no comments)<br>20. <a href="https://computer.rip/2024-09-08-private-lines.html">private lines</a> (1 points | 
-              no comments)<br>21. <a href="https://thechipletter.substack.com/p/at-and-ts-crisp-hobbits">AT&T’s CRISP Hobbits</a> (1 points | 
+              no comments)<br>15. <a href="https://louwrentius.com/my-71-tib-zfs-nas-after-10-years-and-zero-drive-failures.html">My 71 TiB ZFS NAS after 10 years and zero drive failures</a> (21 points | 
+              9 comments)<br>16. <a href="https://thechipletter.substack.com/p/at-and-ts-crisp-hobbits">AT&T’s CRISP Hobbits</a> (2 points | 
+              no comments)<br>17. <a href="https://blog.yoshuawuyts.com/nesting-allocators/">Nesting Arena Allocators in Rust</a> (16 points | 
+              11 comments)<br>18. <a href="https://arxiv.org/abs/2409.05746">LLMs Will Always Hallucinate, and We Need to Live With This</a> (13 points | 
+              9 comments)<br>19. <a href="https://piccalil.li/blog/a-more-modern-css-reset/">A (more) Modern CSS Reset</a> (1 points | 
+              no comments)<br>20. <a href="https://github.com/satmihir/fair/">fair: A Go library for serving resources fairly</a> (6 points | 
+              no comments)<br>21. <a href="https://computer.rip/2024-09-08-private-lines.html">private lines</a> (1 points | 
               no comments)<br>22. <a href="https://immich.app/cursed-knowledge/">Cursed Knowledge</a> (42 points | 
               2 comments)<br>23. <a href="https://www.youtube.com/watch?v=dF_9YcehCZo">Saving Voyager 1</a> (1 points | 
               no comments)<br>24. <a href="https://paper.wf/binarycat/inferred-implicit-parameters-for-ergonomic-object-capabilities">inferred implicit parameters for ergonomic object capabilities</a> (5 points | 
               4 comments)<br>25. <a href="https://www.oilshell.org/blog/2024/09/retrospective.html">A Retrospective on the Oils Project</a> (42 points | 
-              16 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Sunday, September 15, 2024 at 6:20 PM UTC</guid></item></channel></rss>
+              16 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Sunday, September 15, 2024 at 7:10 PM UTC</guid></item></channel></rss>
