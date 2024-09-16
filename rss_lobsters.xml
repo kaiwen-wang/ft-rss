@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Mon, 16 Sep 2024 02:51:23 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Monday, September 16, 2024 at 2:50 AM UTC]]></title><description><![CDATA[1. <a href="https://github.com/NICUP14/MiniLang">MiniLang: A type-safe C successor</a> (12 points | 
-              14 comments)<br>2. <a href="https://bitfieldconsulting.com/posts/rust-errors-option-result">Rust error handling is perfect actually</a> (30 points | 
-              25 comments)<br>3. <a href="https://www.youtube.com/watch?v=42y2Q9io3Xs">Will we be writing Hare in 2099?</a> (22 points | 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Mon, 16 Sep 2024 03:23:03 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Monday, September 16, 2024 at 3:25 AM UTC]]></title><description><![CDATA[1. <a href="https://github.com/NICUP14/MiniLang">MiniLang: A type-safe C successor</a> (12 points | 
+              14 comments)<br>2. <a href="https://bitfieldconsulting.com/posts/rust-errors-option-result">Rust error handling is perfect actually</a> (31 points | 
+              26 comments)<br>3. <a href="https://www.youtube.com/watch?v=42y2Q9io3Xs">Will we be writing Hare in 2099?</a> (23 points | 
               8 comments)<br>4. <a href="https://github.com/piqoni/cast-text">A fast full-text cli reader (works also with lobste.rs articles content)</a> (11 points | 
               2 comments)<br>5. <a href="https://www.projectgus.com/2024/09/18-months-with-framework-laptop/">18 Months with a Framework 13</a> (3 points | 
               2 comments)<br>6. <a href="https://piccalil.li/blog/a-more-modern-css-reset/">A (more) Modern CSS Reset</a> (14 points | 
@@ -9,10 +9,10 @@
               6 comments)<br>9. <a href="https://discourse.haskell.org/t/say-hello-to-blog-haskell-org/10355">Say hello to blog.haskell.org</a> (13 points | 
               no comments)<br>10. <a href="https://molily.de/something-went-wrong/">Something went wrong</a> (6 points | 
               no comments)<br>11. <a href="https://danthegoodman.substack.com/p/notes-llms-dont-know-what-they-are">LLMs don't know what they are talking about</a> (5 points | 
-              6 comments)<br>12. <a href="https://atlasgo.io/blog/2024/09/09/how-go-tests-go-test">How Go Tests "go test"</a> (4 points | 
-              no comments)<br>13. <a href="https://lwn.net/Articles/990307/">Linux 6.11 has been released</a> (2 points | 
-              no comments)<br>14. <a href="https://thechipletter.substack.com/p/at-and-ts-crisp-hobbits">AT&T’s CRISP Hobbits</a> (4 points | 
-              1 comment)<br>15. <a href="https://wiki.xxiivv.com/site/fractran.html">Fractran</a> (19 points | 
+              6 comments)<br>12. <a href="https://thechipletter.substack.com/p/at-and-ts-crisp-hobbits">AT&T’s CRISP Hobbits</a> (5 points | 
+              1 comment)<br>13. <a href="https://atlasgo.io/blog/2024/09/09/how-go-tests-go-test">How Go Tests "go test"</a> (4 points | 
+              no comments)<br>14. <a href="https://lwn.net/Articles/990307/">Linux 6.11 has been released</a> (2 points | 
+              no comments)<br>15. <a href="https://wiki.xxiivv.com/site/fractran.html">Fractran</a> (19 points | 
               4 comments)<br>16. <a href="https://www.youtube.com/watch?v=VWQB6HmqKig">Visiting Area 5150: Investigating a PC Demo</a> (1 points | 
               no comments)<br>17. <a href="/s/begr4l/how_hide_lobste_rs_submissions_include">How to hide lobste.rs submissions that include specific keywords with uBlock Origin</a> (21 points | 
               7 comments)<br>18. <a href="https://juliobbv.com/avifhash.html">Tiny Thumbnail Hashes with AVIF</a> (27 points | 
@@ -20,7 +20,7 @@
               no comments)<br>20. <a href="https://lwn.net/Articles/990281/">Falsehoods programmers believe about TCP</a> (25 points | 
               15 comments)<br>21. <a href="https://dockyard.com/blog/2024/09/09/liveview-native-is-here">LiveView Native Is Here</a> (25 points | 
               10 comments)<br>22. <a href="https://www.youtube.com/watch?v=q8qn0dyT3xc">Oxidize Conference: How Rust makes Oxide possible</a> (21 points | 
-              5 comments)<br>23. <a href="https://computer.rip/2024-09-08-private-lines.html">private lines</a> (2 points | 
-              no comments)<br>24. <a href="https://addisoncrump.info/research/fuzzers-and-gaming/">Fuzzers vs Games</a> (2 points | 
-              no comments)<br>25. <a href="https://louwrentius.com/my-71-tib-zfs-nas-after-10-years-and-zero-drive-failures.html">My 71 TiB ZFS NAS after 10 years and zero drive failures</a> (21 points | 
-              9 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Monday, September 16, 2024 at 2:50 AM UTC</guid></item></channel></rss>
+              5 comments)<br>23. <a href="https://www.youtube.com/watch?v=dF_9YcehCZo">Saving Voyager 1</a> (3 points | 
+              no comments)<br>24. <a href="https://computer.rip/2024-09-08-private-lines.html">private lines</a> (2 points | 
+              no comments)<br>25. <a href="https://addisoncrump.info/research/fuzzers-and-gaming/">Fuzzers vs Games</a> (2 points | 
+              no comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Monday, September 16, 2024 at 3:25 AM UTC</guid></item></channel></rss>
