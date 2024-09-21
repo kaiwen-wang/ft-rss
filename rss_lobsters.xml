@@ -1,26 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Sat, 21 Sep 2024 12:27:04 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Saturday, September 21, 2024 at 12:25 PM UTC]]></title><description><![CDATA[1. <a href="https://jmduke.com/posts/post/enums/">Always use an enum for your status field</a> (44 points | 
-              14 comments)<br>2. <a href="https://discord.com/blog/how-discord-reduced-websocket-traffic-by-40-percent">How Discord Reduced Websocket Traffic by 40%</a> (40 points | 
-              4 comments)<br>3. <a href="https://pliutau.com/my-first-experience-with-ocaml/">My first experience with OCaml</a> (29 points | 
-              18 comments)<br>4. <a href="https://kibty.town/blog/arc/">Gaining Access to Anyones Browser without Them Even Visiting a Website</a> (93 points | 
-              26 comments)<br>5. <a href="https://antithesis.com/blog/castlevania/">Crushing Castlevania with Antithesis</a> (26 points | 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Sat, 21 Sep 2024 13:18:01 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Saturday, September 21, 2024 at 1:20 PM UTC]]></title><description><![CDATA[1. <a href="https://jmduke.com/posts/post/enums/">Always use an enum for your status field</a> (47 points | 
+              15 comments)<br>2. <a href="https://discord.com/blog/how-discord-reduced-websocket-traffic-by-40-percent">How Discord Reduced Websocket Traffic by 40%</a> (43 points | 
+              5 comments)<br>3. <a href="https://kibty.town/blog/arc/">Gaining Access to Anyones Browser without Them Even Visiting a Website</a> (93 points | 
+              26 comments)<br>4. <a href="https://pliutau.com/my-first-experience-with-ocaml/">My first experience with OCaml</a> (29 points | 
+              19 comments)<br>5. <a href="https://antithesis.com/blog/castlevania/">Crushing Castlevania with Antithesis</a> (26 points | 
               11 comments)<br>6. <a href="https://dgaston.net/writing/alternative-hello-world/">Languages with Alternative "Hello World" Programs</a> (18 points | 
-              8 comments)<br>7. <a href="https://dmitry.gr/?r=05.Projects&proj=35.%20Linux4004">Linux/4004</a> (26 points | 
+              8 comments)<br>7. <a href="https://dmitry.gr/?r=05.Projects&proj=35.%20Linux4004">Linux/4004</a> (27 points | 
               3 comments)<br>8. <a href="https://duriansoftware.com/joe/the-lost-language-extensions-of-metaware's-high-c-compiler">The lost language extensions of MetaWare's High C Compiler</a> (3 points | 
               no comments)<br>9. <a href="https://lyra.horse/antonymph">Antonymph: an audiovisual web experience that uses your browser as the medium</a> (10 points | 
               6 comments)<br>10. <a href="https://element.io/blog/we-have-lift-off-element-x-call-and-server-suite-are-ready">Element X, Call and Server Suite are ready</a> (23 points | 
               9 comments)<br>11. <a href="https://www.zombiezen.com/blog/2024/09/zb-early-stage-build-system/">zb: An Early-Stage Build System</a> (48 points | 
               1 comment)<br>12. <a href="https://btxx.org/posts/git-auto-deploy/">Build and Deploy Websites Automatically with Git</a> (5 points | 
-              2 comments)<br>13. <a href="https://www.youtube.com/watch?v=ag2ykPO805M">Is It Time To Version Observability? (Charity Majors, 2024)</a> (1 points | 
-              no comments)<br>14. <a href="https://cheriot.org/rtos/errors/2024/09/20/error-handling.html">Improved error handling in CHERIoT RTOS</a> (8 points | 
-              5 comments)<br>15. <a href="https://lwn.net/Articles/990985/">The realtime preemption pull request</a> (19 points | 
+              2 comments)<br>13. <a href="https://cheriot.org/rtos/errors/2024/09/20/error-handling.html">Improved error handling in CHERIoT RTOS</a> (8 points | 
+              5 comments)<br>14. <a href="https://www.youtube.com/watch?v=ag2ykPO805M">Is It Time To Version Observability? (Charity Majors, 2024)</a> (1 points | 
+              no comments)<br>15. <a href="https://lwn.net/Articles/990985/">The realtime preemption pull request</a> (19 points | 
               no comments)<br>16. <a href="https://www.mistys-internet.website/blog/blog/2024/09/13/the-working-archivists-guide-to-enthusiast-cd-rom-archiving-tools/">The working archivist's guide to enthusiast CD-ROM archiving tools</a> (6 points | 
               no comments)<br>17. <a href="/s/mssorw/what_are_you_doing_this_weekend">What are you doing this weekend?</a> (8 points | 
               21 comments)<br>18. <a href="https://ncatlab.org/nlab/show/Conway%27s+law">Conway's law</a> (3 points | 
               no comments)<br>19. <a href="https://jensravens.com/e2e-encryption-with-rails/">End-to-End Encryption in Rails with Stimulus and OpenPGP</a> (2 points | 
               no comments)<br>20. <a href="https://lyra.horse/blog/2024/09/using-youtube-to-steal-your-files/">Using YouTube to steal your files</a> (135 points | 
               11 comments)<br>21. <a href="https://www.haiku-os.org/blog/waddlesplash/2024-09-17-haiku_activity_contract_report_august_2024/">Haiku Activity & Contract Report, August 2024</a> (8 points | 
-              1 comment)<br>22. <a href="https://www.youtube.com/watch?v=0bb3-bjgf88">Linus Torvalds: Speaks on the Rust vs C Linux Divide</a> (33 points | 
-              37 comments)<br>23. <a href="https://gleam.run/news/convenient-code-actions/">Convenient code actions – Gleam v1.5</a> (39 points | 
-              8 comments)<br>24. <a href="https://rundevelopment.github.io/blog/fast-unorm-conversions">Fast Unorm (unsigned normalized integer) Conversions</a> (9 points | 
-              1 comment)<br>25. <a href="https://macwright.com/2024/09/19/the-extra-rules-of-hooks">The unspoken rules of React hooks</a> (13 points | 
-              5 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Saturday, September 21, 2024 at 12:25 PM UTC</guid></item></channel></rss>
+              1 comment)<br>22. <a href="https://rundevelopment.github.io/blog/fast-unorm-conversions">Fast Unorm (unsigned normalized integer) Conversions</a> (9 points | 
+              1 comment)<br>23. <a href="https://www.youtube.com/watch?v=0bb3-bjgf88">Linus Torvalds: Speaks on the Rust vs C Linux Divide</a> (33 points | 
+              37 comments)<br>24. <a href="https://gleam.run/news/convenient-code-actions/">Convenient code actions – Gleam v1.5</a> (39 points | 
+              8 comments)<br>25. <a href="https://macwright.com/2024/09/19/the-extra-rules-of-hooks">The unspoken rules of React hooks</a> (13 points | 
+              5 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Saturday, September 21, 2024 at 1:20 PM UTC</guid></item></channel></rss>
