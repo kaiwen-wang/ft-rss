@@ -1,26 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Mon, 30 Sep 2024 22:14:32 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Monday, September 30, 2024 at 10:15 PM UTC]]></title><description><![CDATA[1. <a href="https://hermanradtke.com/why-your-rails-like-framework-is-not-widely-used/">Why Your Rails-like Framework Is Not Widely Used</a> (26 points | 
-              18 comments)<br>2. <a href="https://ntietz.com/blog/rust-needs-a-web-framework-for-lazy-developers/">Rust needs a web framework for lazy developers</a> (26 points | 
-              23 comments)<br>3. <a href="https://jack.wrenn.fyi/blog/safety-goggles-for-alchemists/">Safety Goggles for Alchemists: The Path towards Safer Transmute</a> (22 points | 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Mon, 30 Sep 2024 23:15:21 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Monday, September 30, 2024 at 11:15 PM UTC]]></title><description><![CDATA[1. <a href="https://hermanradtke.com/why-your-rails-like-framework-is-not-widely-used/">Why Your Rails-like Framework Is Not Widely Used</a> (26 points | 
+              20 comments)<br>2. <a href="https://ntietz.com/blog/rust-needs-a-web-framework-for-lazy-developers/">Rust needs a web framework for lazy developers</a> (27 points | 
+              24 comments)<br>3. <a href="https://jack.wrenn.fyi/blog/safety-goggles-for-alchemists/">Safety Goggles for Alchemists: The Path towards Safer Transmute</a> (25 points | 
               1 comment)<br>4. <a href="https://sean.barag.org/writing/process-aware-types">I Want Process-Aware Types</a> (6 points | 
-              13 comments)<br>5. <a href="https://justingarrison.com/blog/2024-08-05-more-aws-services-they-should-cancel/">21 More AWS Services They Should Cancel</a> (15 points | 
-              13 comments)<br>6. <a href="https://pythonspeed.com/articles/optimizing-with-simd/">Beyond multi-core parallelism: faster Mandelbrot with SIMD</a> (6 points | 
-              1 comment)<br>7. <a href="https://brevzin.github.io/c++/2024/09/30/annotations/">Code Generation in Rust vs C++26</a> (8 points | 
-              6 comments)<br>8. <a href="https://www.gov.uk/service-manual/technology/using-progressive-enhancement">Building a robust frontend using progressive enhancement</a> (92 points | 
-              13 comments)<br>9. <a href="https://blog.sequinstream.com/at-most-once-at-least-once-and-exactly-once-delivery/">No such thing as exactly-once delivery</a> (6 points | 
-              no comments)<br>10. <a href="https://www.ru.nl/en/research/research-news/dont-believe-the-hype-agi-is-far-from-inevitable">Don’t believe the hype: AGI is far from inevitable</a> (52 points | 
-              38 comments)<br>11. <a href="https://www.youtube.com/watch?v=7VSVfQcaxFY">How 1 Software Engineer Outperforms 138 - Lichess Case Study</a> (19 points | 
-              no comments)<br>12. <a href="https://blogsystem5.substack.com/p/dos-memory-models">Revisiting the DOS memory models</a> (4 points | 
-              1 comment)<br>13. <a href="https://evantravers.com/articles/2024/09/17/making-my-nvim-act-more-like-helix-with-mini-nvim/">Making my Nvim Feel More Like Helix with Mini.nvim</a> (5 points | 
-              no comments)<br>14. <a href="/s/ckaeeu/what_are_you_doing_this_week">What are you doing this week?</a> (8 points | 
-              6 comments)<br>15. <a href="https://www.superdurszlak.dev/posts/seven-things-i-wish-i-would-not-hear-as-an-autist/">Seven things I wish I would not hear as an autist</a> (2 points | 
-              1 comment)<br>16. <a href="https://wimvanderbauwhede.codeberg.page/articles/the-insatiable-hunger-of-openai/">The insatiable hunger of (Open)AI</a> (4 points | 
-              3 comments)<br>17. <a href="https://www.mail-archive.com/supervision@list.skarnet.org/msg03158.html">runit-2.2.0 available</a> (14 points | 
+              14 comments)<br>5. <a href="https://justingarrison.com/blog/2024-08-05-more-aws-services-they-should-cancel/">21 More AWS Services They Should Cancel</a> (15 points | 
+              13 comments)<br>6. <a href="https://evantravers.com/articles/2024/09/17/making-my-nvim-act-more-like-helix-with-mini-nvim/">Making my Nvim Feel More Like Helix with Mini.nvim</a> (11 points | 
+              no comments)<br>7. <a href="https://pythonspeed.com/articles/optimizing-with-simd/">Beyond multi-core parallelism: faster Mandelbrot with SIMD</a> (7 points | 
+              1 comment)<br>8. <a href="https://www.superdurszlak.dev/posts/seven-things-i-wish-i-would-not-hear-as-an-autist/">Seven things I wish I would not hear as an autist</a> (3 points | 
+              2 comments)<br>9. <a href="https://wimvanderbauwhede.codeberg.page/articles/the-insatiable-hunger-of-openai/">The insatiable hunger of (Open)AI</a> (6 points | 
+              3 comments)<br>10. <a href="https://brevzin.github.io/c++/2024/09/30/annotations/">Code Generation in Rust vs C++26</a> (8 points | 
+              6 comments)<br>11. <a href="https://www.gov.uk/service-manual/technology/using-progressive-enhancement">Building a robust frontend using progressive enhancement</a> (92 points | 
+              13 comments)<br>12. <a href="https://blog.sequinstream.com/at-most-once-at-least-once-and-exactly-once-delivery/">No such thing as exactly-once delivery</a> (6 points | 
+              no comments)<br>13. <a href="https://www.youtube.com/watch?v=7VSVfQcaxFY">How 1 Software Engineer Outperforms 138 - Lichess Case Study</a> (21 points | 
+              no comments)<br>14. <a href="https://www.ru.nl/en/research/research-news/dont-believe-the-hype-agi-is-far-from-inevitable">Don’t believe the hype: AGI is far from inevitable</a> (52 points | 
+              38 comments)<br>15. <a href="/s/ckaeeu/what_are_you_doing_this_week">What are you doing this week?</a> (9 points | 
+              6 comments)<br>16. <a href="https://blogsystem5.substack.com/p/dos-memory-models">Revisiting the DOS memory models</a> (4 points | 
+              1 comment)<br>17. <a href="https://www.mail-archive.com/supervision@list.skarnet.org/msg03158.html">runit-2.2.0 available</a> (14 points | 
               1 comment)<br>18. <a href="https://www.superdurszlak.dev/posts/the-four-horsemen-of-network-communication/">How networking affects distributed systems</a> (3 points | 
-              no comments)<br>19. <a href="https://typesanitizer.com/blog/leaving-apple.html">On leaving my last job (leaving Apple)</a> (68 points | 
-              25 comments)<br>20. <a href="https://www.reactivesystems.eu/2024/09/30/five-common-misconceptions-about-eda.html">Five Common Misconceptions About Event-Driven Architecture</a> (2 points | 
-              1 comment)<br>21. <a href="https://github.com/TypeError/secure">secure.py – Simplify HTTP Security Headers for Python Web Apps (Major Update)</a> (6 points | 
-              1 comment)<br>22. <a href="https://github.com/pijng/prep">Prep: Golang comptime. Pure blasphemy</a> (24 points | 
-              9 comments)<br>23. <a href="https://dpk.land/pubdmn.txt">The Public Domain Problem</a> (28 points | 
-              15 comments)<br>24. <a href="https://wunkolo.github.io/post/2024/09/vecint-average-color/">Using undocumented Apple AI/ML instructions to get the average color of an image</a> (9 points | 
-              1 comment)<br>25. <a href="/s/rrs30d/any_interesting_tech_blogs_outside_usual">Any interesting tech blogs outside the usual software/web dev circle?</a> (20 points | 
-              10 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Monday, September 30, 2024 at 10:15 PM UTC</guid></item></channel></rss>
+              no comments)<br>19. <a href="https://typesanitizer.com/blog/leaving-apple.html">On leaving my last job (leaving Apple)</a> (70 points | 
+              25 comments)<br>20. <a href="https://buttondown.com/jaffray/archive/integrity-constraints-and-the-relational/">Integrity Constraints and the Relational Derivative</a> (1 points | 
+              no comments)<br>21. <a href="https://www.reactivesystems.eu/2024/09/30/five-common-misconceptions-about-eda.html">Five Common Misconceptions About Event-Driven Architecture</a> (2 points | 
+              1 comment)<br>22. <a href="https://github.com/TypeError/secure">secure.py – Simplify HTTP Security Headers for Python Web Apps (Major Update)</a> (6 points | 
+              1 comment)<br>23. <a href="https://redis.io/docs/latest/develop/reference/client-side-caching/">Redis: client-side caching</a> (1 points | 
+              no comments)<br>24. <a href="https://www.youtube.com/watch?v=tRgvaqpQPwE">Durability and the Art of Consensus</a> (1 points | 
+              no comments)<br>25. <a href="https://github.com/pijng/prep">Prep: Golang comptime. Pure blasphemy</a> (24 points | 
+              9 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Monday, September 30, 2024 at 11:15 PM UTC</guid></item></channel></rss>
