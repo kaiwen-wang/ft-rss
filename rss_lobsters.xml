@@ -1,18 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Sat, 05 Oct 2024 10:14:36 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Saturday, October 5, 2024 at 10:15 AM UTC]]></title><description><![CDATA[1. <a href="https://washbear.neocities.org/browsers">Making the web boring again</a> (13 points | 
-              4 comments)<br>2. <a href="https://github.com/danthegoodman1/BreakingSQLite">SQLite corrupted WAL can silently lose committed entries</a> (17 points | 
-              24 comments)<br>3. <a href="https://ztoz.blog/posts/postscript-code/">PostScript® 1.0 - A Code Study</a> (11 points | 
-              2 comments)<br>4. <a href="/s/u83srl/tag_proposal_retrocomputing">Tag proposal: retrocomputing</a> (108 points | 
-              16 comments)<br>5. <a href="https://gist.github.com/izabera/7dcece1d6df9063d43d2b3b0a222e7bb">short bash quiz</a> (2 points | 
-              1 comment)<br>6. <a href="https://sqlite.org/draft/rsync.html">Database Remote-Copy Tool For SQLite (Draft)</a> (29 points | 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Sat, 05 Oct 2024 11:12:49 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Saturday, October 5, 2024 at 11:10 AM UTC]]></title><description><![CDATA[1. <a href="https://washbear.neocities.org/browsers">Making the web boring again</a> (16 points | 
+              6 comments)<br>2. <a href="https://ztoz.blog/posts/postscript-code/">PostScript® 1.0 - A Code Study</a> (11 points | 
+              2 comments)<br>3. <a href="https://github.com/danthegoodman1/BreakingSQLite">SQLite corrupted WAL can silently lose committed entries</a> (17 points | 
+              26 comments)<br>4. <a href="https://gist.github.com/izabera/7dcece1d6df9063d43d2b3b0a222e7bb">short bash quiz</a> (3 points | 
+              1 comment)<br>5. <a href="/s/u83srl/tag_proposal_retrocomputing">Tag proposal: retrocomputing</a> (111 points | 
+              16 comments)<br>6. <a href="https://sqlite.org/draft/rsync.html">Database Remote-Copy Tool For SQLite (Draft)</a> (29 points | 
               11 comments)<br>7. <a href="https://d-sonuga.netlify.app/gsoc/regalloc-iii/">regalloc III: A new register allocator for Rust's Cranelift backend</a> (12 points | 
               no comments)<br>8. <a href="https://youtu.be/4n5fFMLVOBo">Designing Gleam's Web Framework</a> (15 points | 
-              no comments)<br>9. <a href="https://ironclad.nongnu.org/">Ironclad: Hard real-time capable POSIX-compatible kernel written in SPARK/Ada</a> (27 points | 
-              3 comments)<br>10. <a href="https://blogs.gnome.org/hughsie/2024/10/04/fwupd-2-0-0/">fwupd 2.0.0 and new tricks</a> (4 points | 
-              no comments)<br>11. <a href="http://www.quiss.org/boo/">BRR: A new line drawing method for the cycle savvy</a> (17 points | 
-              no comments)<br>12. <a href="https://ashishb.net/programming/repair-database-on-mobile-device/">Repairing database on the fly for millions of users</a> (1 points | 
-              no comments)<br>13. <a href="https://archiveofourown.org/works/3243470">The end of Cryptography</a> (4 points | 
+              no comments)<br>9. <a href="https://ashishb.net/programming/repair-database-on-mobile-device/">Repairing database on the fly for millions of users</a> (2 points | 
+              no comments)<br>10. <a href="https://ironclad.nongnu.org/">Ironclad: Hard real-time capable POSIX-compatible kernel written in SPARK/Ada</a> (27 points | 
+              5 comments)<br>11. <a href="https://archiveofourown.org/works/3243470">The end of Cryptography</a> (6 points | 
+              no comments)<br>12. <a href="https://blogs.gnome.org/hughsie/2024/10/04/fwupd-2-0-0/">fwupd 2.0.0 and new tricks</a> (4 points | 
+              no comments)<br>13. <a href="http://www.quiss.org/boo/">BRR: A new line drawing method for the cycle savvy</a> (18 points | 
               no comments)<br>14. <a href="https://registerspill.thorstenball.com/p/no-really-yagni">No, really: YAGNI</a> (14 points | 
-              14 comments)<br>15. <a href="https://htmx.org/essays/why-gumroad-didnt-choose-htmx/">Why Gumroad Didn't Choose htmx</a> (64 points | 
+              14 comments)<br>15. <a href="https://htmx.org/essays/why-gumroad-didnt-choose-htmx/">Why Gumroad Didn't Choose htmx</a> (65 points | 
               36 comments)<br>16. <a href="https://it-notes.dragas.net/2024/10/03/i-solve-problems-eurobsdcon/">I Solve Problems</a> (18 points | 
               no comments)<br>17. <a href="https://pthorpe92.dev/programming/systems/common-misunderstandings/">Confusing or misunderstood topics in systems programming: Processes, Pipes, I/O, Files and Threads/Async</a> (1 points | 
               no comments)<br>18. <a href="/s/elmr6z/what_are_you_doing_this_weekend">What are you doing this weekend?</a> (11 points | 
@@ -20,7 +20,7 @@
               no comments)<br>20. <a href="https://blog.cloudflare.com/patent-troll-sable-pays-up/">Patent troll Sable pays up, dedicates all its patents to the public</a> (65 points | 
               3 comments)<br>21. <a href="https://podlite.org/">Podlite is a lightweight block-based markup language designed for flexibility and ease of use</a> (3 points | 
               1 comment)<br>22. <a href="https://raku-knowledge-base.podlite.org">Raku Knowledge Base about the Raku programming language</a> (14 points | 
-              no comments)<br>23. <a href="https://garymarcus.substack.com/p/sorry-genai-is-not-going-to-10x-computer">Sorry, GenAI is NOT going to 10x computer programming</a> (31 points | 
-              35 comments)<br>24. <a href="https://ziggy-lang.io">Ziggy Data Language</a> (37 points | 
+              no comments)<br>23. <a href="https://garymarcus.substack.com/p/sorry-genai-is-not-going-to-10x-computer">Sorry, GenAI is NOT going to 10x computer programming</a> (32 points | 
+              35 comments)<br>24. <a href="https://ziggy-lang.io">Ziggy Data Language</a> (38 points | 
               24 comments)<br>25. <a href="https://nv1t.github.io/blog/kekz-headphones/">Reverse Engineering and Dismantling Kekz Headphones</a> (15 points | 
-              no comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Saturday, October 5, 2024 at 10:15 AM UTC</guid></item></channel></rss>
+              no comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Saturday, October 5, 2024 at 11:10 AM UTC</guid></item></channel></rss>
