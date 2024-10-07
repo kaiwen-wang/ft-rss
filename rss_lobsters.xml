@@ -1,19 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Mon, 07 Oct 2024 03:23:19 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Monday, October 7, 2024 at 3:25 AM UTC]]></title><description><![CDATA[1. <a href="https://crowdhailer.me/2024-10-04/6-years-with-gleam/">6 years with Gleam</a> (26 points | 
-              1 comment)<br>2. <a href="https://liberda.nl/weblog/trust-no-client/">Trusting clients is probably a security flaw</a> (28 points | 
-              8 comments)<br>3. <a href="https://octothorp.es/docs">Octothorpes: hashtags for the open internet</a> (8 points | 
-              1 comment)<br>4. <a href="https://sqlite.org/draft/security.html">SQLite: Defense Against The Dark Arts</a> (29 points | 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Mon, 07 Oct 2024 04:19:30 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Monday, October 7, 2024 at 4:20 AM UTC]]></title><description><![CDATA[1. <a href="https://crowdhailer.me/2024-10-04/6-years-with-gleam/">6 years with Gleam</a> (28 points | 
+              1 comment)<br>2. <a href="https://liberda.nl/weblog/trust-no-client/">Trusting clients is probably a security flaw</a> (29 points | 
+              9 comments)<br>3. <a href="https://octothorp.es/docs">Octothorpes: hashtags for the open internet</a> (8 points | 
+              3 comments)<br>4. <a href="https://sqlite.org/draft/security.html">SQLite: Defense Against The Dark Arts</a> (30 points | 
               3 comments)<br>5. <a href="https://despairlabs.com/blog/posts/2024-10-05-nice-things-in-openzfs-23/">A few nice things in OpenZFS 2.3</a> (27 points | 
-              7 comments)<br>6. <a href="https://ideas.lego.com/projects/10a3239f-4562-4d23-ba8e-f4fc94eef5c7">Working Lego Turing Machine</a> (57 points | 
+              7 comments)<br>6. <a href="https://ideas.lego.com/projects/10a3239f-4562-4d23-ba8e-f4fc94eef5c7">Working Lego Turing Machine</a> (58 points | 
               15 comments)<br>7. <a href="https://addisoncrump.info/important-information/why-i-dont-write-exploits/#">Why I don't write exploits*</a> (7 points | 
               3 comments)<br>8. <a href="https://matklad.github.io/2024/10/06/ousterhouts-dichotomy.html">On Ousterhout's Dichotomy</a> (19 points | 
-              16 comments)<br>9. <a href="https://blog.drewolson.org/gleam-is-pragmatic/">Gleam is Pragmatic</a> (53 points | 
+              16 comments)<br>9. <a href="https://blog.drewolson.org/gleam-is-pragmatic/">Gleam is Pragmatic</a> (54 points | 
               11 comments)<br>10. <a href="https://paper.wf/binarycat/cursed-rust">Cursed Rust</a> (23 points | 
               10 comments)<br>11. <a href="https://hpyproject.org/">HPy - A better C API for Python</a> (8 points | 
-              no comments)<br>12. <a href="https://amyunger.com/blog/2020/09/16/6-things-i-learned-interviewing.html">6 things I learned interviewing for Staff positions (2020)</a> (21 points | 
-              3 comments)<br>13. <a href="/s/xiwy8s/tag_proposal_gleam">Tag proposal: Gleam</a> (55 points | 
+              no comments)<br>12. <a href="https://amyunger.com/blog/2020/09/16/6-things-i-learned-interviewing.html">6 things I learned interviewing for Staff positions (2020)</a> (22 points | 
+              3 comments)<br>13. <a href="/s/xiwy8s/tag_proposal_gleam">Tag proposal: Gleam</a> (56 points | 
               10 comments)<br>14. <a href="http://www.call-with-current-continuation.org/articles/brutalist-manifesto.txt">The Brutalist Programming Manifesto</a> (28 points | 
               31 comments)<br>15. <a href="https://washbear.neocities.org/browsers">Making the web boring again</a> (64 points | 
-              43 comments)<br>16. <a href="https://larsw.xyz/yaat/">Yet Another ASCII Table</a> (21 points | 
+              44 comments)<br>16. <a href="https://larsw.xyz/yaat/">Yet Another ASCII Table</a> (21 points | 
               26 comments)<br>17. <a href="https://www.supergoodcode.com/My-Wayland-Your-Wayland-Our-Wayland/">My Wayland Your Wayland Our Wayland</a> (4 points | 
               no comments)<br>18. <a href="/s/yrs6nz/are_you_using_any_ai_based_code_editors">Are you using any AI based code editors or extensions in your workflow</a> (9 points | 
               51 comments)<br>19. <a href="https://kaiwenwang.com/writing/canvases-versus-documents">Canvases versus Documents</a> (6 points | 
@@ -23,4 +23,4 @@
               7 comments)<br>23. <a href="https://blog.timschumi.net/2024/10/05/lldorah-bootloader-prototype.html">Low-Level Development on Retail Android Hardware - Reconnaissance and Prototyping a Bootloader</a> (13 points | 
               2 comments)<br>24. <a href="https://www.dbreunig.com/2024/10/04/wikidata-is-a-giant-crosswalk-file.html">Wikidata is a Giant Crosswalk File</a> (9 points | 
               3 comments)<br>25. <a href="https://www.youtube.com/watch?v=wn6C_XEv1Mo">Swift & Interoperability</a> (3 points | 
-              1 comment)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Monday, October 7, 2024 at 3:25 AM UTC</guid></item></channel></rss>
+              1 comment)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Monday, October 7, 2024 at 4:20 AM UTC</guid></item></channel></rss>
