@@ -1,26 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Thu, 10 Oct 2024 17:14:24 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Thursday, October 10, 2024 at 5:15 PM UTC]]></title><description><![CDATA[1. <a href="https://asahilinux.org/2024/10/aaa-gaming-on-asahi-linux/">AAA gaming on Asahi Linux</a> (32 points | 
-              3 comments)<br>2. <a href="https://www.bleepingcomputer.com/news/security/mozilla-fixes-firefox-zero-day-actively-exploited-in-attacks/">Mozilla fixes Firefox zero-day actively exploited in attacks</a> (46 points | 
-              6 comments)<br>3. <a href="https://arstechnica.com/gadgets/2024/10/thunderbird-android-client-is-k-9-mail-reborn-and-its-in-solid-beta/">Thunderbird Android client is K-9 Mail reborn, and it’s in solid beta</a> (13 points | 
-              no comments)<br>4. <a href="https://deno.com/blog/v2.0">Announcing Deno 2</a> (64 points | 
-              50 comments)<br>5. <a href="https://chrisdone.com/posts/rust/">My negative views on Rust</a> (44 points | 
-              71 comments)<br>6. <a href="https://beeps.website/blog/2024-10-09-why-govuk-exit-this-page-doesnt-use-escape/">Why GOV.UK's Exit this Page component doesn't use the Escape key</a> (43 points | 
-              8 comments)<br>7. <a href="https://www.rfc-editor.org/rfc/rfc9635">RFC 9635: Grant Negotiation and Authorization Protocol (GNAP)</a> (5 points | 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Thu, 10 Oct 2024 18:20:43 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Thursday, October 10, 2024 at 6:20 PM UTC]]></title><description><![CDATA[1. <a href="https://asahilinux.org/2024/10/aaa-gaming-on-asahi-linux/">AAA gaming on Asahi Linux</a> (44 points | 
+              8 comments)<br>2. <a href="https://www.bleepingcomputer.com/news/security/mozilla-fixes-firefox-zero-day-actively-exploited-in-attacks/">Mozilla fixes Firefox zero-day actively exploited in attacks</a> (48 points | 
+              8 comments)<br>3. <a href="https://arstechnica.com/gadgets/2024/10/thunderbird-android-client-is-k-9-mail-reborn-and-its-in-solid-beta/">Thunderbird Android client is K-9 Mail reborn, and it’s in solid beta</a> (14 points | 
+              no comments)<br>4. <a href="https://deno.com/blog/v2.0">Announcing Deno 2</a> (66 points | 
+              50 comments)<br>5. <a href="https://chrisdone.com/posts/rust/">My negative views on Rust</a> (45 points | 
+              75 comments)<br>6. <a href="https://beeps.website/blog/2024-10-09-why-govuk-exit-this-page-doesnt-use-escape/">Why GOV.UK's Exit this Page component doesn't use the Escape key</a> (43 points | 
+              8 comments)<br>7. <a href="https://www.rfc-editor.org/rfc/rfc9635">RFC 9635: Grant Negotiation and Authorization Protocol (GNAP)</a> (7 points | 
               3 comments)<br>8. <a href="https://prescheme.org/posts/first-report-on-the-pre-scheme-restoration.html">First report on the Pre-Scheme Restoration</a> (10 points | 
-              no comments)<br>9. <a href="https://matklad.github.io/2024/10/08/two-tips.html">Two Workflow Tips</a> (21 points | 
+              1 comment)<br>9. <a href="https://matklad.github.io/2024/10/08/two-tips.html">Two Workflow Tips</a> (22 points | 
               7 comments)<br>10. <a href="https://www.deusinmachina.net/p/coding-without-braces-an-alternate">Coding without braces: An alternate C Syntax</a> (3 points | 
               1 comment)<br>11. <a href="https://pipe.pico.sh">pipe: authenticated pubsub over ssh</a> (31 points | 
               5 comments)<br>12. <a href="https://www.osnews.com/story/140538/why-i-use-kde/">Why I use KDE</a> (32 points | 
-              19 comments)<br>13. <a href="https://infosec.exchange/@david_chisnall/113277021212365322">Proposed roadmap for introducing CHERI into Android</a> (32 points | 
-              1 comment)<br>14. <a href="https://www.youtube.com/watch?v=CNVmIocyDOQ">Building Text UIs in Rust (Interview)</a> (10 points | 
-              no comments)<br>15. <a href="https://bryananthonio.com/blog/pydantic-custom-dictionary-types/https://bryananthonio.com/blog/pydantic-custom-dictionary-types/">Custom Dictionary Types in Pydantic</a> (1 points | 
-              1 comment)<br>16. <a href="https://osa1.net/posts/2024-10-09-oop-good.html">OOP is not that bad, actually</a> (26 points | 
-              23 comments)<br>17. <a href="https://discourse.ubuntu.com/t/oracular-oriole-release-notes/44878">Ubuntu - Oracular Oriole Release Notes</a> (2 points | 
-              no comments)<br>18. <a href="https://devblogs.microsoft.com/typescript/announcing-typescript-5-7-beta/">Announcing TypeScript 5.7 Beta</a> (5 points | 
-              no comments)<br>19. <a href="https://www.os2museum.com/wp/os-2-tcpbeui-name-resolution/">OS/2 TCPBEUI (NetBIOS over TCP/IP) name resolution</a> (5 points | 
-              no comments)<br>20. <a href="https://techblog.wikimedia.org/2024/07/03/wikimedia-toolforge-migrating-kubernetes-from-podsecuritypolicy-to-kyverno/">Wikimedia Toolforge: migrating Kubernetes from PodSecurityPolicy to Kyverno</a> (2 points | 
-              no comments)<br>21. <a href="https://thephd.dev/5-years-later-the-first-big-unicode-win-omg-yay">5 Years Later: The First Win</a> (33 points | 
-              1 comment)<br>22. <a href="https://jason.today/gi">Building Real-Time Global Illumination</a> (39 points | 
-              3 comments)<br>23. <a href="https://blog.miguelgrinberg.com/post/the-ultimate-guide-to-error-handling-in-python">The Ultimate Guide to Error Handling in Python</a> (1 points | 
-              no comments)<br>24. <a href="http://sled.rs/errors.html">Error Handling in a Correctness-Critical Rust Project (2020)</a> (1 points | 
-              1 comment)<br>25. <a href="https://github.com/sepandhaghighi/mycoffee">Brew Perfect Coffee Right from Your Terminal</a> (5 points | 
-              2 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Thursday, October 10, 2024 at 5:15 PM UTC</guid></item></channel></rss>
+              20 comments)<br>13. <a href="https://bryananthonio.com/blog/pydantic-custom-dictionary-types/https://bryananthonio.com/blog/pydantic-custom-dictionary-types/">Custom Dictionary Types in Pydantic</a> (2 points | 
+              1 comment)<br>14. <a href="https://infosec.exchange/@david_chisnall/113277021212365322">Proposed roadmap for introducing CHERI into Android</a> (33 points | 
+              1 comment)<br>15. <a href="https://discourse.ubuntu.com/t/oracular-oriole-release-notes/44878">Ubuntu - Oracular Oriole Release Notes</a> (3 points | 
+              no comments)<br>16. <a href="https://www.youtube.com/watch?v=CNVmIocyDOQ">Building Text UIs in Rust (Interview)</a> (11 points | 
+              1 comment)<br>17. <a href="https://osa1.net/posts/2024-10-09-oop-good.html">OOP is not that bad, actually</a> (26 points | 
+              23 comments)<br>18. <a href="https://dl.acm.org/doi/10.1145/240964.240981">A modest proposal: C++ resyntaxed (1996)</a> (1 points | 
+              no comments)<br>19. <a href="https://marz.utk.edu/my-courses/cosc230/book/">Computer Organization E-Textbook</a> (1 points | 
+              no comments)<br>20. <a href="https://devblogs.microsoft.com/typescript/announcing-typescript-5-7-beta/">Announcing TypeScript 5.7 Beta</a> (5 points | 
+              no comments)<br>21. <a href="https://www.os2museum.com/wp/os-2-tcpbeui-name-resolution/">OS/2 TCPBEUI (NetBIOS over TCP/IP) name resolution</a> (5 points | 
+              no comments)<br>22. <a href="https://techblog.wikimedia.org/2024/07/03/wikimedia-toolforge-migrating-kubernetes-from-podsecuritypolicy-to-kyverno/">Wikimedia Toolforge: migrating Kubernetes from PodSecurityPolicy to Kyverno</a> (2 points | 
+              no comments)<br>23. <a href="https://thephd.dev/5-years-later-the-first-big-unicode-win-omg-yay">5 Years Later: The First Win</a> (35 points | 
+              2 comments)<br>24. <a href="https://jason.today/gi">Building Real-Time Global Illumination</a> (40 points | 
+              3 comments)<br>25. <a href="https://blog.miguelgrinberg.com/post/the-ultimate-guide-to-error-handling-in-python">The Ultimate Guide to Error Handling in Python</a> (1 points | 
+              no comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Thursday, October 10, 2024 at 6:20 PM UTC</guid></item></channel></rss>
