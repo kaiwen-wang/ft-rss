@@ -1,26 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Mon, 14 Oct 2024 05:15:51 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Monday, October 14, 2024 at 5:15 AM UTC]]></title><description><![CDATA[1. <a href="https://microblog.ahti.space/nortti/self-referential-initialization-c/">Self-referential variable initialization in C</a> (18 points | 
-              10 comments)<br>2. <a href="https://oldvcr.blogspot.com/2024/10/refurb-weekend-symbolics-macivory-lisp.html">Refurb weekend: the Symbolics MacIvory Lisp machine I have hated</a> (11 points | 
-              no comments)<br>3. <a href="https://atthis.link/blog/2024/16379.html">OpenBSD is Hard to Show Off</a> (35 points | 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Mon, 14 Oct 2024 06:22:57 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Monday, October 14, 2024 at 6:20 AM UTC]]></title><description><![CDATA[1. <a href="https://microblog.ahti.space/nortti/self-referential-initialization-c/">Self-referential variable initialization in C</a> (19 points | 
+              10 comments)<br>2. <a href="https://oldvcr.blogspot.com/2024/10/refurb-weekend-symbolics-macivory-lisp.html">Refurb weekend: the Symbolics MacIvory Lisp machine I have hated</a> (14 points | 
+              no comments)<br>3. <a href="https://atthis.link/blog/2024/16379.html">OpenBSD is Hard to Show Off</a> (36 points | 
               15 comments)<br>4. <a href="https://blog.cloudflare.com/sqlite-in-durable-objects/">Zero-latency SQLite storage in every Durable Object</a> (15 points | 
-              2 comments)<br>5. <a href="https://felix-knorr.net/posts/2024-10-13-replacing-nginx-with-axum.html">Replacing nginx with axum</a> (17 points | 
-              16 comments)<br>6. <a href="https://www.cs.yale.edu/homes/wu-haomiao/publication/curlyCue.html">Curly-Cue: Geometric Methods for Highly Coiled Hair</a> (19 points | 
-              no comments)<br>7. <a href="https://tahnok.github.io/colmi_r02_client/">Python client for the $20 Colmi R02 smart ring</a> (4 points | 
+              2 comments)<br>5. <a href="https://tahnok.github.io/colmi_r02_client/">Python client for the $20 Colmi R02 smart ring</a> (5 points | 
+              no comments)<br>6. <a href="https://felix-knorr.net/posts/2024-10-13-replacing-nginx-with-axum.html">Replacing nginx with axum</a> (17 points | 
+              16 comments)<br>7. <a href="https://www.cs.yale.edu/homes/wu-haomiao/publication/curlyCue.html">Curly-Cue: Geometric Methods for Highly Coiled Hair</a> (19 points | 
               no comments)<br>8. <a href="https://pileofhacks.dev/post/the-optimised-version-of-7-zip-cant-be-built-from-source/">The optimised version of 7-Zip can't be built from source</a> (24 points | 
-              26 comments)<br>9. <a href="https://fossil-scm.org/home/ext/crlf-harmful.md">CRLF Is Obsolete And Should Be Abolished</a> (17 points | 
-              18 comments)<br>10. <a href="https://www.depesz.com/2024/10/11/sql-json-is-here-kinda-waiting-for-pg-17/">SQL/JSON is here! (kinda “Waiting for Pg 17”)</a> (17 points | 
-              3 comments)<br>11. <a href="https://inkscape.org/news/2024/10/13/inkscape-launches-version-14-powerful-new-accessib/">Inkscape launches version 1.4, with powerful new accessible and customizable features</a> (7 points | 
-              no comments)<br>12. <a href="https://nolanlawson.com/2024/10/13/the-greatness-and-limitations-of-the-js-framework-benchmark/">The greatness and limitations of the js-framework-benchmark</a> (4 points | 
-              no comments)<br>13. <a href="https://github.com/Omikhleia/resilient.sile">Advanced book classes and packages for the SILE typesetting system</a> (16 points | 
-              6 comments)<br>14. <a href="https://gist.github.com/hackermondev/68ec8ed145fcee49d2f5e2b9d2cf2e52">1 bug, $50,000+ in bounties, Zendesk bug</a> (60 points | 
-              6 comments)<br>15. <a href="https://blog.jreyesr.com/posts/typst/">Exploring Typst, a new typesetting system similar to LaTeX</a> (42 points | 
-              10 comments)<br>16. <a href="https://devblogs.microsoft.com/oldnewthing/20241007-00/?p=110345">A popular but wrong way to convert a string to uppercase or lowercase</a> (1 points | 
-              2 comments)<br>17. <a href="https://youtu.be/lASLZ9TgXyc">Building the hundred-year web service with htmx</a> (1 points | 
-              no comments)<br>18. <a href="https://news.itsfoss.com/ubuntu-latest-kernel/">Ubuntu Will Include The Latest Linux Kernel Version in Future Releases</a> (1 points | 
-              1 comment)<br>19. <a href="https://www-ps.informatik.uni-kiel.de/~mh/papers/WLP24.pdf">Can Logic Programming Be Liberated from Predicates and Backtracking?</a> (17 points | 
-              3 comments)<br>20. <a href="https://www.cppstories.com/2018/12/fromchars/">C++ String Conversion: Exploring std::from_chars in C++17 to C++26</a> (1 points | 
-              no comments)<br>21. <a href="https://garymarcus.substack.com/p/llms-dont-do-formal-reasoning-and">LLMs don’t do formal reasoning - and that is a HUGE problem</a> (67 points | 
-              64 comments)<br>22. <a href="https://arxiv.org/abs/2410.07095">MLE-bench: Evaluating Machine Learning Agents on Machine Learning Engineering</a> (1 points | 
-              no comments)<br>23. <a href="https://www.advancedcustomfields.com/blog/acf-6-3-8-security-release/">ACF 6.3.8 Security Release</a> (7 points | 
-              2 comments)<br>24. <a href="https://blog.mapotofu.org/blogs/rabitq-bench/">Improve an algorithm performance step by step</a> (2 points | 
-              no comments)<br>25. <a href="https://youtu.be/rbu7Zu5X1zI">How I animate 3Blue1Brown: a Manim demo</a> (47 points | 
-              5 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Monday, October 14, 2024 at 5:15 AM UTC</guid></item></channel></rss>
+              26 comments)<br>9. <a href="https://fossil-scm.org/home/ext/crlf-harmful.md">CRLF Is Obsolete And Should Be Abolished</a> (18 points | 
+              18 comments)<br>10. <a href="https://www.youtube.com/watch?v=dh3sdHWQ2Ms">EYG a predictable, and useful, programming language at func prog sweden</a> (1 points | 
+              no comments)<br>11. <a href="https://nolanlawson.com/2024/10/13/the-greatness-and-limitations-of-the-js-framework-benchmark/">The greatness and limitations of the js-framework-benchmark</a> (5 points | 
+              no comments)<br>12. <a href="https://inkscape.org/news/2024/10/13/inkscape-launches-version-14-powerful-new-accessib/">Inkscape launches version 1.4, with powerful new accessible and customizable features</a> (8 points | 
+              no comments)<br>13. <a href="https://www.depesz.com/2024/10/11/sql-json-is-here-kinda-waiting-for-pg-17/">SQL/JSON is here! (kinda “Waiting for Pg 17”)</a> (18 points | 
+              3 comments)<br>14. <a href="https://youtu.be/lASLZ9TgXyc">Building the hundred-year web service with htmx</a> (2 points | 
+              no comments)<br>15. <a href="https://github.com/Omikhleia/resilient.sile">Advanced book classes and packages for the SILE typesetting system</a> (16 points | 
+              7 comments)<br>16. <a href="https://news.itsfoss.com/ubuntu-latest-kernel/">Ubuntu Will Include The Latest Linux Kernel Version in Future Releases</a> (2 points | 
+              1 comment)<br>17. <a href="https://blog.jreyesr.com/posts/typst/">Exploring Typst, a new typesetting system similar to LaTeX</a> (42 points | 
+              11 comments)<br>18. <a href="https://gist.github.com/hackermondev/68ec8ed145fcee49d2f5e2b9d2cf2e52">1 bug, $50,000+ in bounties, Zendesk bug</a> (61 points | 
+              6 comments)<br>19. <a href="https://devblogs.microsoft.com/oldnewthing/20241007-00/?p=110345">A popular but wrong way to convert a string to uppercase or lowercase</a> (1 points | 
+              2 comments)<br>20. <a href="https://www.cppstories.com/2018/12/fromchars/">C++ String Conversion: Exploring std::from_chars in C++17 to C++26</a> (2 points | 
+              no comments)<br>21. <a href="https://dgerrells.com/blog/how-not-to-run-a-saas-company">how not to run a sAAs company</a> (2 points | 
+              1 comment)<br>22. <a href="https://www-ps.informatik.uni-kiel.de/~mh/papers/WLP24.pdf">Can Logic Programming Be Liberated from Predicates and Backtracking?</a> (17 points | 
+              3 comments)<br>23. <a href="https://garymarcus.substack.com/p/llms-dont-do-formal-reasoning-and">LLMs don’t do formal reasoning - and that is a HUGE problem</a> (67 points | 
+              64 comments)<br>24. <a href="https://arxiv.org/abs/2410.07095">MLE-bench: Evaluating Machine Learning Agents on Machine Learning Engineering</a> (1 points | 
+              no comments)<br>25. <a href="https://www.advancedcustomfields.com/blog/acf-6-3-8-security-release/">ACF 6.3.8 Security Release</a> (7 points | 
+              2 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Monday, October 14, 2024 at 6:20 AM UTC</guid></item></channel></rss>
