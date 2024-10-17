@@ -1,26 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Wed, 16 Oct 2024 23:16:40 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Wednesday, October 16, 2024 at 11:15 PM UTC]]></title><description><![CDATA[1. <a href="https://dri.es/my-solar-powered-and-self-hosted-website">My solar-powered and self-hosted website</a> (32 points | 
-              13 comments)<br>2. <a href="https://steveklabnik.com/writing/when-should-i-use-string-vs-str/">When should I use String vs &str?</a> (26 points | 
-              5 comments)<br>3. <a href="https://github.com/alexpusch/pumps_rs">Pumps - eager streams for rust</a> (19 points | 
-              no comments)<br>4. <a href="https://bernsteinbear.com/blog/type-inference/">Damas-Hindley-Milner inference two ways</a> (44 points | 
-              16 comments)<br>5. <a href="https://www.informit.com/articles/article.aspx?p=1390172">The Failure of the GPL (2009)</a> (11 points | 
-              15 comments)<br>6. <a href="https://blog.orhun.dev/cant-trust-any-vpn/">Fixing a DNS leak in my VPN setup</a> (12 points | 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Thu, 17 Oct 2024 01:12:24 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Thursday, October 17, 2024 at 1:10 AM UTC]]></title><description><![CDATA[1. <a href="https://steveklabnik.com/writing/when-should-i-use-string-vs-str/">When should I use String vs &str?</a> (34 points | 
+              8 comments)<br>2. <a href="https://dri.es/my-solar-powered-and-self-hosted-website">My solar-powered and self-hosted website</a> (34 points | 
+              13 comments)<br>3. <a href="https://github.com/alexpusch/pumps_rs">Pumps - eager streams for rust</a> (20 points | 
+              no comments)<br>4. <a href="https://bernsteinbear.com/blog/type-inference/">Damas-Hindley-Milner inference two ways</a> (45 points | 
+              18 comments)<br>5. <a href="https://www.informit.com/articles/article.aspx?p=1390172">The Failure of the GPL (2009)</a> (12 points | 
+              18 comments)<br>6. <a href="https://blog.orhun.dev/cant-trust-any-vpn/">Fixing a DNS leak in my VPN setup</a> (13 points | 
               4 comments)<br>7. <a href="https://buttondown.com/hillelwayne/archive/be-suspicious-of-success/">Be Suspicious of Success</a> (10 points | 
-              3 comments)<br>8. <a href="https://floss.fund/blog/announcing-floss-fund/">Announcing FLOSS/fund: $1M per year for free and open source projects</a> (27 points | 
-              no comments)<br>9. <a href="https://matklad.github.io/2024/10/14/missing-ide-feature.html">A Missing IDE Feature: Fold Method Bodies by Default</a> (32 points | 
-              38 comments)<br>10. <a href="https://minds.md/zakirullin/cognitive#full">Cognitive load</a> (8 points | 
-              no comments)<br>11. <a href="https://www.cs.utexas.edu/~EWD/transcriptions/EWD10xx/EWD1036.html">On the cruelty of really teaching computing science</a> (9 points | 
-              8 comments)<br>12. <a href="https://github.com/capjamesg/jamesql">jamesql: An in-memory NoSQL database implemented in Python</a> (3 points | 
-              2 comments)<br>13. <a href="https://modem.io/blog/blog-monetization-making-of/">How to Write a Blog Post About How to Monetize a Blog</a> (46 points | 
-              6 comments)<br>14. <a href="https://world.hey.com/dhh/passwords-have-problems-but-passkeys-have-more-95285df9">Passwords have problems, but passkeys have more</a> (67 points | 
-              73 comments)<br>15. <a href="https://safecpp.org/draft-lifetimes.html">Memory Safety without Lifetime Parameters</a> (10 points | 
-              29 comments)<br>16. <a href="https://lambdaland.org/posts/2024-09-27_threaded_interpreter/">How to Make Racket Go (Almost) As Fast As C</a> (4 points | 
-              2 comments)<br>17. <a href="https://www.unison-lang.org/">Unison Programming Language</a> (41 points | 
-              28 comments)<br>18. <a href="https://pythonspeed.com/articles/uv-python-production/">Should you use uv’s managed Python in production?</a> (44 points | 
-              8 comments)<br>19. <a href="https://talos.dev">Talos Linux: API driven, Kubernetes operating system</a> (9 points | 
-              1 comment)<br>20. <a href="https://docs.sweeting.me/s/archivebox-plugin-ecosystem-announcement#">The Future of ArchiveBox</a> (4 points | 
-              no comments)<br>21. <a href="https://downloads.haskell.org/ghc/9.12.1-alpha1/docs/users_guide/9.12.1-notes.html">GHC 9.12.1 (alpha 1) release notes</a> (9 points | 
+              4 comments)<br>8. <a href="https://floss.fund/blog/announcing-floss-fund/">Announcing FLOSS/fund: $1M per year for free and open source projects</a> (29 points | 
+              no comments)<br>9. <a href="https://minds.md/zakirullin/cognitive#full">Cognitive load</a> (9 points | 
+              no comments)<br>10. <a href="https://matklad.github.io/2024/10/14/missing-ide-feature.html">A Missing IDE Feature: Fold Method Bodies by Default</a> (34 points | 
+              38 comments)<br>11. <a href="https://lambdaland.org/posts/2024-09-27_threaded_interpreter/">How to Make Racket Go (Almost) As Fast As C</a> (6 points | 
+              2 comments)<br>12. <a href="https://evertpot.com/discovering-features-with-http-options/">Discovering features and information via HTTP OPTIONS</a> (2 points | 
+              no comments)<br>13. <a href="https://www.cs.utexas.edu/~EWD/transcriptions/EWD10xx/EWD1036.html">On the cruelty of really teaching computing science</a> (9 points | 
+              10 comments)<br>14. <a href="https://github.com/capjamesg/jamesql">jamesql: An in-memory NoSQL database implemented in Python</a> (3 points | 
+              2 comments)<br>15. <a href="https://modem.io/blog/blog-monetization-making-of/">How to Write a Blog Post About How to Monetize a Blog</a> (46 points | 
+              6 comments)<br>16. <a href="https://world.hey.com/dhh/passwords-have-problems-but-passkeys-have-more-95285df9">Passwords have problems, but passkeys have more</a> (68 points | 
+              77 comments)<br>17. <a href="https://safecpp.org/draft-lifetimes.html">Memory Safety without Lifetime Parameters</a> (10 points | 
+              37 comments)<br>18. <a href="https://www.unison-lang.org/">Unison Programming Language</a> (42 points | 
+              28 comments)<br>19. <a href="https://pythonspeed.com/articles/uv-python-production/">Should you use uv’s managed Python in production?</a> (44 points | 
+              8 comments)<br>20. <a href="https://talos.dev">Talos Linux: API driven, Kubernetes operating system</a> (9 points | 
+              1 comment)<br>21. <a href="https://docs.sweeting.me/s/archivebox-plugin-ecosystem-announcement#">The Future of ArchiveBox</a> (4 points | 
               no comments)<br>22. <a href="https://github.com/CSS-Next/css-next/issues/105">Call for submissions for a new CSS logo</a> (12 points | 
-              2 comments)<br>23. <a href="https://jnsgr.uk/2024/10/writing-a-home-assistant-integration/">Writing a Home Assistant Core Integration: Part 2</a> (1 points | 
-              no comments)<br>24. <a href="https://github.com/flibitijibibo/RogueLegacy1/">Rogue Legacy code is now source available</a> (21 points | 
-              1 comment)<br>25. <a href="https://dri.es/solving-the-maker-taker-problem">Solving the Maker-Taker problem</a> (5 points | 
-              no comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Wednesday, October 16, 2024 at 11:15 PM UTC</guid></item></channel></rss>
+              2 comments)<br>23. <a href="https://downloads.haskell.org/ghc/9.12.1-alpha1/docs/users_guide/9.12.1-notes.html">GHC 9.12.1 (alpha 1) release notes</a> (9 points | 
+              no comments)<br>24. <a href="https://spidermonkey.dev/blog/2024/10/16/75x-faster-optimizing-the-ion-compiler-backend.html">75x faster: optimizing the Ion compiler backend</a> (3 points | 
+              no comments)<br>25. <a href="https://forgejo.org/2024-10-release-v9-0/">Forgejo v9.0 is available</a> (3 points | 
+              no comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Thursday, October 17, 2024 at 1:10 AM UTC</guid></item></channel></rss>
