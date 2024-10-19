@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Sat, 19 Oct 2024 02:45:24 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Saturday, October 19, 2024 at 2:45 AM UTC]]></title><description><![CDATA[1. <a href="https://steveklabnik.github.io/jujutsu-tutorial/">Steve Klabnik's Tutorial on Jujutsu (git replacement)</a> (44 points | 
-              15 comments)<br>2. <a href="https://typst.app/blog/2024/typst-0.12/">Typst 0.12 is just ... better</a> (12 points | 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Sat, 19 Oct 2024 03:19:43 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Saturday, October 19, 2024 at 3:20 AM UTC]]></title><description><![CDATA[1. <a href="https://steveklabnik.github.io/jujutsu-tutorial/">Steve Klabnik's Tutorial on Jujutsu (git replacement)</a> (46 points | 
+              15 comments)<br>2. <a href="https://typst.app/blog/2024/typst-0.12/">Typst 0.12 is just ... better</a> (15 points | 
               5 comments)<br>3. <a href="https://arcan-fe.com/2024/10/18/accessible-arcan-out-of-sight/">Accessible Arcan : Out of Sight</a> (24 points | 
               4 comments)<br>4. <a href="https://evanhahn.com/set-big-timeout/">setBigTimeout</a> (10 points | 
               3 comments)<br>5. <a href="https://lilymara.xyz/posts/2024/01/transit-kindle/">Never Missing the Train Again, Thanks to Rust</a> (26 points | 
@@ -10,11 +10,11 @@
               24 comments)<br>10. <a href="https://technicalwriting.dev/strategy/decisions.html">Focus on decisions, not tasks</a> (4 points | 
               no comments)<br>11. <a href="https://blog.rpanachi.com/after-25-years-writing-software-here-some-things-learned-so-far">I've been writing software for the last 25 years. Here some things I learned so far</a> (5 points | 
               1 comment)<br>12. <a href="https://quansight.com/post/my-numpy-year-creating-a-dtype-for-the-next-generation-of-scientific-computing/">My NumPy Year: Creating a DType for the Next Generation of Scientific Computing | Quansight Consulting</a> (2 points | 
-              no comments)<br>13. <a href="https://evertpot.com/using-top-level-await-is-bc-break/">In the future using top-level await might be a backwards compatibility break in Node</a> (12 points | 
-              12 comments)<br>14. <a href="https://registerspill.thorstenball.com/p/how-i-use-git">How I use git</a> (20 points | 
-              4 comments)<br>15. <a href="https://github.com/whitequark/superlinker">superlinker: a tool for reinterpreting ELF executables and shared libraries</a> (3 points | 
-              no comments)<br>16. <a href="https://pehringer.info/go_plan9_memo.html">A crash course in Go assembly, speeding up calculations 450%</a> (2 points | 
-              no comments)<br>17. <a href="https://www.science.org/doi/10.1126/science.adq2852">AI can help humans find common ground</a> (5 points | 
+              no comments)<br>13. <a href="https://github.com/whitequark/superlinker">superlinker: a tool for reinterpreting ELF executables and shared libraries</a> (4 points | 
+              no comments)<br>14. <a href="https://evertpot.com/using-top-level-await-is-bc-break/">In the future using top-level await might be a backwards compatibility break in Node</a> (12 points | 
+              12 comments)<br>15. <a href="https://registerspill.thorstenball.com/p/how-i-use-git">How I use git</a> (20 points | 
+              5 comments)<br>16. <a href="https://pehringer.info/go_plan9_memo.html">A crash course in Go assembly, speeding up calculations 450%</a> (2 points | 
+              no comments)<br>17. <a href="https://www.science.org/doi/10.1126/science.adq2852">AI can help humans find common ground</a> (4 points | 
               3 comments)<br>18. <a href="/s/qa5lg4/what_are_you_doing_this_weekend">What are you doing this weekend?</a> (6 points | 
               14 comments)<br>19. <a href="https://grsecurity.net/cross_process_spectre_exploitation">Cross-Process Spectre Exploitation</a> (5 points | 
               no comments)<br>20. <a href="https://transputer.net/">Welcome to transputer.net (2007)</a> (4 points | 
@@ -23,4 +23,4 @@
               no comments)<br>23. <a href="https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=53ae9e3455b5b76383116035d7c8365d9999ac49">An Overview of the Spring Operating System (1994)</a> (3 points | 
               3 comments)<br>24. <a href="https://sporks.space/2024/10/17/making-mailing-lists-nicer-writing-a-mail-extension-for-macos-with-mailkit/">Making mailing lists nicer: Writing a mail extension for macOS with MailKit</a> (11 points | 
               11 comments)<br>25. <a href="https://fika.bar/blogs/paoramen/why-is-everybody-talking-about-syncing-engines-01JAAEZTCMZA28DSESAJR3J30J">Why is everybody talking about sync engines?</a> (49 points | 
-              13 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Saturday, October 19, 2024 at 2:45 AM UTC</guid></item></channel></rss>
+              13 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Saturday, October 19, 2024 at 3:20 AM UTC</guid></item></channel></rss>
