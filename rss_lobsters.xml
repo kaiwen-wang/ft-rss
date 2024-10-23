@@ -1,19 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Wed, 23 Oct 2024 08:20:14 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Wednesday, October 23, 2024 at 8:20 AM UTC]]></title><description><![CDATA[1. <a href="https://dotat.at/@/2024-10-22-tmp.html">Against /tmp</a> (85 points | 
-              20 comments)<br>2. <a href="https://mitchellh.com/writing/ghostty-is-coming">Ghostty 1.0 is Coming</a> (103 points | 
-              46 comments)<br>3. <a href="https://www.memorysafety.org/blog/rustls-performance-outperforms/">Rustls Outperforms OpenSSL and BoringSSL</a> (32 points | 
-              15 comments)<br>4. <a href="https://devenv.sh/blog/2024/10/22/devenv-is-switching-nix-implementation-to-tvix/">devenv is switching Nix implementation to Tvix</a> (45 points | 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Wed, 23 Oct 2024 09:16:39 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Wednesday, October 23, 2024 at 9:15 AM UTC]]></title><description><![CDATA[1. <a href="https://dotat.at/@/2024-10-22-tmp.html">Against /tmp</a> (85 points | 
+              24 comments)<br>2. <a href="https://mitchellh.com/writing/ghostty-is-coming">Ghostty 1.0 is Coming</a> (104 points | 
+              47 comments)<br>3. <a href="https://www.memorysafety.org/blog/rustls-performance-outperforms/">Rustls Outperforms OpenSSL and BoringSSL</a> (34 points | 
+              17 comments)<br>4. <a href="https://devenv.sh/blog/2024/10/22/devenv-is-switching-nix-implementation-to-tvix/">devenv is switching Nix implementation to Tvix</a> (45 points | 
               18 comments)<br>5. <a href="https://determinate.systems/posts/announcing-determinate-nix/">Announcing Determinate Nix</a> (27 points | 
-              16 comments)<br>6. <a href="https://blog.ovalerio.net/archives/2996/">An experiment in fighting spam on public forms using “proof of work”</a> (19 points | 
-              26 comments)<br>7. <a href="https://buttondown.com/hillelwayne/archive/tla-from-first-principles/">TLA from first principles</a> (12 points | 
+              17 comments)<br>6. <a href="https://blog.ovalerio.net/archives/2996/">An experiment in fighting spam on public forms using “proof of work”</a> (19 points | 
+              27 comments)<br>7. <a href="https://buttondown.com/hillelwayne/archive/tla-from-first-principles/">TLA from first principles</a> (12 points | 
               no comments)<br>8. <a href="https://michael.stapelberg.ch/posts/2024-10-22-debug-go-core-dumps-delve-export-bytes/">Debug Go core dumps with delve: export byte slices</a> (15 points | 
               no comments)<br>9. <a href="https://registerspill.thorstenball.com/p/use-data-that-looks-like-data">Use data that looks like data</a> (27 points | 
-              7 comments)<br>10. <a href="https://lwn.net/SubscriberLink/994704/0356b274aa959853/">A report from the 2024 Image-Based Linux Summit</a> (12 points | 
-              no comments)<br>11. <a href="https://inria.hal.science/hal-01568396v1/document">Kronos: Soviet Processor Family for High-Level Languages (2006)</a> (6 points | 
+              7 comments)<br>10. <a href="https://inria.hal.science/hal-01568396v1/document">Kronos: Soviet Processor Family for High-Level Languages (2006)</a> (6 points | 
+              1 comment)<br>11. <a href="https://lwn.net/SubscriberLink/994704/0356b274aa959853/">A report from the 2024 Image-Based Linux Summit</a> (12 points | 
               no comments)<br>12. <a href="https://secret.club/2024/10/21/unnecessarily-exhaustice-rca.html">‘Reflections on Trusting Trust’, but completely by accident this time</a> (15 points | 
               3 comments)<br>13. <a href="https://svelte.dev/blog/svelte-5-is-alive">Svelte 5 is alive</a> (16 points | 
-              1 comment)<br>14. <a href="https://www.seas.upenn.edu/~zives/03f/cis550/codd.pdf">A Relational Model of Data for Large Shared Data Banks (1970)</a> (7 points | 
-              1 comment)<br>15. <a href="https://andypiper.co.uk/2024/10/22/mqtt-turns-25-heres-how-it-has-endured/">MQTT turns 25 – here’s how it has endured</a> (15 points | 
-              2 comments)<br>16. <a href="https://bernsteinbear.com/blog/row-poly/">Adding row polymorphism to Damas-Hindley-Milner</a> (3 points | 
+              1 comment)<br>14. <a href="https://andypiper.co.uk/2024/10/22/mqtt-turns-25-heres-how-it-has-endured/">MQTT turns 25 – here’s how it has endured</a> (17 points | 
+              2 comments)<br>15. <a href="https://www.seas.upenn.edu/~zives/03f/cis550/codd.pdf">A Relational Model of Data for Large Shared Data Banks (1970)</a> (7 points | 
+              1 comment)<br>16. <a href="https://bernsteinbear.com/blog/row-poly/">Adding row polymorphism to Damas-Hindley-Milner</a> (3 points | 
               no comments)<br>17. <a href="https://bevyengine.org/news/dream-job/">Progress at the first few months working full time on Bevyengine</a> (3 points | 
               no comments)<br>18. <a href="https://blogsystem5.substack.com/p/bazelcon-2024-recap">BazelCon 2024 recap</a> (3 points | 
               no comments)<br>19. <a href="https://www.kkyri.com/p/how-to-secure-your-new-vps-a-step-by-step-guide">How to secure your new VPS: a step-by-step guide</a> (30 points | 
@@ -23,4 +23,4 @@
               no comments)<br>23. <a href="https://theuselessweb.com/">The Useless Web</a> (1 points | 
               no comments)<br>24. <a href="https://github.com/konstin/sudoku-in-python-packaging">Sudoku solving in python packaging</a> (1 points | 
               no comments)<br>25. <a href="https://turso.tech/blog/a-deep-look-into-our-new-massive-multitenant-architecture">A deep look into our new massive multitenant architecture</a> (4 points | 
-              no comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Wednesday, October 23, 2024 at 8:20 AM UTC</guid></item></channel></rss>
+              no comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Wednesday, October 23, 2024 at 9:15 AM UTC</guid></item></channel></rss>
