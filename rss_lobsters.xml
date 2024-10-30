@@ -1,26 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Wed, 30 Oct 2024 09:16:46 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Wednesday, October 30, 2024 at 9:15 AM UTC]]></title><description><![CDATA[1. <a href="https://matrix.org/blog/2024/10/29/matrix-2.0-is-here/">Matrix 2.0 is here</a> (46 points | 
-              44 comments)<br>2. <a href="https://forum.syncthing.net/t/discontinuing-syncthing-android/23002">Syncthing Android app discontinued</a> (15 points | 
-              13 comments)<br>3. <a href="https://delroth.net/posts/spoofed-mass-scan-abuse/">One weird trick to get the whole planet to send abuse complaints to your best friend(s)</a> (113 points | 
-              16 comments)<br>4. <a href="https://saltproject.io/blog/salt-project-package-repo-migration-and-guidance/">Saltproject.io moving all public repos to broadcom.com by end of month</a> (14 points | 
-              12 comments)<br>5. <a href="https://www.jonathancreamer.com/how-we-shrunk-our-git-repo-size-by-94-percent/">How we shrunk our Javascript monorepo git size by 94%</a> (34 points | 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Wed, 30 Oct 2024 10:17:33 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Wednesday, October 30, 2024 at 10:15 AM UTC]]></title><description><![CDATA[1. <a href="https://matrix.org/blog/2024/10/29/matrix-2.0-is-here/">Matrix 2.0 is here</a> (47 points | 
+              47 comments)<br>2. <a href="https://forum.syncthing.net/t/discontinuing-syncthing-android/23002">Syncthing Android app discontinued</a> (18 points | 
+              16 comments)<br>3. <a href="https://delroth.net/posts/spoofed-mass-scan-abuse/">One weird trick to get the whole planet to send abuse complaints to your best friend(s)</a> (114 points | 
+              16 comments)<br>4. <a href="https://saltproject.io/blog/salt-project-package-repo-migration-and-guidance/">Saltproject.io moving all public repos to broadcom.com by end of month</a> (15 points | 
+              13 comments)<br>5. <a href="https://www.jonathancreamer.com/how-we-shrunk-our-git-repo-size-by-94-percent/">How we shrunk our Javascript monorepo git size by 94%</a> (35 points | 
               14 comments)<br>6. <a href="https://utcc.utoronto.ca/~cks/space/blog/web/HTTP10BlockQuestion">The question of whether to still allow HTTP/1.0 requests or block them</a> (12 points | 
-              5 comments)<br>7. <a href="https://muffinlabs.com/posts/2024/10/29/10-29-rip-botsin-space/">RIP botsin.space</a> (26 points | 
-              4 comments)<br>8. <a href="https://simonwillison.net/2024/Oct/29/llm-multi-modal/">You can now run prompts against images, audio and video in your terminal using LLM</a> (16 points | 
-              no comments)<br>9. <a href="https://www.facebook.com/help/contact/2503286619871400">Object to Your Information Being Used for AI at Meta (WhatsApp)</a> (9 points | 
-              12 comments)<br>10. <a href="https://daniel.lawrence.lu/blog/y2023m12d15/">Using an 8K TV as a monitor</a> (3 points | 
+              6 comments)<br>7. <a href="https://muffinlabs.com/posts/2024/10/29/10-29-rip-botsin-space/">RIP botsin.space</a> (26 points | 
+              4 comments)<br>8. <a href="https://www.facebook.com/help/contact/2503286619871400">Object to Your Information Being Used for AI at Meta (WhatsApp)</a> (10 points | 
+              12 comments)<br>9. <a href="https://simonwillison.net/2024/Oct/29/llm-multi-modal/">You can now run prompts against images, audio and video in your terminal using LLM</a> (16 points | 
+              no comments)<br>10. <a href="https://daniel.lawrence.lu/blog/y2023m12d15/">Using an 8K TV as a monitor</a> (3 points | 
               2 comments)<br>11. <a href="https://www.brendangregg.com/blog//2024-10-29/ai-flame-graphs.html">AI Flame Graphs</a> (3 points | 
               no comments)<br>12. <a href="https://bugzilla.redhat.com/show_bug.cgi?id=CVE-2024-9632">CVE-2024-9632 xorg-x11-server: heap-based buffer overflow privilege escalation vulnerability</a> (7 points | 
-              8 comments)<br>13. <a href="https://protomaps.com/">A free and open source map of the world, deployable as a single static file</a> (79 points | 
-              10 comments)<br>14. <a href="https://www.arp242.net/jia-tan-go.html">Jia Tanning Go code</a> (91 points | 
-              15 comments)<br>15. <a href="https://pretalx.fosdem.org/fosdem-2025/cfp">FOSDEM 2025 - Presentations - Call for Participation</a> (9 points | 
-              5 comments)<br>16. <a href="https://paper.wf/binarycat/un-deprecate-big">Un-Deprecate <big>: my plea to the w3c</a> (2 points | 
-              27 comments)<br>17. <a href="https://discuss.haiku-os.org/t/ransomware-for-haiku/15766">Ransomware for Haiku</a> (7 points | 
-              2 comments)<br>18. <a href="https://flutterfoundation.dev/blog/posts/we-are-forking-flutter-this-is-why/">We're forking Flutter. This is why</a> (34 points | 
-              15 comments)<br>19. <a href="https://blog.pspaul.de/posts/ancient-monkey-pwning-a-17-year-old-version-of-spidermonkey/">Ancient Monkey: Pwning a 17-Year-Old Version of SpiderMonkey</a> (6 points | 
-              2 comments)<br>20. <a href="https://paper.wf/binarycat/rtp">RTP: One protocol to rule them all</a> (22 points | 
-              44 comments)<br>21. <a href="https://blog.bemyak.net/dev/security/">Avoiding accidental downgrade of 2FA</a> (6 points | 
-              3 comments)<br>22. <a href="https://andrewlock.net/working-with-stacked-branches-in-git-is-easier-with-update-refs/">Working with stacked branches in Git is easier with --update-refs</a> (37 points | 
-              8 comments)<br>23. <a href="https://www.youtube.com/watch?v=Wb_vD3XZYOA">eBPF: Unlocking the Kernel [OFFICIAL DOCUMENTARY]</a> (12 points | 
-              3 comments)<br>24. <a href="https://www.arguingwithalgorithms.com/posts/cursor-review.html">How I write code using Cursor: A review</a> (9 points | 
-              1 comment)<br>25. <a href="https://github.com/freetonik/textpod">Local web-based notes app inspired by "One Big Text File" with webpage downloads</a> (26 points | 
-              12 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Wednesday, October 30, 2024 at 9:15 AM UTC</guid></item></channel></rss>
+              11 comments)<br>13. <a href="https://www.infoq.com/presentations/1brc/">1BRC: Nerd Sniping the Java Community</a> (2 points | 
+              no comments)<br>14. <a href="https://protomaps.com/">A free and open source map of the world, deployable as a single static file</a> (80 points | 
+              10 comments)<br>15. <a href="https://ssoready.com/blog/engineering/truths-programmers-timezones/">Australia/Lord_Howe is the weirdest timezone</a> (1 points | 
+              no comments)<br>16. <a href="https://daniel.haxx.se/blog/2024/10/30/eighteen-years-of-abi-stability/">Eighteen years of ABI stability (curl)</a> (1 points | 
+              no comments)<br>17. <a href="https://www.arp242.net/jia-tan-go.html">Jia Tanning Go code</a> (91 points | 
+              15 comments)<br>18. <a href="https://nondv.wtf/blog/posts/code-review-guide.html">Code review guide</a> (1 points | 
+              no comments)<br>19. <a href="https://pretalx.fosdem.org/fosdem-2025/cfp">FOSDEM 2025 - Presentations - Call for Participation</a> (9 points | 
+              5 comments)<br>20. <a href="https://paper.wf/binarycat/un-deprecate-big">Un-Deprecate <big>: my plea to the w3c</a> (2 points | 
+              28 comments)<br>21. <a href="https://discuss.haiku-os.org/t/ransomware-for-haiku/15766">Ransomware for Haiku</a> (7 points | 
+              2 comments)<br>22. <a href="https://blog.bemyak.net/dev/security/">Avoiding accidental downgrade of 2FA</a> (8 points | 
+              3 comments)<br>23. <a href="https://flutterfoundation.dev/blog/posts/we-are-forking-flutter-this-is-why/">We're forking Flutter. This is why</a> (34 points | 
+              15 comments)<br>24. <a href="https://blog.pspaul.de/posts/ancient-monkey-pwning-a-17-year-old-version-of-spidermonkey/">Ancient Monkey: Pwning a 17-Year-Old Version of SpiderMonkey</a> (6 points | 
+              2 comments)<br>25. <a href="https://paper.wf/binarycat/rtp">RTP: One protocol to rule them all</a> (22 points | 
+              44 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Wednesday, October 30, 2024 at 10:15 AM UTC</guid></item></channel></rss>
