@@ -1,18 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Thu, 31 Oct 2024 13:22:52 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Thursday, October 31, 2024 at 1:20 PM UTC]]></title><description><![CDATA[1. <a href="https://ssoready.com/blog/engineering/truths-programmers-timezones/">Australia/Lord_Howe is the weirdest timezone</a> (112 points | 
-              20 comments)<br>2. <a href="https://gaultier.github.io/blog/lessons_learned_from_a_successful_rust_rewrite.html">Lessons learned from a successful Rust rewrite</a> (30 points | 
-              20 comments)<br>3. <a href="https://explaining.software/archive/the-death-of-the-architect/">the death of the architect</a> (20 points | 
-              7 comments)<br>4. <a href="https://www.youtube.com/watch?v=5vbk0TwkokM">How on Earth does ^.?$|^(..+?)\1+$ produce primes?</a> (5 points | 
-              1 comment)<br>5. <a href="https://www.reactivesystems.eu/2024/10/31/the-dual-nature-of-events-in-eda.html">The Dual Nature of Events in Event-Driven Architecture</a> (5 points | 
-              no comments)<br>6. <a href="https://blog.thunderbird.net/2024/10/thunderbird-for-android-8-0-takes-flight/">Thunderbird for Android 8.0 Takes Flight</a> (19 points | 
-              5 comments)<br>7. <a href="https://zed.dev/blog/remote-development">Zed - SSH Remoting is Here</a> (5 points | 
-              1 comment)<br>8. <a href="https://letsjelly.com">A simple shared email inbox for teams</a> (3 points | 
-              no comments)<br>9. <a href="https://kodare.net/2024/10/31/a-million-tests.html">Running a million empty tests</a> (5 points | 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Thu, 31 Oct 2024 14:15:11 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Thursday, October 31, 2024 at 2:15 PM UTC]]></title><description><![CDATA[1. <a href="https://ssoready.com/blog/engineering/truths-programmers-timezones/">Australia/Lord_Howe is the weirdest timezone</a> (115 points | 
+              22 comments)<br>2. <a href="https://explaining.software/archive/the-death-of-the-architect/">the death of the architect</a> (20 points | 
+              7 comments)<br>3. <a href="https://www.reactivesystems.eu/2024/10/31/the-dual-nature-of-events-in-eda.html">The Dual Nature of Events in Event-Driven Architecture</a> (6 points | 
+              2 comments)<br>4. <a href="https://gaultier.github.io/blog/lessons_learned_from_a_successful_rust_rewrite.html">Lessons learned from a successful Rust rewrite</a> (30 points | 
+              20 comments)<br>5. <a href="https://zed.dev/blog/remote-development">Zed - SSH Remoting is Here</a> (9 points | 
+              1 comment)<br>6. <a href="https://letsjelly.com">A simple shared email inbox for teams</a> (4 points | 
+              1 comment)<br>7. <a href="https://www.youtube.com/watch?v=5vbk0TwkokM">How on Earth does ^.?$|^(..+?)\1+$ produce primes?</a> (5 points | 
+              2 comments)<br>8. <a href="https://blog.thunderbird.net/2024/10/thunderbird-for-android-8-0-takes-flight/">Thunderbird for Android 8.0 Takes Flight</a> (20 points | 
+              6 comments)<br>9. <a href="https://kodare.net/2024/10/31/a-million-tests.html">Running a million empty tests</a> (9 points | 
               no comments)<br>10. <a href="https://matrix.org/blog/2024/10/29/matrix-2.0-is-here/">Matrix 2.0 is here</a> (69 points | 
-              100 comments)<br>11. <a href="https://garyodernichts.blogspot.com/2024/10/looking-into-nintendo-alarmo.html">Looking into the Nintendo Alarmo</a> (30 points | 
-              4 comments)<br>12. <a href="https://tonbo.io/blog/async-rust-is-not-safe-with-io-uring">Async Rust is not safe with io_uring</a> (24 points | 
-              28 comments)<br>13. <a href="https://daniel.haxx.se/blog/2024/10/30/eighteen-years-of-abi-stability/">Eighteen years of ABI stability (curl)</a> (25 points | 
-              10 comments)<br>14. <a href="https://hurmet.org/sample">Hurmet: A notebook for calculations</a> (2 points | 
-              no comments)<br>15. <a href="https://blog.maximeheckel.com/posts/on-crafting-painterly-shaders/?ck_subscriber_id=2669647738">On Crafting Painterly Shaders</a> (20 points | 
+              102 comments)<br>11. <a href="https://tonbo.io/blog/async-rust-is-not-safe-with-io-uring">Async Rust is not safe with io_uring</a> (25 points | 
+              28 comments)<br>12. <a href="https://garyodernichts.blogspot.com/2024/10/looking-into-nintendo-alarmo.html">Looking into the Nintendo Alarmo</a> (30 points | 
+              4 comments)<br>13. <a href="https://daniel.haxx.se/blog/2024/10/30/eighteen-years-of-abi-stability/">Eighteen years of ABI stability (curl)</a> (27 points | 
+              10 comments)<br>14. <a href="https://blog.maximeheckel.com/posts/on-crafting-painterly-shaders/?ck_subscriber_id=2669647738">On Crafting Painterly Shaders</a> (21 points | 
+              no comments)<br>15. <a href="https://hurmet.org/sample">Hurmet: A notebook for calculations</a> (2 points | 
               no comments)<br>16. <a href="https://blog.izissise.net/posts/ngxp-listing/">Nginx Explorer - File listing</a> (1 points | 
               no comments)<br>17. <a href="https://abhinavsarkar.net/posts/repling-with-haskeline/">Going REPLing with Haskeline</a> (2 points | 
               2 comments)<br>18. <a href="https://gregbenzphotography.com/hdr-photos/cats-vs-dogs-hdr-gain-map-test/">Cats vs dogs (HDR gain map test)</a> (8 points | 
@@ -20,7 +20,7 @@
               no comments)<br>20. <a href="https://www.jeremykun.com/2024/10/30/how-this-blog-does-indieweb/">How This Blog Does IndieWeb</a> (8 points | 
               no comments)<br>21. <a href="https://forum.syncthing.net/t/discontinuing-syncthing-android/23002">Syncthing Android app discontinued</a> (42 points | 
               24 comments)<br>22. <a href="https://arstechnica.com/ai/2024/10/google-ceo-says-over-25-of-new-google-code-is-generated-by-ai/">Google CEO says over 25% of new Google code is generated by AI</a> (4 points | 
-              31 comments)<br>23. <a href="https://entropicthoughts.com/probability-generating-functions">Probability-Generating Functions</a> (2 points | 
-              no comments)<br>24. <a href="https://nabijaczleweli.xyz/content/blogn_t/017-malloc0.html">malloc(0) & realloc(…，0) != 0</a> (12 points | 
-              5 comments)<br>25. <a href="https://asthasr.github.io/posts/generative-ai/">Generative AI and the Programmer</a> (9 points | 
-              4 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Thursday, October 31, 2024 at 1:20 PM UTC</guid></item></channel></rss>
+              32 comments)<br>23. <a href="https://nabijaczleweli.xyz/content/blogn_t/017-malloc0.html">malloc(0) & realloc(…，0) != 0</a> (12 points | 
+              5 comments)<br>24. <a href="https://entropicthoughts.com/probability-generating-functions">Probability-Generating Functions</a> (2 points | 
+              no comments)<br>25. <a href="https://asthasr.github.io/posts/generative-ai/">Generative AI and the Programmer</a> (9 points | 
+              4 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Thursday, October 31, 2024 at 2:15 PM UTC</guid></item></channel></rss>
