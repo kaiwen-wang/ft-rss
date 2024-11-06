@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Wed, 06 Nov 2024 06:21:41 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Wednesday, November 6, 2024 at 6:20 AM UTC]]></title><description><![CDATA[1. <a href="https://www.citationneeded.news/we-can-have-a-different-web/">We can have a different web</a> (27 points | 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Wed, 06 Nov 2024 07:16:54 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Wednesday, November 6, 2024 at 7:15 AM UTC]]></title><description><![CDATA[1. <a href="https://www.citationneeded.news/we-can-have-a-different-web/">We can have a different web</a> (29 points | 
               14 comments)<br>2. <a href="https://www.openmymind.net/Zigs-weird-syntax/">Zig's (.{}){} syntax</a> (61 points | 
               5 comments)<br>3. <a href="https://ziglang.org/devlog/2024/#2024-11-04">The Unreasonable Effectiveness of Naming Integers</a> (30 points | 
               21 comments)<br>4. <a href="https://stevenharman.net/configure-ssh-keys-for-multiple-github-accounts">Configuring SSH Keys for Multiple GitHub Accounts</a> (16 points | 
@@ -9,18 +9,18 @@
               35 comments)<br>9. <a href="https://hanamirb.org/blog/2024/11/05/hanami-220/">Hanami 2.2: Persistence pays off</a> (17 points | 
               3 comments)<br>10. <a href="https://nochlin.com/blog/how-the-new-sqlite3_rsync-utility-works">How the New sqlite3_rsync Utility Works</a> (19 points | 
               1 comment)<br>11. <a href="https://blogsystem5.substack.com/p/demystifying-secure-nfs">Demystifying secure NFS</a> (26 points | 
-              13 comments)<br>12. <a href="https://github.com/nlewo/comin">comin: GitOps For NixOS Machines</a> (14 points | 
-              6 comments)<br>13. <a href="https://arstechnica.com/security/2024/11/javascript-developers-targeted-by-hundreds-of-malicious-code-libraries/">Hundreds of code libraries posted to NPM try to install malware on dev machines</a> (6 points | 
-              4 comments)<br>14. <a href="https://medium.com/@tonywangcn/27-6-of-the-top-10-million-sites-are-dead-6bc7805efa85">27.6% of the Top 10 Million Sites are Dead</a> (5 points | 
-              3 comments)<br>15. <a href="https://gleam.run//news/developer-survey-2024/">Developer Survey 2024</a> (13 points | 
-              1 comment)<br>16. <a href="https://www.youtube.com/watch?v=oNQLhcn5gvE&t=3h53m48s">CheriBSD - Memory safety for FreeBSD without rewriting</a> (10 points | 
-              no comments)<br>17. <a href="https://github.com/Dr-Nekoma/lyceum">Lyceum - An MMO game written in Erlang + Zig (+ Raylib)</a> (5 points | 
-              5 comments)<br>18. <a href="https://code.jsoftware.com/wiki/ShareMyScreen">ShareMyScreen - see how J experts write a program</a> (5 points | 
-              1 comment)<br>19. <a href="https://smallcultfollowing.com/babysteps/blog/2024/11/05/minpin/">MinPin: yet another pin proposal</a> (4 points | 
-              no comments)<br>20. <a href="https://matt.blwt.io/post/on-that-okta-ldap-bug/">On That Okta LDAP Bug</a> (4 points | 
-              no comments)<br>21. <a href="https://www.tumfatig.net/2024/gotosocial-wasm-based-sqlite-driver-and-bsd/">GoToSocial WASM-based SQLite driver and BSD</a> (1 points | 
+              13 comments)<br>12. <a href="https://www.tumfatig.net/2024/gotosocial-wasm-based-sqlite-driver-and-bsd/">GoToSocial WASM-based SQLite driver and BSD</a> (2 points | 
+              1 comment)<br>13. <a href="https://github.com/nlewo/comin">comin: GitOps For NixOS Machines</a> (15 points | 
+              6 comments)<br>14. <a href="https://arstechnica.com/security/2024/11/javascript-developers-targeted-by-hundreds-of-malicious-code-libraries/">Hundreds of code libraries posted to NPM try to install malware on dev machines</a> (6 points | 
+              4 comments)<br>15. <a href="https://medium.com/@tonywangcn/27-6-of-the-top-10-million-sites-are-dead-6bc7805efa85">27.6% of the Top 10 Million Sites are Dead</a> (5 points | 
+              3 comments)<br>16. <a href="https://gleam.run//news/developer-survey-2024/">Developer Survey 2024</a> (13 points | 
+              1 comment)<br>17. <a href="https://smallcultfollowing.com/babysteps/blog/2024/11/05/minpin/">MinPin: yet another pin proposal</a> (5 points | 
+              no comments)<br>18. <a href="https://www.youtube.com/watch?v=oNQLhcn5gvE&t=3h53m48s">CheriBSD - Memory safety for FreeBSD without rewriting</a> (10 points | 
+              no comments)<br>19. <a href="https://github.com/Dr-Nekoma/lyceum">Lyceum - An MMO game written in Erlang + Zig (+ Raylib)</a> (5 points | 
+              5 comments)<br>20. <a href="https://code.jsoftware.com/wiki/ShareMyScreen">ShareMyScreen - see how J experts write a program</a> (5 points | 
+              1 comment)<br>21. <a href="https://matt.blwt.io/post/on-that-okta-ldap-bug/">On That Okta LDAP Bug</a> (4 points | 
               no comments)<br>22. <a href="https://marijkeluttekes.dev/blog/articles/2024/11/04/html-link-or-button-that-is-the-question/">HTML link, or button, that is the question</a> (40 points | 
               12 comments)<br>23. <a href="https://www.scalevp.com/insights/the-rise-of-advanced-build-systems/">The rise of advanced build systems</a> (10 points | 
-              no comments)<br>24. <a href="https://www.danielgratzer.com/papers/type-theory-book.pdf">Principles of Dependent Type Theory</a> (29 points | 
+              no comments)<br>24. <a href="https://www.danielgratzer.com/papers/type-theory-book.pdf">Principles of Dependent Type Theory</a> (30 points | 
               no comments)<br>25. <a href="https://www.gitpod.io/blog/we-are-leaving-kubernetes">We’re leaving Kubernetes</a> (44 points | 
-              8 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Wednesday, November 6, 2024 at 6:20 AM UTC</guid></item></channel></rss>
+              8 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Wednesday, November 6, 2024 at 7:15 AM UTC</guid></item></channel></rss>
