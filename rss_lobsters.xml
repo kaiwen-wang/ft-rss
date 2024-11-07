@@ -1,26 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Thu, 07 Nov 2024 18:20:20 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Thursday, November 7, 2024 at 6:20 PM UTC]]></title><description><![CDATA[1. <a href="https://adele.pages.casa/md/blog/xmpp-the-forgotten-gem-of-instant-messaging.md">XMPP: The Forgotten Gem of Instant Messaging</a> (12 points | 
-              8 comments)<br>2. <a href="https://dotat.at/@/2024-11-06-getopt.html">getopt() but smaller</a> (34 points | 
-              6 comments)<br>3. <a href="https://thephd.dev/the-big-array-size-survey-for-c">The Big Array Size Survey for C</a> (19 points | 
-              6 comments)<br>4. <a href="https://www.freebsd.org/status/report-2024-07-2024-09/">FreeBSD 2024 Q3 Status Report</a> (7 points | 
-              1 comment)<br>5. <a href="https://computer.rip/2022-01-16-peer-to-peer-but-mostly-the-main-peer.html">peer to peer but mostly the main peer (2022)</a> (11 points | 
-              3 comments)<br>6. <a href="https://david.guillot.me/en/posts/tech/proposal-for-a-django-project-template/">Proposal for a Django project template</a> (4 points | 
-              2 comments)<br>7. <a href="https://dz4k.com/2024/fruit-credits/">Fruit Credits: a personal accounting app based on hledger</a> (16 points | 
-              4 comments)<br>8. <a href="https://transactional.blog/how-to-learn/disk-io">How to Learn: Userland Disk I/O</a> (19 points | 
-              4 comments)<br>9. <a href="https://lamport.azurewebsites.net/tla/science-book.html">A Science of Concurrent Programs</a> (12 points | 
-              1 comment)<br>10. <a href="https://nfil.dev/coding/encryption/python/double-ratchet-example/">Implementing Signal’s Double Ratchet algorithm (2020)</a> (10 points | 
-              2 comments)<br>11. <a href="https://www.recall.ai/post/how-websockets-cost-us-1m-on-our-aws-bill">How WebSockets cost us $1M on our AWS bill</a> (21 points | 
-              4 comments)<br>12. <a href="https://hannahilea.com/blog/yellow-scream-2024/">Yellow Scream (2024)</a> (6 points | 
-              no comments)<br>13. <a href="https://www.sonarsource.com/blog/sanitize-client-side-why-server-side-html-sanitization-is-doomed-to-fail/">Sanitize Client-Side: Why Server-Side HTML Sanitization is Doomed to Fail</a> (2 points | 
-              9 comments)<br>14. <a href="https://xy2i.blogspot.com/2024/11/using-imhexs-pattern-language-to-parse.html">Visualizing binary files with ImHex's DSL, the "pattern language"</a> (17 points | 
-              1 comment)<br>15. <a href="https://www.enterprisedb.com/blog/exploring-postgress-arena-allocator-writing-http-server-scratch">Exploring Postgres's arena allocator by writing an HTTP server from scratch</a> (14 points | 
-              no comments)<br>16. <a href="https://gaultier.github.io/blog/perhaps_rust_needs_defer.html">Perhaps Rust needs "defer"</a> (13 points | 
-              19 comments)<br>17. <a href="https://www.youtube.com/watch?v=x2-rSnhpw0g">Visualising software architecture with the C4 model (2019)</a> (2 points | 
-              no comments)<br>18. <a href="https://samrat.me/elixir-distributed-pooling/">Implementing distributed pooling in Elixir</a> (18 points | 
-              no comments)<br>19. <a href="https://seclists.org/oss-sec/2024/q4/56">oss-sec: shell wildcard expansion (un)safety</a> (3 points | 
-              2 comments)<br>20. <a href="https://datademythed.com/posts/2nf_missing_use_case/">2NF: The Missing Use Case</a> (4 points | 
-              no comments)<br>21. <a href="https://paper.wf/binarycat/reliable-immutable-transfer-protocol">Reliable Immutable Transfer Protocol</a> (10 points | 
-              4 comments)<br>22. <a href="https://github.com/Xafloc/NoteFlow">Localized, web-based, markdown, note-taking app inspired by textpod</a> (4 points | 
-              6 comments)<br>23. <a href="https://klemens-czajka-xyz.translate.goog/?_x_tr_sl=pl&_x_tr_tl=en&_x_tr_hl=pl&_x_tr_pto=wapp">Emulator of Odra 1003/1013, Polish mainframes of the 1960s</a> (8 points | 
-              1 comment)<br>24. <a href="https://buttondown.com/hillelwayne/archive/turing-kicked-us-out-of-heaven/">Turing kicked us out of Heaven (2023)</a> (20 points | 
-              17 comments)<br>25. <a href="https://jamie.ideasasylum.com/2024/10/31/why-podia-doesnt-use-review-apps-anymore">Why Podia doesn’t use review apps anymore</a> (12 points | 
-              1 comment)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Thursday, November 7, 2024 at 6:20 PM UTC</guid></item></channel></rss>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Thu, 07 Nov 2024 19:11:56 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Thursday, November 7, 2024 at 7:10 PM UTC]]></title><description><![CDATA[1. <a href="https://adele.pages.casa/md/blog/xmpp-the-forgotten-gem-of-instant-messaging.md">XMPP: The Forgotten Gem of Instant Messaging</a> (14 points | 
+              12 comments)<br>2. <a href="https://dotat.at/@/2024-11-06-getopt.html">getopt() but smaller</a> (34 points | 
+              7 comments)<br>3. <a href="https://thephd.dev/the-big-array-size-survey-for-c">The Big Array Size Survey for C</a> (23 points | 
+              6 comments)<br>4. <a href="https://david.guillot.me/en/posts/tech/proposal-for-a-django-project-template/">Proposal for a Django project template</a> (6 points | 
+              3 comments)<br>5. <a href="https://doi.ieeecomputersociety.org/10.1109/SP61157.2025.00052">PYLINGUAL: Toward Perfect Decompilation of Evolving High-Level Languages</a> (3 points | 
+              no comments)<br>6. <a href="https://www.freebsd.org/status/report-2024-07-2024-09/">FreeBSD 2024 Q3 Status Report</a> (7 points | 
+              1 comment)<br>7. <a href="https://computer.rip/2022-01-16-peer-to-peer-but-mostly-the-main-peer.html">peer to peer but mostly the main peer (2022)</a> (13 points | 
+              3 comments)<br>8. <a href="https://dz4k.com/2024/fruit-credits/">Fruit Credits: a personal accounting app based on hledger</a> (17 points | 
+              4 comments)<br>9. <a href="https://transactional.blog/how-to-learn/disk-io">How to Learn: Userland Disk I/O</a> (19 points | 
+              4 comments)<br>10. <a href="https://rust-gpu.github.io/blog/2024/11/06/new-maintainers/">Welcoming two new Rust GPU maintainers</a> (3 points | 
+              no comments)<br>11. <a href="https://nfil.dev/coding/encryption/python/double-ratchet-example/">Implementing Signal’s Double Ratchet algorithm (2020)</a> (11 points | 
+              2 comments)<br>12. <a href="https://hg.sr.ht/~icefox/determination">determination: Rust typecheckers for System F and System F-omega</a> (1 points | 
+              no comments)<br>13. <a href="https://lamport.azurewebsites.net/tla/science-book.html">A Science of Concurrent Programs</a> (12 points | 
+              1 comment)<br>14. <a href="https://www.recall.ai/post/how-websockets-cost-us-1m-on-our-aws-bill">How WebSockets cost us $1M on our AWS bill</a> (21 points | 
+              5 comments)<br>15. <a href="https://xy2i.blogspot.com/2024/11/using-imhexs-pattern-language-to-parse.html">Visualizing binary files with ImHex's DSL, the "pattern language"</a> (19 points | 
+              2 comments)<br>16. <a href="https://hannahilea.com/blog/yellow-scream-2024/">Yellow Scream (2024)</a> (6 points | 
+              no comments)<br>17. <a href="https://www.sonarsource.com/blog/sanitize-client-side-why-server-side-html-sanitization-is-doomed-to-fail/">Sanitize Client-Side: Why Server-Side HTML Sanitization is Doomed to Fail</a> (2 points | 
+              9 comments)<br>18. <a href="https://www.enterprisedb.com/blog/exploring-postgress-arena-allocator-writing-http-server-scratch">Exploring Postgres's arena allocator by writing an HTTP server from scratch</a> (14 points | 
+              no comments)<br>19. <a href="https://gaultier.github.io/blog/perhaps_rust_needs_defer.html">Perhaps Rust needs "defer"</a> (14 points | 
+              19 comments)<br>20. <a href="https://www.youtube.com/watch?v=x2-rSnhpw0g">Visualising software architecture with the C4 model (2019)</a> (2 points | 
+              no comments)<br>21. <a href="https://blog.rust-lang.org/2024/11/07/gccrs-an-alternative-compiler-for-rust.html">gccrs: An alternative compiler for Rust</a> (1 points | 
+              no comments)<br>22. <a href="https://samrat.me/elixir-distributed-pooling/">Implementing distributed pooling in Elixir</a> (18 points | 
+              no comments)<br>23. <a href="https://seclists.org/oss-sec/2024/q4/56">oss-sec: shell wildcard expansion (un)safety</a> (3 points | 
+              2 comments)<br>24. <a href="https://www.haiku-os.org/blog/waddlesplash/2024-11-06-haiku_activity_contract_report_october_2024">Haiku Activity & Contract Report, October 2024</a> (1 points | 
+              no comments)<br>25. <a href="https://paper.wf/binarycat/reliable-immutable-transfer-protocol">Reliable Immutable Transfer Protocol</a> (10 points | 
+              8 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Thursday, November 7, 2024 at 7:10 PM UTC</guid></item></channel></rss>
