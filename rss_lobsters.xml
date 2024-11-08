@@ -1,26 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Fri, 08 Nov 2024 08:19:23 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Friday, November 8, 2024 at 8:20 AM UTC]]></title><description><![CDATA[1. <a href="https://adele.pages.casa/md/blog/xmpp-the-forgotten-gem-of-instant-messaging.md">XMPP: The Forgotten Gem of Instant Messaging</a> (39 points | 
-              39 comments)<br>2. <a href="https://rubyonrails.org/2024/11/7/rails-8-no-paas-required">Rails 8.0: No PaaS Required</a> (13 points | 
-              3 comments)<br>3. <a href="https://blog.rust-lang.org/2024/11/07/gccrs-an-alternative-compiler-for-rust.html">gccrs: An alternative compiler for Rust</a> (33 points | 
-              1 comment)<br>4. <a href="https://www.phoronix.com/news/Linus-2.6p-Faster-Scale-Patch">Linus Torvalds lands a 2.6% performance improvement with minor Linux kernel patch</a> (23 points | 
-              no comments)<br>5. <a href="https://github.com/tiagodusilva/coral">CORAL: a Rust-like Borrow Checker for C</a> (16 points | 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Fri, 08 Nov 2024 09:16:00 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Friday, November 8, 2024 at 9:15 AM UTC]]></title><description><![CDATA[1. <a href="https://adele.pages.casa/md/blog/xmpp-the-forgotten-gem-of-instant-messaging.md">XMPP: The Forgotten Gem of Instant Messaging</a> (40 points | 
+              40 comments)<br>2. <a href="https://rubyonrails.org/2024/11/7/rails-8-no-paas-required">Rails 8.0: No PaaS Required</a> (16 points | 
+              3 comments)<br>3. <a href="https://www.phoronix.com/news/Linus-2.6p-Faster-Scale-Patch">Linus Torvalds lands a 2.6% performance improvement with minor Linux kernel patch</a> (25 points | 
+              2 comments)<br>4. <a href="https://blog.rust-lang.org/2024/11/07/gccrs-an-alternative-compiler-for-rust.html">gccrs: An alternative compiler for Rust</a> (33 points | 
+              1 comment)<br>5. <a href="https://github.com/tiagodusilva/coral">CORAL: a Rust-like Borrow Checker for C</a> (17 points | 
               2 comments)<br>6. <a href="https://johnlindquist.com/an-opinionated-guide-to-keyboard-thumb-keys/">An Opinionated Guide to Keyboard Thumb Keys</a> (13 points | 
-              6 comments)<br>7. <a href="https://www.ueber.net/who/mjl/blog/p/ysco-managed-automated-updates-for-go-services/">Ysco - managed automated updates for Go services</a> (6 points | 
-              no comments)<br>8. <a href="https://dotat.at/@/2024-11-06-getopt.html">getopt() but smaller</a> (39 points | 
+              8 comments)<br>7. <a href="https://www.ueber.net/who/mjl/blog/p/ysco-managed-automated-updates-for-go-services/">Ysco - managed automated updates for Go services</a> (6 points | 
+              1 comment)<br>8. <a href="https://dotat.at/@/2024-11-06-getopt.html">getopt() but smaller</a> (39 points | 
               8 comments)<br>9. <a href="https://thephd.dev/the-big-array-size-survey-for-c">The Big Array Size Survey for C</a> (27 points | 
               10 comments)<br>10. <a href="https://hg.sr.ht/~icefox/determination">determination: Rust typecheckers for System F and System F-omega</a> (6 points | 
               2 comments)<br>11. <a href="https://blog.dnmfarrell.com/post/incomplete-data-structures/">I'm not mutable, I'm partially instantiated</a> (5 points | 
-              no comments)<br>12. <a href="https://www.freebsd.org/status/report-2024-07-2024-09/">FreeBSD 2024 Q3 Status Report</a> (15 points | 
+              no comments)<br>12. <a href="https://www.freebsd.org/status/report-2024-07-2024-09/">FreeBSD 2024 Q3 Status Report</a> (16 points | 
               2 comments)<br>13. <a href="https://doi.ieeecomputersociety.org/10.1109/SP61157.2025.00052">PYLINGUAL: Toward Perfect Decompilation of Evolving High-Level Languages</a> (5 points | 
-              1 comment)<br>14. <a href="https://david.guillot.me/en/posts/tech/proposal-for-a-django-project-template/">Proposal for a Django project template</a> (7 points | 
+              1 comment)<br>14. <a href="https://david.guillot.me/en/posts/tech/proposal-for-a-django-project-template/">Proposal for a Django project template</a> (8 points | 
               7 comments)<br>15. <a href="https://purplesyringa.moe/blog/bringing-faster-exceptions-to-rust/">Bringing faster exceptions to Rust</a> (3 points | 
               1 comment)<br>16. <a href="https://systex24.github.io/papers/systex24-final21.pdf">Understanding Trust Relationships in Cloud-Based Confidential Computing</a> (2 points | 
-              no comments)<br>17. <a href="https://computer.rip/2022-01-16-peer-to-peer-but-mostly-the-main-peer.html">peer to peer but mostly the main peer (2022)</a> (18 points | 
-              3 comments)<br>18. <a href="https://rust-gpu.github.io/blog/2024/11/06/new-maintainers/">Welcoming two new Rust GPU maintainers</a> (5 points | 
-              no comments)<br>19. <a href="https://hannahilea.com/blog/yellow-scream-2024/">Yellow Scream (2024)</a> (12 points | 
-              no comments)<br>20. <a href="https://transactional.blog/how-to-learn/disk-io">How to Learn: Userland Disk I/O</a> (25 points | 
-              7 comments)<br>21. <a href="https://dz4k.com/2024/fruit-credits/">Fruit Credits: a personal accounting app based on hledger</a> (21 points | 
-              4 comments)<br>22. <a href="https://www.sonarsource.com/blog/sanitize-client-side-why-server-side-html-sanitization-is-doomed-to-fail/">Sanitize Client-Side: Why Server-Side HTML Sanitization is Doomed to Fail</a> (4 points | 
-              16 comments)<br>23. <a href="https://www.youtube.com/watch?v=kIhY4VDa820">Clojure in live sports television (Clojure Conj 2024)</a> (1 points | 
-              1 comment)<br>24. <a href="https://rhonabwy.com/2024/11/07/code-spelunking-in-docc/">Code Spelunking in DocC</a> (1 points | 
-              no comments)<br>25. <a href="https://www.recall.ai/post/how-websockets-cost-us-1m-on-our-aws-bill">How WebSockets cost us $1M on our AWS bill</a> (23 points | 
-              5 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Friday, November 8, 2024 at 8:20 AM UTC</guid></item></channel></rss>
+              no comments)<br>17. <a href="https://blog.zsa.io/oryx-custom-qmk-features/">Using a DIY tool to add custom QMK features to your Oryx layout</a> (1 points | 
+              no comments)<br>18. <a href="https://jitesh117.github.io/blog/creating-a-brainrot-language-server-in-golang/">Creating a Brainrot Language Server in Golang</a> (1 points | 
+              no comments)<br>19. <a href="https://computer.rip/2022-01-16-peer-to-peer-but-mostly-the-main-peer.html">peer to peer but mostly the main peer (2022)</a> (18 points | 
+              3 comments)<br>20. <a href="https://hannahilea.com/blog/yellow-scream-2024/">Yellow Scream (2024)</a> (13 points | 
+              no comments)<br>21. <a href="https://rust-gpu.github.io/blog/2024/11/06/new-maintainers/">Welcoming two new Rust GPU maintainers</a> (5 points | 
+              no comments)<br>22. <a href="https://transactional.blog/how-to-learn/disk-io">How to Learn: Userland Disk I/O</a> (25 points | 
+              7 comments)<br>23. <a href="https://dz4k.com/2024/fruit-credits/">Fruit Credits: a personal accounting app based on hledger</a> (21 points | 
+              4 comments)<br>24. <a href="https://www.sonarsource.com/blog/sanitize-client-side-why-server-side-html-sanitization-is-doomed-to-fail/">Sanitize Client-Side: Why Server-Side HTML Sanitization is Doomed to Fail</a> (4 points | 
+              16 comments)<br>25. <a href="https://www.youtube.com/watch?v=kIhY4VDa820">Clojure in live sports television (Clojure Conj 2024)</a> (1 points | 
+              1 comment)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Friday, November 8, 2024 at 9:15 AM UTC</guid></item></channel></rss>
