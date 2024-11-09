@@ -1,26 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Sat, 09 Nov 2024 14:13:24 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Saturday, November 9, 2024 at 2:15 PM UTC]]></title><description><![CDATA[1. <a href="https://www.circle-lang.org/interop.html">Building Bridges to C++</a> (6 points | 
-              3 comments)<br>2. <a href="https://matthewbilyeu.com/tone-of-life.html?saved=AAAAAADgAYAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=">Tone of Life</a> (18 points | 
-              2 comments)<br>3. <a href="https://github.com/elikaski/ECC_Attacks">Known Attacks On Elliptic Curve Cryptography</a> (24 points | 
-              2 comments)<br>4. <a href="https://alice.bsky.sh/post/3laega7icmi2q">How to self-host all of Bluesky (except the AppView (for now))</a> (37 points | 
-              31 comments)<br>5. <a href="https://futurism.com/the-byte/openai-research-best-models-wrong-answers">OpenAI found out their cutting-edge LLMs are only 42.7% accurate</a> (3 points | 
-              no comments)<br>6. <a href="https://brooksblog.bearblog.dev/rusts-sneaky-deadlock-with-if-let-blocks/">Rust's Sneaky Deadlock With `if let` Blocks</a> (34 points | 
-              16 comments)<br>7. <a href="https://craftofcoding.wordpress.com/2024/10/21/algol-68-seemed-like-a-good-idea-until-it-wasnt/">Algol-68 seemed like a good idea – until it wasn’t</a> (8 points | 
-              5 comments)<br>8. <a href="https://rubyonrails.org/2024/11/7/rails-8-no-paas-required">Rails 8.0: No PaaS Required</a> (59 points | 
-              39 comments)<br>9. <a href="https://www.osnews.com/story/141089/qnx-becomes-free-for-non-commercial-use-releases-raspberry-pi-4-image/">QNX becomes free for non-commercial use</a> (21 points | 
-              7 comments)<br>10. <a href="https://david.guillot.me/en/posts/tech/following-up-mother-of-all-htmx-demos/">Following up "Mother of all htmx demos"</a> (46 points | 
-              1 comment)<br>11. <a href="https://pushtoprod.substack.com/p/netflix-terrifying-concurrency-bug">How We Built a Self-Healing System to Survive a Terrifying Concurrency Bug At Netflix</a> (20 points | 
-              9 comments)<br>12. <a href="https://jhftss.github.io/A-New-Era-of-macOS-Sandbox-Escapes/">A New Era of macOS Sandbox Escapes: Overlooked Attack Surface, 10+ New Vulns</a> (20 points | 
-              5 comments)<br>13. <a href="https://akselmo.dev/posts/plasma-desktop-icons-positioning-refactor/">Desktop icons are surprisingly hard</a> (15 points | 
-              5 comments)<br>14. <a href="https://framapiaf.org/@debian/113449676325133480">Debian GSoC 2024 Final Reports</a> (4 points | 
-              no comments)<br>15. <a href="https://discourse.nixos.org/t/announcing-planet-nix/55350">Announcing Planet Nix</a> (11 points | 
-              3 comments)<br>16. <a href="https://www.crunchydata.com/blog/8-steps-in-writing-analytical-sql-queries">8 Steps in Writing Analytical SQL Queries</a> (6 points | 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Sat, 09 Nov 2024 15:16:17 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Saturday, November 9, 2024 at 3:15 PM UTC]]></title><description><![CDATA[1. <a href="https://avi.im/blag/2024/sqlite-bit-flip/">PSA: SQLite does not do checksums</a> (2 points | 
+              1 comment)<br>2. <a href="https://www.circle-lang.org/interop.html">Building Bridges to C++</a> (6 points | 
+              4 comments)<br>3. <a href="https://matthewbilyeu.com/tone-of-life.html?saved=AAAAAADgAYAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=">Tone of Life</a> (18 points | 
+              2 comments)<br>4. <a href="https://antonin.delpeuch.eu/posts/mergiraf-a-syntax-aware-merge-driver-for-git/">Mergiraf: a syntax-aware merge driver for Git</a> (5 points | 
+              no comments)<br>5. <a href="https://github.com/elikaski/ECC_Attacks">Known Attacks On Elliptic Curve Cryptography</a> (24 points | 
+              2 comments)<br>6. <a href="https://alice.bsky.sh/post/3laega7icmi2q">How to self-host all of Bluesky (except the AppView (for now))</a> (37 points | 
+              31 comments)<br>7. <a href="https://brooksblog.bearblog.dev/rusts-sneaky-deadlock-with-if-let-blocks/">Rust's Sneaky Deadlock With `if let` Blocks</a> (35 points | 
+              16 comments)<br>8. <a href="https://craftofcoding.wordpress.com/2024/10/21/algol-68-seemed-like-a-good-idea-until-it-wasnt/">Algol-68 seemed like a good idea – until it wasn’t</a> (8 points | 
+              5 comments)<br>9. <a href="https://rubyonrails.org/2024/11/7/rails-8-no-paas-required">Rails 8.0: No PaaS Required</a> (60 points | 
+              39 comments)<br>10. <a href="https://www.osnews.com/story/141089/qnx-becomes-free-for-non-commercial-use-releases-raspberry-pi-4-image/">QNX becomes free for non-commercial use</a> (21 points | 
+              7 comments)<br>11. <a href="https://david.guillot.me/en/posts/tech/following-up-mother-of-all-htmx-demos/">Following up "Mother of all htmx demos"</a> (46 points | 
+              1 comment)<br>12. <a href="https://pushtoprod.substack.com/p/netflix-terrifying-concurrency-bug">How We Built a Self-Healing System to Survive a Terrifying Concurrency Bug At Netflix</a> (20 points | 
+              9 comments)<br>13. <a href="https://jhftss.github.io/A-New-Era-of-macOS-Sandbox-Escapes/">A New Era of macOS Sandbox Escapes: Overlooked Attack Surface, 10+ New Vulns</a> (20 points | 
+              6 comments)<br>14. <a href="https://discourse.nixos.org/t/announcing-planet-nix/55350">Announcing Planet Nix</a> (12 points | 
+              3 comments)<br>15. <a href="https://akselmo.dev/posts/plasma-desktop-icons-positioning-refactor/">Desktop icons are surprisingly hard</a> (15 points | 
+              5 comments)<br>16. <a href="https://framapiaf.org/@debian/113449676325133480">Debian GSoC 2024 Final Reports</a> (4 points | 
               no comments)<br>17. <a href="/s/2ltv2m/what_are_you_doing_this_weekend">What are you doing this weekend?</a> (14 points | 
-              20 comments)<br>18. <a href="https://chicory.dev/blog/chicory-1.0.0-M1">Announcing Chicory 1.0.0-M1: First Milestone Release</a> (10 points | 
+              24 comments)<br>18. <a href="https://chicory.dev/blog/chicory-1.0.0-M1">Announcing Chicory 1.0.0-M1: First Milestone Release</a> (10 points | 
               2 comments)<br>19. <a href="https://devblogs.microsoft.com/oldnewthing/20241108-00/?p=110490">The case of a program that crashed on its first instruction</a> (9 points | 
               2 comments)<br>20. <a href="https://jsgroth.dev/blog/posts/snes-ps1-cubic-adpcm-interpolation/">SNES & PlayStation cubic ADPCM interpolation</a> (3 points | 
               no comments)<br>21. <a href="https://github.com/kgs19/cmdx">cmdx: A Golang library designed to simplify the execution of shell commands and handle their output</a> (4 points | 
               3 comments)<br>22. <a href="https://www.phoronix.com/news/Linus-2.6p-Faster-Scale-Patch">Linus Torvalds lands a 2.6% performance improvement with minor Linux kernel patch</a> (43 points | 
               9 comments)<br>23. <a href="http://www.catb.org/~esr/writings/unix-koans/">Rootless Root (2003)</a> (1 points | 
-              no comments)<br>24. <a href="https://blog.rust-lang.org/2024/11/07/gccrs-an-alternative-compiler-for-rust.html">gccrs: An alternative compiler for Rust</a> (50 points | 
-              6 comments)<br>25. <a href="https://jitesh117.github.io/blog/creating-a-brainrot-language-server-in-golang/">Creating a Brainrot Language Server in Golang</a> (13 points | 
-              1 comment)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Saturday, November 9, 2024 at 2:15 PM UTC</guid></item></channel></rss>
+              no comments)<br>24. <a href="https://jitesh117.github.io/blog/creating-a-brainrot-language-server-in-golang/">Creating a Brainrot Language Server in Golang</a> (14 points | 
+              1 comment)<br>25. <a href="https://blog.rust-lang.org/2024/11/07/gccrs-an-alternative-compiler-for-rust.html">gccrs: An alternative compiler for Rust</a> (50 points | 
+              6 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Saturday, November 9, 2024 at 3:15 PM UTC</guid></item></channel></rss>
