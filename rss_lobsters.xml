@@ -1,26 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Sun, 10 Nov 2024 17:12:16 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Sunday, November 10, 2024 at 5:10 PM UTC]]></title><description><![CDATA[1. <a href="https://nullprogram.com/blog/2024/11/10/">Everything I've learned so far about running local LLMs</a> (17 points | 
-              14 comments)<br>2. <a href="https://jmtd.net/log/htmx/">Progressively enhancing (legacy) CGI apps with htmx</a> (11 points | 
-              1 comment)<br>3. <a href="https://rubenerd.com/a-bsd-pserson-trying-alpine-linux/">A BSD person tries Alpine Linux</a> (12 points | 
-              4 comments)<br>4. <a href="https://katafrakt.me/2024/11/09/booleans-are-a-trap/">Booleans Are a Trap</a> (6 points | 
-              6 comments)<br>5. <a href="https://axisofeval.blogspot.com/2024/11/an-alternative-idea-for-typed-language.html">An alternative idea for a typed language living alongside/inside JavaScript</a> (16 points | 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Sun, 10 Nov 2024 18:18:35 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Sunday, November 10, 2024 at 6:20 PM UTC]]></title><description><![CDATA[1. <a href="https://nullprogram.com/blog/2024/11/10/">Everything I've learned so far about running local LLMs</a> (20 points | 
+              21 comments)<br>2. <a href="https://jmtd.net/log/htmx/">Progressively enhancing (legacy) CGI apps with htmx</a> (13 points | 
+              1 comment)<br>3. <a href="https://rubenerd.com/a-bsd-pserson-trying-alpine-linux/">A BSD person tries Alpine Linux</a> (16 points | 
+              7 comments)<br>4. <a href="https://katafrakt.me/2024/11/09/booleans-are-a-trap/">Booleans Are a Trap</a> (8 points | 
+              8 comments)<br>5. <a href="https://axisofeval.blogspot.com/2024/11/an-alternative-idea-for-typed-language.html">An alternative idea for a typed language living alongside/inside JavaScript</a> (16 points | 
               9 comments)<br>6. <a href="https://blog.codingconfessions.com/p/the-pythonic-emptiness">The Pythonic Emptiness</a> (3 points | 
-              7 comments)<br>7. <a href="https://matt.blwt.io/post/regular-restarts-are-good-actually/">Regular Restarts Are Good, Actually</a> (31 points | 
+              9 comments)<br>7. <a href="https://matt.blwt.io/post/regular-restarts-are-good-actually/">Regular Restarts Are Good, Actually</a> (31 points | 
               12 comments)<br>8. <a href="https://avi.im/blag/2024/sqlite-bit-flip/">PSA: SQLite does not do checksums</a> (19 points | 
-              21 comments)<br>9. <a href="https://antonin.delpeuch.eu/posts/mergiraf-a-syntax-aware-merge-driver-for-git/">Mergiraf: a syntax-aware merge driver for Git</a> (47 points | 
-              2 comments)<br>10. <a href="https://simonwillison.net/2024/Nov/9/visualizing-local-election-results/">Visualizing local election results with Datasette, Observable and MapLibre GL</a> (2 points | 
-              no comments)<br>11. <a href="https://vim.fandom.com/wiki/Unused_keys">Unused keys in vim</a> (15 points | 
-              no comments)<br>12. <a href="https://bhoot.dev/2024/on-linux-file-and-links/">A mental model for Linux file, hard and soft links</a> (11 points | 
-              7 comments)<br>13. <a href="http://0x80.pl/notesen/2024-11-09-riscv-vector-extension.html">RISC-V Vector Extension overview</a> (8 points | 
-              no comments)<br>14. <a href="https://jackcook.com/2024/11/09/bigger-fish.html">When Machine Learning Tells the Wrong Story</a> (7 points | 
-              1 comment)<br>15. <a href="https://everybody.codes/home">Everybody Codes</a> (5 points | 
-              no comments)<br>16. <a href="https://docs.tigerbeetle.com/about/safety/">Safety in TigerBeetle</a> (2 points | 
-              2 comments)<br>17. <a href="https://accu.org/journals/overload/26/148/james_2586/">Algol 68 – A Retrospective</a> (6 points | 
-              3 comments)<br>18. <a href="https://thejpster.org.uk/blog/blog-2024-06-29/">The History of PC Audio</a> (1 points | 
-              no comments)<br>19. <a href="https://youtube.com/playlist?list=PLIhkYrUkoYPRBRZsG6m_YalzHthqktVfP&si=n2CaV7zAMGz4dY4-">Home Grid - Plan9 video series</a> (1 points | 
-              no comments)<br>20. <a href="https://lwn.net/Articles/997002/">The BPF instruction set architecture is now RFC 9669</a> (11 points | 
-              no comments)<br>21. <a href="https://www.circle-lang.org/interop.html">Building Bridges to C++</a> (19 points | 
-              30 comments)<br>22. <a href="https://mtlynch.io/nix-fuzz-testing-2/">Using Nix to Fuzz Test a PDF Parser (Part Two)</a> (2 points | 
-              no comments)<br>23. <a href="https://aartaka.me/lambda-0">Making Sense of Lambda Calculus 0: Abstration, Reduction, Substitution?</a> (1 points | 
-              no comments)<br>24. <a href="https://github.com/golang/go/discussions/70257">Discussion: Adding memory regions to Go</a> (19 points | 
-              no comments)<br>25. <a href="https://plv.mpi-sws.org/genmc/">GenMC: Model checking for concurrent C programs</a> (3 points | 
-              1 comment)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Sunday, November 10, 2024 at 5:10 PM UTC</guid></item></channel></rss>
+              22 comments)<br>9. <a href="https://docs.tigerbeetle.com/about/safety/">Safety in TigerBeetle</a> (4 points | 
+              3 comments)<br>10. <a href="https://github.com/trekhleb/homemade-gpt-js">Homemade GPT JS  - A minimal TensorFlow.js re-implementation of Karpathy's minGPT</a> (1 points | 
+              no comments)<br>11. <a href="https://antonin.delpeuch.eu/posts/mergiraf-a-syntax-aware-merge-driver-for-git/">Mergiraf: a syntax-aware merge driver for Git</a> (48 points | 
+              2 comments)<br>12. <a href="https://learn.microsoft.com/en-us/dotnet/fsharp/whats-new/fsharp-9">What's new in F# 9</a> (2 points | 
+              no comments)<br>13. <a href="https://simonwillison.net/2024/Nov/9/visualizing-local-election-results/">Visualizing local election results with Datasette, Observable and MapLibre GL</a> (2 points | 
+              no comments)<br>14. <a href="https://everybody.codes/home">Everybody Codes</a> (6 points | 
+              no comments)<br>15. <a href="https://vim.fandom.com/wiki/Unused_keys">Unused keys in vim</a> (15 points | 
+              no comments)<br>16. <a href="https://bhoot.dev/2024/on-linux-file-and-links/">A mental model for Linux file, hard and soft links</a> (11 points | 
+              7 comments)<br>17. <a href="http://0x80.pl/notesen/2024-11-09-riscv-vector-extension.html">RISC-V Vector Extension overview</a> (8 points | 
+              no comments)<br>18. <a href="https://jackcook.com/2024/11/09/bigger-fish.html">When Machine Learning Tells the Wrong Story</a> (7 points | 
+              1 comment)<br>19. <a href="https://youtube.com/playlist?list=PLIhkYrUkoYPRBRZsG6m_YalzHthqktVfP&si=n2CaV7zAMGz4dY4-">Home Grid - Plan9 video series</a> (2 points | 
+              no comments)<br>20. <a href="https://mtlynch.io/nix-fuzz-testing-2/">Using Nix to Fuzz Test a PDF Parser (Part Two)</a> (4 points | 
+              no comments)<br>21. <a href="https://accu.org/journals/overload/26/148/james_2586/">Algol 68 – A Retrospective</a> (6 points | 
+              3 comments)<br>22. <a href="https://aartaka.me/lambda-0">Making Sense of Lambda Calculus 0: Abstration, Reduction, Substitution?</a> (2 points | 
+              no comments)<br>23. <a href="https://thejpster.org.uk/blog/blog-2024-06-29/">The History of PC Audio</a> (1 points | 
+              no comments)<br>24. <a href="https://lwn.net/Articles/997002/">The BPF instruction set architecture is now RFC 9669</a> (11 points | 
+              no comments)<br>25. <a href="https://www.circle-lang.org/interop.html">Building Bridges to C++</a> (19 points | 
+              30 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Sunday, November 10, 2024 at 6:20 PM UTC</guid></item></channel></rss>
