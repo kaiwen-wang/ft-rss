@@ -1,26 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Fri, 15 Nov 2024 14:15:12 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Friday, November 15, 2024 at 2:15 PM UTC]]></title><description><![CDATA[1. <a href="https://erikmcclure.com/blog/stop-making-me-memorize-borrow-checker/">Stop Making Me Memorize The Borrow Checker</a> (15 points | 
-              12 comments)<br>2. <a href="https://meta.stackexchange.com/questions/404231/we-re-finally-going-to-the-cloud">We’re (finally) going to the cloud</a> (41 points | 
-              33 comments)<br>3. <a href="https://blog.xoria.org/macos-tips/">macOS Tips</a> (31 points | 
-              36 comments)<br>4. <a href="https://chronicles.mad-scientist.club/tales/linux-desktop-for-the-family/">A Linux Desktop for the family</a> (28 points | 
-              7 comments)<br>5. <a href="https://specy.app/blog/posts/a-rustc-soundness-bug-in-the-wild">A rustc soundness bug in the wild</a> (20 points | 
-              2 comments)<br>6. <a href="/s/lkpxbs/what_are_you_doing_this_weekend">What are you doing this weekend?</a> (3 points | 
-              4 comments)<br>7. <a href="https://jan.miksovsky.com/posts/2024/11-12-momboard">MomBoard: E-ink display for a parent with amnesia</a> (151 points | 
-              15 comments)<br>8. <a href="https://gist.github.com/nikki93/2bb11237bf76fceb0bf687d6d9eef1b3#file-00-example-c">I've been working on a borrow checker for C... (also makes sure you `free`) (context in post text)</a> (9 points | 
-              no comments)<br>9. <a href="https://blog.trailofbits.com/2024/11/14/attestations-a-new-generation-of-signatures-on-pypi/">Attestations: A new generation of signatures on PyPI</a> (15 points | 
-              5 comments)<br>10. <a href="https://prometheus.io/blog/2024/11/14/prometheus-3-0/">Announcing Prometheus 3.0</a> (4 points | 
-              no comments)<br>11. <a href="https://www.ohrg.org/cycling-typing">Cycling while typing</a> (17 points | 
-              3 comments)<br>12. <a href="https://sander.saares.eu/2024/11/06/why-is-stdpinpin-so-weird/">Why is std::pin::Pin so weird?</a> (4 points | 
-              no comments)<br>13. <a href="https://htmx.org/essays/you-cant/">You Can't Build Interactive Web Apps Except as Single Page Applications... And Other Myths</a> (2 points | 
-              no comments)<br>14. <a href="http://youtube.com/watch?v=mCiRxM8dOSY">Plan 9 history and development (2023)</a> (7 points | 
-              no comments)<br>15. <a href="https://upsilon.cc/~zack/blog/posts/2024/11/In_memory_of_Lunar/">In memory of Lunar</a> (23 points | 
-              4 comments)<br>16. <a href="http://oldvcr.blogspot.com/2023/02/dusting-off-dreamcast-linux.html?m=1">Dusting off Dreamcast Linux</a> (8 points | 
-              no comments)<br>17. <a href="https://30fps.net/pages/vqa/">How Westwood VQA works</a> (1 points | 
-              no comments)<br>18. <a href="https://github.com/Julow/Unexpected-Keyboard">Unexpected Keyboard: Android keyboard with all the keys</a> (9 points | 
-              7 comments)<br>19. <a href="https://buttondown.com/hillelwayne/archive/what-makes-concurrency-so-hard/">What makes concurrency so hard?</a> (5 points | 
-              1 comment)<br>20. <a href="https://www.talospace.com/2024/09/music-production-on-power-adventure-in.html">Music production on POWER: an adventure in porting</a> (3 points | 
-              no comments)<br>21. <a href="https://allthingsdistributed.com/2024/11/aws-lambda-turns-10-a-rare-look-at-the-doc-that-started-it.html">AWS Lambda turns 10: A rare look at the doc that started it</a> (7 points | 
-              2 comments)<br>22. <a href="https://graphallthethings.com/posts/better-buf-read">BetterBufRead: Faster Reads in Rust</a> (17 points | 
-              4 comments)<br>23. <a href="https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-up-1-million-buckets-per-aws-account/">Amazon S3 now supports up to 1 million buckets per AWS account</a> (5 points | 
-              no comments)<br>24. <a href="https://pypy.org/posts/2024/11/guest-post-final-encoding-in-rpython.html">Final Encoding in RPython Interpreters</a> (1 points | 
-              no comments)<br>25. <a href="https://functionalsoftware.se/posts/why-do-we-like-functional-programming">Why Do We Like Functional Programming?</a> (3 points | 
-              8 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Friday, November 15, 2024 at 2:15 PM UTC</guid></item></channel></rss>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Fri, 15 Nov 2024 15:17:10 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Friday, November 15, 2024 at 3:15 PM UTC]]></title><description><![CDATA[1. <a href="https://erikmcclure.com/blog/stop-making-me-memorize-borrow-checker/">Stop Making Me Memorize The Borrow Checker</a> (18 points | 
+              16 comments)<br>2. <a href="https://chronicles.mad-scientist.club/tales/linux-desktop-for-the-family/">A Linux Desktop for the family</a> (32 points | 
+              8 comments)<br>3. <a href="https://meta.stackexchange.com/questions/404231/we-re-finally-going-to-the-cloud">We’re (finally) going to the cloud</a> (41 points | 
+              34 comments)<br>4. <a href="https://blog.xoria.org/macos-tips/">macOS Tips</a> (32 points | 
+              36 comments)<br>5. <a href="/s/lkpxbs/what_are_you_doing_this_weekend">What are you doing this weekend?</a> (4 points | 
+              4 comments)<br>6. <a href="https://htmx.org/essays/you-cant/">You Can't Build Interactive Web Apps Except as Single Page Applications... And Other Myths</a> (5 points | 
+              no comments)<br>7. <a href="https://specy.app/blog/posts/a-rustc-soundness-bug-in-the-wild">A rustc soundness bug in the wild</a> (20 points | 
+              2 comments)<br>8. <a href="https://prometheus.io/blog/2024/11/14/prometheus-3-0/">Announcing Prometheus 3.0</a> (6 points | 
+              no comments)<br>9. <a href="https://jan.miksovsky.com/posts/2024/11-12-momboard">MomBoard: E-ink display for a parent with amnesia</a> (151 points | 
+              16 comments)<br>10. <a href="https://gist.github.com/nikki93/2bb11237bf76fceb0bf687d6d9eef1b3#file-00-example-c">I've been working on a borrow checker for C... (also makes sure you `free`) (context in post text)</a> (10 points | 
+              no comments)<br>11. <a href="https://lambdaland.org/posts/2023-08-14_types_with_macros/">Implementing Type Systems as Macros</a> (3 points | 
+              no comments)<br>12. <a href="https://sander.saares.eu/2024/11/06/why-is-stdpinpin-so-weird/">Why is std::pin::Pin so weird?</a> (6 points | 
+              no comments)<br>13. <a href="https://blog.trailofbits.com/2024/11/14/attestations-a-new-generation-of-signatures-on-pypi/">Attestations: A new generation of signatures on PyPI</a> (15 points | 
+              5 comments)<br>14. <a href="https://www.ohrg.org/cycling-typing">Cycling while typing</a> (19 points | 
+              3 comments)<br>15. <a href="https://30fps.net/pages/vqa/">How Westwood VQA works</a> (2 points | 
+              no comments)<br>16. <a href="http://youtube.com/watch?v=mCiRxM8dOSY">Plan 9 history and development (2023)</a> (7 points | 
+              no comments)<br>17. <a href="https://upsilon.cc/~zack/blog/posts/2024/11/In_memory_of_Lunar/">In memory of Lunar</a> (23 points | 
+              4 comments)<br>18. <a href="http://oldvcr.blogspot.com/2023/02/dusting-off-dreamcast-linux.html?m=1">Dusting off Dreamcast Linux</a> (8 points | 
+              no comments)<br>19. <a href="https://github.com/Julow/Unexpected-Keyboard">Unexpected Keyboard: Android keyboard with all the keys</a> (9 points | 
+              7 comments)<br>20. <a href="https://buttondown.com/hillelwayne/archive/what-makes-concurrency-so-hard/">What makes concurrency so hard?</a> (5 points | 
+              1 comment)<br>21. <a href="https://allthingsdistributed.com/2024/11/aws-lambda-turns-10-a-rare-look-at-the-doc-that-started-it.html">AWS Lambda turns 10: A rare look at the doc that started it</a> (8 points | 
+              2 comments)<br>22. <a href="https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-up-1-million-buckets-per-aws-account/">Amazon S3 now supports up to 1 million buckets per AWS account</a> (7 points | 
+              no comments)<br>23. <a href="https://www.talospace.com/2024/09/music-production-on-power-adventure-in.html">Music production on POWER: an adventure in porting</a> (3 points | 
+              no comments)<br>24. <a href="https://graphallthethings.com/posts/better-buf-read">BetterBufRead: Faster Reads in Rust</a> (18 points | 
+              4 comments)<br>25. <a href="https://pypy.org/posts/2024/11/guest-post-final-encoding-in-rpython.html">Final Encoding in RPython Interpreters</a> (1 points | 
+              no comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Friday, November 15, 2024 at 3:15 PM UTC</guid></item></channel></rss>
