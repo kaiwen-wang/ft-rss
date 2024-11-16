@@ -1,26 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Sat, 16 Nov 2024 11:11:56 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Saturday, November 16, 2024 at 11:10 AM UTC]]></title><description><![CDATA[1. <a href="https://soatok.blog/2024/11/15/what-to-use-instead-of-pgp/">What To Use Instead of PGP</a> (64 points | 
-              60 comments)<br>2. <a href="https://anderegg.ca/2024/11/15/maybe-bluesky-has-won">Maybe Bluesky has “won”</a> (27 points | 
-              12 comments)<br>3. <a href="https://erikmcclure.com/blog/stop-making-me-memorize-borrow-checker/">Stop Making Me Memorize The Borrow Checker</a> (51 points | 
-              34 comments)<br>4. <a href="https://htmx.org/essays/you-cant/">You Can't Build Interactive Web Apps Except as Single Page Applications... And Other Myths</a> (21 points | 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Sat, 16 Nov 2024 12:29:44 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Saturday, November 16, 2024 at 12:30 PM UTC]]></title><description><![CDATA[1. <a href="https://soatok.blog/2024/11/15/what-to-use-instead-of-pgp/">What To Use Instead of PGP</a> (65 points | 
+              61 comments)<br>2. <a href="https://anderegg.ca/2024/11/15/maybe-bluesky-has-won">Maybe Bluesky has “won”</a> (28 points | 
+              14 comments)<br>3. <a href="https://erikmcclure.com/blog/stop-making-me-memorize-borrow-checker/">Stop Making Me Memorize The Borrow Checker</a> (51 points | 
+              34 comments)<br>4. <a href="https://htmx.org/essays/you-cant/">You Can't Build Interactive Web Apps Except as Single Page Applications... And Other Myths</a> (22 points | 
               9 comments)<br>5. <a href="https://www.tomshardware.com/pc-components/storage/huawei-develops-ssd-tape-hybrid-storage-device-for-warm-and-cold-storage-first-gen-med-drive-holds-up-to-72tb">Huawei develops 72TB SSD-tape hybrid storage device</a> (9 points | 
-              4 comments)<br>6. <a href="https://prometheus.io/blog/2024/11/14/prometheus-3-0/">Announcing Prometheus 3.0</a> (43 points | 
-              2 comments)<br>7. <a href="https://computerhistory.org/blog/in-memoriam-thomas-e-kurtz-1928-2024/">In Memoriam: Thomas E. Kurtz, co-inventor of BASIC, 1928–2024</a> (20 points | 
-              2 comments)<br>8. <a href="https://chronicles.mad-scientist.club/tales/linux-desktop-for-the-family/">A Linux Desktop for the family</a> (48 points | 
-              19 comments)<br>9. <a href="https://www.tweag.io/blog/2024-11-07-typescript-effect/">Exploring Effect in TypeScript: Simplifying Async and Error Handling</a> (1 points | 
-              no comments)<br>10. <a href="/s/lkpxbs/what_are_you_doing_this_weekend">What are you doing this weekend?</a> (11 points | 
-              27 comments)<br>11. <a href="https://blog.xoria.org/macos-tips/">macOS Tips</a> (45 points | 
-              53 comments)<br>12. <a href="https://lambdaland.org/posts/2023-08-14_types_with_macros/">Implementing Type Systems as Macros</a> (11 points | 
-              no comments)<br>13. <a href="https://buttondown.com/carlton/archive/thoughts-on-djangos-core">Thoughts on Django’s Core</a> (8 points | 
-              2 comments)<br>14. <a href="https://meta.stackexchange.com/questions/404231/we-re-finally-going-to-the-cloud">We’re (finally) going to the cloud</a> (47 points | 
-              46 comments)<br>15. <a href="https://gliimly.github.io/">Gliimly is a programming language for web services</a> (6 points | 
-              1 comment)<br>16. <a href="https://security.googleblog.com/2024/11/retrofitting-spatial-safety-to-hundreds.html?m=1">Retrofitting spatial safety to hundreds of millions of lines of C++</a> (5 points | 
-              no comments)<br>17. <a href="https://30fps.net/pages/vqa/">How Westwood VQA works</a> (7 points | 
-              no comments)<br>18. <a href="https://sander.saares.eu/2024/11/06/why-is-stdpinpin-so-weird/">Why is std::pin::Pin so weird?</a> (12 points | 
-              1 comment)<br>19. <a href="https://gist.github.com/nikki93/2bb11237bf76fceb0bf687d6d9eef1b3#file-00-example-c">I've been working on a borrow checker for C... (also makes sure you `free`) (context in post text)</a> (16 points | 
-              no comments)<br>20. <a href="https://specy.app/blog/posts/a-rustc-soundness-bug-in-the-wild">A rustc soundness bug in the wild</a> (24 points | 
-              2 comments)<br>21. <a href="https://arxiv.org/pdf/2410.21713">Fuzzing the PHP Interpreter via Dataflow Fusion</a> (4 points | 
-              no comments)<br>22. <a href="https://www.ohrg.org/cycling-typing">Cycling while typing</a> (25 points | 
-              4 comments)<br>23. <a href="http://oldvcr.blogspot.com/2023/02/dusting-off-dreamcast-linux.html?m=1">Dusting off Dreamcast Linux</a> (15 points | 
-              1 comment)<br>24. <a href="https://jan.miksovsky.com/posts/2024/11-12-momboard">MomBoard: E-ink display for a parent with amnesia</a> (161 points | 
-              16 comments)<br>25. <a href="https://buttondown.com/hillelwayne/archive/what-makes-concurrency-so-hard/">What makes concurrency so hard?</a> (9 points | 
-              3 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Saturday, November 16, 2024 at 11:10 AM UTC</guid></item></channel></rss>
+              4 comments)<br>6. <a href="https://prometheus.io/blog/2024/11/14/prometheus-3-0/">Announcing Prometheus 3.0</a> (46 points | 
+              4 comments)<br>7. <a href="https://www.tweag.io/blog/2024-11-07-typescript-effect/">Exploring Effect in TypeScript: Simplifying Async and Error Handling</a> (3 points | 
+              no comments)<br>8. <a href="https://computerhistory.org/blog/in-memoriam-thomas-e-kurtz-1928-2024/">In Memoriam: Thomas E. Kurtz, co-inventor of BASIC, 1928–2024</a> (20 points | 
+              2 comments)<br>9. <a href="https://chronicles.mad-scientist.club/tales/linux-desktop-for-the-family/">A Linux Desktop for the family</a> (48 points | 
+              19 comments)<br>10. <a href="https://www.youtube.com/watch?v=WzID6kk8RNs">Implementation of an Out-of-order RISC-V Vector Unit</a> (1 points | 
+              no comments)<br>11. <a href="/s/lkpxbs/what_are_you_doing_this_weekend">What are you doing this weekend?</a> (12 points | 
+              27 comments)<br>12. <a href="https://security.googleblog.com/2024/11/retrofitting-spatial-safety-to-hundreds.html?m=1">Retrofitting spatial safety to hundreds of millions of lines of C++</a> (6 points | 
+              no comments)<br>13. <a href="https://buttondown.com/carlton/archive/thoughts-on-djangos-core">Thoughts on Django’s Core</a> (9 points | 
+              2 comments)<br>14. <a href="https://blog.xoria.org/macos-tips/">macOS Tips</a> (45 points | 
+              54 comments)<br>15. <a href="https://lambdaland.org/posts/2023-08-14_types_with_macros/">Implementing Type Systems as Macros</a> (11 points | 
+              no comments)<br>16. <a href="https://meta.stackexchange.com/questions/404231/we-re-finally-going-to-the-cloud">We’re (finally) going to the cloud</a> (47 points | 
+              46 comments)<br>17. <a href="https://gliimly.github.io/">Gliimly is a programming language for web services</a> (6 points | 
+              1 comment)<br>18. <a href="https://30fps.net/pages/vqa/">How Westwood VQA works</a> (8 points | 
+              no comments)<br>19. <a href="https://sander.saares.eu/2024/11/06/why-is-stdpinpin-so-weird/">Why is std::pin::Pin so weird?</a> (12 points | 
+              1 comment)<br>20. <a href="https://gist.github.com/nikki93/2bb11237bf76fceb0bf687d6d9eef1b3#file-00-example-c">I've been working on a borrow checker for C... (also makes sure you `free`) (context in post text)</a> (16 points | 
+              no comments)<br>21. <a href="https://specy.app/blog/posts/a-rustc-soundness-bug-in-the-wild">A rustc soundness bug in the wild</a> (25 points | 
+              2 comments)<br>22. <a href="https://arxiv.org/pdf/2410.21713">Fuzzing the PHP Interpreter via Dataflow Fusion</a> (4 points | 
+              no comments)<br>23. <a href="https://www.ohrg.org/cycling-typing">Cycling while typing</a> (25 points | 
+              4 comments)<br>24. <a href="http://oldvcr.blogspot.com/2023/02/dusting-off-dreamcast-linux.html?m=1">Dusting off Dreamcast Linux</a> (15 points | 
+              1 comment)<br>25. <a href="https://jan.miksovsky.com/posts/2024/11-12-momboard">MomBoard: E-ink display for a parent with amnesia</a> (161 points | 
+              16 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Saturday, November 16, 2024 at 12:30 PM UTC</guid></item></channel></rss>
