@@ -1,26 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Sun, 17 Nov 2024 20:16:22 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Sunday, November 17, 2024 at 8:15 PM UTC]]></title><description><![CDATA[1. <a href="https://github.com/VictoriaMetrics/VictoriaMetrics/releases/tag/v1.0.0-victorialogs">VictoriaLogs v1.0.0 release</a> (43 points | 
-              8 comments)<br>2. <a href="https://austinhenley.com/blog/mirrorlang.html">Mirror: An LLM-powered programming-by-example programming language</a> (2 points | 
-              1 comment)<br>3. <a href="https://www.alanzucconi.com/2021/06/15/valve-flickering-lights/">The Secret Behind Valve's Flickering Lights</a> (47 points | 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Sun, 17 Nov 2024 21:13:56 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Sunday, November 17, 2024 at 9:15 PM UTC]]></title><description><![CDATA[1. <a href="https://austinhenley.com/blog/mirrorlang.html">Mirror: An LLM-powered programming-by-example programming language</a> (5 points | 
+              1 comment)<br>2. <a href="https://github.com/VictoriaMetrics/VictoriaMetrics/releases/tag/v1.0.0-victorialogs">VictoriaLogs v1.0.0 release</a> (44 points | 
+              9 comments)<br>3. <a href="https://www.alanzucconi.com/2021/06/15/valve-flickering-lights/">The Secret Behind Valve's Flickering Lights</a> (49 points | 
               4 comments)<br>4. <a href="https://blog.codingconfessions.com/p/connecting-cpythons-gc-internals">CPython's Garbage Collector and its Impact on Application Performance</a> (6 points | 
-              no comments)<br>5. <a href="https://lorentz.app/blog-item.html?id=healthy-health-checks">Making healthy healthchecks</a> (10 points | 
-              3 comments)<br>6. <a href="https://utcc.utoronto.ca/~cks/space/blog/unix/NFSLosingLocksAndSIGLOST">Losing NFS locks and the SunOS SIGLOST signal</a> (3 points | 
-              2 comments)<br>7. <a href="https://purplesyringa.moe/blog/any-python-program-fits-in-30-characters/">Any Python program fits in 30 characters*</a> (27 points | 
-              2 comments)<br>8. <a href="https://www.youtube.com/watch?v=YCjNT9qGjh4">Half-Life 2: 20th Anniversary Documentary</a> (35 points | 
-              13 comments)<br>9. <a href="https://edanparker.hashnode.dev/going-a-little-further">Going a Little Further</a> (9 points | 
-              no comments)<br>10. <a href="https://eli.thegreenplace.net/2024/ml-in-go-with-a-python-sidecar/">ML in Go with a Python sidecar</a> (1 points | 
-              no comments)<br>11. <a href="https://blog.reveng.ai/training-an-llm-to-decompile-assembly-code/">AI Models for Decompiling Assembly Code</a> (6 points | 
-              no comments)<br>12. <a href="https://cedwards.xyz/tpm-backed-ssh-keys-on-windows-11/">TPM-Backed SSH Keys on Windows 11</a> (4 points | 
-              2 comments)<br>13. <a href="https://garnix.io/blog/incremental-builds">Incremental builds in Nix and garnix</a> (18 points | 
-              7 comments)<br>14. <a href="https://cryptographycaffe.sandboxaq.com/posts/protecting-signal-desktop-keys/">Protecting Signal Keys on Desktop</a> (11 points | 
-              4 comments)<br>15. <a href="https://www.johndcook.com/blog/2010/10/19/buggy-simulation-code-is-biased/">Buggy code is biased code</a> (12 points | 
-              5 comments)<br>16. <a href="https://github.com/cdepillabout/shebanger">shebanger: Convert a shell script into a series of shebang lines</a> (4 points | 
-              4 comments)<br>17. <a href="https://claytonwramsey.com/blog/captree">Making robots plan faster with SIMD and Rust</a> (18 points | 
-              3 comments)<br>18. <a href="https://vermaden.wordpress.com/2024/11/17/scan-on-freebsd/">Scan on FreeBSD</a> (2 points | 
-              no comments)<br>19. <a href="https://oldvcr.blogspot.com/2024/11/one-parting-some-commodore-64-utilities.html">One-parting some Commodore 64 utilities for fun and profit</a> (3 points | 
-              no comments)<br>20. <a href="https://anderegg.ca/2024/11/15/maybe-bluesky-has-won">Maybe Bluesky has “won”</a> (52 points | 
+              no comments)<br>5. <a href="https://lorentz.app/blog-item.html?id=healthy-health-checks">Making healthy healthchecks</a> (11 points | 
+              3 comments)<br>6. <a href="https://utcc.utoronto.ca/~cks/space/blog/unix/NFSLosingLocksAndSIGLOST">Losing NFS locks and the SunOS SIGLOST signal</a> (4 points | 
+              3 comments)<br>7. <a href="https://purplesyringa.moe/blog/any-python-program-fits-in-30-characters/">Any Python program fits in 30 characters*</a> (28 points | 
+              2 comments)<br>8. <a href="https://eli.thegreenplace.net/2024/ml-in-go-with-a-python-sidecar/">ML in Go with a Python sidecar</a> (2 points | 
+              no comments)<br>9. <a href="https://www.youtube.com/watch?v=YCjNT9qGjh4">Half-Life 2: 20th Anniversary Documentary</a> (36 points | 
+              13 comments)<br>10. <a href="https://edanparker.hashnode.dev/going-a-little-further">Going a Little Further</a> (9 points | 
+              no comments)<br>11. <a href="https://cedwards.xyz/tpm-backed-ssh-keys-on-windows-11/">TPM-Backed SSH Keys on Windows 11</a> (4 points | 
+              4 comments)<br>12. <a href="https://blog.reveng.ai/training-an-llm-to-decompile-assembly-code/">AI Models for Decompiling Assembly Code</a> (7 points | 
+              no comments)<br>13. <a href="https://garnix.io/blog/incremental-builds">Incremental builds in Nix and garnix</a> (19 points | 
+              7 comments)<br>14. <a href="https://github.com/cdepillabout/shebanger">shebanger: Convert a shell script into a series of shebang lines</a> (5 points | 
+              4 comments)<br>15. <a href="https://cryptographycaffe.sandboxaq.com/posts/protecting-signal-desktop-keys/">Protecting Signal Keys on Desktop</a> (12 points | 
+              4 comments)<br>16. <a href="https://oldvcr.blogspot.com/2024/11/one-parting-some-commodore-64-utilities.html">One-parting some Commodore 64 utilities for fun and profit</a> (4 points | 
+              no comments)<br>17. <a href="https://www.johndcook.com/blog/2010/10/19/buggy-simulation-code-is-biased/">Buggy code is biased code</a> (12 points | 
+              5 comments)<br>18. <a href="https://claytonwramsey.com/blog/captree">Making robots plan faster with SIMD and Rust</a> (18 points | 
+              3 comments)<br>19. <a href="https://vermaden.wordpress.com/2024/11/17/scan-on-freebsd/">Scan on FreeBSD</a> (2 points | 
+              no comments)<br>20. <a href="https://anderegg.ca/2024/11/15/maybe-bluesky-has-won">Maybe Bluesky has “won”</a> (53 points | 
               43 comments)<br>21. <a href="https://soatok.blog/2024/11/15/what-to-use-instead-of-pgp/">What To Use Instead of PGP</a> (95 points | 
-              98 comments)<br>22. <a href="https://paulgazzillo.com/papers/pldi12.pdf">SuperC: parsing all of C by taming the preprocessor</a> (14 points | 
+              99 comments)<br>22. <a href="https://paulgazzillo.com/papers/pldi12.pdf">SuperC: parsing all of C by taming the preprocessor</a> (14 points | 
               1 comment)<br>23. <a href="https://en.wikipedia.org/wiki/Hyper-encryption">Hyper-encryption [Provably unbreakable hyper-encryption in the limited access model]</a> (0 points | 
               3 comments)<br>24. <a href="https://github.com/rudyrucker/chaos/">James Gleick's Chaos: The Software</a> (7 points | 
               no comments)<br>25. <a href="https://www.tweag.io/blog/2024-11-07-typescript-effect/">Exploring Effect in TypeScript: Simplifying Async and Error Handling</a> (9 points | 
-              10 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Sunday, November 17, 2024 at 8:15 PM UTC</guid></item></channel></rss>
+              10 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Sunday, November 17, 2024 at 9:15 PM UTC</guid></item></channel></rss>
