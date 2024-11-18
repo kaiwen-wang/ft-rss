@@ -1,26 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Mon, 18 Nov 2024 09:18:43 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Monday, November 18, 2024 at 9:20 AM UTC]]></title><description><![CDATA[1. <a href="https://gekk.info/articles/traceroute.htm">Traceroute isn't real</a> (29 points | 
-              13 comments)<br>2. <a href="https://austinhenley.com/blog/mirrorlang.html">Mirror: An LLM-powered programming-by-example programming language</a> (13 points | 
-              7 comments)<br>3. <a href="https://adriano.fyi/posts/chatgpt-is-slipping/">ChatGPT is Slipping</a> (14 points | 
-              1 comment)<br>4. <a href="https://utcc.utoronto.ca/~cks/space/blog/programming/MissingTextProgrammingEnvironment">The missing text focused programming environment</a> (11 points | 
-              1 comment)<br>5. <a href="https://naehrdine.blogspot.com/2024/11/reverse-engineering-ios-18-inactivity.html">Reverse Engineering iOS 18 Inactivity Reboot</a> (15 points | 
-              1 comment)<br>6. <a href="https://chandlerc.blog/posts/2024/11/story-time-bounds-checking/">Story-time: C++, bounds checking, performance, and compilers</a> (18 points | 
-              no comments)<br>7. <a href="https://utcc.utoronto.ca/~cks/space/blog/tech/IPv6AndStillHavingNAT">NAT is inevitable even with IPv6</a> (3 points | 
-              3 comments)<br>8. <a href="https://blog.xoria.org/n-times-faster/">n times faster than C, Arm edition</a> (4 points | 
-              no comments)<br>9. <a href="https://github.com/VictoriaMetrics/VictoriaMetrics/releases/tag/v1.0.0-victorialogs">VictoriaLogs v1.0.0 release</a> (53 points | 
-              13 comments)<br>10. <a href="https://noncombatant.org/2024/11/16/styling-graphviz-with-css/index.html">Styling Graphviz with CSS</a> (8 points | 
-              no comments)<br>11. <a href="https://gotraceui.dev/">Gotraceui</a> (2 points | 
-              no comments)<br>12. <a href="https://lorentz.app/blog-item.html?id=healthy-health-checks">Making healthy healthchecks</a> (13 points | 
-              7 comments)<br>13. <a href="https://www.alanzucconi.com/2021/06/15/valve-flickering-lights/">The Secret Behind Valve's Flickering Lights</a> (56 points | 
-              6 comments)<br>14. <a href="https://maskray.me/blog/2024-11-17-removing-global-state-from-lld">Removing global state from LLD</a> (1 points | 
-              no comments)<br>15. <a href="https://blog.codingconfessions.com/p/connecting-cpythons-gc-internals">CPython's Garbage Collector and its Impact on Application Performance</a> (8 points | 
-              no comments)<br>16. <a href="https://utcc.utoronto.ca/~cks/space/blog/unix/NFSLosingLocksAndSIGLOST">Losing NFS locks and the SunOS SIGLOST signal</a> (5 points | 
-              3 comments)<br>17. <a href="https://purplesyringa.moe/blog/any-python-program-fits-in-30-characters/">Any Python program fits in 30 characters*</a> (33 points | 
-              2 comments)<br>18. <a href="https://eli.thegreenplace.net/2024/ml-in-go-with-a-python-sidecar/">ML in Go with a Python sidecar</a> (3 points | 
-              no comments)<br>19. <a href="https://edanparker.hashnode.dev/going-a-little-further">Going a Little Further</a> (13 points | 
-              1 comment)<br>20. <a href="https://blog.reveng.ai/training-an-llm-to-decompile-assembly-code/">AI Models for Decompiling Assembly Code</a> (11 points | 
-              no comments)<br>21. <a href="https://www.youtube.com/watch?v=YCjNT9qGjh4">Half-Life 2: 20th Anniversary Documentary</a> (40 points | 
-              13 comments)<br>22. <a href="https://cedwards.xyz/tpm-backed-ssh-keys-on-windows-11/">TPM-Backed SSH Keys on Windows 11</a> (5 points | 
-              7 comments)<br>23. <a href="https://cryptographycaffe.sandboxaq.com/posts/protecting-signal-desktop-keys/">Protecting Signal Keys on Desktop</a> (16 points | 
-              14 comments)<br>24. <a href="https://github.com/cdepillabout/shebanger">shebanger: Convert a shell script into a series of shebang lines</a> (7 points | 
-              4 comments)<br>25. <a href="https://garnix.io/blog/incremental-builds">Incremental builds in Nix and garnix</a> (20 points | 
-              7 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Monday, November 18, 2024 at 9:20 AM UTC</guid></item></channel></rss>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Mon, 18 Nov 2024 10:18:28 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Monday, November 18, 2024 at 10:20 AM UTC]]></title><description><![CDATA[1. <a href="https://gekk.info/articles/traceroute.htm">Traceroute isn't real</a> (31 points | 
+              14 comments)<br>2. <a href="https://adriano.fyi/posts/chatgpt-is-slipping/">ChatGPT is Slipping</a> (16 points | 
+              1 comment)<br>3. <a href="https://austinhenley.com/blog/mirrorlang.html">Mirror: An LLM-powered programming-by-example programming language</a> (13 points | 
+              7 comments)<br>4. <a href="https://utcc.utoronto.ca/~cks/space/blog/programming/MissingTextProgrammingEnvironment">The missing text focused programming environment</a> (11 points | 
+              1 comment)<br>5. <a href="https://blog.xoria.org/n-times-faster/">n times faster than C, Arm edition</a> (6 points | 
+              no comments)<br>6. <a href="https://naehrdine.blogspot.com/2024/11/reverse-engineering-ios-18-inactivity.html">Reverse Engineering iOS 18 Inactivity Reboot</a> (15 points | 
+              1 comment)<br>7. <a href="https://chandlerc.blog/posts/2024/11/story-time-bounds-checking/">Story-time: C++, bounds checking, performance, and compilers</a> (18 points | 
+              no comments)<br>8. <a href="https://utcc.utoronto.ca/~cks/space/blog/tech/IPv6AndStillHavingNAT">NAT is inevitable even with IPv6</a> (4 points | 
+              3 comments)<br>9. <a href="https://gotraceui.dev/">Gotraceui</a> (4 points | 
+              no comments)<br>10. <a href="https://github.com/VictoriaMetrics/VictoriaMetrics/releases/tag/v1.0.0-victorialogs">VictoriaLogs v1.0.0 release</a> (53 points | 
+              13 comments)<br>11. <a href="https://noncombatant.org/2024/11/16/styling-graphviz-with-css/index.html">Styling Graphviz with CSS</a> (8 points | 
+              no comments)<br>12. <a href="https://maskray.me/blog/2024-11-17-removing-global-state-from-lld">Removing global state from LLD</a> (2 points | 
+              no comments)<br>13. <a href="https://michaels.world/2023/11/i-was-banned-from-the-hcaptcha-accessibility-account-for-not-being-blind/">I was banned from the hCaptcha accessibility account for not being blind</a> (1 points | 
+              no comments)<br>14. <a href="https://lorentz.app/blog-item.html?id=healthy-health-checks">Making healthy healthchecks</a> (13 points | 
+              8 comments)<br>15. <a href="https://blog.codingconfessions.com/p/connecting-cpythons-gc-internals">CPython's Garbage Collector and its Impact on Application Performance</a> (9 points | 
+              no comments)<br>16. <a href="https://www.alanzucconi.com/2021/06/15/valve-flickering-lights/">The Secret Behind Valve's Flickering Lights</a> (56 points | 
+              6 comments)<br>17. <a href="https://utcc.utoronto.ca/~cks/space/blog/unix/NFSLosingLocksAndSIGLOST">Losing NFS locks and the SunOS SIGLOST signal</a> (5 points | 
+              3 comments)<br>18. <a href="https://purplesyringa.moe/blog/any-python-program-fits-in-30-characters/">Any Python program fits in 30 characters*</a> (33 points | 
+              2 comments)<br>19. <a href="https://eli.thegreenplace.net/2024/ml-in-go-with-a-python-sidecar/">ML in Go with a Python sidecar</a> (3 points | 
+              no comments)<br>20. <a href="https://edanparker.hashnode.dev/going-a-little-further">Going a Little Further</a> (13 points | 
+              1 comment)<br>21. <a href="https://blog.reveng.ai/training-an-llm-to-decompile-assembly-code/">AI Models for Decompiling Assembly Code</a> (11 points | 
+              no comments)<br>22. <a href="https://www.youtube.com/watch?v=YCjNT9qGjh4">Half-Life 2: 20th Anniversary Documentary</a> (40 points | 
+              13 comments)<br>23. <a href="https://cedwards.xyz/tpm-backed-ssh-keys-on-windows-11/">TPM-Backed SSH Keys on Windows 11</a> (5 points | 
+              7 comments)<br>24. <a href="https://cryptographycaffe.sandboxaq.com/posts/protecting-signal-desktop-keys/">Protecting Signal Keys on Desktop</a> (16 points | 
+              14 comments)<br>25. <a href="https://github.com/cdepillabout/shebanger">shebanger: Convert a shell script into a series of shebang lines</a> (7 points | 
+              4 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Monday, November 18, 2024 at 10:20 AM UTC</guid></item></channel></rss>
