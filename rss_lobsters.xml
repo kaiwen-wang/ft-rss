@@ -1,26 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Tue, 19 Nov 2024 12:32:30 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Tuesday, November 19, 2024 at 12:30 PM UTC]]></title><description><![CDATA[1. <a href="https://blog.yossarian.net/2024/11/18/Security-means-securing-people-where-they-are">Security means securing people where they are</a> (36 points | 
-              14 comments)<br>2. <a href="https://gleam.run/news/context-aware-compilation/">Gleam v1.6.0 released</a> (64 points | 
-              3 comments)<br>3. <a href="https://michaels.world/2023/11/i-was-banned-from-the-hcaptcha-accessibility-account-for-not-being-blind/">I was banned from the hCaptcha accessibility account for not being blind (2023)</a> (94 points | 
-              18 comments)<br>4. <a href="https://skip.house/blog/qmk-globe-key">Adding Apple's Globe key to a QMK-powered keyboard</a> (22 points | 
-              2 comments)<br>5. <a href="https://blog.codingconfessions.com/p/cpython-hidden-xkcd-easter-egg">An Unreachable Hidden XKCD Easter Egg inside CPython</a> (4 points | 
-              no comments)<br>6. <a href="https://pagedout.institute/download/PagedOut_005.pdf">Paged Out! #5 - hacker zine release</a> (10 points | 
-              no comments)<br>7. <a href="https://danilafe.com/blog/boolean_values/">How Many Values Does a Boolean Have? (2020)</a> (12 points | 
-              9 comments)<br>8. <a href="https://lucumr.pocoo.org/2024/11/18/threads-beat-async-await/">Threads Beat Async/Await</a> (35 points | 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Tue, 19 Nov 2024 13:25:43 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Tuesday, November 19, 2024 at 1:25 PM UTC]]></title><description><![CDATA[1. <a href="https://blog.yossarian.net/2024/11/18/Security-means-securing-people-where-they-are">Security means securing people where they are</a> (36 points | 
+              14 comments)<br>2. <a href="https://blog.codingconfessions.com/p/cpython-hidden-xkcd-easter-egg">An Unreachable Hidden XKCD Easter Egg inside CPython</a> (7 points | 
+              1 comment)<br>3. <a href="https://gleam.run/news/context-aware-compilation/">Gleam v1.6.0 released</a> (65 points | 
+              3 comments)<br>4. <a href="https://michaels.world/2023/11/i-was-banned-from-the-hcaptcha-accessibility-account-for-not-being-blind/">I was banned from the hCaptcha accessibility account for not being blind (2023)</a> (96 points | 
+              18 comments)<br>5. <a href="https://pagedout.institute/download/PagedOut_005.pdf">Paged Out! #5 - hacker zine release</a> (16 points | 
+              no comments)<br>6. <a href="https://skip.house/blog/qmk-globe-key">Adding Apple's Globe key to a QMK-powered keyboard</a> (22 points | 
+              2 comments)<br>7. <a href="https://danilafe.com/blog/boolean_values/">How Many Values Does a Boolean Have? (2020)</a> (12 points | 
+              10 comments)<br>8. <a href="https://lucumr.pocoo.org/2024/11/18/threads-beat-async-await/">Threads Beat Async/Await</a> (35 points | 
               39 comments)<br>9. <a href="https://zakhary.dev/blog/considered-harmful">Harmful Practices Considered Best</a> (5 points | 
               1 comment)<br>10. <a href="https://devblogs.microsoft.com/oldnewthing/20241112-00/?p=110507">Why did Windows 95 setup use three operating systems?</a> (36 points | 
               3 comments)<br>11. <a href="https://github.com/raysan5/raylib/discussions/4503">raylib v5.5</a> (15 points | 
               1 comment)<br>12. <a href="https://www.youtube.com/watch?v=QcYsGytNBe8">What if Kubernetes was a Compiler Target?</a> (15 points | 
-              6 comments)<br>13. <a href="https://httpd.rocks">httpd.rocks - Setup an HTTPS-enabled web-server with httpd on OpenBSD</a> (20 points | 
-              1 comment)<br>14. <a href="https://pagedout.institute/?page=issues.php">Paged Out! Issue #5</a> (2 points | 
-              2 comments)<br>15. <a href="https://blog.sylver.dev/build-your-own-sqlite-part-3-sql-parsing-101">Build your own SQLite in Rust, Part 3: SQL parsing 101</a> (7 points | 
-              1 comment)<br>16. <a href="https://netflixtechblog.com/the-netflix-simian-army-16e57fbab116">The Netflix Simian Army</a> (2 points | 
-              no comments)<br>17. <a href="https://adriano.fyi/posts/chatgpt-is-slipping/">ChatGPT is Slipping</a> (36 points | 
-              12 comments)<br>18. <a href="https://www.joshtumath.uk/posts/2024-11-08-how-a-bbc-navigation-bar-component-broke-depending-on-which-external-monitor-it-was-on/">How a BBC navigation bar component broke depending on which external monitor it was on</a> (7 points | 
-              no comments)<br>19. <a href="https://blog.xoria.org/n-times-faster/">n times faster than C, Arm edition</a> (31 points | 
-              7 comments)<br>20. <a href="https://sr.ht/~bptato/chawan/">chawan: TUI Web Browser</a> (21 points | 
-              2 comments)<br>21. <a href="https://www.tumfatig.net/2024/running-web-browsers-in-freebsd-jail/">Running web browsers in a FreeBSD jail</a> (1 points | 
-              no comments)<br>22. <a href="https://queue.acm.org/detail.cfm?id=3674953">[...] Bandwidth [...] is now a solvable problem</a> (7 points | 
-              1 comment)<br>23. <a href="https://utcc.utoronto.ca/~cks/space/blog/programming/MissingTextProgrammingEnvironment">The missing text focused programming environment</a> (33 points | 
-              12 comments)<br>24. <a href="https://www.polarsignals.com/blog/posts/2024/11/13/lua-unwinding">A Walk with LuaJIT</a> (22 points | 
-              1 comment)<br>25. <a href="/s/3orteb/what_are_you_doing_this_week">What are you doing this week?</a> (7 points | 
-              19 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Tuesday, November 19, 2024 at 12:30 PM UTC</guid></item></channel></rss>
+              6 comments)<br>13. <a href="https://httpd.rocks">httpd.rocks - Setup an HTTPS-enabled web-server with httpd on OpenBSD</a> (21 points | 
+              2 comments)<br>14. <a href="https://github.com/azat-io/eslint-plugin-perfectionist">Released ESLint Plugin Perfectionist v4.0.0</a> (1 points | 
+              no comments)<br>15. <a href="https://blog.sylver.dev/build-your-own-sqlite-part-3-sql-parsing-101">Build your own SQLite in Rust, Part 3: SQL parsing 101</a> (8 points | 
+              1 comment)<br>16. <a href="https://pagedout.institute/?page=issues.php">Paged Out! Issue #5</a> (2 points | 
+              2 comments)<br>17. <a href="https://netflixtechblog.com/the-netflix-simian-army-16e57fbab116">The Netflix Simian Army</a> (2 points | 
+              no comments)<br>18. <a href="https://adriano.fyi/posts/chatgpt-is-slipping/">ChatGPT is Slipping</a> (36 points | 
+              12 comments)<br>19. <a href="https://www.joshtumath.uk/posts/2024-11-08-how-a-bbc-navigation-bar-component-broke-depending-on-which-external-monitor-it-was-on/">How a BBC navigation bar component broke depending on which external monitor it was on</a> (7 points | 
+              no comments)<br>20. <a href="https://blog.xoria.org/n-times-faster/">n times faster than C, Arm edition</a> (31 points | 
+              7 comments)<br>21. <a href="https://sr.ht/~bptato/chawan/">chawan: TUI Web Browser</a> (21 points | 
+              2 comments)<br>22. <a href="https://www.tumfatig.net/2024/running-web-browsers-in-freebsd-jail/">Running web browsers in a FreeBSD jail</a> (1 points | 
+              no comments)<br>23. <a href="https://queue.acm.org/detail.cfm?id=3674953">[...] Bandwidth [...] is now a solvable problem</a> (7 points | 
+              1 comment)<br>24. <a href="https://utcc.utoronto.ca/~cks/space/blog/programming/MissingTextProgrammingEnvironment">The missing text focused programming environment</a> (34 points | 
+              12 comments)<br>25. <a href="https://nadim.computer/posts/2024-11-18-misguided.html">An Internet of Desperate Protagonists</a> (3 points | 
+              no comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Tuesday, November 19, 2024 at 1:25 PM UTC</guid></item></channel></rss>
