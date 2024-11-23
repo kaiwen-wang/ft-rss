@@ -1,26 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Fri, 22 Nov 2024 23:17:13 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Friday, November 22, 2024 at 11:15 PM UTC]]></title><description><![CDATA[1. <a href="https://dustycloud.org/blog/how-decentralized-is-bluesky/">How decentralized is Bluesky really?</a> (45 points | 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Sat, 23 Nov 2024 01:14:30 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Saturday, November 23, 2024 at 1:15 AM UTC]]></title><description><![CDATA[1. <a href="https://dustycloud.org/blog/how-decentralized-is-bluesky/">How decentralized is Bluesky really?</a> (50 points | 
               21 comments)<br>2. <a href="https://matduggan.com/self-hosting-isnt-a-solution-its-a-patch/">Self-Hosting Isn't a Solution; It's A Patch</a> (25 points | 
-              22 comments)<br>3. <a href="https://injuly.in/blog/announcing-jam/index.html">Why am I writing a JavaScript toolchain in Zig?</a> (10 points | 
-              3 comments)<br>4. <a href="https://discourse.imfreedom.org/t/pidgin-3-0-0-experimental-1-announcement/216">Pidgin 3.0.0 Experimental 1 Announcement</a> (37 points | 
-              10 comments)<br>5. <a href="/s/vajg5m/what_is_boring_technology_solution_for">What is the "boring technology" solution for running multiple containers on a single host in production in 2024?</a> (57 points | 
-              80 comments)<br>6. <a href="https://calebhearth.com/l/how-i-model-views">How I Model SwiftUI Views</a> (9 points | 
-              1 comment)<br>7. <a href="/s/nhzvzi/what_s_your_go_wfh_setup">What's your go-to WFH setup?</a> (17 points | 
-              49 comments)<br>8. <a href="https://www.taoensso.com/break-versioning">BreakVer</a> (6 points | 
-              4 comments)<br>9. <a href="https://jennyjams.net/blog/copygc/">Baby's second garbage collector</a> (15 points | 
-              1 comment)<br>10. <a href="https://docs.google.com/presentation/d/1jvc0RzrshOOjkeEnsyea2jwjs_zVOcyETG558pqPOK0/edit">What's coming in Go 1.24</a> (9 points | 
-              no comments)<br>11. <a href="https://flox.dev/blog/bpftrace--a-scriptable-magnifying-glass-with-x-ray-vision-for-linux/">bpftrace: a scriptable magnifying glass with X-ray vision for Linux</a> (4 points | 
-              no comments)<br>12. <a href="https://soatok.blog/2024/11/21/key-transparency-and-the-right-to-be-forgotten/">Key Transparency and the Right to be Forgotten</a> (8 points | 
-              4 comments)<br>13. <a href="/s/yn0ibw/why_is_mathematica_so_bad_at_being">why is mathematica so bad at being a spreadsheet?</a> (10 points | 
-              20 comments)<br>14. <a href="https://stuartschechter.org/posts/password-history/">How some of the world's most brilliant computer scientists got password policies so wrong</a> (8 points | 
-              5 comments)<br>15. <a href="https://wiki.dpk.land/Naming_things">Naming things</a> (4 points | 
-              no comments)<br>16. <a href="https://yossarian.net/til/post/some-surprising-code-execution-sources-in-bash">TIL: Some surprising code execution sources in bash</a> (118 points | 
-              42 comments)<br>17. <a href="https://arcan-fe.com/2024/11/21/a-deeper-dive-into-the-shmif-ipc-system/">Arcan: A deeper dive into the SHMIF IPC system</a> (26 points | 
-              no comments)<br>18. <a href="https://www.khronos.org/news/press/khronos-group-launches-slang-initiative-hosting-open-source-compiler-contributed-by-nvidia">Khronos Group Launches Slang Initiative</a> (6 points | 
-              no comments)<br>19. <a href="https://gcc.gnu.org/onlinedocs/gcc/Other-Builtins.html">Built-in Functions Provided by GCC</a> (4 points | 
-              2 comments)<br>20. <a href="https://www.youtube.com/watch?v=DiehtDWF8fU">Explaining Effects and Effect Handlers with EYG</a> (2 points | 
-              no comments)<br>21. <a href="https://vermaden.wordpress.com/2024/11/22/new-jless-freebsd-jails-list-manage-tool/">New jless(8) FreeBSD Jails List/Manage Tool</a> (1 points | 
-              no comments)<br>22. <a href="https://lwn.net/Articles/997238/">Truly portable C applications</a> (5 points | 
-              3 comments)<br>23. <a href="https://www.sacredheartsc.com/blog/freebsd-14-on-the-desktop/">FreeBSD 14 on a Laptop</a> (29 points | 
-              12 comments)<br>24. <a href="https://developers.cloudflare.com/workflows/">Cloudflare Workflows (public Beta)</a> (7 points | 
-              no comments)<br>25. <a href="https://www.patreon.com/posts/trouble-in-116412665">The future of bcachefs in the kernel is uncertain</a> (35 points | 
-              27 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Friday, November 22, 2024 at 11:15 PM UTC</guid></item></channel></rss>
+              27 comments)<br>3. <a href="https://injuly.in/blog/announcing-jam/index.html">Why am I writing a JavaScript toolchain in Zig?</a> (11 points | 
+              3 comments)<br>4. <a href="https://discourse.imfreedom.org/t/pidgin-3-0-0-experimental-1-announcement/216">Pidgin 3.0.0 Experimental 1 Announcement</a> (39 points | 
+              11 comments)<br>5. <a href="/s/vajg5m/what_is_boring_technology_solution_for">What is the "boring technology" solution for running multiple containers on a single host in production in 2024?</a> (59 points | 
+              82 comments)<br>6. <a href="https://calebhearth.com/l/how-i-model-views">How I Model SwiftUI Views</a> (9 points | 
+              5 comments)<br>7. <a href="https://docs.google.com/presentation/d/1jvc0RzrshOOjkeEnsyea2jwjs_zVOcyETG558pqPOK0/edit">What's coming in Go 1.24</a> (11 points | 
+              1 comment)<br>8. <a href="/s/nhzvzi/what_s_your_go_wfh_setup">What's your go-to WFH setup?</a> (18 points | 
+              53 comments)<br>9. <a href="https://www.taoensso.com/break-versioning">BreakVer</a> (7 points | 
+              8 comments)<br>10. <a href="https://jennyjams.net/blog/copygc/">Baby's second garbage collector</a> (16 points | 
+              1 comment)<br>11. <a href="https://soatok.blog/2024/11/21/key-transparency-and-the-right-to-be-forgotten/">Key Transparency and the Right to be Forgotten</a> (9 points | 
+              4 comments)<br>12. <a href="https://flox.dev/blog/bpftrace--a-scriptable-magnifying-glass-with-x-ray-vision-for-linux/">bpftrace: a scriptable magnifying glass with X-ray vision for Linux</a> (4 points | 
+              no comments)<br>13. <a href="https://vermaden.wordpress.com/2024/11/22/new-jless-freebsd-jails-list-manage-tool/">New jless(8) FreeBSD Jails List/Manage Tool</a> (2 points | 
+              1 comment)<br>14. <a href="https://wiki.dpk.land/Naming_things">Naming things</a> (5 points | 
+              1 comment)<br>15. <a href="/s/yn0ibw/why_is_mathematica_so_bad_at_being">why is mathematica so bad at being a spreadsheet?</a> (10 points | 
+              20 comments)<br>16. <a href="https://stuartschechter.org/posts/password-history/">How some of the world's most brilliant computer scientists got password policies so wrong</a> (8 points | 
+              5 comments)<br>17. <a href="https://yossarian.net/til/post/some-surprising-code-execution-sources-in-bash">TIL: Some surprising code execution sources in bash</a> (118 points | 
+              42 comments)<br>18. <a href="/s/l3dp1e/what_are_you_doing_this_weekend">What are you doing this weekend?</a> (1 points | 
+              1 comment)<br>19. <a href="https://arcan-fe.com/2024/11/21/a-deeper-dive-into-the-shmif-ipc-system/">Arcan: A deeper dive into the SHMIF IPC system</a> (26 points | 
+              no comments)<br>20. <a href="https://www.khronos.org/news/press/khronos-group-launches-slang-initiative-hosting-open-source-compiler-contributed-by-nvidia">Khronos Group Launches Slang Initiative</a> (6 points | 
+              no comments)<br>21. <a href="https://lwn.net/Articles/997238/">Truly portable C applications</a> (6 points | 
+              3 comments)<br>22. <a href="https://blog.korny.info/2024/11/17/translating-my-grandfathers-biography">Translating my Grandfather’s biograpy</a> (2 points | 
+              1 comment)<br>23. <a href="https://gcc.gnu.org/onlinedocs/gcc/Other-Builtins.html">Built-in Functions Provided by GCC</a> (4 points | 
+              2 comments)<br>24. <a href="https://www.youtube.com/watch?v=DiehtDWF8fU">Explaining Effects and Effect Handlers with EYG</a> (2 points | 
+              no comments)<br>25. <a href="https://www.sacredheartsc.com/blog/freebsd-14-on-the-desktop/">FreeBSD 14 on a Laptop</a> (29 points | 
+              12 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Saturday, November 23, 2024 at 1:15 AM UTC</guid></item></channel></rss>
