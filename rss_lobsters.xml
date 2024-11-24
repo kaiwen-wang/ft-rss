@@ -1,26 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Sun, 24 Nov 2024 11:11:50 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Sunday, November 24, 2024 at 11:10 AM UTC]]></title><description><![CDATA[1. <a href="https://www.macchaffee.com/blog/2024/you-have-built-a-kubernetes/">Dear friend, you have built a Kubernetes</a> (15 points | 
-              5 comments)<br>2. <a href="https://matklad.github.io/2024/11/23/semver-is-not-about-you.html">SemVer Is Not About You</a> (10 points | 
-              4 comments)<br>3. <a href="https://wheybags.com/blog/privesc.html">Privilege escalation vulnerabilities don't really matter</a> (5 points | 
-              12 comments)<br>4. <a href="https://blog.startifact.com/posts/print-debugging/">Don't Look Down on Print Debugging</a> (47 points | 
-              41 comments)<br>5. <a href="https://tailscale.com/blog/infra-team-stays-small">How Tailscale's infrastructure team stays small</a> (11 points | 
-              3 comments)<br>6. <a href="https://blog.jutty.dev/posts/self-hosting-patch/">On self-hosting being a patch</a> (3 points | 
-              1 comment)<br>7. <a href="https://itch.io/jam/deck-month-2">Dec(k)-Month 2: A Decker Jam in December</a> (13 points | 
-              3 comments)<br>8. <a href="https://www.adriancourreges.com/blog/2020/12/29/graphics-studies-compilation/">Graphics Studies Compilation</a> (5 points | 
-              no comments)<br>9. <a href="https://www.tcl.tk/community/tcl2017/assets/talk93/Paper.html">SQLite's use of Tcl</a> (26 points | 
-              5 comments)<br>10. <a href="https://www.0de5.net/explore">A Reintroduction to Programming</a> (12 points | 
-              no comments)<br>11. <a href="https://github.com/susam/hello">A 23-byte “hello, world” program assembled with DEBUG.EXE in MS-DOS</a> (9 points | 
-              7 comments)<br>12. <a href="https://www.thetimes.com/uk/technology-uk/article/thirsty-chatgpt-uses-four-times-more-water-than-previously-thought-bc0pqswdr">‘Thirsty’ ChatGPT uses four times more water than previously thought</a> (25 points | 
-              37 comments)<br>13. <a href="https://dolthub.com/blog/2024-11-22-are-golang-generics-simple-or-incomplete-1/">Are Golang Generics Simple or Incomplete? A Design Study</a> (2 points | 
-              no comments)<br>14. <a href="https://dustycloud.org/blog/how-decentralized-is-bluesky/">How decentralized is Bluesky really?</a> (101 points | 
-              38 comments)<br>15. <a href="https://enikofox.com/posts/introduction-to-bismuth-vm/">Introduction to Bismuth VM</a> (14 points | 
-              no comments)<br>16. <a href="https://tilde.town/~dzwdz/blog/m8trix.html">Dissecting m8trix</a> (9 points | 
-              1 comment)<br>17. <a href="https://discourse.llvm.org/t/rfc-a-clangir-based-safe-c/83245">[RFC] A ClangIR based Safe C++</a> (1 points | 
-              1 comment)<br>18. <a href="http://www.righto.com/2024/11/antenna-diodes-in-pentium-processor.html">Antenna diodes in the Pentium processor</a> (5 points | 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Sun, 24 Nov 2024 12:29:22 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Sunday, November 24, 2024 at 12:30 PM UTC]]></title><description><![CDATA[1. <a href="https://www.macchaffee.com/blog/2024/you-have-built-a-kubernetes/">Dear friend, you have built a Kubernetes</a> (18 points | 
+              9 comments)<br>2. <a href="https://wheybags.com/blog/privesc.html">Privilege escalation vulnerabilities don't really matter</a> (5 points | 
+              12 comments)<br>3. <a href="https://dolthub.com/blog/2024-11-22-are-golang-generics-simple-or-incomplete-1/">Are Golang Generics Simple or Incomplete? A Design Study</a> (8 points | 
+              no comments)<br>4. <a href="https://tailscale.com/blog/infra-team-stays-small">How Tailscale's infrastructure team stays small</a> (11 points | 
+              3 comments)<br>5. <a href="https://blog.startifact.com/posts/print-debugging/">Don't Look Down on Print Debugging</a> (47 points | 
+              41 comments)<br>6. <a href="https://www.adriancourreges.com/blog/2020/12/29/graphics-studies-compilation/">Graphics Studies Compilation</a> (6 points | 
+              no comments)<br>7. <a href="https://www.0de5.net/explore">A Reintroduction to Programming</a> (15 points | 
+              no comments)<br>8. <a href="https://itch.io/jam/deck-month-2">Dec(k)-Month 2: A Decker Jam in December</a> (13 points | 
+              3 comments)<br>9. <a href="https://www.tcl.tk/community/tcl2017/assets/talk93/Paper.html">SQLite's use of Tcl</a> (26 points | 
+              5 comments)<br>10. <a href="https://github.com/susam/hello">A 23-byte “hello, world” program assembled with DEBUG.EXE in MS-DOS</a> (9 points | 
+              7 comments)<br>11. <a href="https://www.thetimes.com/uk/technology-uk/article/thirsty-chatgpt-uses-four-times-more-water-than-previously-thought-bc0pqswdr">‘Thirsty’ ChatGPT uses four times more water than previously thought</a> (25 points | 
+              37 comments)<br>12. <a href="https://discourse.llvm.org/t/rfc-a-clangir-based-safe-c/83245">[RFC] A ClangIR based Safe C++</a> (2 points | 
+              1 comment)<br>13. <a href="https://dustycloud.org/blog/how-decentralized-is-bluesky/">How decentralized is Bluesky really?</a> (101 points | 
+              38 comments)<br>14. <a href="https://khang06.github.io/vrcescape/">Breaking out of VRChat using a Unity bug</a> (1 points | 
+              no comments)<br>15. <a href="https://enikofox.com/posts/introduction-to-bismuth-vm/">Introduction to Bismuth VM</a> (14 points | 
+              no comments)<br>16. <a href="https://nmap.org/favicon/">Icons of the Web (2013)</a> (3 points | 
+              no comments)<br>17. <a href="https://tilde.town/~dzwdz/blog/m8trix.html">Dissecting m8trix</a> (9 points | 
+              1 comment)<br>18. <a href="http://www.righto.com/2024/11/antenna-diodes-in-pentium-processor.html">Antenna diodes in the Pentium processor</a> (6 points | 
               no comments)<br>19. <a href="https://gist.github.com/jFransham/369a86eff00e5f280ed25121454acec1">Achieving warp speed with Rust (2017)</a> (3 points | 
-              no comments)<br>20. <a href="https://nmap.org/favicon/">Icons of the Web (2013)</a> (2 points | 
-              no comments)<br>21. <a href="https://injuly.in/blog/announcing-jam/index.html">Why am I writing a JavaScript toolchain in Zig?</a> (32 points | 
-              18 comments)<br>22. <a href="https://youtu.be/8SGMy9ENGz8">How Designing Carbon C++ Interop Taught me About C++ Variadics & Bound Members</a> (15 points | 
-              5 comments)<br>23. <a href="https://www.youtube.com/watch?v=HAe6TvbwXJw">Reverse Engineering a 218-Byte Wasm Compiler in JavaScript</a> (5 points | 
-              1 comment)<br>24. <a href="https://github.com/hborla/swift-evolution/blob/approachable-concurrency-vision/visions/approachable-concurrency.md">Improving the approachability of data-race safety</a> (4 points | 
-              no comments)<br>25. <a href="https://ishankbg.dev/archive/react-server-components-a-bad-idea/">React Server Components: A Bad Idea?</a> (1 points | 
-              no comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Sunday, November 24, 2024 at 11:10 AM UTC</guid></item></channel></rss>
+              no comments)<br>20. <a href="https://youtu.be/8SGMy9ENGz8">How Designing Carbon C++ Interop Taught me About C++ Variadics & Bound Members</a> (15 points | 
+              5 comments)<br>21. <a href="https://injuly.in/blog/announcing-jam/index.html">Why am I writing a JavaScript toolchain in Zig?</a> (32 points | 
+              18 comments)<br>22. <a href="https://www.youtube.com/watch?v=HAe6TvbwXJw">Reverse Engineering a 218-Byte Wasm Compiler in JavaScript</a> (5 points | 
+              1 comment)<br>23. <a href="https://github.com/hborla/swift-evolution/blob/approachable-concurrency-vision/visions/approachable-concurrency.md">Improving the approachability of data-race safety</a> (5 points | 
+              no comments)<br>24. <a href="https://ishankbg.dev/archive/react-server-components-a-bad-idea/">React Server Components: A Bad Idea?</a> (1 points | 
+              no comments)<br>25. <a href="https://docs.google.com/presentation/d/1jvc0RzrshOOjkeEnsyea2jwjs_zVOcyETG558pqPOK0/edit">What's coming in Go 1.24</a> (34 points | 
+              7 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Sunday, November 24, 2024 at 12:30 PM UTC</guid></item></channel></rss>
