@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Sun, 24 Nov 2024 02:59:38 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Sunday, November 24, 2024 at 3:00 AM UTC]]></title><description><![CDATA[1. <a href="https://blog.startifact.com/posts/print-debugging/">Don't Look Down on Print Debugging</a> (37 points | 
-              36 comments)<br>2. <a href="https://itch.io/jam/deck-month-2">Dec(k)-Month 2: A Decker Jam in December</a> (11 points | 
-              3 comments)<br>3. <a href="https://www.thetimes.com/uk/technology-uk/article/thirsty-chatgpt-uses-four-times-more-water-than-previously-thought-bc0pqswdr">‘Thirsty’ ChatGPT uses four times more water than previously thought</a> (24 points | 
-              33 comments)<br>4. <a href="https://www.tcl.tk/community/tcl2017/assets/talk93/Paper.html">SQLite's use of Tcl</a> (19 points | 
-              3 comments)<br>5. <a href="https://tailscale.com/blog/infra-team-stays-small">How Tailscale's infrastructure team stays small</a> (6 points | 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Sun, 24 Nov 2024 03:36:28 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Sunday, November 24, 2024 at 3:35 AM UTC]]></title><description><![CDATA[1. <a href="https://blog.startifact.com/posts/print-debugging/">Don't Look Down on Print Debugging</a> (39 points | 
+              38 comments)<br>2. <a href="https://itch.io/jam/deck-month-2">Dec(k)-Month 2: A Decker Jam in December</a> (11 points | 
+              3 comments)<br>3. <a href="https://tailscale.com/blog/infra-team-stays-small">How Tailscale's infrastructure team stays small</a> (6 points | 
+              3 comments)<br>4. <a href="https://www.thetimes.com/uk/technology-uk/article/thirsty-chatgpt-uses-four-times-more-water-than-previously-thought-bc0pqswdr">‘Thirsty’ ChatGPT uses four times more water than previously thought</a> (24 points | 
+              33 comments)<br>5. <a href="https://www.tcl.tk/community/tcl2017/assets/talk93/Paper.html">SQLite's use of Tcl</a> (19 points | 
               3 comments)<br>6. <a href="https://dustycloud.org/blog/how-decentralized-is-bluesky/">How decentralized is Bluesky really?</a> (99 points | 
               36 comments)<br>7. <a href="https://github.com/susam/hello">A 23-byte “hello, world” program assembled with DEBUG.EXE in MS-DOS</a> (7 points | 
-              7 comments)<br>8. <a href="https://www.0de5.net/explore">A Reintroduction to Programming</a> (5 points | 
-              no comments)<br>9. <a href="https://tilde.town/~dzwdz/blog/m8trix.html">Dissecting m8trix</a> (7 points | 
-              1 comment)<br>10. <a href="https://enikofox.com/posts/introduction-to-bismuth-vm/">Introduction to Bismuth VM</a> (9 points | 
-              no comments)<br>11. <a href="https://wheybags.com/blog/privesc.html">Privilege escalation vulnerabilities don't really matter</a> (1 points | 
-              no comments)<br>12. <a href="https://injuly.in/blog/announcing-jam/index.html">Why am I writing a JavaScript toolchain in Zig?</a> (29 points | 
+              7 comments)<br>8. <a href="https://wheybags.com/blog/privesc.html">Privilege escalation vulnerabilities don't really matter</a> (2 points | 
+              no comments)<br>9. <a href="https://www.0de5.net/explore">A Reintroduction to Programming</a> (6 points | 
+              no comments)<br>10. <a href="https://enikofox.com/posts/introduction-to-bismuth-vm/">Introduction to Bismuth VM</a> (10 points | 
+              no comments)<br>11. <a href="https://tilde.town/~dzwdz/blog/m8trix.html">Dissecting m8trix</a> (7 points | 
+              1 comment)<br>12. <a href="https://injuly.in/blog/announcing-jam/index.html">Why am I writing a JavaScript toolchain in Zig?</a> (29 points | 
               18 comments)<br>13. <a href="http://www.righto.com/2024/11/antenna-diodes-in-pentium-processor.html">Antenna diodes in the Pentium processor</a> (4 points | 
               no comments)<br>14. <a href="https://youtu.be/8SGMy9ENGz8">How Designing Carbon C++ Interop Taught me About C++ Variadics & Bound Members</a> (14 points | 
               4 comments)<br>15. <a href="https://www.youtube.com/watch?v=HAe6TvbwXJw">Reverse Engineering a 218-Byte Wasm Compiler in JavaScript</a> (5 points | 
@@ -22,5 +22,5 @@
               21 comments)<br>22. <a href="https://www.taoensso.com/break-versioning">BreakVer</a> (21 points | 
               23 comments)<br>23. <a href="https://jordaneldredge.com/notes/webamp-modern/">Rendering “modern” Winamp skins in the browser</a> (4 points | 
               1 comment)<br>24. <a href="/s/l3dp1e/what_are_you_doing_this_weekend">What are you doing this weekend?</a> (8 points | 
-              9 comments)<br>25. <a href="https://wiki.dpk.land/Naming_things">Naming things</a> (12 points | 
-              8 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Sunday, November 24, 2024 at 3:00 AM UTC</guid></item></channel></rss>
+              10 comments)<br>25. <a href="https://wiki.dpk.land/Naming_things">Naming things</a> (12 points | 
+              8 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Sunday, November 24, 2024 at 3:35 AM UTC</guid></item></channel></rss>
