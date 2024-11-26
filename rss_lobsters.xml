@@ -1,26 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Tue, 26 Nov 2024 09:17:48 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Tuesday, November 26, 2024 at 9:15 AM UTC]]></title><description><![CDATA[1. <a href="https://deno.com/blog/deno-v-oracle">Deno v. Oracle: Canceling the JavaScript Trademark</a> (49 points | 
-              5 comments)<br>2. <a href="https://wtf-8.xn--stpie-k0a81a.com/">charset=“wtf-8”</a> (63 points | 
-              33 comments)<br>3. <a href="https://norikitech.com/posts/functional-affirmations/">Functional programming self-affirmations</a> (36 points | 
-              21 comments)<br>4. <a href="https://xeiaso.net/notes/2024/go-pointer-constant/">Getting a pointer to a constant in Go</a> (19 points | 
-              5 comments)<br>5. <a href="https://neilzone.co.uk/2024/11/using-only-a-linux-terminal-for-my-personal-computing-in-2024/">Using (only) a Linux terminal for my personal computing in 2024</a> (6 points | 
-              2 comments)<br>6. <a href="https://www.anthropic.com/news/model-context-protocol">Introducing the Model Context Protocol</a> (14 points | 
-              6 comments)<br>7. <a href="https://neohaskell.org/">NeoHaskell</a> (14 points | 
-              7 comments)<br>8. <a href="https://github.com/Juniper/libslax/wiki">SLAX: an alternative syntax for XSLT which is tailored for readability and familiarity</a> (9 points | 
-              12 comments)<br>9. <a href="https://community.fly.io/t/fly-io-site-is-currently-inaccessible/22791">major fly.io outage</a> (5 points | 
-              2 comments)<br>10. <a href="https://www.baldurbjarnason.com/2022/theory-building/">Theory-building and why employee churn is lethal to software companies</a> (32 points | 
-              20 comments)<br>11. <a href="https://blog.xoria.org/macos-tips-threading/">macOS Tips for Programmers: Threading</a> (17 points | 
-              1 comment)<br>12. <a href="https://herecomesthemoon.net/2024/11/two-factions-of-cpp/">The two factions of C++</a> (60 points | 
-              29 comments)<br>13. <a href="https://htmx.org/essays/codin-dirty/">Codin' Dirty</a> (41 points | 
-              17 comments)<br>14. <a href="https://www.benji.dog/articles/git-config/">How I configure my Git identities</a> (38 points | 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Tue, 26 Nov 2024 10:17:57 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Tuesday, November 26, 2024 at 10:15 AM UTC]]></title><description><![CDATA[1. <a href="https://deno.com/blog/deno-v-oracle">Deno v. Oracle: Canceling the JavaScript Trademark</a> (57 points | 
+              6 comments)<br>2. <a href="https://wtf-8.xn--stpie-k0a81a.com/">charset=“wtf-8”</a> (63 points | 
+              33 comments)<br>3. <a href="https://neilzone.co.uk/2024/11/using-only-a-linux-terminal-for-my-personal-computing-in-2024/">Using (only) a Linux terminal for my personal computing in 2024</a> (9 points | 
+              2 comments)<br>4. <a href="https://norikitech.com/posts/functional-affirmations/">Functional programming self-affirmations</a> (36 points | 
+              21 comments)<br>5. <a href="https://xeiaso.net/notes/2024/go-pointer-constant/">Getting a pointer to a constant in Go</a> (19 points | 
+              5 comments)<br>6. <a href="https://community.fly.io/t/fly-io-site-is-currently-inaccessible/22791">major fly.io outage</a> (7 points | 
+              2 comments)<br>7. <a href="https://www.anthropic.com/news/model-context-protocol">Introducing the Model Context Protocol</a> (14 points | 
+              8 comments)<br>8. <a href="https://neohaskell.org/">NeoHaskell</a> (14 points | 
+              7 comments)<br>9. <a href="https://github.com/Juniper/libslax/wiki">SLAX: an alternative syntax for XSLT which is tailored for readability and familiarity</a> (9 points | 
+              12 comments)<br>10. <a href="https://blog.xoria.org/macos-tips-threading/">macOS Tips for Programmers: Threading</a> (18 points | 
+              1 comment)<br>11. <a href="https://www.baldurbjarnason.com/2022/theory-building/">Theory-building and why employee churn is lethal to software companies</a> (33 points | 
+              23 comments)<br>12. <a href="https://herecomesthemoon.net/2024/11/two-factions-of-cpp/">The two factions of C++</a> (60 points | 
+              29 comments)<br>13. <a href="https://htmx.org/essays/codin-dirty/">Codin' Dirty</a> (42 points | 
+              18 comments)<br>14. <a href="https://www.benji.dog/articles/git-config/">How I configure my Git identities</a> (40 points | 
               3 comments)<br>15. <a href="/s/zv4ekm/is_there_good_open_source_combined_crm_cms">Is there a good open-source combined CRM and CMS for political organising?</a> (15 points | 
               7 comments)<br>16. <a href="https://oida.dev/unsafe-for-work/">Unsafe for work</a> (16 points | 
               3 comments)<br>17. <a href="https://danielmangum.com/posts/this-website-is-hosted-on-bluesky/">This Website is Hosted on Bluesky</a> (16 points | 
               3 comments)<br>18. <a href="https://www.ralfj.de/blog/2024/11/25/rustlantis.html">Rustlantis: Randomized Differential Testing of the Rust Compiler</a> (15 points | 
-              1 comment)<br>19. <a href="https://github.com/lucasew/untls">untls: Reexposes a TCP over TLS port as a local TCP port</a> (3 points | 
-              4 comments)<br>20. <a href="http://datagirl.xyz/posts/kontact_plugin_writing.html">So you want to write a KMail plugin?</a> (9 points | 
-              2 comments)<br>21. <a href="https://thejpster.org.uk/blog/blog-2024-11-22/">My new POWER Indigo 2</a> (15 points | 
-              1 comment)<br>22. <a href="/s/z4a8ne/what_are_you_doing_this_week">What are you doing this week?</a> (7 points | 
-              14 comments)<br>23. <a href="https://jmduke.com/posts/post/what-is-shipping/">Shipping is Capturing Value</a> (1 points | 
-              no comments)<br>24. <a href="https://github.blog/engineering/architecture-optimization/breaking-down-cpu-speed-how-utilization-impacts-performance/">Breaking down CPU speed: How utilization impacts performance</a> (4 points | 
+              1 comment)<br>19. <a href="https://jmduke.com/posts/post/what-is-shipping/">Shipping is Capturing Value</a> (2 points | 
+              no comments)<br>20. <a href="https://github.com/lucasew/untls">untls: Reexposes a TCP over TLS port as a local TCP port</a> (3 points | 
+              4 comments)<br>21. <a href="https://thejpster.org.uk/blog/blog-2024-11-22/">My new POWER Indigo 2</a> (16 points | 
+              1 comment)<br>22. <a href="http://datagirl.xyz/posts/kontact_plugin_writing.html">So you want to write a KMail plugin?</a> (9 points | 
+              2 comments)<br>23. <a href="/s/z4a8ne/what_are_you_doing_this_week">What are you doing this week?</a> (7 points | 
+              14 comments)<br>24. <a href="https://github.blog/engineering/architecture-optimization/breaking-down-cpu-speed-how-utilization-impacts-performance/">Breaking down CPU speed: How utilization impacts performance</a> (4 points | 
               no comments)<br>25. <a href="https://selfboot.cn/en/2024/09/24/leveldb_source_skiplist_time_analysis/">LevelDB Explained - How to Analyze the Time Complexity of SkipLists?</a> (3 points | 
-              no comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Tuesday, November 26, 2024 at 9:15 AM UTC</guid></item></channel></rss>
+              no comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Tuesday, November 26, 2024 at 10:15 AM UTC</guid></item></channel></rss>
