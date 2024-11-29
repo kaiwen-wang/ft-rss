@@ -1,26 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Fri, 29 Nov 2024 14:15:21 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Friday, November 29, 2024 at 2:15 PM UTC]]></title><description><![CDATA[1. <a href="https://vereis.com/posts/you_built_an_erlang">You Have Built an Erlang</a> (66 points | 
-              35 comments)<br>2. <a href="https://sourceforge.net/p/clisp/clisp/ci/default/tree/doc/Why-CLISP-is-under-GPL">Why CLISP is under GPL (1992; email exchanges)</a> (7 points | 
-              7 comments)<br>3. <a href="https://interactionmagic.com/UX-LEGO-Interfaces/">The UX of LEGO Interface Panels</a> (8 points | 
-              no comments)<br>4. <a href="https://www.youtube.com/watch?v=0SUM4869ODc">Elm & The Future of Open Source (with Evan Czaplicki)</a> (39 points | 
-              2 comments)<br>5. <a href="https://www.clockwork.io/there-is-no-upside-to-vm-colocation/">There is no upside to VM colocation (2022)</a> (3 points | 
-              4 comments)<br>6. <a href="/s/pv4ejw/what_are_you_doing_this_weekend">What are you doing this weekend?</a> (3 points | 
-              6 comments)<br>7. <a href="https://blog.kerollmops.com/meilisearch-indexes-embeddings-7x-faster-with-binary-quantization">Meilisearch Indexes Embeddings 7x Faster with Binary Quantization</a> (2 points | 
-              no comments)<br>8. <a href="https://www.johnnunemaker.com/shrinking-a-postgres-table/">Shrinking a Postgres Table</a> (21 points | 
-              4 comments)<br>9. <a href="https://blog.rust-lang.org/2024/11/28/Rust-1.83.0.html">Announcing Rust 1.83.0</a> (41 points | 
-              1 comment)<br>10. <a href="https://pkg.go.dev/modernc.org/tk9.0#section-readme">tk9.0 - Go GUI library</a> (18 points | 
-              3 comments)<br>11. <a href="https://hez2010.github.io/async-runtimes-benchmarks-2024/">How Much Memory Do You Need in 2024 to Run 1 Million Concurrent Tasks</a> (6 points | 
-              7 comments)<br>12. <a href="https://imaginarytext.ca/posts/2024/pandoc-typst-tutorial/">Using Pandoc and Typst to Produce PDFs</a> (3 points | 
-              no comments)<br>13. <a href="https://youtu.be/czzAVuVz7u4">Why Can't We Make Simple Software?</a> (10 points | 
-              2 comments)<br>14. <a href="https://simonwillison.net/2024/Nov/27/storing-times-for-human-events/">Storing times for human events</a> (2 points | 
-              no comments)<br>15. <a href="https://github.com/my-badges/my-badges">GitHub User-Defined Achievements</a> (3 points | 
-              9 comments)<br>16. <a href="https://blog.nestful.app/p/gleams-lustre-is-frontend-developments">Gleam's Lustre is Frontend Development's Endgame</a> (15 points | 
-              no comments)<br>17. <a href="https://surfingcomplexity.blog/2024/11/28/quick-takes-on-the-latest-cloudflare-public-incident-write-up/">Quick takes on the latest Cloudflare public incident write-up</a> (6 points | 
-              1 comment)<br>18. <a href="https://philpearl.github.io/post/map_clearing_and_size/">I stan clearing maps, no cap</a> (1 points | 
-              no comments)<br>19. <a href="https://github.com/janderland/fql">sql: Foundation DB Query Language</a> (2 points | 
-              no comments)<br>20. <a href="https://blog.sigplan.org/2024/11/21/evaluating-human-factors-beyond-lines-of-code/">Evaluating Human Factors Beyond Lines of Code</a> (3 points | 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Fri, 29 Nov 2024 15:17:32 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Friday, November 29, 2024 at 3:15 PM UTC]]></title><description><![CDATA[1. <a href="https://vereis.com/posts/you_built_an_erlang">You Have Built an Erlang</a> (68 points | 
+              35 comments)<br>2. <a href="https://sourceforge.net/p/clisp/clisp/ci/default/tree/doc/Why-CLISP-is-under-GPL">Why CLISP is under GPL (1992; email exchanges)</a> (8 points | 
+              8 comments)<br>3. <a href="https://interactionmagic.com/UX-LEGO-Interfaces/">The UX of LEGO Interface Panels</a> (10 points | 
+              1 comment)<br>4. <a href="https://www.clockwork.io/there-is-no-upside-to-vm-colocation/">There is no upside to VM colocation (2022)</a> (4 points | 
+              4 comments)<br>5. <a href="https://www.youtube.com/watch?v=0SUM4869ODc">Elm & The Future of Open Source (with Evan Czaplicki)</a> (39 points | 
+              2 comments)<br>6. <a href="/s/pv4ejw/what_are_you_doing_this_weekend">What are you doing this weekend?</a> (4 points | 
+              7 comments)<br>7. <a href="https://hez2010.github.io/async-runtimes-benchmarks-2024/">How Much Memory Do You Need in 2024 to Run 1 Million Concurrent Tasks</a> (9 points | 
+              7 comments)<br>8. <a href="https://www.johnnunemaker.com/shrinking-a-postgres-table/">Shrinking a Postgres Table</a> (21 points | 
+              4 comments)<br>9. <a href="https://blog.kerollmops.com/meilisearch-indexes-embeddings-7x-faster-with-binary-quantization">Meilisearch Indexes Embeddings 7x Faster with Binary Quantization</a> (2 points | 
+              no comments)<br>10. <a href="https://blog.rust-lang.org/2024/11/28/Rust-1.83.0.html">Announcing Rust 1.83.0</a> (41 points | 
+              1 comment)<br>11. <a href="https://youtu.be/czzAVuVz7u4">Why Can't We Make Simple Software?</a> (11 points | 
+              4 comments)<br>12. <a href="https://philpearl.github.io/post/map_clearing_and_size/">I stan clearing maps, no cap</a> (3 points | 
+              no comments)<br>13. <a href="https://pkg.go.dev/modernc.org/tk9.0#section-readme">tk9.0 - Go GUI library</a> (20 points | 
+              3 comments)<br>14. <a href="https://github.com/janderland/fql">fql: Foundation DB Query Language</a> (4 points | 
+              no comments)<br>15. <a href="https://imaginarytext.ca/posts/2024/pandoc-typst-tutorial/">Using Pandoc and Typst to Produce PDFs</a> (3 points | 
+              no comments)<br>16. <a href="https://simonwillison.net/2024/Nov/27/storing-times-for-human-events/">Storing times for human events</a> (2 points | 
+              no comments)<br>17. <a href="https://blog.nestful.app/p/gleams-lustre-is-frontend-developments">Gleam's Lustre is Frontend Development's Endgame</a> (17 points | 
+              no comments)<br>18. <a href="https://github.com/my-badges/my-badges">GitHub User-Defined Achievements</a> (3 points | 
+              9 comments)<br>19. <a href="https://surfingcomplexity.blog/2024/11/28/quick-takes-on-the-latest-cloudflare-public-incident-write-up/">Quick takes on the latest Cloudflare public incident write-up</a> (6 points | 
+              1 comment)<br>20. <a href="https://blog.sigplan.org/2024/11/21/evaluating-human-factors-beyond-lines-of-code/">Evaluating Human Factors Beyond Lines of Code</a> (3 points | 
               no comments)<br>21. <a href="https://blog.garambrogne.net/pyxel-initiation-en.html">Introduction to retrogame programming with Pyxel</a> (14 points | 
               no comments)<br>22. <a href="https://youtu.be/7-VJvf39xVE">How to run your own Bluesky PDS server from home</a> (2 points | 
               7 comments)<br>23. <a href="https://news.radio-t.com/post/i-m-a-developer-not-a-compiler">I'm a developer not a compiler</a> (26 points | 
-              11 comments)<br>24. <a href="https://tratt.net/laurie/blog/2024/structured_editing_and_incremental_parsing.html">Structured Editing and Incremental Parsing</a> (41 points | 
-              50 comments)<br>25. <a href="https://devclass.com/2024/11/27/redis-inc-seeks-control-over-future-of-rust-redis-rs-client-library-amid-talk-of-trademark-threat/">Redis Inc seeks control over future of Rust redis-rs client library, amid talk of trademark concerns</a> (39 points | 
-              19 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Friday, November 29, 2024 at 2:15 PM UTC</guid></item></channel></rss>
+              11 comments)<br>24. <a href="https://devclass.com/2024/11/27/redis-inc-seeks-control-over-future-of-rust-redis-rs-client-library-amid-talk-of-trademark-threat/">Redis Inc seeks control over future of Rust redis-rs client library, amid talk of trademark concerns</a> (40 points | 
+              19 comments)<br>25. <a href="https://tratt.net/laurie/blog/2024/structured_editing_and_incremental_parsing.html">Structured Editing and Incremental Parsing</a> (41 points | 
+              50 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Friday, November 29, 2024 at 3:15 PM UTC</guid></item></channel></rss>
