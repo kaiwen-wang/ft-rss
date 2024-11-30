@@ -1,26 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Sat, 30 Nov 2024 21:14:05 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Saturday, November 30, 2024 at 9:15 PM UTC]]></title><description><![CDATA[1. <a href="https://blog.lucasholten.com/rust-query-announcement/">Announcing rust-query</a> (15 points | 
-              8 comments)<br>2. <a href="https://adventofcode.com/2024">Advent of Code 2024 starting soon</a> (7 points | 
-              6 comments)<br>3. <a href="https://infrequently.org/2024/11/if-not-react-then-what/">If Not React, Then What?</a> (32 points | 
-              32 comments)<br>4. <a href="https://cryptography.dog/blog/flu-conf-2025/">Flu Conf 2025</a> (14 points | 
-              18 comments)<br>5. <a href="https://sfconservancy.org/news/2024/nov/29/openwrt-one-wireless-router-now-ships-black-friday/">First Router Designed Specifically For OpenWrt Released</a> (58 points | 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Sat, 30 Nov 2024 22:14:44 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Saturday, November 30, 2024 at 10:15 PM UTC]]></title><description><![CDATA[1. <a href="https://adventofcode.com/2024">Advent of Code 2024 starting soon</a> (15 points | 
+              10 comments)<br>2. <a href="https://blog.lucasholten.com/rust-query-announcement/">Announcing rust-query</a> (16 points | 
+              12 comments)<br>3. <a href="https://infrequently.org/2024/11/if-not-react-then-what/">If Not React, Then What?</a> (37 points | 
+              32 comments)<br>4. <a href="https://cryptography.dog/blog/flu-conf-2025/">Flu Conf 2025</a> (15 points | 
+              21 comments)<br>5. <a href="https://sfconservancy.org/news/2024/nov/29/openwrt-one-wireless-router-now-ships-black-friday/">First Router Designed Specifically For OpenWrt Released</a> (60 points | 
               21 comments)<br>6. <a href="https://github.com/zaphar/sheetsui">SheetsUI, a TUI spreadsheet application based on the IronCalc engine</a> (10 points | 
-              2 comments)<br>7. <a href="https://datatracker.ietf.org/doc/html/draft-thomson-postel-was-wrong-03">The Harmful Consequences of the Robustness Principle</a> (4 points | 
-              3 comments)<br>8. <a href="https://jvns.ca/blog/2024/11/29/why-pipes-get-stuck-buffering/">Why pipes sometimes get "stuck": buffering</a> (37 points | 
-              14 comments)<br>9. <a href="https://moonbase.lgbt/blog/operator-transposition/">Operator transposition</a> (14 points | 
-              4 comments)<br>10. <a href="https://jank-lang.org/blog/2024-11-29-llvm-ir/">jank is now running on LLVM IR</a> (25 points | 
-              1 comment)<br>11. <a href="https://fobes.dev/general/2024/02/29/inline-assembly-dangers.html">Inline Assembly Dangers</a> (2 points | 
-              no comments)<br>12. <a href="https://oldvcr.blogspot.com/2024/11/the-hall-sc-vga-2-video-processor-atari.html">The Hall SC-VGA-2 video processor, the Atari ST and NeXTSTEP</a> (11 points | 
-              6 comments)<br>13. <a href="https://catfox.life/2024/11/29/the-complexities-of-enabling-opencl-support/">The complexities of enabling OpenCL support</a> (7 points | 
-              no comments)<br>14. <a href="https://simonwillison.net/2024/Nov/27/storing-times-for-human-events/">Storing times for human events</a> (36 points | 
-              39 comments)<br>15. <a href="https://bevyengine.org/news/bevy-0-15">Bevy 0.15 Released</a> (19 points | 
-              3 comments)<br>16. <a href="https://live.rbg.tum.de/?year=2022&term=W&view=3&slug=Sem">Semantics of Programming (video lectures that go with the "Concrete Semantics" book)</a> (1 points | 
-              no comments)<br>17. <a href="https://philpearl.github.io/post/map_clearing_and_size/">I stan clearing maps, no cap</a> (31 points | 
-              10 comments)<br>18. <a href="https://www.mmtool.top/blog/new-proposal-go-error-handling-inspired-by-iterators">New Proposal: Go Error Function Handling Inspired by Iterators | Go 1.23 Error Management</a> (7 points | 
-              10 comments)<br>19. <a href="https://blog.ssanj.net/posts/2016-06-26-property-based-testing-patterns.html">Property-based Testing Patterns (2016)</a> (7 points | 
-              no comments)<br>20. <a href="https://lwn.net/Articles/995814/">Safety in an unsafe world</a> (1 points | 
-              no comments)<br>21. <a href="https://tomverbeure.github.io/2024/11/29/Making-Screenshots-of-Test-Equipment.html">Making Screenshots of Test Equipment Old and New</a> (7 points | 
-              no comments)<br>22. <a href="https://javisantana.com/2024/11/30/learnings-after-4-years-data-eng.html">Learnings after 4 years working with +50 companies on data engineering projects</a> (3 points | 
-              no comments)<br>23. <a href="https://utcc.utoronto.ca/~cks/space/blog/python/TypeHintsProbablyWorthItForMe">Python type hints are probably "worth it" for me</a> (2 points | 
-              no comments)<br>24. <a href="https://interactionmagic.com/UX-LEGO-Interfaces/">The UX of LEGO Interface Panels</a> (37 points | 
-              6 comments)<br>25. <a href="https://www.cyberdemon.org/2024/03/20/submodules.html">Demystifying git submodules</a> (4 points | 
-              2 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Saturday, November 30, 2024 at 9:15 PM UTC</guid></item></channel></rss>
+              2 comments)<br>7. <a href="https://dl.acm.org/doi/abs/10.1145/3528416.3530249">Compilation on the GPU? A feasibility study</a> (4 points | 
+              1 comment)<br>8. <a href="https://datatracker.ietf.org/doc/html/draft-thomson-postel-was-wrong-03">The Harmful Consequences of the Robustness Principle</a> (4 points | 
+              3 comments)<br>9. <a href="https://jvns.ca/blog/2024/11/29/why-pipes-get-stuck-buffering/">Why pipes sometimes get "stuck": buffering</a> (40 points | 
+              15 comments)<br>10. <a href="https://jank-lang.org/blog/2024-11-29-llvm-ir/">jank is now running on LLVM IR</a> (26 points | 
+              1 comment)<br>11. <a href="https://moonbase.lgbt/blog/operator-transposition/">Operator transposition</a> (14 points | 
+              4 comments)<br>12. <a href="https://fobes.dev/general/2024/02/29/inline-assembly-dangers.html">Inline Assembly Dangers</a> (2 points | 
+              no comments)<br>13. <a href="https://oldvcr.blogspot.com/2024/11/the-hall-sc-vga-2-video-processor-atari.html">The Hall SC-VGA-2 video processor, the Atari ST and NeXTSTEP</a> (11 points | 
+              6 comments)<br>14. <a href="https://catfox.life/2024/11/29/the-complexities-of-enabling-opencl-support/">The complexities of enabling OpenCL support</a> (7 points | 
+              no comments)<br>15. <a href="https://simonwillison.net/2024/Nov/27/storing-times-for-human-events/">Storing times for human events</a> (36 points | 
+              40 comments)<br>16. <a href="https://bevyengine.org/news/bevy-0-15">Bevy 0.15 Released</a> (19 points | 
+              3 comments)<br>17. <a href="https://javisantana.com/2024/11/30/learnings-after-4-years-data-eng.html">Learnings after 4 years working with +50 companies on data engineering projects</a> (4 points | 
+              no comments)<br>18. <a href="https://philpearl.github.io/post/map_clearing_and_size/">I stan clearing maps, no cap</a> (31 points | 
+              10 comments)<br>19. <a href="https://live.rbg.tum.de/?year=2022&term=W&view=3&slug=Sem">Semantics of Programming (video lectures that go with the "Concrete Semantics" book)</a> (1 points | 
+              no comments)<br>20. <a href="https://www.mmtool.top/blog/new-proposal-go-error-handling-inspired-by-iterators">New Proposal: Go Error Function Handling Inspired by Iterators | Go 1.23 Error Management</a> (7 points | 
+              11 comments)<br>21. <a href="https://blog.ssanj.net/posts/2016-06-26-property-based-testing-patterns.html">Property-based Testing Patterns (2016)</a> (7 points | 
+              no comments)<br>22. <a href="https://lwn.net/Articles/995814/">Safety in an unsafe world</a> (1 points | 
+              no comments)<br>23. <a href="https://tomverbeure.github.io/2024/11/29/Making-Screenshots-of-Test-Equipment.html">Making Screenshots of Test Equipment Old and New</a> (8 points | 
+              no comments)<br>24. <a href="https://utcc.utoronto.ca/~cks/space/blog/python/TypeHintsProbablyWorthItForMe">Python type hints are probably "worth it" for me</a> (2 points | 
+              no comments)<br>25. <a href="https://interactionmagic.com/UX-LEGO-Interfaces/">The UX of LEGO Interface Panels</a> (37 points | 
+              6 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Saturday, November 30, 2024 at 10:15 PM UTC</guid></item></channel></rss>
