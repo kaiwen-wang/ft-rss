@@ -1,26 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Sun, 15 Dec 2024 05:16:15 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Sunday, December 15, 2024 at 5:15 AM UTC]]></title><description><![CDATA[1. <a href="https://avi.im/blag/2024/faster-sqlite">In search of a faster SQLite</a> (26 points | 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Sun, 15 Dec 2024 06:22:04 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Sunday, December 15, 2024 at 6:20 AM UTC]]></title><description><![CDATA[1. <a href="https://avi.im/blag/2024/faster-sqlite">In search of a faster SQLite</a> (29 points | 
               8 comments)<br>2. <a href="https://lambdaland.org/posts/2024-11-21_powerful_or_safe_languages/">Should Programming Languages be Safe or Powerful?</a> (10 points | 
-              no comments)<br>3. <a href="https://www.zellic.io/blog/proton-dart-flutter-csprng-prng/">Far From Random: Three Mistakes From Dart/Flutter's Weak PRNG</a> (12 points | 
+              no comments)<br>3. <a href="https://www.zellic.io/blog/proton-dart-flutter-csprng-prng/">Far From Random: Three Mistakes From Dart/Flutter's Weak PRNG</a> (13 points | 
               2 comments)<br>4. <a href="https://github.com/markmoxon/elite-source-code-commodore-64">Fully documented and annotated source code for Elite on the Commodore 64</a> (8 points | 
               no comments)<br>5. <a href="https://jonathan-frere.com/posts/helix/">Helix: Why (And How) I Use It</a> (50 points | 
               36 comments)<br>6. <a href="https://forums.swift.org/t/swift-language-focus-areas-heading-into-2025/76611">Swift Language focus areas heading into 2025</a> (8 points | 
               1 comment)<br>7. <a href="https://doublefree.bearblog.dev/solving-advent-of-code-at-compile-time-with-rust-macros/">Solving Advent of Code at Compile Time with Rust Macros</a> (4 points | 
-              1 comment)<br>8. <a href="https://github.com/rochus-keller/Luon/blob/master/Readme.md">Luon high-level programming language similar to Oberon+, integrating concepts from Lua, and targeting the LuaJIT VM</a> (22 points | 
-              no comments)<br>9. <a href="https://www.keacher.com/xmas24/">Energy-Harvesting Electronic Holiday Card 2024</a> (4 points | 
-              1 comment)<br>10. <a href="https://x41-dsec.de/static/reports/X41-Mullvad-Audit-Public-Report-2024-12-10.pdf">Security Review for Mullvad VPN</a> (17 points | 
-              2 comments)<br>11. <a href="https://jorianwoltjer.com/blog/p/hacking/mutation-xss">Mutation XSS: Explained, CVE and Challenge</a> (3 points | 
-              no comments)<br>12. <a href="https://matklad.github.io/2024/12/13/majjit-lsp.html">Majjit LSP</a> (60 points | 
-              28 comments)<br>13. <a href="https://blog.elmo.sg/posts/structured-exception-handler-x64/">A deep dive into modern Windows Structured Exception Handler (SEH)</a> (8 points | 
-              no comments)<br>14. <a href="https://matt.might.net/articles/shell-scripts-for-passive-voice-weasel-words-duplicates/">3 shell scripts to improve your writing, or "My Ph.D. advisor rewrote himself in bash."</a> (59 points | 
-              25 comments)<br>15. <a href="https://wetw0rk.github.io/posts/0x01-killing-windows-kernel-mitigations/">0x01 - Killing Windows Kernel Mitigations</a> (3 points | 
-              no comments)<br>16. <a href="https://www.tuhs.org/pipermail/tuhs/2024-December/031188.html">SCCS roach motel</a> (23 points | 
-              2 comments)<br>17. <a href="https://youtu.be/WqYExpMWIUU?t=16">WebTransport (WebSockets 2.0) talk at RubyConf</a> (10 points | 
-              6 comments)<br>18. <a href="https://ki-editor.github.io/ki-editor/">Ki, a multi-cursor structural editor</a> (19 points | 
-              5 comments)<br>19. <a href="https://platform.sh/blog/uncovered-and-patched-golang-vunerability/">Auth bypass in Go SSH package</a> (20 points | 
-              10 comments)<br>20. <a href="https://maplant.com/2024-12-13-Scheme-to-the-Spec-Part-I:-Concurrent-Cycle-Collection.html">Garbage Collected Smart Pointers in Rust via Concurrent Cycle Collection</a> (9 points | 
-              5 comments)<br>21. <a href="https://jgrulich.cz/2024/12/13/when-your-webcam-doesnt-work-solving-firefox-and-pipewire-issues/">When Your Webcam Doesn’t Work: Solving Firefox and PipeWire Issues</a> (15 points | 
-              4 comments)<br>22. <a href="https://mihaiolteanu.me/interactive-dev">Less talk, more code</a> (17 points | 
-              13 comments)<br>23. <a href="https://textual.textualize.io/blog/2024/12/12/algorithms-for-high-performance-terminal-apps/">Algorithms for high performance terminal apps</a> (15 points | 
-              no comments)<br>24. <a href="https://neugierig.org/software/blog/2024/12/jujutsu.html">The Jujutsu version control system</a> (71 points | 
-              44 comments)<br>25. <a href="https://mjg59.dreamwidth.org/70895.html">When should we require that firmware be free?</a> (20 points | 
-              18 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Sunday, December 15, 2024 at 5:15 AM UTC</guid></item></channel></rss>
+              1 comment)<br>8. <a href="https://www.keacher.com/xmas24/">Energy-Harvesting Electronic Holiday Card 2024</a> (5 points | 
+              1 comment)<br>9. <a href="https://www.usenix.org/conference/nsdi24/presentation/wydrowski">Load is not what you should balance: Introducing Prequal</a> (2 points | 
+              no comments)<br>10. <a href="https://github.com/rochus-keller/Luon/blob/master/Readme.md">Luon high-level programming language similar to Oberon+, integrating concepts from Lua, and targeting the LuaJIT VM</a> (23 points | 
+              no comments)<br>11. <a href="https://x41-dsec.de/static/reports/X41-Mullvad-Audit-Public-Report-2024-12-10.pdf">Security Review for Mullvad VPN</a> (17 points | 
+              2 comments)<br>12. <a href="https://jorianwoltjer.com/blog/p/hacking/mutation-xss">Mutation XSS: Explained, CVE and Challenge</a> (3 points | 
+              no comments)<br>13. <a href="https://matklad.github.io/2024/12/13/majjit-lsp.html">Majjit LSP</a> (60 points | 
+              28 comments)<br>14. <a href="https://blog.elmo.sg/posts/structured-exception-handler-x64/">A deep dive into modern Windows Structured Exception Handler (SEH)</a> (8 points | 
+              no comments)<br>15. <a href="https://matt.might.net/articles/shell-scripts-for-passive-voice-weasel-words-duplicates/">3 shell scripts to improve your writing, or "My Ph.D. advisor rewrote himself in bash."</a> (60 points | 
+              25 comments)<br>16. <a href="https://wetw0rk.github.io/posts/0x01-killing-windows-kernel-mitigations/">0x01 - Killing Windows Kernel Mitigations</a> (3 points | 
+              no comments)<br>17. <a href="https://www.tuhs.org/pipermail/tuhs/2024-December/031188.html">SCCS roach motel</a> (23 points | 
+              2 comments)<br>18. <a href="https://youtu.be/WqYExpMWIUU?t=16">WebTransport (WebSockets 2.0) talk at RubyConf</a> (10 points | 
+              6 comments)<br>19. <a href="https://ki-editor.github.io/ki-editor/">Ki, a multi-cursor structural editor</a> (19 points | 
+              5 comments)<br>20. <a href="https://platform.sh/blog/uncovered-and-patched-golang-vunerability/">Auth bypass in Go SSH package</a> (20 points | 
+              10 comments)<br>21. <a href="https://maplant.com/2024-12-13-Scheme-to-the-Spec-Part-I:-Concurrent-Cycle-Collection.html">Garbage Collected Smart Pointers in Rust via Concurrent Cycle Collection</a> (9 points | 
+              5 comments)<br>22. <a href="https://jgrulich.cz/2024/12/13/when-your-webcam-doesnt-work-solving-firefox-and-pipewire-issues/">When Your Webcam Doesn’t Work: Solving Firefox and PipeWire Issues</a> (15 points | 
+              4 comments)<br>23. <a href="https://mihaiolteanu.me/interactive-dev">Less talk, more code</a> (17 points | 
+              13 comments)<br>24. <a href="https://textual.textualize.io/blog/2024/12/12/algorithms-for-high-performance-terminal-apps/">Algorithms for high performance terminal apps</a> (15 points | 
+              no comments)<br>25. <a href="https://neugierig.org/software/blog/2024/12/jujutsu.html">The Jujutsu version control system</a> (72 points | 
+              44 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Sunday, December 15, 2024 at 6:20 AM UTC</guid></item></channel></rss>
