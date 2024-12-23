@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Mon, 23 Dec 2024 02:49:27 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Monday, December 23, 2024 at 2:50 AM UTC]]></title><description><![CDATA[1. <a href="https://www.fastmail.com/blog/why-we-use-our-own-hardware/">Why we use our own hardware at Fastmail</a> (73 points | 
-              23 comments)<br>2. <a href="https://avi.im/blag/2024/sqlite-past-present-future">How bloom filters made SQLite 10x faster</a> (28 points | 
-              8 comments)<br>3. <a href="https://code.dblock.org/2024/12/19/do-not-fix-bugs-reported-in-your-open-source-projects.html">Do Not Fix Bugs Reported in Your Open Source Projects</a> (54 points | 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Mon, 23 Dec 2024 03:21:39 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Monday, December 23, 2024 at 3:20 AM UTC]]></title><description><![CDATA[1. <a href="https://www.fastmail.com/blog/why-we-use-our-own-hardware/">Why we use our own hardware at Fastmail</a> (73 points | 
+              24 comments)<br>2. <a href="https://avi.im/blag/2024/sqlite-past-present-future">How bloom filters made SQLite 10x faster</a> (28 points | 
+              8 comments)<br>3. <a href="https://code.dblock.org/2024/12/19/do-not-fix-bugs-reported-in-your-open-source-projects.html">Do Not Fix Bugs Reported in Your Open Source Projects</a> (55 points | 
               59 comments)<br>4. <a href="https://berthub.eu/articles/posts/on-long-term-software-development/">On Long Term Software Development</a> (21 points | 
               2 comments)<br>5. <a href="https://blog.polybdenum.com/2024/12/21/four-limitations-of-rust-s-borrow-checker.html">Four limitations of Rust’s borrow checker</a> (25 points | 
               7 comments)<br>6. <a href="https://emschwartz.me/unnecessary-optimization-in-rust-hamming-distances-simd-and-auto-vectorization/">Unnecessary Optimization in Rust: Hamming Distances, SIMD, and Auto-Vectorization</a> (9 points | 
@@ -15,7 +15,7 @@
               8 comments)<br>15. <a href="https://andrewkchan.dev/posts/yalm.html">Fast LLM Inference From Scratch</a> (1 points | 
               no comments)<br>16. <a href="https://liam-on-linux.dreamwidth.org/93196.html">Plan 9 is a bicycle</a> (32 points | 
               7 comments)<br>17. <a href="http://okayfail.com/garden/uis-should-be-versioned-just-like-we-version-apis.html">UIs Should Be Versioned, Just Like We Version APIs</a> (5 points | 
-              7 comments)<br>18. <a href="https://btxx.org/posts/bare/">Deliver the Bare Minimum</a> (4 points | 
+              8 comments)<br>18. <a href="https://btxx.org/posts/bare/">Deliver the Bare Minimum</a> (4 points | 
               3 comments)<br>19. <a href="https://ryelang.org/cookbook/working-with/spreadsheets/">Spreadsheets 1/3 - Rye Language</a> (23 points | 
               5 comments)<br>20. <a href="https://blog.scottlogic.com/2020/10/08/lets-build-snake-with-rust.html">Let's Build Snake with Rust (2020)</a> (6 points | 
               no comments)<br>21. <a href="https://2024.stateofjs.com/">State of JavaScript 2024</a> (11 points | 
@@ -23,4 +23,4 @@
               3 comments)<br>23. <a href="https://github.com/singh47/huelogs">Minimilistic Log Moniitoring System</a> (2 points | 
               no comments)<br>24. <a href="https://blog.cathoderaydude.com/doku.php?id=blog:making_a_website_is_hard">making a website is hard</a> (19 points | 
               24 comments)<br>25. <a href="https://www.jviotti.com/2023/12/01/understanding-objective-c-by-transpiling-it-to-cpp.html">Understanding Objective-C by transpiling it to C++</a> (11 points | 
-              6 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Monday, December 23, 2024 at 2:50 AM UTC</guid></item></channel></rss>
+              6 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Monday, December 23, 2024 at 3:20 AM UTC</guid></item></channel></rss>
