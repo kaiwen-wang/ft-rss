@@ -1,26 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Mon, 23 Dec 2024 22:14:00 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Monday, December 23, 2024 at 10:15 PM UTC]]></title><description><![CDATA[1. <a href="https://ploum.net/2024-12-23-julius-en.html">My colleague Julius</a> (45 points | 
-              11 comments)<br>2. <a href="https://learncodethehardway.com/blog/31-c-plus-plus-is-an-absolute-blast/">C++ Is An Absolute Blast</a> (12 points | 
-              12 comments)<br>3. <a href="https://nrd.sh/blog/nix-to-eos/">From Nix to Eos</a> (9 points | 
-              12 comments)<br>4. <a href="https://lmno.lol/alvaro/hello-emacstv">Hello emacs.tv</a> (6 points | 
-              no comments)<br>5. <a href="https://thecodist.com/how-many-hours-can-you-code/">How Many Hours Can You Code?</a> (14 points | 
-              16 comments)<br>6. <a href="https://www.fastmail.com/blog/why-we-use-our-own-hardware/">Why we use our own hardware at Fastmail</a> (111 points | 
-              42 comments)<br>7. <a href="https://dxuuu.xyz/blackbox.html">Application blackbox</a> (7 points | 
-              no comments)<br>8. <a href="https://lobhn.skyshelf.app/">How many links overlap between Lobste.rs and HN?</a> (23 points | 
-              12 comments)<br>9. <a href="https://berthub.eu/articles/posts/on-long-term-software-development/">On Long Term Software Development</a> (43 points | 
-              12 comments)<br>10. <a href="https://www.imperialviolet.org/tourofwebauthn/tourofwebauthn.html">A Tour of WebAuthn</a> (10 points | 
-              no comments)<br>11. <a href="/s/t8qymz/what_are_you_doing_this_week">What are you doing this week?</a> (8 points | 
-              19 comments)<br>12. <a href="https://www.erikheemskerk.nl/htmx-trello-clone/">Making a Trello clone using htmx</a> (7 points | 
-              1 comment)<br>13. <a href="https://keypub.sh">Ssh Oauth-like service for CLI apps</a> (5 points | 
-              1 comment)<br>14. <a href="https://debu.gs/entries/try-inferno-without-installing-it">Debu.gs:  Try Inferno without Installing It</a> (9 points | 
-              no comments)<br>15. <a href="https://avi.im/blag/2024/sqlite-past-present-future">How bloom filters made SQLite 10x faster</a> (39 points | 
-              8 comments)<br>16. <a href="https://blog.haskell.org/how-to-collect-performance-statistics-with-cabal/">How to collect performance statistics with Cabal</a> (5 points | 
-              no comments)<br>17. <a href="https://scot.tg/2024/12/22/worked-example-of-copy-and-patch-compilation/">A worked example of copy-and-patch compilation</a> (5 points | 
-              no comments)<br>18. <a href="https://code.dblock.org/2024/12/19/do-not-fix-bugs-reported-in-your-open-source-projects.html">Do Not Fix Bugs Reported in Your Open Source Projects</a> (60 points | 
-              78 comments)<br>19. <a href="https://staysaasy.com/engineering/2024/12/17/problem-driven-development.html">Problem Driven Development</a> (8 points | 
-              2 comments)<br>20. <a href="https://blog.lojic.com/2024/11/06/how-to-program-a-chess-engine-in-lisp.html">How to Program a Chess Engine in Lisp</a> (3 points | 
-              no comments)<br>21. <a href="https://arxiv.org/abs/2412.02107">Efficient, Portable, Census-Polymorphic Choreographic Programming</a> (2 points | 
-              no comments)<br>22. <a href="https://brooker.co.za/blog/2024/04/17/formal">Formal Methods: Just Good Engineering Practice?</a> (4 points | 
-              2 comments)<br>23. <a href="https://postmarketos.org/blog/2024/12/23/v24.12-release/">postmarketOS v24.12: The One With Androids & Cameras, But It's Mainline Linux</a> (1 points | 
-              no comments)<br>24. <a href="https://youtu.be/IroPQ150F6c?feature=shared">Practical Data Oriented Design</a> (7 points | 
-              2 comments)<br>25. <a href="https://blog.polybdenum.com/2024/12/21/four-limitations-of-rust-s-borrow-checker.html">Four limitations of Rust’s borrow checker</a> (30 points | 
-              12 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Monday, December 23, 2024 at 10:15 PM UTC</guid></item></channel></rss>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Mon, 23 Dec 2024 23:14:25 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Monday, December 23, 2024 at 11:15 PM UTC]]></title><description><![CDATA[1. <a href="https://ploum.net/2024-12-23-julius-en.html">My colleague Julius</a> (50 points | 
+              14 comments)<br>2. <a href="https://learncodethehardway.com/blog/31-c-plus-plus-is-an-absolute-blast/">C++ Is An Absolute Blast</a> (14 points | 
+              13 comments)<br>3. <a href="https://lmno.lol/alvaro/hello-emacstv">Hello emacs.tv</a> (10 points | 
+              no comments)<br>4. <a href="https://nrd.sh/blog/nix-to-eos/">From Nix to Eos</a> (9 points | 
+              17 comments)<br>5. <a href="https://thecodist.com/how-many-hours-can-you-code/">How Many Hours Can You Code?</a> (14 points | 
+              16 comments)<br>6. <a href="https://dxuuu.xyz/blackbox.html">Application blackbox</a> (8 points | 
+              no comments)<br>7. <a href="https://www.fastmail.com/blog/why-we-use-our-own-hardware/">Why we use our own hardware at Fastmail</a> (113 points | 
+              44 comments)<br>8. <a href="https://lobhn.skyshelf.app/">How many links overlap between Lobste.rs and HN?</a> (24 points | 
+              13 comments)<br>9. <a href="https://www.erikheemskerk.nl/htmx-trello-clone/">Making a Trello clone using htmx</a> (10 points | 
+              1 comment)<br>10. <a href="https://berthub.eu/articles/posts/on-long-term-software-development/">On Long Term Software Development</a> (43 points | 
+              12 comments)<br>11. <a href="https://www.imperialviolet.org/tourofwebauthn/tourofwebauthn.html">A Tour of WebAuthn</a> (11 points | 
+              no comments)<br>12. <a href="https://debu.gs/entries/try-inferno-without-installing-it">Debu.gs:  Try Inferno without Installing It</a> (11 points | 
+              no comments)<br>13. <a href="/s/t8qymz/what_are_you_doing_this_week">What are you doing this week?</a> (8 points | 
+              21 comments)<br>14. <a href="https://keypub.sh">Ssh Oauth-like service for CLI apps</a> (6 points | 
+              1 comment)<br>15. <a href="https://scot.tg/2024/12/22/worked-example-of-copy-and-patch-compilation/">A worked example of copy-and-patch compilation</a> (7 points | 
+              no comments)<br>16. <a href="https://avi.im/blag/2024/sqlite-past-present-future">How bloom filters made SQLite 10x faster</a> (39 points | 
+              8 comments)<br>17. <a href="https://jarvispowered.com/what-are-you-doing/">What are you doing?</a> (1 points | 
+              no comments)<br>18. <a href="https://blog.haskell.org/how-to-collect-performance-statistics-with-cabal/">How to collect performance statistics with Cabal</a> (5 points | 
+              no comments)<br>19. <a href="https://staysaasy.com/engineering/2024/12/17/problem-driven-development.html">Problem Driven Development</a> (8 points | 
+              2 comments)<br>20. <a href="https://code.dblock.org/2024/12/19/do-not-fix-bugs-reported-in-your-open-source-projects.html">Do Not Fix Bugs Reported in Your Open Source Projects</a> (60 points | 
+              80 comments)<br>21. <a href="https://blog.lojic.com/2024/11/06/how-to-program-a-chess-engine-in-lisp.html">How to Program a Chess Engine in Lisp</a> (3 points | 
+              no comments)<br>22. <a href="https://arxiv.org/abs/2412.02107">Efficient, Portable, Census-Polymorphic Choreographic Programming</a> (2 points | 
+              no comments)<br>23. <a href="https://brooker.co.za/blog/2024/04/17/formal">Formal Methods: Just Good Engineering Practice?</a> (4 points | 
+              2 comments)<br>24. <a href="https://postmarketos.org/blog/2024/12/23/v24.12-release/">postmarketOS v24.12: The One With Androids & Cameras, But It's Mainline Linux</a> (1 points | 
+              no comments)<br>25. <a href="https://youtu.be/IroPQ150F6c?feature=shared">Practical Data Oriented Design</a> (7 points | 
+              2 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Monday, December 23, 2024 at 11:15 PM UTC</guid></item></channel></rss>
