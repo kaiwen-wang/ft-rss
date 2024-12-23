@@ -1,26 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Mon, 23 Dec 2024 13:21:31 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Monday, December 23, 2024 at 1:20 PM UTC]]></title><description><![CDATA[1. <a href="https://www.fastmail.com/blog/why-we-use-our-own-hardware/">Why we use our own hardware at Fastmail</a> (91 points | 
-              36 comments)<br>2. <a href="https://berthub.eu/articles/posts/on-long-term-software-development/">On Long Term Software Development</a> (35 points | 
-              11 comments)<br>3. <a href="https://thecodist.com/how-many-hours-can-you-code/">How Many Hours Can You Code?</a> (9 points | 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Mon, 23 Dec 2024 14:14:14 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Monday, December 23, 2024 at 2:15 PM UTC]]></title><description><![CDATA[1. <a href="https://www.fastmail.com/blog/why-we-use-our-own-hardware/">Why we use our own hardware at Fastmail</a> (93 points | 
+              37 comments)<br>2. <a href="https://berthub.eu/articles/posts/on-long-term-software-development/">On Long Term Software Development</a> (35 points | 
+              12 comments)<br>3. <a href="https://thecodist.com/how-many-hours-can-you-code/">How Many Hours Can You Code?</a> (9 points | 
               3 comments)<br>4. <a href="https://avi.im/blag/2024/sqlite-past-present-future">How bloom filters made SQLite 10x faster</a> (33 points | 
               8 comments)<br>5. <a href="https://code.dblock.org/2024/12/19/do-not-fix-bugs-reported-in-your-open-source-projects.html">Do Not Fix Bugs Reported in Your Open Source Projects</a> (57 points | 
               72 comments)<br>6. <a href="/s/t8qymz/what_are_you_doing_this_week">What are you doing this week?</a> (4 points | 
-              3 comments)<br>7. <a href="https://blog.haskell.org/how-to-collect-performance-statistics-with-cabal/">How to collect performance statistics with Cabal</a> (2 points | 
-              no comments)<br>8. <a href="https://youtu.be/IroPQ150F6c?feature=shared">Practical Data Oriented Design</a> (6 points | 
-              2 comments)<br>9. <a href="https://staysaasy.com/engineering/2024/12/17/problem-driven-development.html">Problem Driven Development</a> (4 points | 
-              1 comment)<br>10. <a href="https://blog.polybdenum.com/2024/12/21/four-limitations-of-rust-s-borrow-checker.html">Four limitations of Rust’s borrow checker</a> (28 points | 
-              10 comments)<br>11. <a href="https://emschwartz.me/unnecessary-optimization-in-rust-hamming-distances-simd-and-auto-vectorization/">Unnecessary Optimization in Rust: Hamming Distances, SIMD, and Auto-Vectorization</a> (11 points | 
-              5 comments)<br>12. <a href="https://brooker.co.za/blog/2024/04/17/formal">Formal Methods: Just Good Engineering Practice?</a> (1 points | 
-              1 comment)<br>13. <a href="https://commoncog.com/goodharts-law-not-useful/">Goodhart's Law Isn't as Useful as You Might Think</a> (6 points | 
-              3 comments)<br>14. <a href="https://www.joshbeckman.org/blog/breathing-life-into-my-little-counter">Hacking Life into My Little Counter</a> (8 points | 
-              no comments)<br>15. <a href="https://yoric.github.io/post/rust-refinement-types/">What would it take to add refinement types to Rust?</a> (2 points | 
-              no comments)<br>16. <a href="https://daniel.haxx.se/blog/2024/12/21/dropping-hyper/">dropping hyper</a> (94 points | 
-              77 comments)<br>17. <a href="http://www.chriswarbo.net/blog/2024-05-24-nix_build_system.html">Nix is a build system</a> (38 points | 
-              24 comments)<br>18. <a href="http://okayfail.com/garden/uis-should-be-versioned-just-like-we-version-apis.html">UIs Should Be Versioned, Just Like We Version APIs</a> (10 points | 
-              9 comments)<br>19. <a href="https://sqlite.directory/">sqlite.directory</a> (10 points | 
-              2 comments)<br>20. <a href="https://www.darktable.org/2024/12/darktable-5.0.0-released/">darktable 5.0.0 released</a> (33 points | 
-              no comments)<br>21. <a href="https://mastodon.online/@nikitonsky/113691789641950263">Pride Versioning</a> (95 points | 
-              6 comments)<br>22. <a href="https://s2.dev/blog/intro">Introducing S2: The Log – made serverless</a> (22 points | 
-              8 comments)<br>23. <a href="https://andrewkchan.dev/posts/yalm.html">Fast LLM Inference From Scratch</a> (1 points | 
-              no comments)<br>24. <a href="https://liam-on-linux.dreamwidth.org/93196.html">Plan 9 is a bicycle</a> (34 points | 
-              11 comments)<br>25. <a href="https://btxx.org/posts/bare/">Deliver the Bare Minimum</a> (5 points | 
-              3 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Monday, December 23, 2024 at 1:20 PM UTC</guid></item></channel></rss>
+              4 comments)<br>7. <a href="https://debu.gs/entries/try-inferno-without-installing-it">Debu.gs:  Try Inferno without Installing It</a> (4 points | 
+              no comments)<br>8. <a href="https://blog.haskell.org/how-to-collect-performance-statistics-with-cabal/">How to collect performance statistics with Cabal</a> (2 points | 
+              no comments)<br>9. <a href="https://staysaasy.com/engineering/2024/12/17/problem-driven-development.html">Problem Driven Development</a> (4 points | 
+              1 comment)<br>10. <a href="https://youtu.be/IroPQ150F6c?feature=shared">Practical Data Oriented Design</a> (6 points | 
+              2 comments)<br>11. <a href="https://blog.polybdenum.com/2024/12/21/four-limitations-of-rust-s-borrow-checker.html">Four limitations of Rust’s borrow checker</a> (28 points | 
+              10 comments)<br>12. <a href="https://brooker.co.za/blog/2024/04/17/formal">Formal Methods: Just Good Engineering Practice?</a> (2 points | 
+              1 comment)<br>13. <a href="https://emschwartz.me/unnecessary-optimization-in-rust-hamming-distances-simd-and-auto-vectorization/">Unnecessary Optimization in Rust: Hamming Distances, SIMD, and Auto-Vectorization</a> (11 points | 
+              5 comments)<br>14. <a href="https://commoncog.com/goodharts-law-not-useful/">Goodhart's Law Isn't as Useful as You Might Think</a> (7 points | 
+              3 comments)<br>15. <a href="https://www.joshbeckman.org/blog/breathing-life-into-my-little-counter">Hacking Life into My Little Counter</a> (8 points | 
+              no comments)<br>16. <a href="https://yoric.github.io/post/rust-refinement-types/">What would it take to add refinement types to Rust?</a> (2 points | 
+              no comments)<br>17. <a href="https://daniel.haxx.se/blog/2024/12/21/dropping-hyper/">dropping hyper</a> (94 points | 
+              77 comments)<br>18. <a href="http://www.chriswarbo.net/blog/2024-05-24-nix_build_system.html">Nix is a build system</a> (38 points | 
+              25 comments)<br>19. <a href="http://okayfail.com/garden/uis-should-be-versioned-just-like-we-version-apis.html">UIs Should Be Versioned, Just Like We Version APIs</a> (11 points | 
+              11 comments)<br>20. <a href="https://sqlite.directory/">sqlite.directory</a> (11 points | 
+              2 comments)<br>21. <a href="https://www.darktable.org/2024/12/darktable-5.0.0-released/">darktable 5.0.0 released</a> (33 points | 
+              no comments)<br>22. <a href="https://mastodon.online/@nikitonsky/113691789641950263">Pride Versioning</a> (96 points | 
+              6 comments)<br>23. <a href="https://s2.dev/blog/intro">Introducing S2: The Log – made serverless</a> (22 points | 
+              8 comments)<br>24. <a href="https://andrewkchan.dev/posts/yalm.html">Fast LLM Inference From Scratch</a> (1 points | 
+              no comments)<br>25. <a href="https://liam-on-linux.dreamwidth.org/93196.html">Plan 9 is a bicycle</a> (34 points | 
+              11 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Monday, December 23, 2024 at 2:15 PM UTC</guid></item></channel></rss>
