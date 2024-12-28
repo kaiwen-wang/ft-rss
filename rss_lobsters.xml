@@ -1,26 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Sat, 28 Dec 2024 20:15:18 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Saturday, December 28, 2024 at 8:15 PM UTC]]></title><description><![CDATA[1. <a href="https://fhur.me/posts/2024/thats-not-an-abstraction">That's Not an Abstraction, That's Just a Layer of Indirection</a> (18 points | 
-              8 comments)<br>2. <a href="https://blogsystem5.substack.com/p/netbsd-build-system">Revisiting the NetBSD build system</a> (17 points | 
-              6 comments)<br>3. <a href="https://databasearchitects.blogspot.com/2024/12/advent-of-code-2024-in-pure-sql.html">Advent of Code 2024 in pure SQL</a> (11 points | 
-              no comments)<br>4. <a href="https://blog.ktz.me/keeping-secrets-secret-with-git-crypt/">Keeping secrets secret with git-crypt</a> (9 points | 
-              12 comments)<br>5. <a href="https://annas-archive.org/blog/all-isbns.html">Visualizing All ISBNs — $10k by 2025-01-31</a> (26 points | 
-              no comments)<br>6. <a href="https://nytpu.com/gemlog/2024-12-27">On Ada's Dependent Types, and its Types as a Whole</a> (24 points | 
-              3 comments)<br>7. <a href="https://pixel-druid.com/articles/stuff-i-learnt-in-2024">Stuff I learnt in 2024</a> (1 points | 
-              2 comments)<br>8. <a href="https://lpil.uk/blog/how-to-add-metaprogramming-to-gleam/">How to add metaprogramming to Gleam</a> (4 points | 
-              2 comments)<br>9. <a href="https://chimera-linux.org/news/2024/12/entering-beta.html">Chimera Linux Entering beta</a> (38 points | 
-              6 comments)<br>10. <a href="https://www.bcs.org/articles-opinion-and-research/does-current-ai-represent-a-dead-end/">Does current AI represent a dead end?</a> (49 points | 
-              76 comments)<br>11. <a href="https://arstechnica.com/tech-policy/2024/12/from-ai-to-rto-unpopular-policies-may-fuel-tech-worker-movements-in-2025/">Tech worker movements grow as threats of RTO, AI loom</a> (8 points | 
-              no comments)<br>12. <a href="http://www.righto.com/2024/12/this-die-photo-of-pentium-shows.html">Intel's $475 million error: the silicon behind the Pentium division bug</a> (1 points | 
-              1 comment)<br>13. <a href="https://ghostty.org/">Ghostty 1.0</a> (195 points | 
-              52 comments)<br>14. <a href="https://www.youtube.com/watch?v=zg8xM0xxFa8">James Gosling on Java - Historical Oddities & Persistent Itches</a> (5 points | 
-              no comments)<br>15. <a href="https://gildas-lormeau.github.io/Polyglot-HTML-ZIP-PNG/SUMMARY.html">How to Create HTML/ZIP/PNG Polyglot Files</a> (7 points | 
-              1 comment)<br>16. <a href="http://www.righto.com/2024/12/this-die-photo-of-pentium-shows.html?m=1">Intel's $475 million error: the silicon behind the Pentium division bug</a> (1 points | 
-              no comments)<br>17. <a href="https://unity.com/blog/engine-platform/debugging-memory-debugging-memory-corruption-who-wrote-2-into-my-stack-who-the-hell">Debugging memory corruption: Who wrote ‘2’ into my stack?</a> (28 points | 
-              3 comments)<br>18. <a href="https://nflatrea.bearblog.dev/lua-is-so-underrated/">Lua is so underrated</a> (78 points | 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Sat, 28 Dec 2024 21:12:53 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Saturday, December 28, 2024 at 9:10 PM UTC]]></title><description><![CDATA[1. <a href="https://fhur.me/posts/2024/thats-not-an-abstraction">That's Not an Abstraction, That's Just a Layer of Indirection</a> (19 points | 
+              9 comments)<br>2. <a href="https://blogsystem5.substack.com/p/netbsd-build-system">Revisiting the NetBSD build system</a> (18 points | 
+              6 comments)<br>3. <a href="https://pixel-druid.com/articles/stuff-i-learnt-in-2024">Stuff I learnt in 2024</a> (3 points | 
+              2 comments)<br>4. <a href="https://blog.ktz.me/keeping-secrets-secret-with-git-crypt/">Keeping secrets secret with git-crypt</a> (11 points | 
+              13 comments)<br>5. <a href="https://databasearchitects.blogspot.com/2024/12/advent-of-code-2024-in-pure-sql.html">Advent of Code 2024 in pure SQL</a> (12 points | 
+              1 comment)<br>6. <a href="https://annas-archive.org/blog/all-isbns.html">Visualizing All ISBNs — $10k by 2025-01-31</a> (28 points | 
+              no comments)<br>7. <a href="https://nytpu.com/gemlog/2024-12-27">On Ada's Dependent Types, and its Types as a Whole</a> (26 points | 
+              4 comments)<br>8. <a href="https://chimera-linux.org/news/2024/12/entering-beta.html">Chimera Linux Entering beta</a> (39 points | 
+              8 comments)<br>9. <a href="https://lpil.uk/blog/how-to-add-metaprogramming-to-gleam/">How to add metaprogramming to Gleam</a> (4 points | 
+              2 comments)<br>10. <a href="https://arstechnica.com/tech-policy/2024/12/from-ai-to-rto-unpopular-policies-may-fuel-tech-worker-movements-in-2025/">Tech worker movements grow as threats of RTO, AI loom</a> (11 points | 
+              no comments)<br>11. <a href="http://www.righto.com/2024/12/this-die-photo-of-pentium-shows.html">Intel's $475 million error: the silicon behind the Pentium division bug</a> (2 points | 
+              1 comment)<br>12. <a href="https://www.bcs.org/articles-opinion-and-research/does-current-ai-represent-a-dead-end/">Does current AI represent a dead end?</a> (50 points | 
+              76 comments)<br>13. <a href="http://www.righto.com/2024/12/this-die-photo-of-pentium-shows.html?m=1">Intel's $475 million error: the silicon behind the Pentium division bug</a> (2 points | 
+              no comments)<br>14. <a href="https://ghostty.org/">Ghostty 1.0</a> (196 points | 
+              54 comments)<br>15. <a href="https://www.youtube.com/watch?v=zg8xM0xxFa8">James Gosling on Java - Historical Oddities & Persistent Itches</a> (5 points | 
+              no comments)<br>16. <a href="https://gildas-lormeau.github.io/Polyglot-HTML-ZIP-PNG/SUMMARY.html">How to Create HTML/ZIP/PNG Polyglot Files</a> (8 points | 
+              1 comment)<br>17. <a href="https://unity.com/blog/engine-platform/debugging-memory-debugging-memory-corruption-who-wrote-2-into-my-stack-who-the-hell">Debugging memory corruption: Who wrote ‘2’ into my stack?</a> (28 points | 
+              3 comments)<br>18. <a href="https://nflatrea.bearblog.dev/lua-is-so-underrated/">Lua is so underrated</a> (79 points | 
               50 comments)<br>19. <a href="https://vermaden.wordpress.com/2024/12/27/perfect-desk/">Perfect Desk</a> (28 points | 
               9 comments)<br>20. <a href="https://blog.codingconfessions.com/p/the-cap-theorem-of-clustering">The CAP Theorem of Clustering: Why Every Algorithm Must Sacrifice Something</a> (6 points | 
               2 comments)<br>21. <a href="https://github.com/trifectatechfoundation/sudo-rs">sudo-rs: A memory safe implementation of sudo and su</a> (14 points | 
               3 comments)<br>22. <a href="/s/riwsis/what_are_you_doing_this_weekend">What are you doing this weekend?</a> (7 points | 
-              18 comments)<br>23. <a href="https://docs.mcp.run/blog/2024/12/27/running-tools-on-android/">Run MCP Servers On Android with Gemini & Chicory</a> (3 points | 
-              no comments)<br>24. <a href="https://people.freebsd.org/~brooks/talks/asiabsdcon2017-helloworld/helloworld.pdf">Everything you ever wanted to know about “hello, world” but were afraid to ask</a> (17 points | 
-              1 comment)<br>25. <a href="https://streaming.media.ccc.de/38c3/">38C3: Illegal Instructions Streaming</a> (16 points | 
-              2 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Saturday, December 28, 2024 at 8:15 PM UTC</guid></item></channel></rss>
+              19 comments)<br>23. <a href="https://people.freebsd.org/~brooks/talks/asiabsdcon2017-helloworld/helloworld.pdf">Everything you ever wanted to know about “hello, world” but were afraid to ask</a> (18 points | 
+              1 comment)<br>24. <a href="https://docs.mcp.run/blog/2024/12/27/running-tools-on-android/">Run MCP Servers On Android with Gemini & Chicory</a> (3 points | 
+              no comments)<br>25. <a href="https://streaming.media.ccc.de/38c3/">38C3: Illegal Instructions Streaming</a> (16 points | 
+              2 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Saturday, December 28, 2024 at 9:10 PM UTC</guid></item></channel></rss>
