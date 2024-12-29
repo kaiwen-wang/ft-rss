@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Sun, 29 Dec 2024 05:14:14 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Sunday, December 29, 2024 at 5:15 AM UTC]]></title><description><![CDATA[1. <a href="https://fishshell.com/blog/rustport/">Fish 4.0: The Fish Of Theseus</a> (50 points | 
-              14 comments)<br>2. <a href="https://it-notes.dragas.net/2024/12/28/i-almost-died-for-a-full-sentry-database/">I Almost Died for a Full Sentry Database</a> (24 points | 
-              3 comments)<br>3. <a href="https://fhur.me/posts/2024/thats-not-an-abstraction">That's Not an Abstraction, That's Just a Layer of Indirection</a> (25 points | 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Sun, 29 Dec 2024 06:20:28 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Sunday, December 29, 2024 at 6:20 AM UTC]]></title><description><![CDATA[1. <a href="https://fishshell.com/blog/rustport/">Fish 4.0: The Fish Of Theseus</a> (55 points | 
+              14 comments)<br>2. <a href="https://it-notes.dragas.net/2024/12/28/i-almost-died-for-a-full-sentry-database/">I Almost Died for a Full Sentry Database</a> (26 points | 
+              4 comments)<br>3. <a href="https://fhur.me/posts/2024/thats-not-an-abstraction">That's Not an Abstraction, That's Just a Layer of Indirection</a> (26 points | 
               9 comments)<br>4. <a href="https://blogsystem5.substack.com/p/netbsd-build-system">Revisiting the NetBSD build system</a> (20 points | 
               7 comments)<br>5. <a href="https://pixel-druid.com/articles/stuff-i-learnt-in-2024">Stuff I learnt in 2024</a> (7 points | 
               2 comments)<br>6. <a href="http://www.righto.com/2024/12/this-die-photo-of-pentium-shows.html?m=1">Intel's $475 million error: the silicon behind the Pentium division bug</a> (13 points | 
@@ -12,15 +12,15 @@
               1 comment)<br>12. <a href="https://arstechnica.com/tech-policy/2024/12/from-ai-to-rto-unpopular-policies-may-fuel-tech-worker-movements-in-2025/">Tech worker movements grow as threats of RTO, AI loom</a> (19 points | 
               5 comments)<br>13. <a href="https://nytpu.com/gemlog/2024-12-27">On Ada's Dependent Types, and its Types as a Whole</a> (28 points | 
               6 comments)<br>14. <a href="https://chimera-linux.org/news/2024/12/entering-beta.html">Chimera Linux Entering beta</a> (40 points | 
-              10 comments)<br>15. <a href="https://kubuzetto.github.io/posts/go-axum-handlers-pt2/">Axum-style Magic Handler Functions in Go, Part 2</a> (4 points | 
-              no comments)<br>16. <a href="https://www.youtube.com/watch?v=hZyJtRY84P4">Allocator-Aware C++ Type Design</a> (3 points | 
-              no comments)<br>17. <a href="http://www.righto.com/2024/12/this-die-photo-of-pentium-shows.html">Intel's $475 million error: the silicon behind the Pentium division bug</a> (1 points | 
-              1 comment)<br>18. <a href="https://www.bcs.org/articles-opinion-and-research/does-current-ai-represent-a-dead-end/">Does current AI represent a dead end?</a> (52 points | 
-              88 comments)<br>19. <a href="https://www.youtube.com/watch?v=zg8xM0xxFa8">James Gosling on Java - Historical Oddities & Persistent Itches</a> (8 points | 
-              no comments)<br>20. <a href="https://ghostty.org/">Ghostty 1.0</a> (204 points | 
-              61 comments)<br>21. <a href="https://gildas-lormeau.github.io/Polyglot-HTML-ZIP-PNG/SUMMARY.html">How to Create HTML/ZIP/PNG Polyglot Files</a> (9 points | 
-              1 comment)<br>22. <a href="https://unity.com/blog/engine-platform/debugging-memory-debugging-memory-corruption-who-wrote-2-into-my-stack-who-the-hell">Debugging memory corruption: Who wrote ‘2’ into my stack?</a> (28 points | 
-              3 comments)<br>23. <a href="https://nflatrea.bearblog.dev/lua-is-so-underrated/">Lua is so underrated</a> (81 points | 
-              54 comments)<br>24. <a href="https://vermaden.wordpress.com/2024/12/27/perfect-desk/">Perfect Desk</a> (28 points | 
-              9 comments)<br>25. <a href="https://blog.codingconfessions.com/p/the-cap-theorem-of-clustering">The CAP Theorem of Clustering: Why Every Algorithm Must Sacrifice Something</a> (6 points | 
-              2 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Sunday, December 29, 2024 at 5:15 AM UTC</guid></item></channel></rss>
+              11 comments)<br>15. <a href="https://mostlynerdless.de/blog/2024/09/10/hello-ebpf-writing-a-linux-scheduler-in-java-with-ebpf-15/">Hello eBPF: Writing a Linux scheduler in Java with eBPF</a> (1 points | 
+              no comments)<br>16. <a href="https://kubuzetto.github.io/posts/go-axum-handlers-pt2/">Axum-style Magic Handler Functions in Go, Part 2</a> (4 points | 
+              no comments)<br>17. <a href="https://www.youtube.com/watch?v=hZyJtRY84P4">Allocator-Aware C++ Type Design</a> (3 points | 
+              no comments)<br>18. <a href="http://www.righto.com/2024/12/this-die-photo-of-pentium-shows.html">Intel's $475 million error: the silicon behind the Pentium division bug</a> (1 points | 
+              1 comment)<br>19. <a href="https://www.bcs.org/articles-opinion-and-research/does-current-ai-represent-a-dead-end/">Does current AI represent a dead end?</a> (52 points | 
+              88 comments)<br>20. <a href="https://www.youtube.com/watch?v=zg8xM0xxFa8">James Gosling on Java - Historical Oddities & Persistent Itches</a> (8 points | 
+              no comments)<br>21. <a href="https://ghostty.org/">Ghostty 1.0</a> (204 points | 
+              62 comments)<br>22. <a href="https://gildas-lormeau.github.io/Polyglot-HTML-ZIP-PNG/SUMMARY.html">How to Create HTML/ZIP/PNG Polyglot Files</a> (9 points | 
+              1 comment)<br>23. <a href="https://unity.com/blog/engine-platform/debugging-memory-debugging-memory-corruption-who-wrote-2-into-my-stack-who-the-hell">Debugging memory corruption: Who wrote ‘2’ into my stack?</a> (28 points | 
+              3 comments)<br>24. <a href="https://nflatrea.bearblog.dev/lua-is-so-underrated/">Lua is so underrated</a> (81 points | 
+              54 comments)<br>25. <a href="https://vermaden.wordpress.com/2024/12/27/perfect-desk/">Perfect Desk</a> (28 points | 
+              9 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Sunday, December 29, 2024 at 6:20 AM UTC</guid></item></channel></rss>
