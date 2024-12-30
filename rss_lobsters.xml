@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Mon, 30 Dec 2024 07:16:25 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Monday, December 30, 2024 at 7:15 AM UTC]]></title><description><![CDATA[1. <a href="https://exple.tive.org/blarg/2024/12/29/idiosyncra/">I still believe in the bicycle for your mind, and this is my ride</a> (16 points | 
-              1 comment)<br>2. <a href="https://fishshell.com/blog/rustport/">Fish 4.0: The Fish Of Theseus</a> (152 points | 
-              33 comments)<br>3. <a href="https://scottrichmond.me/the-web-is-too-big/">The web is too big, or scaling down</a> (10 points | 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Mon, 30 Dec 2024 08:20:23 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Monday, December 30, 2024 at 8:20 AM UTC]]></title><description><![CDATA[1. <a href="https://exple.tive.org/blarg/2024/12/29/idiosyncra/">I still believe in the bicycle for your mind, and this is my ride</a> (17 points | 
+              1 comment)<br>2. <a href="https://fishshell.com/blog/rustport/">Fish 4.0: The Fish Of Theseus</a> (153 points | 
+              34 comments)<br>3. <a href="https://scottrichmond.me/the-web-is-too-big/">The web is too big, or scaling down</a> (12 points | 
               1 comment)<br>4. <a href="https://chrisholdgraf.com/blog/2024/bluesky">How I’m trying to use BlueSky without getting burned again</a> (16 points | 
-              4 comments)<br>5. <a href="https://tashian.com/articles/how-i-learned-to-program/">How Multi-User Dungeons Taught Me To Code</a> (9 points | 
+              4 comments)<br>5. <a href="https://tashian.com/articles/how-i-learned-to-program/">How Multi-User Dungeons Taught Me To Code</a> (10 points | 
               4 comments)<br>6. <a href="https://it-notes.dragas.net/2024/12/28/i-almost-died-for-a-full-sentry-database/">I Almost Died for a Full Sentry Database</a> (74 points | 
               22 comments)<br>7. <a href="https://www.ioccc.org/news.html">IOCCC28, the 40th anniversary contest, is starting tonight</a> (13 points | 
               no comments)<br>8. <a href="https://github.com/anatol/booster">booster: Fast and secure initramfs generator</a> (10 points | 
@@ -10,17 +10,17 @@
               no comments)<br>10. <a href="https://www.codycomputer.org/">The Cody Computer homebrew 6502 system</a> (6 points | 
               no comments)<br>11. <a href="https://www.fixbrowser.org/faq#proxy">FAQ | FixBrowser # FixProxy</a> (3 points | 
               7 comments)<br>12. <a href="https://docs.chatuml.com/blog/build-your-own-startup-with-chatuml">How to use AI to help brainstorming and exploring architecture before building</a> (2 points | 
-              1 comment)<br>13. <a href="https://lord.io/oss-tips/">Tips for New Open Source Maintainers (2014)</a> (11 points | 
-              5 comments)<br>14. <a href="https://www.downtowndougbrown.com/2024/12/how-webcams-with-focus-control-work-razer-kiyo-pro-repair/">How webcams with focus control work (Razer Kiyo Pro repair)</a> (2 points | 
-              no comments)<br>15. <a href="https://grohan.co/2024/12/27/entropy/">Technical Debt is Entropy In Software</a> (2 points | 
-              6 comments)<br>16. <a href="https://github.com/borzacchiello/seninja">SEninja: symbolic execution plugin for Binary Ninja</a> (5 points | 
-              no comments)<br>17. <a href="https://fhur.me/posts/2024/thats-not-an-abstraction">That's Not an Abstraction, That's Just a Layer of Indirection</a> (34 points | 
-              13 comments)<br>18. <a href="https://mostlynerdless.de/blog/2024/09/10/hello-ebpf-writing-a-linux-scheduler-in-java-with-ebpf-15/">Hello eBPF: Writing a Linux scheduler in Java with eBPF</a> (12 points | 
-              no comments)<br>19. <a href="https://youtu.be/7_o-YRxf_cc">Visualizing memory layout of Rust's data types</a> (2 points | 
-              no comments)<br>20. <a href="https://github.com/serpent-os/blsforme">blsforme: BLS compatible distro kernel management</a> (1 points | 
-              no comments)<br>21. <a href="https://pixel-druid.com/articles/stuff-i-learnt-in-2024">Stuff I learnt in 2024</a> (11 points | 
-              3 comments)<br>22. <a href="https://www.screamingatmyscreen.com/django-in-2024/">Django in 2024</a> (11 points | 
-              3 comments)<br>23. <a href="http://www.righto.com/2024/12/this-die-photo-of-pentium-shows.html?m=1">Intel's $475 million error: the silicon behind the Pentium division bug</a> (20 points | 
-              2 comments)<br>24. <a href="https://blogsystem5.substack.com/p/netbsd-build-system">Revisiting the NetBSD build system</a> (27 points | 
-              9 comments)<br>25. <a href="https://lpil.uk/blog/how-to-add-metaprogramming-to-gleam/">How to add metaprogramming to Gleam</a> (14 points | 
-              16 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Monday, December 30, 2024 at 7:15 AM UTC</guid></item></channel></rss>
+              1 comment)<br>13. <a href="https://www.downtowndougbrown.com/2024/12/how-webcams-with-focus-control-work-razer-kiyo-pro-repair/">How webcams with focus control work (Razer Kiyo Pro repair)</a> (3 points | 
+              no comments)<br>14. <a href="https://hardcoresoftware.learningbyshipping.com/p/225-systems-ideas-that-sound-good">Systems Ideas that Sound Good But Almost Never Work—"Let's just…"</a> (1 points | 
+              no comments)<br>15. <a href="https://lord.io/oss-tips/">Tips for New Open Source Maintainers (2014)</a> (11 points | 
+              5 comments)<br>16. <a href="https://grohan.co/2024/12/27/entropy/">Technical Debt is Entropy In Software</a> (2 points | 
+              6 comments)<br>17. <a href="https://github.com/borzacchiello/seninja">SEninja: symbolic execution plugin for Binary Ninja</a> (5 points | 
+              no comments)<br>18. <a href="https://fhur.me/posts/2024/thats-not-an-abstraction">That's Not an Abstraction, That's Just a Layer of Indirection</a> (34 points | 
+              13 comments)<br>19. <a href="https://mostlynerdless.de/blog/2024/09/10/hello-ebpf-writing-a-linux-scheduler-in-java-with-ebpf-15/">Hello eBPF: Writing a Linux scheduler in Java with eBPF</a> (12 points | 
+              no comments)<br>20. <a href="https://youtu.be/7_o-YRxf_cc">Visualizing memory layout of Rust's data types</a> (2 points | 
+              no comments)<br>21. <a href="https://github.com/serpent-os/blsforme">blsforme: BLS compatible distro kernel management</a> (1 points | 
+              no comments)<br>22. <a href="https://pixel-druid.com/articles/stuff-i-learnt-in-2024">Stuff I learnt in 2024</a> (11 points | 
+              3 comments)<br>23. <a href="https://www.screamingatmyscreen.com/django-in-2024/">Django in 2024</a> (11 points | 
+              3 comments)<br>24. <a href="http://www.righto.com/2024/12/this-die-photo-of-pentium-shows.html?m=1">Intel's $475 million error: the silicon behind the Pentium division bug</a> (21 points | 
+              2 comments)<br>25. <a href="https://blogsystem5.substack.com/p/netbsd-build-system">Revisiting the NetBSD build system</a> (27 points | 
+              9 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Monday, December 30, 2024 at 8:20 AM UTC</guid></item></channel></rss>
