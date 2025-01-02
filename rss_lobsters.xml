@@ -1,26 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Thu, 02 Jan 2025 20:16:19 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Thursday, January 2, 2025 at 8:15 PM UTC]]></title><description><![CDATA[1. <a href="https://mjg59.dreamwidth.org/70954.html">The GPU, not the TPM, is the root of hardware DRM</a> (63 points | 
-              23 comments)<br>2. <a href="https://refactoringenglish.com/chapters/rules-for-software-tutorials/">Rules for Writing Software Tutorials</a> (6 points | 
-              9 comments)<br>3. <a href="https://www.seangoedecke.com/glue-work-considered-harmful/">Glue work considered harmful</a> (43 points | 
-              23 comments)<br>4. <a href="https://github.com/indiv0/aoc-fastest">Solving Advent of Code 2024 in Under 1ms</a> (47 points | 
-              4 comments)<br>5. <a href="/s/evkrdq/who_s_hiring_q1_2025">Who's Hiring? Q1 2025</a> (8 points | 
-              no comments)<br>6. <a href="https://rmondello.com/2025/01/02/magic-links-and-passkeys/">Magic Links Have Rough Edges, but Passkeys Can Smooth Them Over</a> (11 points | 
-              no comments)<br>7. <a href="https://media.ccc.de/v/38c3-sixos-a-nix-os-without-systemd#t=2133">sixos: a nix os without systemd</a> (23 points | 
-              15 comments)<br>8. <a href="https://brandur.org/fragments/uuid-v7-monotonicity">Postgres UUIDv7 + per-backend monotonicity</a> (6 points | 
-              no comments)<br>9. <a href="https://blog.sinjakli.co.uk/2025/01/01/ruby-3-4-highlights/">Ruby 3.4 highlights</a> (25 points | 
-              no comments)<br>10. <a href="https://forums.swift.org/t/pitch-last-expression-as-return-value/76958">Last expression as return value</a> (2 points | 
-              3 comments)<br>11. <a href="https://www.cs.kent.ac.uk/ErlangMasterClasses/">Erlang master classes</a> (3 points | 
-              1 comment)<br>12. <a href="https://blog.sequinstream.com/using-watermarks-to-coordinate-change-data-capture-in-postgres/">Using watermarks to coordinate change data capture in Postgres</a> (2 points | 
-              no comments)<br>13. <a href="https://www.seangoedecke.com/large-established-codebases/">Mistakes engineers make in large established codebases</a> (15 points | 
-              5 comments)<br>14. <a href="https://langdev.stackexchange.com/questions/2015/how-can-we-compare-expressive-power-between-two-turing-complete-languages">How can we compare expressive power between two Turing-complete languages?</a> (4 points | 
-              1 comment)<br>15. <a href="https://tavianator.com/2022/remote_reboots.html">Remote reboots with encrypted disks (2022)</a> (6 points | 
-              2 comments)<br>16. <a href="https://discourse.imfreedom.org/t/pidgin-3-0-experimental-1-has-been-released/227">Pidgin 3.0 Experimental 1 Has been released</a> (60 points | 
-              25 comments)<br>17. <a href="https://blog.codingconfessions.com/p/linux-context-switching-internals">Linux Context Switching Internals: Part 1 - Process State and Memory</a> (1 points | 
-              no comments)<br>18. <a href="https://reasonablypolymorphic.com/blog/coblub/">The Co-Blub Paradox</a> (4 points | 
-              8 comments)<br>19. <a href="https://minesweepergame.com/history/bogus-software.php">Bogus Software</a> (13 points | 
-              2 comments)<br>20. <a href="https://doom-captcha.vercel.app">DOOM® CAPTCHA</a> (1 points | 
-              2 comments)<br>21. <a href="https://dgl.cx/2024/12/ghostty-terminal-title">Déjà vu: Ghostly CVEs in my terminal title</a> (59 points | 
-              23 comments)<br>22. <a href="https://lemire.me/blog/2025/01/02/how-does-your-url-parser-handle-unicode/">How does your URL parser handle Unicode?</a> (1 points | 
-              1 comment)<br>23. <a href="https://hdombrovskaya.wordpress.com/2024/12/29/can-we-use-this-index-please-why-not/">Can we use this index, please? – Why not?</a> (2 points | 
-              no comments)<br>24. <a href="https://www.cs.cmu.edu/~pavlo/blog/2025/01/2024-databases-retrospective.html">Databases in 2024: A Year in Review</a> (43 points | 
-              2 comments)<br>25. <a href="http://databasearchitects.blogspot.com/2024/12/advent-of-code-2024-in-pure-sql.html">Advent of Code 2024 in pure SQL</a> (1 points | 
-              no comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Thursday, January 2, 2025 at 8:15 PM UTC</guid></item></channel></rss>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Thu, 02 Jan 2025 21:13:57 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Thursday, January 2, 2025 at 9:15 PM UTC]]></title><description><![CDATA[1. <a href="https://refactoringenglish.com/chapters/rules-for-software-tutorials/">Rules for Writing Software Tutorials</a> (10 points | 
+              15 comments)<br>2. <a href="https://mjg59.dreamwidth.org/70954.html">The GPU, not the TPM, is the root of hardware DRM</a> (63 points | 
+              23 comments)<br>3. <a href="/s/evkrdq/who_s_hiring_q1_2025">Who's Hiring? Q1 2025</a> (15 points | 
+              no comments)<br>4. <a href="https://www.seangoedecke.com/glue-work-considered-harmful/">Glue work considered harmful</a> (44 points | 
+              25 comments)<br>5. <a href="https://rmondello.com/2025/01/02/magic-links-and-passkeys/">Magic Links Have Rough Edges, but Passkeys Can Smooth Them Over</a> (13 points | 
+              no comments)<br>6. <a href="https://github.com/indiv0/aoc-fastest">Solving Advent of Code 2024 in Under 1ms</a> (47 points | 
+              4 comments)<br>7. <a href="https://brandur.org/fragments/uuid-v7-monotonicity">Postgres UUIDv7 + per-backend monotonicity</a> (9 points | 
+              no comments)<br>8. <a href="https://media.ccc.de/v/38c3-sixos-a-nix-os-without-systemd#t=2133">sixos: a nix os without systemd</a> (26 points | 
+              16 comments)<br>9. <a href="https://doom-captcha.vercel.app">DOOM® CAPTCHA</a> (3 points | 
+              2 comments)<br>10. <a href="https://www.cs.kent.ac.uk/ErlangMasterClasses/">Erlang master classes</a> (4 points | 
+              2 comments)<br>11. <a href="https://blog.sinjakli.co.uk/2025/01/01/ruby-3-4-highlights/">Ruby 3.4 highlights</a> (26 points | 
+              1 comment)<br>12. <a href="https://tavianator.com/2022/remote_reboots.html">Remote reboots with encrypted disks (2022)</a> (7 points | 
+              2 comments)<br>13. <a href="https://forums.swift.org/t/pitch-last-expression-as-return-value/76958">Last expression as return value</a> (2 points | 
+              3 comments)<br>14. <a href="https://blog.sequinstream.com/using-watermarks-to-coordinate-change-data-capture-in-postgres/">Using watermarks to coordinate change data capture in Postgres</a> (2 points | 
+              no comments)<br>15. <a href="https://www.seangoedecke.com/large-established-codebases/">Mistakes engineers make in large established codebases</a> (15 points | 
+              5 comments)<br>16. <a href="https://langdev.stackexchange.com/questions/2015/how-can-we-compare-expressive-power-between-two-turing-complete-languages">How can we compare expressive power between two Turing-complete languages?</a> (4 points | 
+              1 comment)<br>17. <a href="https://discourse.imfreedom.org/t/pidgin-3-0-experimental-1-has-been-released/227">Pidgin 3.0 Experimental 1 Has been released</a> (60 points | 
+              25 comments)<br>18. <a href="https://blog.codingconfessions.com/p/linux-context-switching-internals">Linux Context Switching Internals: Part 1 - Process State and Memory</a> (1 points | 
+              no comments)<br>19. <a href="https://reasonablypolymorphic.com/blog/coblub/">The Co-Blub Paradox</a> (4 points | 
+              8 comments)<br>20. <a href="http://databasearchitects.blogspot.com/2024/12/advent-of-code-2024-in-pure-sql.html">Advent of Code 2024 in pure SQL</a> (2 points | 
+              no comments)<br>21. <a href="https://minesweepergame.com/history/bogus-software.php">Bogus Software</a> (13 points | 
+              2 comments)<br>22. <a href="https://dgl.cx/2024/12/ghostty-terminal-title">Déjà vu: Ghostly CVEs in my terminal title</a> (60 points | 
+              23 comments)<br>23. <a href="https://lemire.me/blog/2025/01/02/how-does-your-url-parser-handle-unicode/">How does your URL parser handle Unicode?</a> (1 points | 
+              1 comment)<br>24. <a href="https://hdombrovskaya.wordpress.com/2024/12/29/can-we-use-this-index-please-why-not/">Can we use this index, please? – Why not?</a> (2 points | 
+              no comments)<br>25. <a href="https://www.cs.cmu.edu/~pavlo/blog/2025/01/2024-databases-retrospective.html">Databases in 2024: A Year in Review</a> (43 points | 
+              2 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Thursday, January 2, 2025 at 9:15 PM UTC</guid></item></channel></rss>
