@@ -1,21 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Mon, 06 Jan 2025 13:22:32 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Monday, January 6, 2025 at 1:20 PM UTC]]></title><description><![CDATA[1. <a href="https://mental-reverb.com/blog.php?id=46">Rust's borrow checker: Not just a nuisance</a> (20 points | 
-              6 comments)<br>2. <a href="https://xeiaso.net/blog/2025/squandered-holy-grail/">They squandered the holy grail</a> (17 points | 
-              3 comments)<br>3. <a href="https://loup-vaillant.fr/articles/good-fast-cheap">Good, Fast, Cheap: Pick 3 or Get None</a> (7 points | 
-              7 comments)<br>4. <a href="https://blog.haskell.org/ghc-9-12-cabal-3-14/">GHC 9.12 & Cabal 3.14 releases</a> (6 points | 
-              no comments)<br>5. <a href="https://crowdhailer.me/2025-01-02/the-evolution-of-a-structural-code-editor/">The evolution of a structural code editor</a> (7 points | 
-              no comments)<br>6. <a href="http://rachelbythebay.com/w/2025/01/04/cruft/">Web page annoyances that I don't inflict on you here</a> (136 points | 
-              57 comments)<br>7. <a href="https://old.reddit.com/r/ProgrammingLanguages/comments/1huv4cf/so_youre_writing_a_programming_language/">So you're writing a programming language</a> (7 points | 
-              1 comment)<br>8. <a href="https://yoric.github.io/post/rust-typestate/">Typestates in Rust</a> (4 points | 
-              1 comment)<br>9. <a href="https://pubby.games/nesfab.html">NESFab</a> (35 points | 
-              6 comments)<br>10. <a href="https://bobatealee.itch.io/doom-the-gallery-experience">DOOM: The Gallery Experience by bobatealee</a> (6 points | 
-              2 comments)<br>11. <a href="https://users.rust-lang.org/t/game-dev-in-rust-a-year-later/123522">Game dev in Rust, a year later</a> (44 points | 
-              14 comments)<br>12. <a href="https://raniseth.com/blog/2025-01-04-Home-Server-Security.html">A story on home server security</a> (24 points | 
-              22 comments)<br>13. <a href="https://lu.sagebl.eu/notes/keeping-too-much-logic-in-sql-queries-does-not-scale/">Keeping Too Much Logic in SQL Queries Does Not Scale</a> (9 points | 
-              2 comments)<br>14. <a href="https://nickfa.ro/wiki/OCRing_Music_from_YouTube_with_Common_Lisp">OCRing Music from YouTube with Common Lisp</a> (3 points | 
-              no comments)<br>15. <a href="/s/nhahhn/what_are_you_doing_this_week">What are you doing this week?</a> (2 points | 
-              1 comment)<br>16. <a href="https://www.raygard.net/awkdoc/pages/awk_parsing_is_tricky.html">Parsing awk is tricky</a> (2 points | 
-              no comments)<br>17. <a href="https://simonrepp.com/faircamp/">A static site generator for audio producers</a> (5 points | 
-              no comments)<br>18. <a href="https://gleam.run/news/improved-performance-and-publishing/">Gleam v1.7.0 released</a> (65 points | 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Mon, 06 Jan 2025 14:14:31 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Monday, January 6, 2025 at 2:15 PM UTC]]></title><description><![CDATA[1. <a href="https://mental-reverb.com/blog.php?id=46">Rust's borrow checker: Not just a nuisance</a> (23 points | 
+              6 comments)<br>2. <a href="https://loup-vaillant.fr/articles/good-fast-cheap">Good, Fast, Cheap: Pick 3 or Get None</a> (13 points | 
+              8 comments)<br>3. <a href="https://xeiaso.net/blog/2025/squandered-holy-grail/">They squandered the holy grail</a> (18 points | 
+              4 comments)<br>4. <a href="https://crowdhailer.me/2025-01-02/the-evolution-of-a-structural-code-editor/">The evolution of a structural code editor</a> (8 points | 
+              no comments)<br>5. <a href="https://blog.haskell.org/ghc-9-12-cabal-3-14/">GHC 9.12 & Cabal 3.14 releases</a> (6 points | 
+              no comments)<br>6. <a href="https://old.reddit.com/r/ProgrammingLanguages/comments/1huv4cf/so_youre_writing_a_programming_language/">So you're writing a programming language</a> (10 points | 
+              2 comments)<br>7. <a href="https://yoric.github.io/post/rust-typestate/">Typestates in Rust</a> (7 points | 
+              1 comment)<br>8. <a href="http://rachelbythebay.com/w/2025/01/04/cruft/">Web page annoyances that I don't inflict on you here</a> (136 points | 
+              57 comments)<br>9. <a href="/s/nhahhn/what_are_you_doing_this_week">What are you doing this week?</a> (3 points | 
+              3 comments)<br>10. <a href="https://www.raygard.net/awkdoc/pages/awk_parsing_is_tricky.html">Parsing awk is tricky</a> (4 points | 
+              no comments)<br>11. <a href="https://pubby.games/nesfab.html">NESFab</a> (35 points | 
+              6 comments)<br>12. <a href="https://nickfa.ro/wiki/OCRing_Music_from_YouTube_with_Common_Lisp">OCRing Music from YouTube with Common Lisp</a> (4 points | 
+              no comments)<br>13. <a href="https://bobatealee.itch.io/doom-the-gallery-experience">DOOM: The Gallery Experience by bobatealee</a> (6 points | 
+              2 comments)<br>14. <a href="https://users.rust-lang.org/t/game-dev-in-rust-a-year-later/123522">Game dev in Rust, a year later</a> (44 points | 
+              15 comments)<br>15. <a href="https://raniseth.com/blog/2025-01-04-Home-Server-Security.html">A story on home server security</a> (24 points | 
+              22 comments)<br>16. <a href="https://lu.sagebl.eu/notes/keeping-too-much-logic-in-sql-queries-does-not-scale/">Keeping Too Much Logic in SQL Queries Does Not Scale</a> (9 points | 
+              2 comments)<br>17. <a href="https://simonrepp.com/faircamp/">A static site generator for audio producers</a> (6 points | 
+              no comments)<br>18. <a href="https://gleam.run/news/improved-performance-and-publishing/">Gleam v1.7.0 released</a> (66 points | 
               8 comments)<br>19. <a href="https://denizbicer.com/202408-UnderstandingPhysarum.html">Understanding the Physarum Simulation</a> (2 points | 
               no comments)<br>20. <a href="/s/nw5rci/any_standard_graph_representations">Any standard graph representations?</a> (5 points | 
               7 comments)<br>21. <a href="https://arstechnica.com/gadgets/2024/12/making-tiny-no-code-webapps-out-of-spreadsheets-is-a-weirdly-fulfilling-hobby/">I keep turning my Google Sheets into phone-friendly webapps, and I can’t stop</a> (17 points | 
@@ -23,4 +23,4 @@
               21 comments)<br>23. <a href="https://psi3.ru/blog/swl01u/">World's First MIDI Shellcode</a> (20 points | 
               2 comments)<br>24. <a href="https://abhinavsarkar.net/posts/solving-aoc20-seating-system/">Solving Advent of Code “Seating System” with Comonads and Stencils</a> (7 points | 
               no comments)<br>25. <a href="https://www.oilshell.org/blog/2025/01/release-0.24.0.html">Oils 0.24.0 - Closures, Objects, and Namespaces</a> (23 points | 
-              6 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Monday, January 6, 2025 at 1:20 PM UTC</guid></item></channel></rss>
+              6 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Monday, January 6, 2025 at 2:15 PM UTC</guid></item></channel></rss>
