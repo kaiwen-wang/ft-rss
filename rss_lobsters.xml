@@ -1,26 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Wed, 08 Jan 2025 03:19:44 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Wednesday, January 8, 2025 at 3:20 AM UTC]]></title><description><![CDATA[1. <a href="/s/ukosa1/uk_users_lobsters_needs_your_help_with">UK Users: Lobsters needs your help with the Online Safety Act</a> (232 points | 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Wed, 08 Jan 2025 04:19:00 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Wednesday, January 8, 2025 at 4:20 AM UTC]]></title><description><![CDATA[1. <a href="/s/ukosa1/uk_users_lobsters_needs_your_help_with">UK Users: Lobsters needs your help with the Online Safety Act</a> (236 points | 
               102 comments)<br>2. <a href="https://blogs.igalia.com/mrego/servo-revival-2023-2024/">Servo Revival: 2023-2024</a> (83 points | 
-              11 comments)<br>3. <a href="https://sunshowers.io/posts/nextest-process-per-test/">Why nextest is process-per-test</a> (12 points | 
+              11 comments)<br>3. <a href="https://sunshowers.io/posts/nextest-process-per-test/">Why nextest is process-per-test</a> (13 points | 
               11 comments)<br>4. <a href="https://blog.benjojo.co.uk/post/sfp-experiment-ultra-long-range-toslink">Building Ultra Long Range TOSLINK</a> (39 points | 
-              6 comments)<br>5. <a href="https://store.steampowered.com/news/app/593110/view/529834914570306831">SteamOS expands beyond Steam Deck</a> (9 points | 
+              6 comments)<br>5. <a href="https://store.steampowered.com/news/app/593110/view/529834914570306831">SteamOS expands beyond Steam Deck</a> (10 points | 
               7 comments)<br>6. <a href="https://reliquary.se">End-to-end encrypted, peer-to-peer VPN tunnels for hackers</a> (13 points | 
-              13 comments)<br>7. <a href="https://htmx.org/essays/future/">The future of htmx</a> (130 points | 
-              39 comments)<br>8. <a href="https://www.scottredig.com/blog/bonkers_comptime/">Zig's Comptime is Bonkers Good</a> (50 points | 
+              13 comments)<br>7. <a href="https://htmx.org/essays/future/">The future of htmx</a> (132 points | 
+              42 comments)<br>8. <a href="https://www.scottredig.com/blog/bonkers_comptime/">Zig's Comptime is Bonkers Good</a> (51 points | 
               21 comments)<br>9. <a href="https://mecha.so/comet">Mecha Comet - Modular Linux Handheld Computer powered by Open-Source Software</a> (22 points | 
               11 comments)<br>10. <a href="https://zverok.space/blog/2025-01-06-changelog-2025.html">The short outburst of activity during Ruby Changelog preparation—2025 edition</a> (10 points | 
               no comments)<br>11. <a href="https://serce.me/posts/2025-01-07-six-sins-of-platform-teams">Six Sins of Platform Teams</a> (3 points | 
               no comments)<br>12. <a href="https://nicholas.carlini.com/writing/2025/regex-chess.html">Regex Chess: A minimax chess engine in 84,688 regular expressions</a> (20 points | 
               3 comments)<br>13. <a href="https://techtinkering.com/2009/04/30/an-introduction-to-corewar/">An Introduction to Corewar (2009)</a> (12 points | 
-              6 comments)<br>14. <a href="/s/uwcvnl/lobsters_battlestations_screenshots">Lobsters Battlestations and Screenshots (2025)</a> (56 points | 
-              52 comments)<br>15. <a href="https://blogs.gnome.org/tbernard/2025/01/07/re-decentralizing/">Re-Decentralizing Development</a> (5 points | 
-              2 comments)<br>16. <a href="https://mental-reverb.com/blog.php?id=46">Rust's borrow checker: Not just a nuisance</a> (56 points | 
-              16 comments)<br>17. <a href="https://www.jwz.org/blog/2025/01/now-i-have-two-problems/">Now I have two problems</a> (18 points | 
-              no comments)<br>18. <a href="https://trustedsec.com/blog/solving-nist-password-complexities-guidance-from-a-grc-perspective">Solving NIST Password Complexities: Guidance From a GRC Perspective</a> (1 points | 
-              2 comments)<br>19. <a href="https://ferd.ca/queues-don-t-fix-overload.html">Queues Don't Fix Overload (2014)</a> (30 points | 
-              6 comments)<br>20. <a href="https://www.nvidia.com/en-us/project-digits/">NVIDIA Project DIGITS</a> (3 points | 
-              1 comment)<br>21. <a href="https://schematichq.com/blog/simplifying-container-management-with-taskonaut-an-open-source-cli-tool-from">Taskonaut – a CLI tool to simplify ECS container management</a> (2 points | 
-              no comments)<br>22. <a href="https://crawshaw.io/blog/programming-with-llms">How I program with LLMs</a> (10 points | 
-              2 comments)<br>23. <a href="https://www.afnic.fr/en/observatory-and-resources/expert-papers/rpp-a-future-protocol-for-creating-and-managing-domain-names/">RPP, a future protocol for creating and managing domain names?</a> (2 points | 
-              no comments)<br>24. <a href="https://loup-vaillant.fr/articles/good-fast-cheap">Good, Fast, Cheap: Pick 3 or Get None</a> (36 points | 
-              32 comments)<br>25. <a href="https://ntietz.com/blog/great-things-about-rust-beyond-perf/">Great things about Rust that aren't just performance</a> (18 points | 
-              2 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Wednesday, January 8, 2025 at 3:20 AM UTC</guid></item></channel></rss>
+              6 comments)<br>14. <a href="https://hyperview.org/">Hyperview · Native mobile apps, as easy as creating a web site</a> (2 points | 
+              no comments)<br>15. <a href="/s/uwcvnl/lobsters_battlestations_screenshots">Lobsters Battlestations and Screenshots (2025)</a> (56 points | 
+              52 comments)<br>16. <a href="https://blogs.gnome.org/tbernard/2025/01/07/re-decentralizing/">Re-Decentralizing Development</a> (6 points | 
+              2 comments)<br>17. <a href="https://mental-reverb.com/blog.php?id=46">Rust's borrow checker: Not just a nuisance</a> (56 points | 
+              16 comments)<br>18. <a href="https://www.jwz.org/blog/2025/01/now-i-have-two-problems/">Now I have two problems</a> (18 points | 
+              no comments)<br>19. <a href="https://trustedsec.com/blog/solving-nist-password-complexities-guidance-from-a-grc-perspective">Solving NIST Password Complexities: Guidance From a GRC Perspective</a> (1 points | 
+              2 comments)<br>20. <a href="https://ferd.ca/queues-don-t-fix-overload.html">Queues Don't Fix Overload (2014)</a> (30 points | 
+              6 comments)<br>21. <a href="https://www.nvidia.com/en-us/project-digits/">NVIDIA Project DIGITS</a> (3 points | 
+              1 comment)<br>22. <a href="https://crawshaw.io/blog/programming-with-llms">How I program with LLMs</a> (11 points | 
+              2 comments)<br>23. <a href="https://schematichq.com/blog/simplifying-container-management-with-taskonaut-an-open-source-cli-tool-from">Taskonaut – a CLI tool to simplify ECS container management</a> (2 points | 
+              no comments)<br>24. <a href="https://www.afnic.fr/en/observatory-and-resources/expert-papers/rpp-a-future-protocol-for-creating-and-managing-domain-names/">RPP, a future protocol for creating and managing domain names?</a> (2 points | 
+              no comments)<br>25. <a href="https://loup-vaillant.fr/articles/good-fast-cheap">Good, Fast, Cheap: Pick 3 or Get None</a> (36 points | 
+              32 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Wednesday, January 8, 2025 at 4:20 AM UTC</guid></item></channel></rss>
