@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Sun, 12 Jan 2025 01:19:42 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Sunday, January 12, 2025 at 1:20 AM UTC]]></title><description><![CDATA[1. <a href="https://jvns.ca/blog/2025/01/11/getting-a-modern-terminal-setup/">What's involved in getting a "modern" terminal setup?</a> (26 points | 
-              19 comments)<br>2. <a href="https://blog.yossarian.net/2025/01/10/Be-aware-of-the-Makefile-effect">Be aware of the Makefile effect</a> (120 points | 
-              68 comments)<br>3. <a href="https://blog.jacobstechtavern.com/p/apple-is-killing-swift">Apple is Killing Swift</a> (38 points | 
-              26 comments)<br>4. <a href="https://hugodaniel.com/posts/boredom-another-js-framework/">boreDOM: another boring JS framework</a> (10 points | 
-              1 comment)<br>5. <a href="https://jank-lang.org/blog/2025-01-10-i-quit-my-job/">I quit my job to work on my programming language</a> (84 points | 
-              21 comments)<br>6. <a href="https://arstechnica.com/gadgets/2025/01/suing-wi-fi-router-makers-remains-a-necessary-part-of-open-source-license-law/">German router maker is latest company to inadvertently clarify the LGPL license</a> (36 points | 
-              9 comments)<br>7. <a href="https://chshersh.com/blog/2025-01-06-the-most-elegant-configuration-language.html">The Most Elegant Configuration Language</a> (11 points | 
-              3 comments)<br>8. <a href="https://macwright.com/2025/01/11/predictions.html">2025 Predictions</a> (7 points | 
-              1 comment)<br>9. <a href="https://arxiv.org/pdf/2410.19146">Rewrite it in Rust: A Computational Physics Case Study</a> (13 points | 
-              4 comments)<br>10. <a href="https://xeiaso.net/notes/2024/bash-hashmap/">Today I learned that bash has hashmaps</a> (13 points | 
-              11 comments)<br>11. <a href="https://ianthehenry.com/posts/bauble/building-bauble/">Building Bauble</a> (58 points | 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Sun, 12 Jan 2025 02:55:20 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Sunday, January 12, 2025 at 2:55 AM UTC]]></title><description><![CDATA[1. <a href="https://jvns.ca/blog/2025/01/11/getting-a-modern-terminal-setup/">What's involved in getting a "modern" terminal setup?</a> (30 points | 
+              20 comments)<br>2. <a href="https://hugodaniel.com/posts/boredom-another-js-framework/">boreDOM: another boring JS framework</a> (12 points | 
+              3 comments)<br>3. <a href="https://blog.jacobstechtavern.com/p/apple-is-killing-swift">Apple is Killing Swift</a> (41 points | 
+              28 comments)<br>4. <a href="https://blog.yossarian.net/2025/01/10/Be-aware-of-the-Makefile-effect">Be aware of the Makefile effect</a> (121 points | 
+              69 comments)<br>5. <a href="https://jank-lang.org/blog/2025-01-10-i-quit-my-job/">I quit my job to work on my programming language</a> (86 points | 
+              22 comments)<br>6. <a href="https://chshersh.com/blog/2025-01-06-the-most-elegant-configuration-language.html">The Most Elegant Configuration Language</a> (12 points | 
+              4 comments)<br>7. <a href="https://arstechnica.com/gadgets/2025/01/suing-wi-fi-router-makers-remains-a-necessary-part-of-open-source-license-law/">German router maker is latest company to inadvertently clarify the LGPL license</a> (38 points | 
+              9 comments)<br>8. <a href="https://macwright.com/2025/01/11/predictions.html">2025 Predictions</a> (7 points | 
+              3 comments)<br>9. <a href="https://xeiaso.net/notes/2024/bash-hashmap/">Today I learned that bash has hashmaps</a> (15 points | 
+              11 comments)<br>10. <a href="https://arxiv.org/pdf/2410.19146">Rewrite it in Rust: A Computational Physics Case Study</a> (14 points | 
+              4 comments)<br>11. <a href="https://ianthehenry.com/posts/bauble/building-bauble/">Building Bauble</a> (59 points | 
               7 comments)<br>12. <a href="https://omairmajid.com/posts/2021-07-16-why-is-hash-in-python/">Why is hash(-1) == hash(-2) in Python?</a> (33 points | 
               11 comments)<br>13. <a href="https://neugierig.org/software/blog/2022/03/n2.html">n2: revisiting Ninja</a> (14 points | 
               15 comments)<br>14. <a href="https://web.stanford.edu/~jurafsky/slp3/">Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition with Language Models</a> (6 points | 
@@ -17,10 +17,10 @@
               13 comments)<br>17. <a href="https://frontendmasters.com/blog/bone-up-html-2025/">Relatively New Things You Should Know about HTML Heading Into 2025</a> (35 points | 
               7 comments)<br>18. <a href="https://lemire.me/blog/2025/01/11/javascript-hashing-speed-comparison-md5-versus-sha-256/">JavaScript hashing speed comparison: MD5 versus SHA-256</a> (3 points | 
               no comments)<br>19. <a href="https://vermaden.wordpress.com/2025/01/11/freebsd-suspend-resume/">FreeBSD Suspend/Resume</a> (9 points | 
-              2 comments)<br>20. <a href="https://servo.org/blog/2025/01/10/this-month-in-servo/">This month in Servo: dark mode, keyword sizes, XPath, and more</a> (60 points | 
+              2 comments)<br>20. <a href="https://servo.org/blog/2025/01/10/this-month-in-servo/">This month in Servo: dark mode, keyword sizes, XPath, and more</a> (61 points | 
               2 comments)<br>21. <a href="https://30fps.net/pages/pvs-portals-and-quake/">Portals and Quake</a> (33 points | 
-              3 comments)<br>22. <a href="https://rachelbythebay.com/w/2025/01/09/lag/">Pushing the whole company into the past on purpose</a> (85 points | 
-              28 comments)<br>23. <a href="https://matduggan.com/stop-trying-to-schedule-a-call-with-me/">Stop Trying To Schedule A Call With Me</a> (51 points | 
+              3 comments)<br>22. <a href="https://rachelbythebay.com/w/2025/01/09/lag/">Pushing the whole company into the past on purpose</a> (87 points | 
+              29 comments)<br>23. <a href="https://matduggan.com/stop-trying-to-schedule-a-call-with-me/">Stop Trying To Schedule A Call With Me</a> (52 points | 
               8 comments)<br>24. <a href="https://www.cs.cornell.edu/~asampson/blog/flattening.html">Flattening ASTs (and Other Compiler Data Structures)</a> (31 points | 
               10 comments)<br>25. <a href="https://boehs.org/node/homomorphic-encryption">Homomorphic Encryption in iOS 18</a> (18 points | 
-              no comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Sunday, January 12, 2025 at 1:20 AM UTC</guid></item></channel></rss>
+              no comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Sunday, January 12, 2025 at 2:55 AM UTC</guid></item></channel></rss>
