@@ -1,26 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Thu, 16 Jan 2025 13:20:22 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Thursday, January 16, 2025 at 1:20 PM UTC]]></title><description><![CDATA[1. <a href="https://soatok.blog/2025/01/14/dont-use-session-signal-fork/">Don't Use Session (Signal Fork)</a> (81 points | 
-              33 comments)<br>2. <a href="https://mijndertstuij.nl/posts/the-best-laptop-ever/">The best laptop ever</a> (43 points | 
-              99 comments)<br>3. <a href="https://dustycloud.org/blog/the-diy-foss-cyborg/">The DIY FOSS cyborg</a> (20 points | 
-              no comments)<br>4. <a href="https://yorickpeterse.com/articles/the-mess-that-is-handling-structure-arguments-and-returns-in-llvm/">The mess that is handling structure arguments and returns in LLVM</a> (17 points | 
-              4 comments)<br>5. <a href="https://spidermonkey.dev/blog/2025/01/15/is-memory64-actually-worth-using.html">Is Memory64 actually worth using?</a> (15 points | 
-              no comments)<br>6. <a href="https://zadzmo.org/code/nepenthes/">Nepenthes, a tarpit intended to catch web crawlers</a> (22 points | 
-              3 comments)<br>7. <a href="https://blog.mynacol.xyz/en/nixos-on-fossils/">Laptop archeology or how to install NixOS 24.11 on a 25 year old laptop</a> (4 points | 
-              3 comments)<br>8. <a href="https://cceckman.com/writing/branchless-utf8-encoding/">Branchless UTF-8 Encoding</a> (10 points | 
-              1 comment)<br>9. <a href="https://bhoot.dev/2025/form-method-dialog/">Use cases for <form method="dialog"></a> (25 points | 
-              6 comments)<br>10. <a href="https://www.perl.com/article/creating-midi-music-with-perl/">Creating MIDI Music with Perl</a> (6 points | 
-              no comments)<br>11. <a href="https://arx.wtf/blog/1-front-panels-tips">Using PCBs to create front panels for your projects</a> (6 points | 
-              no comments)<br>12. <a href="https://dafyddvaughan.uk/blog/2025/why-some-dvla-digital-services-dont-work-at-night/">Why some DVLA digital services don't work at night</a> (28 points | 
-              12 comments)<br>13. <a href="https://rosettacode.org/wiki/Rosetta_Code">Rosetta Code</a> (20 points | 
-              5 comments)<br>14. <a href="https://jnsgr.uk/2025/01/packaging-multipass-flutter-app-for-nix/">Packaging the Multipass Flutter GUI for NixOS</a> (1 points | 
-              no comments)<br>15. <a href="https://kobzol.github.io/rust/2025/01/15/async-rust-is-about-concurrency.html">Async Rust is about concurrency, not (just) performance</a> (16 points | 
-              8 comments)<br>16. <a href="https://www.dgt.is/blog/2025-01-10-nix-death-by-a-thousand-cuts/">Nix - Death by a thousand cuts</a> (69 points | 
-              35 comments)<br>17. <a href="https://unnamed.website/posts/fenwick-trees-awesome/">Fenwick Trees are Awesome</a> (21 points | 
-              1 comment)<br>18. <a href="https://dz4k.com/2025/intl/">How do I internationalize my CMS?</a> (1 points | 
-              no comments)<br>19. <a href="https://cloudfour.com/thinks/justified-text-better-than-expected/">Justified Text: Better Than Expected?</a> (33 points | 
-              15 comments)<br>20. <a href="https://archive.org/details/creativecomputing-1981-06">Landing the Nostromo</a> (10 points | 
-              5 comments)<br>21. <a href="https://github.com/jdx/mise/discussions/4054">Supply chain security with mise and asdf plugins</a> (5 points | 
-              no comments)<br>22. <a href="https://newton.freehostia.com/treks/index.html">BASIC Star Trek Games</a> (21 points | 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Thu, 16 Jan 2025 14:13:47 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Thursday, January 16, 2025 at 2:15 PM UTC]]></title><description><![CDATA[1. <a href="https://soatok.blog/2025/01/14/dont-use-session-signal-fork/">Don't Use Session (Signal Fork)</a> (83 points | 
+              37 comments)<br>2. <a href="https://dustycloud.org/blog/the-diy-foss-cyborg/">The DIY FOSS cyborg</a> (27 points | 
+              no comments)<br>3. <a href="https://mijndertstuij.nl/posts/the-best-laptop-ever/">The best laptop ever</a> (45 points | 
+              100 comments)<br>4. <a href="https://spidermonkey.dev/blog/2025/01/15/is-memory64-actually-worth-using.html">Is Memory64 actually worth using?</a> (17 points | 
+              2 comments)<br>5. <a href="https://yorickpeterse.com/articles/the-mess-that-is-handling-structure-arguments-and-returns-in-llvm/">The mess that is handling structure arguments and returns in LLVM</a> (18 points | 
+              5 comments)<br>6. <a href="https://zadzmo.org/code/nepenthes/">Nepenthes, a tarpit intended to catch web crawlers</a> (29 points | 
+              4 comments)<br>7. <a href="https://dz4k.com/2025/intl/">How do I internationalize my CMS?</a> (3 points | 
+              3 comments)<br>8. <a href="https://blog.mynacol.xyz/en/nixos-on-fossils/">Laptop archeology or how to install NixOS 24.11 on a 25 year old laptop</a> (5 points | 
+              4 comments)<br>9. <a href="https://cceckman.com/writing/branchless-utf8-encoding/">Branchless UTF-8 Encoding</a> (13 points | 
+              1 comment)<br>10. <a href="https://arx.wtf/blog/1-front-panels-tips">Using PCBs to create front panels for your projects</a> (8 points | 
+              no comments)<br>11. <a href="https://bhoot.dev/2025/form-method-dialog/">Use cases for <form method="dialog"></a> (25 points | 
+              6 comments)<br>12. <a href="https://www.perl.com/article/creating-midi-music-with-perl/">Creating MIDI Music with Perl</a> (6 points | 
+              no comments)<br>13. <a href="https://dafyddvaughan.uk/blog/2025/why-some-dvla-digital-services-dont-work-at-night/">Why some DVLA digital services don't work at night</a> (31 points | 
+              12 comments)<br>14. <a href="https://github.com/jdx/mise/discussions/4054">Supply chain security with mise and asdf plugins</a> (6 points | 
+              1 comment)<br>15. <a href="https://rosettacode.org/wiki/Rosetta_Code">Rosetta Code</a> (20 points | 
+              5 comments)<br>16. <a href="https://jnsgr.uk/2025/01/packaging-multipass-flutter-app-for-nix/">Packaging the Multipass Flutter GUI for NixOS</a> (1 points | 
+              no comments)<br>17. <a href="https://kobzol.github.io/rust/2025/01/15/async-rust-is-about-concurrency.html">Async Rust is about concurrency, not (just) performance</a> (16 points | 
+              9 comments)<br>18. <a href="https://www.dgt.is/blog/2025-01-10-nix-death-by-a-thousand-cuts/">Nix - Death by a thousand cuts</a> (69 points | 
+              35 comments)<br>19. <a href="https://archive.org/details/creativecomputing-1981-06">Landing the Nostromo</a> (11 points | 
+              5 comments)<br>20. <a href="https://unnamed.website/posts/fenwick-trees-awesome/">Fenwick Trees are Awesome</a> (21 points | 
+              1 comment)<br>21. <a href="https://cloudfour.com/thinks/justified-text-better-than-expected/">Justified Text: Better Than Expected?</a> (33 points | 
+              15 comments)<br>22. <a href="https://newton.freehostia.com/treks/index.html">BASIC Star Trek Games</a> (21 points | 
               7 comments)<br>23. <a href="https://www.datadoghq.com/blog/engineering/unraveling-a-postgres-segfault/">Unraveling a Postgres segfault that uncovered an Arm64 JIT compiler bug</a> (10 points | 
               2 comments)<br>24. <a href="https://www.jwz.org/blog/2025/01/exterminate-all-rational-ai-scrapers/">Exterminate all rational AI scrapers</a> (1 points | 
-              1 comment)<br>25. <a href="https://github.com/sombrafam/serenade/releases/tag/2.0.2-community-1.0.beta">Serenade, a tool for coding with voice: first community release after fork</a> (1 points | 
-              no comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Thursday, January 16, 2025 at 1:20 PM UTC</guid></item></channel></rss>
+              4 comments)<br>25. <a href="https://github.com/sombrafam/serenade/releases/tag/2.0.2-community-1.0.beta">Serenade, a tool for coding with voice: first community release after fork</a> (1 points | 
+              no comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Thursday, January 16, 2025 at 2:15 PM UTC</guid></item></channel></rss>
