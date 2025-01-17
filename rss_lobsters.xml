@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Fri, 17 Jan 2025 03:17:22 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Friday, January 17, 2025 at 3:15 AM UTC]]></title><description><![CDATA[1. <a href="https://rm4n0s.github.io/posts/7-the-untouched-goldmine-of-fsharp/">The untouched goldmine of F#</a> (15 points | 
-              5 comments)<br>2. <a href="https://spidermonkey.dev/blog/2025/01/15/is-memory64-actually-worth-using.html">Is Memory64 actually worth using?</a> (41 points | 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Fri, 17 Jan 2025 04:18:59 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Friday, January 17, 2025 at 4:20 AM UTC]]></title><description><![CDATA[1. <a href="https://rm4n0s.github.io/posts/7-the-untouched-goldmine-of-fsharp/">The untouched goldmine of F#</a> (15 points | 
+              5 comments)<br>2. <a href="https://spidermonkey.dev/blog/2025/01/15/is-memory64-actually-worth-using.html">Is Memory64 actually worth using?</a> (42 points | 
               11 comments)<br>3. <a href="https://dustycloud.org/blog/the-diy-foss-cyborg/">The DIY FOSS cyborg</a> (39 points | 
               6 comments)<br>4. <a href="https://jamesbvaughan.com/phishing/">A surprising scam email that evaded Gmail's spam filter</a> (12 points | 
-              1 comment)<br>5. <a href="https://zadzmo.org/code/nepenthes/">Nepenthes, a tarpit intended to catch web crawlers</a> (59 points | 
-              12 comments)<br>6. <a href="https://github.com/clojure/core.async/blob/master/doc/flow.md">core.async.flow Rationale</a> (13 points | 
+              1 comment)<br>5. <a href="https://zadzmo.org/code/nepenthes/">Nepenthes, a tarpit intended to catch web crawlers</a> (60 points | 
+              12 comments)<br>6. <a href="https://github.com/clojure/core.async/blob/master/doc/flow.md">core.async.flow Rationale</a> (14 points | 
               no comments)<br>7. <a href="https://yorickpeterse.com/articles/the-mess-that-is-handling-structure-arguments-and-returns-in-llvm/">The mess that is handling structure arguments and returns in LLVM</a> (24 points | 
               14 comments)<br>8. <a href="https://letsencrypt.org/2025/01/16/6-day-and-ip-certs/">Announcing Six Day and IP Address Certificate Options in 2025</a> (7 points | 
               7 comments)<br>9. <a href="https://soatok.blog/2025/01/14/dont-use-session-signal-fork/">Don't Use Session (Signal Fork)</a> (101 points | 
@@ -11,7 +11,7 @@
               1 comment)<br>11. <a href="https://guix.gnu.org/en/blog/2025/guix-user-and-contributor-survey-2024-the-results-part-1/">Guix User and Contributor Survey 2024: The Results (part 1)</a> (13 points | 
               no comments)<br>12. <a href="https://github.com/jaredkrinke/100-languages">Solving 100 Project Euler problems using 100 languages</a> (6 points | 
               no comments)<br>13. <a href="https://mijndertstuij.nl/posts/the-best-laptop-ever/">The best laptop ever</a> (55 points | 
-              130 comments)<br>14. <a href="https://dz4k.com/2025/intl/">How do I internationalize my CMS?</a> (5 points | 
+              131 comments)<br>14. <a href="https://dz4k.com/2025/intl/">How do I internationalize my CMS?</a> (5 points | 
               6 comments)<br>15. <a href="https://arx.wtf/blog/1-front-panels-tips">Using PCBs to create front panels for your projects</a> (24 points | 
               2 comments)<br>16. <a href="https://github.com/benbusby/whoogle-search/issues/1211">Google no longer supports javascript-free search requests · Issue #1211 · benbusby/whoogle-search</a> (1 points | 
               no comments)<br>17. <a href="https://thoughtbot.com/blog/superglue-1-0-react-rails-a-new-era-of-thoughtfulness">Superglue 1.0: React <3 Rails</a> (5 points | 
@@ -21,6 +21,6 @@
               1 comment)<br>21. <a href="https://jnsgr.uk/2025/01/packaging-multipass-flutter-app-for-nix/">Packaging the Multipass Flutter GUI for NixOS</a> (4 points | 
               no comments)<br>22. <a href="https://www.perl.com/article/creating-midi-music-with-perl/">Creating MIDI Music with Perl</a> (12 points | 
               no comments)<br>23. <a href="https://github.com/jdx/mise/discussions/4054">Supply chain security with mise and asdf plugins</a> (9 points | 
-              1 comment)<br>24. <a href="https://unnamed.website/posts/fenwick-trees-awesome/">Fenwick Trees are Awesome</a> (28 points | 
-              5 comments)<br>25. <a href="https://rosettacode.org/wiki/Rosetta_Code">Rosetta Code</a> (23 points | 
-              9 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Friday, January 17, 2025 at 3:15 AM UTC</guid></item></channel></rss>
+              1 comment)<br>24. <a href="https://unnamed.website/posts/fenwick-trees-awesome/">Fenwick Trees are Awesome</a> (29 points | 
+              6 comments)<br>25. <a href="https://rosettacode.org/wiki/Rosetta_Code">Rosetta Code</a> (23 points | 
+              9 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Friday, January 17, 2025 at 4:20 AM UTC</guid></item></channel></rss>
