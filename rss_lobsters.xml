@@ -1,26 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Sat, 18 Jan 2025 17:11:41 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Saturday, January 18, 2025 at 5:10 PM UTC]]></title><description><![CDATA[1. <a href="https://blog.codingconfessions.com/p/how-unix-spell-ran-in-64kb-ram">How Unix Spell Ran in 64kB RAM</a> (9 points | 
-              4 comments)<br>2. <a href="https://dtinth.github.io/comic-mono-font/">Comic Mono</a> (11 points | 
-              2 comments)<br>3. <a href="https://blogsystem5.substack.com/p/netbsd-graphics-wo-x11">Hands-on graphics without X11</a> (40 points | 
-              16 comments)<br>4. <a href="https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SSHOnExposingPasswordAuth">Thoughts on having SSH allow password authentication from the Internet</a> (11 points | 
-              19 comments)<br>5. <a href="https://deniz.aksimsek.tr/2025/version/">A versioning scheme for end-user software</a> (3 points | 
-              3 comments)<br>6. <a href="https://arxiv.org/abs/2501.07238">Lessons From Red Teaming 100 Generative AI Products</a> (3 points | 
-              4 comments)<br>7. <a href="https://blog.hboeck.de/archives/908-Private-Keys-in-the-Fortigate-Leak.html">Private Keys in the Fortigate Leak</a> (28 points | 
-              2 comments)<br>8. <a href="https://corrode.dev/blog/prototyping/">Prototyping in Rust</a> (42 points | 
-              43 comments)<br>9. <a href="https://www.pauladamsmith.com/blog/2025/01/cheatsheet-for-jjs-builtin-diff-editor.html">Cheatsheet for jj's builtin diff editor</a> (17 points | 
-              2 comments)<br>10. <a href="https://www.answer.ai/posts/2025-01-08-devin.html">Thoughts On A Month With Devin</a> (3 points | 
-              4 comments)<br>11. <a href="https://www.typetheoryforall.com/">Podcast: Type Theory Forall</a> (2 points | 
-              3 comments)<br>12. <a href="https://lcamtuf.substack.com/p/investigating-an-evil-rj45-dongle">Investigating an "evil" RJ45 dongle</a> (18 points | 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Sat, 18 Jan 2025 18:18:43 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Saturday, January 18, 2025 at 6:20 PM UTC]]></title><description><![CDATA[1. <a href="https://dtinth.github.io/comic-mono-font/">Comic Mono</a> (17 points | 
+              5 comments)<br>2. <a href="https://blog.codingconfessions.com/p/how-unix-spell-ran-in-64kb-ram">How Unix Spell Ran in 64kB RAM</a> (10 points | 
+              4 comments)<br>3. <a href="https://blogsystem5.substack.com/p/netbsd-graphics-wo-x11">Hands-on graphics without X11</a> (40 points | 
+              16 comments)<br>4. <a href="https://arxiv.org/abs/2501.07238">Lessons From Red Teaming 100 Generative AI Products</a> (5 points | 
+              4 comments)<br>5. <a href="https://deniz.aksimsek.tr/2025/version/">A versioning scheme for end-user software</a> (4 points | 
+              4 comments)<br>6. <a href="https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SSHOnExposingPasswordAuth">Thoughts on having SSH allow password authentication from the Internet</a> (13 points | 
+              25 comments)<br>7. <a href="https://www.answer.ai/posts/2025-01-08-devin.html">Thoughts On A Month With Devin</a> (5 points | 
+              5 comments)<br>8. <a href="https://blog.hboeck.de/archives/908-Private-Keys-in-the-Fortigate-Leak.html">Private Keys in the Fortigate Leak</a> (28 points | 
+              3 comments)<br>9. <a href="https://www.typetheoryforall.com/">Podcast: Type Theory Forall</a> (3 points | 
+              3 comments)<br>10. <a href="https://www.pauladamsmith.com/blog/2025/01/cheatsheet-for-jjs-builtin-diff-editor.html">Cheatsheet for jj's builtin diff editor</a> (17 points | 
+              4 comments)<br>11. <a href="https://corrode.dev/blog/prototyping/">Prototyping in Rust</a> (43 points | 
+              45 comments)<br>12. <a href="https://lcamtuf.substack.com/p/investigating-an-evil-rj45-dongle">Investigating an "evil" RJ45 dongle</a> (18 points | 
               5 comments)<br>13. <a href="https://lewiscampbell.tech/blog/250117.html">How I think about Zig and Rust</a> (45 points | 
               40 comments)<br>14. <a href="https://openflexure.org/projects/microscope/">OpenFlexure Microscope</a> (3 points | 
               3 comments)<br>15. <a href="https://earthstar-project.org/">Earthstar</a> (59 points | 
               8 comments)<br>16. <a href="https://ziglang.org/news/what-to-expect-from-release-month/">What to Expect from Release Month (0.14.0)</a> (43 points | 
-              no comments)<br>17. <a href="https://rinici.de/posts/streaming-html">The Cursed Art of Streaming HTML</a> (3 points | 
-              no comments)<br>18. <a href="https://www.youtube.com/watch?v=y1GCIwLm3is">Project MINI RACK - a Homelab Revolution</a> (15 points | 
-              10 comments)<br>19. <a href="https://github.com/gittuf/gittuf">gittuf: A security layer for Git repositories</a> (2 points | 
+              no comments)<br>17. <a href="https://www.youtube.com/watch?v=y1GCIwLm3is">Project MINI RACK - a Homelab Revolution</a> (16 points | 
+              10 comments)<br>18. <a href="https://rinici.de/posts/streaming-html">The Cursed Art of Streaming HTML</a> (3 points | 
+              no comments)<br>19. <a href="https://github.com/gittuf/gittuf">gittuf: A security layer for Git repositories</a> (2 points | 
               no comments)<br>20. <a href="https://contributors.scala-lang.org/t/pre-sip-a-syntax-for-collection-literals/6990">Pre-SIP: A Syntax for Collection Literals</a> (4 points | 
               no comments)<br>21. <a href="https://www.enterprisedb.com/blog/logical-replication-postgres-basics">Logical replication in Postgres: Basics</a> (16 points | 
-              no comments)<br>22. <a href="https://modal.com/blog/vprox">WireGuard at Modal: Static IPs for Serverless Containers</a> (1 points | 
-              no comments)<br>23. <a href="https://www.techspot.com/news/106351-oracle-wont-relinquish-javascript-trademark-js-community-prepares.html">Oracle won't relinquish JavaScript trademark, so the JS community prepares for court battle</a> (8 points | 
-              6 comments)<br>24. <a href="https://treyhunner.com/2024/12/lazy-self-installing-python-scripts-with-uv/">Lazy self-installing Python scripts with uv</a> (13 points | 
-              1 comment)<br>25. <a href="https://github.com/santinic/audiblez">Audiblez: Generate audiobooks from e-books</a> (2 points | 
-              1 comment)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Saturday, January 18, 2025 at 5:10 PM UTC</guid></item></channel></rss>
+              no comments)<br>22. <a href="https://fleetwood.dev/posts/steelix">A Rust based ML model analyzer</a> (1 points | 
+              no comments)<br>23. <a href="https://www.techspot.com/news/106351-oracle-wont-relinquish-javascript-trademark-js-community-prepares.html">Oracle won't relinquish JavaScript trademark, so the JS community prepares for court battle</a> (9 points | 
+              6 comments)<br>24. <a href="https://treyhunner.com/2024/12/lazy-self-installing-python-scripts-with-uv/">Lazy self-installing Python scripts with uv</a> (15 points | 
+              1 comment)<br>25. <a href="https://modal.com/blog/vprox">WireGuard at Modal: Static IPs for Serverless Containers</a> (1 points | 
+              no comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Saturday, January 18, 2025 at 6:20 PM UTC</guid></item></channel></rss>
