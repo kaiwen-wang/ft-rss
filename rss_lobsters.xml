@@ -1,26 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Thu, 23 Jan 2025 09:16:21 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Thursday, January 23, 2025 at 9:15 AM UTC]]></title><description><![CDATA[1. <a href="https://www.edgedb.com/blog/c-stdlib-isn-t-threadsafe-and-even-safe-rust-didn-t-save-us">C stdlib isn’t threadsafe and even safe Rust didn’t save us</a> (40 points | 
-              38 comments)<br>2. <a href="https://okmij.org/ftp/">Oleg's Programming Site</a> (36 points | 
-              6 comments)<br>3. <a href="https://spritely.institute/news/guile-hoot-0-6-0-released.html">Guile Hoot 0.6.0 released</a> (26 points | 
-              4 comments)<br>4. <a href="https://krebsonsecurity.com/2025/01/mastercard-dns-error-went-unnoticed-for-years/">MasterCard DNS Error Went Unnoticed for Years</a> (24 points | 
-              no comments)<br>5. <a href="/s/vhxvzd/tell_me_weird_obscure_proprietary_c">tell me of weird, obscure, or proprietary C compilers and environments past and present</a> (3 points | 
-              2 comments)<br>6. <a href="https://buttondown.com/hillelwayne/archive/the-jugglers-curse/">The Juggler's Curse</a> (17 points | 
-              3 comments)<br>7. <a href="https://github.com/serpent-os/disks-rs">disks-rs: Disk handling with Rust</a> (3 points | 
-              3 comments)<br>8. <a href="https://voxpupuli.org/blog/2025/01/21/openvox-release/">First release of OpenVox, the community fork of Puppet</a> (3 points | 
-              3 comments)<br>9. <a href="https://blog.jez.io/constructor-override-checking/">Why don't constructors have override checking?</a> (5 points | 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Thu, 23 Jan 2025 10:17:19 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Thursday, January 23, 2025 at 10:15 AM UTC]]></title><description><![CDATA[1. <a href="https://www.edgedb.com/blog/c-stdlib-isn-t-threadsafe-and-even-safe-rust-didn-t-save-us">C stdlib isn’t threadsafe and even safe Rust didn’t save us</a> (45 points | 
+              40 comments)<br>2. <a href="https://okmij.org/ftp/">Oleg's Programming Site</a> (37 points | 
+              7 comments)<br>3. <a href="https://krebsonsecurity.com/2025/01/mastercard-dns-error-went-unnoticed-for-years/">MasterCard DNS Error Went Unnoticed for Years</a> (26 points | 
+              no comments)<br>4. <a href="https://spritely.institute/news/guile-hoot-0-6-0-released.html">Guile Hoot 0.6.0 released</a> (28 points | 
+              4 comments)<br>5. <a href="/s/vhxvzd/tell_me_weird_obscure_proprietary_c">tell me of weird, obscure, or proprietary C compilers and environments past and present</a> (4 points | 
+              12 comments)<br>6. <a href="https://github.com/serpent-os/disks-rs">disks-rs: Disk handling with Rust</a> (5 points | 
+              3 comments)<br>7. <a href="https://buttondown.com/hillelwayne/archive/the-jugglers-curse/">The Juggler's Curse</a> (19 points | 
+              3 comments)<br>8. <a href="https://voxpupuli.org/blog/2025/01/21/openvox-release/">First release of OpenVox, the community fork of Puppet</a> (4 points | 
+              3 comments)<br>9. <a href="https://tailwindcss.com/blog/tailwindcss-v4">Tailwind CSS v4.0</a> (8 points | 
               1 comment)<br>10. <a href="https://blog.cryptographyengineering.com/2025/01/17/lets-talk-about-ai-and-end-to-end-encryption/">Let’s talk about AI and end-to-end encryption</a> (3 points | 
-              2 comments)<br>11. <a href="https://github.com/Agnishom/lregex">Verified and Efficient Matching of Regular Expressions with Lookaround</a> (2 points | 
-              no comments)<br>12. <a href="https://steck.tech/posts/rtsan-in-rust/">Introducing RealtimeSanitizer for Rust</a> (21 points | 
-              no comments)<br>13. <a href="https://gist.github.com/hackermondev/45a3cdfa52246f1d1201c1e8cdef6117">Unique 0-click deanonymization attack targeting Signal, Discord and hundreds of platforms</a> (128 points | 
-              44 comments)<br>14. <a href="https://felixrieseberg.com/things-people-get-wrong-about-electron/">Things people get wrong about Electron</a> (44 points | 
-              120 comments)<br>15. <a href="https://tailwindcss.com/blog/tailwindcss-v4">Tailwind CSS v4.0</a> (5 points | 
-              no comments)<br>16. <a href="https://text-mode.org/?p=27470">BBS PETSCII, 1986-1993</a> (2 points | 
-              no comments)<br>17. <a href="https://www.chiark.greenend.org.uk/~ianmdlvl/rust-polyglot/index.html">Contents - Rust for the Polyglot Programmer</a> (2 points | 
-              no comments)<br>18. <a href="https://gab-menezes.github.io/2025/01/13/using-the-most-unhinged-avx-512-instruction-to-make-the-fastest-phrase-search-algo.html">Using the most unhinged AVX-512 instruction to make the fastest phrase search algorithm</a> (9 points | 
-              no comments)<br>19. <a href="https://stratoshark.org/">Stratoshark: Wireshark for the Cloud</a> (13 points | 
+              3 comments)<br>11. <a href="https://blog.jez.io/constructor-override-checking/">Why don't constructors have override checking?</a> (5 points | 
+              1 comment)<br>12. <a href="https://github.com/Agnishom/lregex">Verified and Efficient Matching of Regular Expressions with Lookaround</a> (2 points | 
+              no comments)<br>13. <a href="https://steck.tech/posts/rtsan-in-rust/">Introducing RealtimeSanitizer for Rust</a> (21 points | 
+              no comments)<br>14. <a href="https://text-mode.org/?p=27470">BBS PETSCII, 1986-1993</a> (3 points | 
+              no comments)<br>15. <a href="https://www.chiark.greenend.org.uk/~ianmdlvl/rust-polyglot/index.html">Contents - Rust for the Polyglot Programmer</a> (3 points | 
+              no comments)<br>16. <a href="https://gist.github.com/hackermondev/45a3cdfa52246f1d1201c1e8cdef6117">Unique 0-click deanonymization attack targeting Signal, Discord and hundreds of platforms</a> (128 points | 
+              44 comments)<br>17. <a href="https://felixrieseberg.com/things-people-get-wrong-about-electron/">Things people get wrong about Electron</a> (45 points | 
+              121 comments)<br>18. <a href="https://gab-menezes.github.io/2025/01/13/using-the-most-unhinged-avx-512-instruction-to-make-the-fastest-phrase-search-algo.html">Using the most unhinged AVX-512 instruction to make the fastest phrase search algorithm</a> (10 points | 
+              no comments)<br>19. <a href="https://stratoshark.org/">Stratoshark: Wireshark for the Cloud</a> (14 points | 
               1 comment)<br>20. <a href="https://www.phoronix.com/news/Linux-6.14-Landlock">Landlock Security Module Able To Deal With "Weird Files" On Linux 6.14</a> (1 points | 
               1 comment)<br>21. <a href="https://www.mattkeeter.com/blog/2025-01-20-guided/">Guided by the beauty of our test suite</a> (11 points | 
-              no comments)<br>22. <a href="https://web.archive.org/web/20170530221312/http://blog.kickin-the-darkness.com/2007/08/fundamental-theory-of-ada.html">Fundamental Theory of Ada: Type Model (2007)</a> (4 points | 
-              no comments)<br>23. <a href="https://ohadravid.github.io/posts/2025-01-debugging-vit-and-tensorrt/">Debugging a Vision Transformer Compilation Issue</a> (6 points | 
-              no comments)<br>24. <a href="https://nullprogram.com/blog/2025/01/19/">Examples of quick hash tables and dynamic arrays in C</a> (26 points | 
-              1 comment)<br>25. <a href="https://bencher.dev/">Bencher - Continuous Benchmarking</a> (1 points | 
-              no comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Thursday, January 23, 2025 at 9:15 AM UTC</guid></item></channel></rss>
+              no comments)<br>22. <a href="https://bencher.dev/">Bencher - Continuous Benchmarking</a> (2 points | 
+              no comments)<br>23. <a href="https://yoric.github.io/post/safety-and-security/">About Safety, Security and yes, C++ and Rust (2023)</a> (1 points | 
+              no comments)<br>24. <a href="https://bun.sh/blog/bun-v1.2">Bun 1.2</a> (1 points | 
+              no comments)<br>25. <a href="https://web.archive.org/web/20170530221312/http://blog.kickin-the-darkness.com/2007/08/fundamental-theory-of-ada.html">Fundamental Theory of Ada: Type Model (2007)</a> (4 points | 
+              no comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Thursday, January 23, 2025 at 10:15 AM UTC</guid></item></channel></rss>
