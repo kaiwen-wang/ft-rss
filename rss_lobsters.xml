@@ -1,26 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Sun, 26 Jan 2025 03:17:19 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Sunday, January 26, 2025 at 3:15 AM UTC]]></title><description><![CDATA[1. <a href="https://kranga.notion.site/The-fizzbuzz-that-did-not-get-me-the-job-180e7c22ef3b80c3a386f7f8de720ac7">The fizzbuzz that did not get me the job</a> (69 points | 
-              31 comments)<br>2. <a href="https://www.downtowndougbrown.com/2025/01/the-invalid-68030-instruction-that-accidentally-allowed-the-mac-classic-ii-to-successfully-boot-up/">The invalid 68030 instruction that accidentally allowed the Mac Classic II to successfully boot up</a> (15 points | 
-              2 comments)<br>3. <a href="https://github.com/libsdl-org/SDL/releases/tag/release-3.2.0">SDL 3.2.0</a> (19 points | 
-              2 comments)<br>4. <a href="/s/o2hhjc/what_happened_text_colour">What happened to the text colour?</a> (19 points | 
-              5 comments)<br>5. <a href="https://xeiaso.net/notes/2025/k8s-dev-mac-oracle-linux/">Life pro tip: Oracle Linux is the best local VM for MacBooks</a> (21 points | 
-              23 comments)<br>6. <a href="https://borretti.me/article/composable-sql">Composable SQL</a> (7 points | 
-              8 comments)<br>7. <a href="https://codeberg.org/grunfink/snac2">snac2 - A simple, minimalistic ActivityPub instance written in portable C</a> (4 points | 
-              1 comment)<br>8. <a href="https://sgoel.dev/posts/trying-out-zed-after-more-than-a-decade-of-vim-neovim/">Trying out Zed after more than a decade of Vim/Neovim</a> (20 points | 
-              32 comments)<br>9. <a href="https://yasserarg.com/tb">Tilde, my LLVM alternative</a> (78 points | 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Sun, 26 Jan 2025 04:17:28 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Sunday, January 26, 2025 at 4:15 AM UTC]]></title><description><![CDATA[1. <a href="https://kranga.notion.site/The-fizzbuzz-that-did-not-get-me-the-job-180e7c22ef3b80c3a386f7f8de720ac7">The fizzbuzz that did not get me the job</a> (74 points | 
+              31 comments)<br>2. <a href="https://www.downtowndougbrown.com/2025/01/the-invalid-68030-instruction-that-accidentally-allowed-the-mac-classic-ii-to-successfully-boot-up/">The invalid 68030 instruction that accidentally allowed the Mac Classic II to successfully boot up</a> (17 points | 
+              2 comments)<br>3. <a href="https://github.com/libsdl-org/SDL/releases/tag/release-3.2.0">SDL 3.2.0</a> (20 points | 
+              2 comments)<br>4. <a href="/s/o2hhjc/what_happened_text_colour">What happened to the text colour?</a> (23 points | 
+              5 comments)<br>5. <a href="https://codeberg.org/grunfink/snac2">snac2 - A simple, minimalistic ActivityPub instance written in portable C</a> (8 points | 
+              1 comment)<br>6. <a href="https://xeiaso.net/notes/2025/k8s-dev-mac-oracle-linux/">Life pro tip: Oracle Linux is the best local VM for MacBooks</a> (22 points | 
+              24 comments)<br>7. <a href="https://borretti.me/article/composable-sql">Composable SQL</a> (7 points | 
+              8 comments)<br>8. <a href="https://sgoel.dev/posts/trying-out-zed-after-more-than-a-decade-of-vim-neovim/">Trying out Zed after more than a decade of Vim/Neovim</a> (20 points | 
+              33 comments)<br>9. <a href="https://yasserarg.com/tb">Tilde, my LLVM alternative</a> (78 points | 
               24 comments)<br>10. <a href="https://gist.github.com/zachlatta/f86317493654b550c689dc6509973aa4">Google's official URL shortcut is compromised</a> (119 points | 
               37 comments)<br>11. <a href="https://vermaden.wordpress.com/2024/06/23/freebsd-bhyve-companion-tools/">Updated FreeBSD Bhyve Companion Tools</a> (4 points | 
               1 comment)<br>12. <a href="https://lucumr.pocoo.org/2025/1/24/build-it-yourself/">Build It Yourself</a> (75 points | 
-              62 comments)<br>13. <a href="https://reasonablypolymorphic.com/blog/use-monoids/index.html">Use Monoids for Construction</a> (4 points | 
-              2 comments)<br>14. <a href="https://wasmgroundup.com/blog/wasm-compiler-in-a-tweet">A WebAssembly compiler that fits in a tweet</a> (33 points | 
-              3 comments)<br>15. <a href="https://codeberg.org/jjba23/sss">Supreme Sexp System - SSS - a Lisp machine adventure</a> (2 points | 
-              no comments)<br>16. <a href="https://blog.howardjohn.info/posts/go-tools-command/">Exploring the new "go tool" support in Go 1.24</a> (1 points | 
+              63 comments)<br>13. <a href="https://reasonablypolymorphic.com/blog/use-monoids/index.html">Use Monoids for Construction</a> (4 points | 
+              2 comments)<br>14. <a href="https://benjamincongdon.me/blog/2025/01/25/AI-Slop-Suspicion-and-Writing-Back/">AI Slop, Suspicion, and Writing Back</a> (1 points | 
+              no comments)<br>15. <a href="https://wasmgroundup.com/blog/wasm-compiler-in-a-tweet">A WebAssembly compiler that fits in a tweet</a> (33 points | 
+              3 comments)<br>16. <a href="https://codeberg.org/jjba23/sss">Supreme Sexp System - SSS - a Lisp machine adventure</a> (2 points | 
               no comments)<br>17. <a href="https://jholloway.dev/posts/print-driver-fun/">Unix Print Driver Fun</a> (4 points | 
-              1 comment)<br>18. <a href="https://www.youtube.com/watch?v=kYLJLJkVfLk">Making an SNES Game the Way Nintendo Intended</a> (3 points | 
-              no comments)<br>19. <a href="https://github.com/davidlattimore/wild">wild: A very fast linker for Linux</a> (37 points | 
-              3 comments)<br>20. <a href="https://seldo.com/posts/what-ive-learned-about-writing-ai-apps-so-far">What I've learned about writing AI apps so far</a> (18 points | 
-              7 comments)<br>21. <a href="https://developer.mozilla.org/en-US/blog/javascript-temporal-is-coming/">JavaScript Temporal is coming</a> (53 points | 
-              16 comments)<br>22. <a href="https://lcamtuf.substack.com/p/ui-is-hell-four-function-calculators">UI is hell: four-function calculators</a> (26 points | 
-              8 comments)<br>23. <a href="https://cpf.sh/blog/2025/01/25/engineers-dont-make-public-squares-people-do">Engineers don't make public squares. People do</a> (1 points | 
-              no comments)<br>24. <a href="https://mesozoic-egg.github.io/tinygrad-notes/">Tutorials on Tinygrad</a> (6 points | 
-              no comments)<br>25. <a href="https://lwn.net/Articles/1002342/">The state of Vim</a> (29 points | 
-              3 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Sunday, January 26, 2025 at 3:15 AM UTC</guid></item></channel></rss>
+              1 comment)<br>18. <a href="https://blog.howardjohn.info/posts/go-tools-command/">Exploring the new "go tool" support in Go 1.24</a> (1 points | 
+              no comments)<br>19. <a href="https://www.youtube.com/watch?v=kYLJLJkVfLk">Making an SNES Game the Way Nintendo Intended</a> (3 points | 
+              no comments)<br>20. <a href="https://github.com/davidlattimore/wild">wild: A very fast linker for Linux</a> (37 points | 
+              3 comments)<br>21. <a href="https://seldo.com/posts/what-ive-learned-about-writing-ai-apps-so-far">What I've learned about writing AI apps so far</a> (18 points | 
+              7 comments)<br>22. <a href="https://developer.mozilla.org/en-US/blog/javascript-temporal-is-coming/">JavaScript Temporal is coming</a> (53 points | 
+              16 comments)<br>23. <a href="https://lcamtuf.substack.com/p/ui-is-hell-four-function-calculators">UI is hell: four-function calculators</a> (28 points | 
+              9 comments)<br>24. <a href="https://cpf.sh/blog/2025/01/25/engineers-dont-make-public-squares-people-do">Engineers don't make public squares. People do</a> (1 points | 
+              no comments)<br>25. <a href="https://mesozoic-egg.github.io/tinygrad-notes/">Tutorials on Tinygrad</a> (6 points | 
+              no comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Sunday, January 26, 2025 at 4:15 AM UTC</guid></item></channel></rss>
