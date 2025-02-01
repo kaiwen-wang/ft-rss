@@ -1,19 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Sat, 01 Feb 2025 08:17:51 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Saturday, February 1, 2025 at 8:15 AM UTC]]></title><description><![CDATA[1. <a href="https://simonask.github.io/introducing-werk/">Introducing Werk</a> (46 points | 
-              28 comments)<br>2. <a href="https://kubamartin.com/posts/introduction-to-the-jujutsu-vcs/">Jujutsu VCS Introduction and Patterns</a> (29 points | 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Sat, 01 Feb 2025 09:15:03 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Saturday, February 1, 2025 at 9:15 AM UTC]]></title><description><![CDATA[1. <a href="https://simonask.github.io/introducing-werk/">Introducing Werk</a> (47 points | 
+              30 comments)<br>2. <a href="https://kubamartin.com/posts/introduction-to-the-jujutsu-vcs/">Jujutsu VCS Introduction and Patterns</a> (31 points | 
               1 comment)<br>3. <a href="https://mill.plainopen.com/how-we-share-secrets-at-a-fully-remote-startup.html">How we share secrets at a fully-remote startup</a> (7 points | 
-              24 comments)<br>4. <a href="https://html-css-tip-of-the-week.netlify.app/tip/user-valid/">The :user-valid pseudo-class</a> (15 points | 
-              1 comment)<br>5. <a href="https://www.calabro.io/uscope">uscope: A New Debugger and Introspection Toolchain</a> (6 points | 
-              1 comment)<br>6. <a href="https://amanvir.com/guten">Guten: A tiny newspaper printer</a> (8 points | 
-              2 comments)<br>7. <a href="https://github.com/rust-random/rand/releases/tag/0.9.0">Rust's rand 0.9.0 is out</a> (16 points | 
-              18 comments)<br>8. <a href="https://c3.handmade.network/blog/p/8983-another_monthly_release__c3_0.6.6_is_here">Another monthly release: C3 0.6.6 is here</a> (2 points | 
-              2 comments)<br>9. <a href="https://github.com/golang/go/discussions/71460">Potential Rust-inspired simplification for Go error handling</a> (10 points | 
-              5 comments)<br>10. <a href="https://purplesyringa.moe/blog/falsehoods-programmers-believe-about-null-pointers/">Falsehoods programmers believe about null pointers</a> (28 points | 
-              2 comments)<br>11. <a href="https://www.youtube.com/watch?v=voy1iT2E4bk">Blazing-Fast Directory Tree Traversal: Haskell Streamly Beats Rust</a> (14 points | 
-              6 comments)<br>12. <a href="https://s2.dev/blog/iot">Blazing-fast IoT data pipeline for infrared monitoring</a> (1 points | 
-              no comments)<br>13. <a href="https://blog.janestreet.com/how-we-accidentally-built-a-better-build-system-for-ocaml-index/">How Jane Street accidentally built a better build system for OCaml</a> (50 points | 
-              2 comments)<br>14. <a href="https://amjith.com/blog/2025/llm-in-litecli-1/">Using LLM to write SQLite queries</a> (1 points | 
-              no comments)<br>15. <a href="https://www.romaglushko.com/blog/whats-aouth2/">What's OAuth2 Anyway?</a> (9 points | 
-              no comments)<br>16. <a href="https://gamedev.city/">Gamedev.city: Game development-centric link aggregator</a> (17 points | 
+              24 comments)<br>4. <a href="https://www.calabro.io/uscope">uscope: A New Debugger and Introspection Toolchain</a> (9 points | 
+              1 comment)<br>5. <a href="https://amjith.com/blog/2025/llm-in-litecli-1/">Using LLM to write SQLite queries</a> (2 points | 
+              no comments)<br>6. <a href="https://html-css-tip-of-the-week.netlify.app/tip/user-valid/">The :user-valid pseudo-class</a> (15 points | 
+              1 comment)<br>7. <a href="https://amanvir.com/guten">Guten: A tiny newspaper printer</a> (8 points | 
+              2 comments)<br>8. <a href="https://github.com/rust-random/rand/releases/tag/0.9.0">Rust's rand 0.9.0 is out</a> (16 points | 
+              18 comments)<br>9. <a href="https://c3.handmade.network/blog/p/8983-another_monthly_release__c3_0.6.6_is_here">Another monthly release: C3 0.6.6 is here</a> (2 points | 
+              3 comments)<br>10. <a href="https://github.com/golang/go/discussions/71460">Potential Rust-inspired simplification for Go error handling</a> (10 points | 
+              5 comments)<br>11. <a href="https://purplesyringa.moe/blog/falsehoods-programmers-believe-about-null-pointers/">Falsehoods programmers believe about null pointers</a> (28 points | 
+              2 comments)<br>12. <a href="https://www.youtube.com/watch?v=voy1iT2E4bk">Blazing-Fast Directory Tree Traversal: Haskell Streamly Beats Rust</a> (14 points | 
+              6 comments)<br>13. <a href="https://s2.dev/blog/iot">Blazing-fast IoT data pipeline for infrared monitoring</a> (1 points | 
+              no comments)<br>14. <a href="https://blog.janestreet.com/how-we-accidentally-built-a-better-build-system-for-ocaml-index/">How Jane Street accidentally built a better build system for OCaml</a> (50 points | 
+              2 comments)<br>15. <a href="https://www.romaglushko.com/blog/whats-aouth2/">What's OAuth2 Anyway?</a> (9 points | 
+              no comments)<br>16. <a href="https://gamedev.city/">Gamedev.city: Game development-centric link aggregator</a> (18 points | 
               4 comments)<br>17. <a href="/s/cayoei/what_are_you_doing_this_weekend">What are you doing this weekend?</a> (9 points | 
               36 comments)<br>18. <a href="https://blog.rust-lang.org/2025/01/30/Rust-1.84.1.html">Announcing Rust 1.84.1</a> (18 points | 
               no comments)<br>19. <a href="https://www.linuxfoundation.org/blog/navigating-global-regulations-and-open-source-us-ofac-sanctions">Navigating Global Regulations and Open Source: US OFAC Sanctions</a> (4 points | 
@@ -23,4 +23,4 @@
               4 comments)<br>23. <a href="https://github.com/rust-bakery/nom/blob/main/CHANGELOG.md#800-2025-01-25">nom parser combinators now released in version 8, with a new architecture</a> (11 points | 
               no comments)<br>24. <a href="https://www.ganssle.com/watchdogs.htm">Designing Great Watchdog Timers for Embedded Systems</a> (2 points | 
               no comments)<br>25. <a href="https://www.wiz.io/blog/wiz-research-uncovers-exposed-deepseek-database-leak">DeepSeek database leak</a> (42 points | 
-              1 comment)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Saturday, February 1, 2025 at 8:15 AM UTC</guid></item></channel></rss>
+              1 comment)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Saturday, February 1, 2025 at 9:15 AM UTC</guid></item></channel></rss>
