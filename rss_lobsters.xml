@@ -1,26 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Mon, 03 Feb 2025 10:16:32 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Monday, February 3, 2025 at 10:15 AM UTC]]></title><description><![CDATA[1. <a href="/s/btjtkr/what_software_do_you_dream_about_do_not">What software do you dream about, but do not have time to code yourself?</a> (46 points | 
-              137 comments)<br>2. <a href="https://py-free-threading.github.io/">Python free-threading guide</a> (7 points | 
-              1 comment)<br>3. <a href="https://a.hollywood.computer/">Hollywood: split a computer console into multiple panes of genuine technical melodrama</a> (18 points | 
-              2 comments)<br>4. <a href="https://tiniuc.com/make-more-tools/">Unexpected Benefits of Building Your Own Tools</a> (21 points | 
-              22 comments)<br>5. <a href="https://goober99.hashnode.dev/learn-common-lisp-by-example-gtk-gui-with-sbcl">Learn Common Lisp by Example: GTK GUI with SBCL</a> (9 points | 
-              2 comments)<br>6. <a href="https://evanhahn.com/llms-and-technical-innovation/">LLMs: harmful to technical innovation?</a> (37 points | 
-              20 comments)<br>7. <a href="http://yosemitesam.ch/3-tools-for-2025/">3 Tools for 2025</a> (44 points | 
-              17 comments)<br>8. <a href="https://timsh.org/tracking-myself-down-through-in-app-ads/">Everyone knows your location: tracking myself down through in-app ads</a> (14 points | 
-              2 comments)<br>9. <a href="https://fzakaria.com/2025/02/02/nix-string-interpolation-of-directories-gone-awry.html">Nix: string interpolation of directories gone awry</a> (4 points | 
-              no comments)<br>10. <a href="https://lewiscampbell.tech/blog/250202.html">Safety in Programming Languages is a Means to an End</a> (13 points | 
-              18 comments)<br>11. <a href="https://blog.davidv.dev/posts/mobile-translator/">Using local translation models on Android</a> (1 points | 
-              no comments)<br>12. <a href="https://blog.danslimmon.com/2025/01/29/incident-sev-scales-are-a-waste-of-time/">Incident SEV scales are a waste of time</a> (2 points | 
-              3 comments)<br>13. <a href="https://github.com/theHamdiz/it">it - utilities</a> (8 points | 
-              no comments)<br>14. <a href="https://elinux.org/Android_Binder">Android Binder</a> (5 points | 
-              1 comment)<br>15. <a href="https://jasonbrownlee.me/blog/posts/hand-crafted-code/">For Sale: Binaries Compiled From Hand-Crafted Artisanal Code</a> (11 points | 
-              17 comments)<br>16. <a href="https://thinkingeek.com/2025/01/31/caveat-with-statically-linked-language-runtimes/">A caveat with statically linked language runtimes</a> (2 points | 
-              no comments)<br>17. <a href="https://lu.is/2025/02/freedoms-for-who-revisited-briefly/">freedoms-for-who, revisited briefly</a> (1 points | 
-              no comments)<br>18. <a href="https://benjamincongdon.me/blog/2025/02/02/How-I-Use-AI-Early-2025/">How I Use AI: Early 2025</a> (3 points | 
-              no comments)<br>19. <a href="https://github.com/golang/go/issues/71076">proposal: sync/v2</a> (17 points | 
-              no comments)<br>20. <a href="https://github.com/faiface/par-lang">par: experimental concurrent language with an interactive playground</a> (6 points | 
-              no comments)<br>21. <a href="https://surfingcomplexity.blog/2025/02/01/youre-missing-your-near-misses/">You’re missing your near misses</a> (15 points | 
-              4 comments)<br>22. <a href="https://soatok.blog/2025/01/31/hell-is-overconfident-developers-writing-encryption-code/">Hell Is Overconfident Developers Writing Encryption Code</a> (64 points | 
-              76 comments)<br>23. <a href="https://www.youtube.com/watch?v=bzUXK5VBbXc">Eat your greens - A philosophy for language design</a> (3 points | 
-              2 comments)<br>24. <a href="https://vermaden.wordpress.com/2025/02/02/freebsd-alongside-windows/">FreeBSD Alongside Windows</a> (7 points | 
-              5 comments)<br>25. <a href="https://blog.dave.tf/post/tai64-is-not-tai/">TAI64 in the wild is (sometimes) not TAI</a> (10 points | 
-              14 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Monday, February 3, 2025 at 10:15 AM UTC</guid></item></channel></rss>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Mon, 03 Feb 2025 11:12:31 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Monday, February 3, 2025 at 11:10 AM UTC]]></title><description><![CDATA[1. <a href="/s/btjtkr/what_software_do_you_dream_about_do_not">What software do you dream about, but do not have time to code yourself?</a> (49 points | 
+              141 comments)<br>2. <a href="https://py-free-threading.github.io/">Python free-threading guide</a> (8 points | 
+              1 comment)<br>3. <a href="https://a.hollywood.computer/">Hollywood: split a computer console into multiple panes of genuine technical melodrama</a> (22 points | 
+              2 comments)<br>4. <a href="https://goober99.hashnode.dev/learn-common-lisp-by-example-gtk-gui-with-sbcl">Learn Common Lisp by Example: GTK GUI with SBCL</a> (11 points | 
+              2 comments)<br>5. <a href="https://tiniuc.com/make-more-tools/">Unexpected Benefits of Building Your Own Tools</a> (21 points | 
+              22 comments)<br>6. <a href="https://fzakaria.com/2025/02/02/nix-string-interpolation-of-directories-gone-awry.html">Nix: string interpolation of directories gone awry</a> (5 points | 
+              1 comment)<br>7. <a href="https://evanhahn.com/llms-and-technical-innovation/">LLMs: harmful to technical innovation?</a> (37 points | 
+              20 comments)<br>8. <a href="https://timsh.org/tracking-myself-down-through-in-app-ads/">Everyone knows your location: tracking myself down through in-app ads</a> (18 points | 
+              3 comments)<br>9. <a href="http://yosemitesam.ch/3-tools-for-2025/">3 Tools for 2025</a> (45 points | 
+              17 comments)<br>10. <a href="https://rustsec.org/advisories/RUSTSEC-2025-0004">RUSTSEC-2025-0004: openssl: ssl::select_next_proto use after free</a> (3 points | 
+              no comments)<br>11. <a href="https://lewiscampbell.tech/blog/250202.html">Safety in Programming Languages is a Means to an End</a> (13 points | 
+              18 comments)<br>12. <a href="https://blog.davidv.dev/posts/mobile-translator/">Using local translation models on Android</a> (1 points | 
+              no comments)<br>13. <a href="https://blog.danslimmon.com/2025/01/29/incident-sev-scales-are-a-waste-of-time/">Incident SEV scales are a waste of time</a> (1 points | 
+              3 comments)<br>14. <a href="https://elinux.org/Android_Binder">Android Binder</a> (5 points | 
+              2 comments)<br>15. <a href="https://github.com/theHamdiz/it">it - utilities</a> (8 points | 
+              no comments)<br>16. <a href="https://jasonbrownlee.me/blog/posts/hand-crafted-code/">For Sale: Binaries Compiled From Hand-Crafted Artisanal Code</a> (11 points | 
+              17 comments)<br>17. <a href="https://thinkingeek.com/2025/01/31/caveat-with-statically-linked-language-runtimes/">A caveat with statically linked language runtimes</a> (2 points | 
+              no comments)<br>18. <a href="https://lu.is/2025/02/freedoms-for-who-revisited-briefly/">freedoms-for-who, revisited briefly</a> (1 points | 
+              no comments)<br>19. <a href="https://benjamincongdon.me/blog/2025/02/02/How-I-Use-AI-Early-2025/">How I Use AI: Early 2025</a> (3 points | 
+              no comments)<br>20. <a href="https://github.com/faiface/par-lang">par: experimental concurrent language with an interactive playground</a> (7 points | 
+              no comments)<br>21. <a href="https://github.com/golang/go/issues/71076">proposal: sync/v2</a> (18 points | 
+              no comments)<br>22. <a href="https://surfingcomplexity.blog/2025/02/01/youre-missing-your-near-misses/">You’re missing your near misses</a> (15 points | 
+              4 comments)<br>23. <a href="https://soatok.blog/2025/01/31/hell-is-overconfident-developers-writing-encryption-code/">Hell Is Overconfident Developers Writing Encryption Code</a> (64 points | 
+              77 comments)<br>24. <a href="https://simonwillison.net/2025/Jan/24/selfish-open-source/">A selfish personal argument for releasing code as Open Source</a> (1 points | 
+              1 comment)<br>25. <a href="https://www.youtube.com/watch?v=bzUXK5VBbXc">Eat your greens - A philosophy for language design</a> (3 points | 
+              2 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Monday, February 3, 2025 at 11:10 AM UTC</guid></item></channel></rss>
