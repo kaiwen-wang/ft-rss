@@ -1,26 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Wed, 05 Feb 2025 22:14:40 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Wednesday, February 5, 2025 at 10:15 PM UTC]]></title><description><![CDATA[1. <a href="https://explaining.software/archive/the-sudoku-affair/">the sudoku affair</a> (25 points | 
-              4 comments)<br>2. <a href="https://strongly-typed-thoughts.net/blog/zig-2025">Zig; what I think after months of using it</a> (81 points | 
-              39 comments)<br>3. <a href="https://gist.github.com/rtfeldman/77fb430ee57b42f5f2ca973a3992532f">Roc rewrites the compiler in Zig</a> (94 points | 
-              45 comments)<br>4. <a href="https://radfoam.github.io/">Radiant Foam</a> (26 points | 
-              1 comment)<br>5. <a href="https://github.com/atgreen/openldk">A Java JIT Compiler and Runtime in Common Lisp</a> (11 points | 
-              4 comments)<br>6. <a href="https://spritely.institute/">Decentralized Networking Technology</a> (34 points | 
-              7 comments)<br>7. <a href="https://choum.net/panglesd/undo-monad/">Rewriting Slipshow in OCaml: The undo-able monad</a> (19 points | 
-              4 comments)<br>8. <a href="https://socket.dev/blog/malicious-package-exploits-go-module-proxy-caching-for-persistence">Go Supply Chain Attack: Malicious Package Exploits Go Module</a> (8 points | 
-              1 comment)<br>9. <a href="https://github.com/abuseofnotation/comic-web-markup">comic-web-markup: Comic-web is a markup language for describing comics, as well as a rendering engine for this language</a> (3 points | 
-              no comments)<br>10. <a href="https://danielchasehooper.com/posts/code-animated-rick/">Animating Rick and Morty One Pixel at a Time</a> (50 points | 
-              9 comments)<br>11. <a href="https://arstechnica.com/gadgets/2025/02/framework-laptop-expands-beyond-x86-with-its-first-ever-risc-v-based-motherboard/">Framework ships RISC-V board for its 13" laptops along with "boardless" laptop chassis</a> (25 points | 
-              5 comments)<br>12. <a href="https://octothorpes.bearblog.dev/you-can-use-hashtags-on-your-bear-blog-now/">All Bear blogs can use hashtags now via Octothorpes</a> (2 points | 
-              no comments)<br>13. <a href="https://github.com/evolvedbinary/j8cu?tab=readme-ov-file#ring-buffer">Implementation of a RingBuffer in Java with optional FIFO like semantics</a> (2 points | 
-              no comments)<br>14. <a href="https://github.com/zasper-io/zasper">zasper: Fastest and Most Efficient IDE to run Jupyter Notebooks</a> (2 points | 
-              3 comments)<br>15. <a href="https://blog.google/technology/google-deepmind/gemini-model-updates-february-2025/">Gemini 2.0 is now available to everyone</a> (4 points | 
-              no comments)<br>16. <a href="https://v5.chriskrycho.com/notes/big-packages-or-many-dependencies/">Big Packages or Many Dependencies </a> (21 points | 
-              12 comments)<br>17. <a href="https://www.youtube.com/watch?v=rjbEG7COj7o">Collaborative Text Editing with Eg-Walker</a> (3 points | 
-              no comments)<br>18. <a href="https://thenextweb.com/news/serenityos-creator-building-ladybird-browser">The developer of SerenityOS is challenging the browser duopoly</a> (17 points | 
-              14 comments)<br>19. <a href="https://www.inkandswitch.com/ambsheets/">Ambsheets: Spreadsheets for exploring scenarios</a> (20 points | 
-              3 comments)<br>20. <a href="https://www.argmin.net/p/prediction-games">Prediction Games</a> (3 points | 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Wed, 05 Feb 2025 23:14:45 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Wednesday, February 5, 2025 at 11:15 PM UTC]]></title><description><![CDATA[1. <a href="https://explaining.software/archive/the-sudoku-affair/">the sudoku affair</a> (30 points | 
+              4 comments)<br>2. <a href="https://strongly-typed-thoughts.net/blog/zig-2025">Zig; what I think after months of using it</a> (83 points | 
+              40 comments)<br>3. <a href="https://gist.github.com/rtfeldman/77fb430ee57b42f5f2ca973a3992532f">Roc rewrites the compiler in Zig</a> (96 points | 
+              45 comments)<br>4. <a href="https://socket.dev/blog/malicious-package-exploits-go-module-proxy-caching-for-persistence">Go Supply Chain Attack: Malicious Package Exploits Go Module</a> (10 points | 
+              2 comments)<br>5. <a href="https://radfoam.github.io/">Radiant Foam</a> (26 points | 
+              1 comment)<br>6. <a href="https://github.com/atgreen/openldk">A Java JIT Compiler and Runtime in Common Lisp</a> (11 points | 
+              4 comments)<br>7. <a href="https://spritely.institute/">Decentralized Networking Technology</a> (35 points | 
+              7 comments)<br>8. <a href="https://choum.net/panglesd/undo-monad/">Rewriting Slipshow in OCaml: The undo-able monad</a> (19 points | 
+              4 comments)<br>9. <a href="https://github.com/evolvedbinary/j8cu?tab=readme-ov-file#ring-buffer">Implementation of a RingBuffer in Java with optional FIFO like semantics</a> (2 points | 
+              1 comment)<br>10. <a href="https://github.com/abuseofnotation/comic-web-markup">comic-web-markup: Comic-web is a markup language for describing comics, as well as a rendering engine for this language</a> (3 points | 
+              no comments)<br>11. <a href="https://danielchasehooper.com/posts/code-animated-rick/">Animating Rick and Morty One Pixel at a Time</a> (52 points | 
+              9 comments)<br>12. <a href="https://arstechnica.com/gadgets/2025/02/framework-laptop-expands-beyond-x86-with-its-first-ever-risc-v-based-motherboard/">Framework ships RISC-V board for its 13" laptops along with "boardless" laptop chassis</a> (28 points | 
+              5 comments)<br>13. <a href="https://github.com/zasper-io/zasper">zasper: Fastest and Most Efficient IDE to run Jupyter Notebooks</a> (3 points | 
+              3 comments)<br>14. <a href="https://octothorpes.bearblog.dev/you-can-use-hashtags-on-your-bear-blog-now/">All Bear blogs can use hashtags now via Octothorpes</a> (2 points | 
+              no comments)<br>15. <a href="https://blog.google/technology/google-deepmind/gemini-model-updates-february-2025/">Gemini 2.0 is now available to everyone</a> (4 points | 
+              1 comment)<br>16. <a href="https://v5.chriskrycho.com/notes/big-packages-or-many-dependencies/">Big Packages or Many Dependencies </a> (21 points | 
+              12 comments)<br>17. <a href="https://www.inkandswitch.com/ambsheets/">Ambsheets: Spreadsheets for exploring scenarios</a> (23 points | 
+              3 comments)<br>18. <a href="https://thenextweb.com/news/serenityos-creator-building-ladybird-browser">The developer of SerenityOS is challenging the browser duopoly</a> (18 points | 
+              14 comments)<br>19. <a href="https://www.youtube.com/watch?v=rjbEG7COj7o">Collaborative Text Editing with Eg-Walker</a> (3 points | 
+              no comments)<br>20. <a href="https://www.argmin.net/p/prediction-games">Prediction Games</a> (4 points | 
               no comments)<br>21. <a href="https://youtu.be/6b3qTeIl2Ak">Counter-Strike analytics with Bevy and React</a> (1 points | 
               no comments)<br>22. <a href="https://blog.reverberate.org/2025/02/03/no-panic-rust.html">No-Panic Rust: A Nice Technique for Systems Programming</a> (28 points | 
               51 comments)<br>23. <a href="https://gotopia.tech/articles/233/zig-programming-language-and-linters">Zig, Elm, and linters (2022)</a> (5 points | 
               no comments)<br>24. <a href="https://lucumr.pocoo.org/2025/2/4/fat-rand/">Fat Rand: How Many Lines Do You Need To Generate A Random Number?</a> (18 points | 
               8 comments)<br>25. <a href="https://brooker.co.za/blog/2025/02/04/versioning.html">Versioning versus Coordination</a> (1 points | 
-              no comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Wednesday, February 5, 2025 at 10:15 PM UTC</guid></item></channel></rss>
+              no comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Wednesday, February 5, 2025 at 11:15 PM UTC</guid></item></channel></rss>
