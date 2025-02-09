@@ -1,26 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Sun, 09 Feb 2025 05:14:55 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Sunday, February 9, 2025 at 5:15 AM UTC]]></title><description><![CDATA[1. <a href="https://herecomesthemoon.net/2025/02/carbon-is-not-a-language/">Carbon is not a programming language (sort of)</a> (26 points | 
-              9 comments)<br>2. <a href="https://ziglang.org/devlog/2025/#2025-02-07">No-Libc Zig Now Outperforms Glibc Zig</a> (71 points | 
-              43 comments)<br>3. <a href="https://b.tuxes.uk/three-years-of-ephemeral-nixos.html">Three Years of Ephemeral NixOS: My Experience Resetting Root on Every Boot</a> (25 points | 
-              9 comments)<br>4. <a href="https://eieio.games/blog/be-skeptical-of-all-code-not-just-the-funny-stuff/">Be Skeptical of All Code - Not Just the Funny Stuff</a> (15 points | 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Sun, 09 Feb 2025 06:19:48 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Sunday, February 9, 2025 at 6:20 AM UTC]]></title><description><![CDATA[1. <a href="https://herecomesthemoon.net/2025/02/carbon-is-not-a-language/">Carbon is not a programming language (sort of)</a> (28 points | 
+              12 comments)<br>2. <a href="https://ziglang.org/devlog/2025/#2025-02-07">No-Libc Zig Now Outperforms Glibc Zig</a> (71 points | 
+              43 comments)<br>3. <a href="https://b.tuxes.uk/three-years-of-ephemeral-nixos.html">Three Years of Ephemeral NixOS: My Experience Resetting Root on Every Boot</a> (27 points | 
+              9 comments)<br>4. <a href="https://eieio.games/blog/be-skeptical-of-all-code-not-just-the-funny-stuff/">Be Skeptical of All Code - Not Just the Funny Stuff</a> (16 points | 
               5 comments)<br>5. <a href="https://t-shaped.nl/posts/synctrain-a-rethought-ios-client-for-syncthing">Synctrain: a rethought iOS client for Syncthing</a> (15 points | 
               11 comments)<br>6. <a href="https://rxi.github.io/a_simple_serialization_system.html">A Simple Serialization System</a> (12 points | 
-              no comments)<br>7. <a href="https://gleam.run/news/gleam-gets-rename-variable/">Gleam v1.8.0 released</a> (70 points | 
-              20 comments)<br>8. <a href="https://www.youtube.com/watch?v=NUl6QikjR04">AI exploits a gamebreaking bug in Trackmania</a> (7 points | 
-              no comments)<br>9. <a href="https://blog.danielh.cc/blog/puzzle">From hours to 360ms: over-engineering a puzzle solution</a> (4 points | 
-              1 comment)<br>10. <a href="https://www.kxxt.dev/blog/fully-dynamically-linked-rust-binary/">Fully Dynamically Linked Rust Binary: An Experiment</a> (2 points | 
-              no comments)<br>11. <a href="https://antirez.com/news/145">We are destroying software</a> (23 points | 
-              20 comments)<br>12. <a href="https://bsky.bad-example.com/consuming-the-firehose-correctly/">Consuming the jetstream atproto firehose correctly</a> (2 points | 
-              no comments)<br>13. <a href="https://arstechnica.com/tech-policy/2025/01/ai-haters-build-tarpits-to-trap-and-trick-ai-scrapers-that-ignore-robots-txt/">AI haters build tarpits to trap and trick AI scrapers that ignore robots.txt</a> (24 points | 
-              12 comments)<br>14. <a href="https://chrisdone.com/posts/less-than-estimation/">Less-Than Estimation</a> (1 points | 
-              no comments)<br>15. <a href="https://valentin.gosu.se/blog/2025/02/getaddrinfo-sucks-everything-else-is-much-worse">getaddrinfo sucks. everything else is much worse</a> (31 points | 
-              15 comments)<br>16. <a href="/s/dmcjvx/technology_predictions_what_s_next">Technology Predictions, What's Next?</a> (1 points | 
-              no comments)<br>17. <a href="https://docs.python.org/3.14/whatsnew/3.14.html#whatsnew314-tail-call">CPython tail-call interpreter merged for Python 3.14, a 10% speedup in benchmarks</a> (45 points | 
-              18 comments)<br>18. <a href="https://github.com/trycua/lume">Lume, an MIT-licensed CLI to virtualize macOS environments</a> (10 points | 
-              1 comment)<br>19. <a href="https://www.docker.com/blog/ga-launch-docker-bake/">Docker Bake is Now Generally Available</a> (13 points | 
-              3 comments)<br>20. <a href="https://youtu.be/RYHYiXMJdZI">The case for sans-io</a> (4 points | 
-              8 comments)<br>21. <a href="https://github.com/secureblue/Trivalent">Trivalent: A hardened chromium for desktop Linux inspired by Vanadium</a> (3 points | 
-              1 comment)<br>22. <a href="https://video.fosdem.org/2025/h1302/fosdem-2025-6479-a-tale-of-several-distros-joining-forces-for-a-common-goal-reproducible-builds.av1.webm">A tale of several distros joining forces for a common goal: reproducible builds</a> (4 points | 
-              no comments)<br>23. <a href="/s/np9f8i/fun_friday_what_s_weirdest_automation_you">Fun Friday: what's the weirdest automation you've ever made?</a> (16 points | 
-              42 comments)<br>24. <a href="https://jordankaye.dev/posts/refined/">Refined: simple refinement types for Rust</a> (13 points | 
-              10 comments)<br>25. <a href="https://idiallo.com/blog/listen-mp3-is-free">You Didn't Notice MP3 Is Now Free</a> (55 points | 
-              45 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Sunday, February 9, 2025 at 5:15 AM UTC</guid></item></channel></rss>
+              no comments)<br>7. <a href="https://blog.danielh.cc/blog/puzzle">From hours to 360ms: over-engineering a puzzle solution</a> (4 points | 
+              2 comments)<br>8. <a href="https://gleam.run/news/gleam-gets-rename-variable/">Gleam v1.8.0 released</a> (70 points | 
+              20 comments)<br>9. <a href="https://www.youtube.com/watch?v=NUl6QikjR04">AI exploits a gamebreaking bug in Trackmania</a> (7 points | 
+              no comments)<br>10. <a href="https://bsky.bad-example.com/consuming-the-firehose-correctly/">Consuming the jetstream atproto firehose correctly</a> (2 points | 
+              1 comment)<br>11. <a href="https://www.kxxt.dev/blog/fully-dynamically-linked-rust-binary/">Fully Dynamically Linked Rust Binary: An Experiment</a> (2 points | 
+              no comments)<br>12. <a href="https://antirez.com/news/145">We are destroying software</a> (24 points | 
+              20 comments)<br>13. <a href="/s/dmcjvx/technology_predictions_what_s_next">Technology Predictions, What's Next?</a> (2 points | 
+              no comments)<br>14. <a href="https://ariadne.space/2025/02/08/c-sboms-and-how-pkgconf.html">C SBOMs, and how pkgconf can solve this problem</a> (1 points | 
+              no comments)<br>15. <a href="https://arstechnica.com/tech-policy/2025/01/ai-haters-build-tarpits-to-trap-and-trick-ai-scrapers-that-ignore-robots-txt/">AI haters build tarpits to trap and trick AI scrapers that ignore robots.txt</a> (24 points | 
+              12 comments)<br>16. <a href="https://chrisdone.com/posts/less-than-estimation/">Less-Than Estimation</a> (1 points | 
+              no comments)<br>17. <a href="https://valentin.gosu.se/blog/2025/02/getaddrinfo-sucks-everything-else-is-much-worse">getaddrinfo sucks. everything else is much worse</a> (31 points | 
+              15 comments)<br>18. <a href="https://docs.python.org/3.14/whatsnew/3.14.html#whatsnew314-tail-call">CPython tail-call interpreter merged for Python 3.14, a 10% speedup in benchmarks</a> (45 points | 
+              18 comments)<br>19. <a href="https://github.com/trycua/lume">Lume, an MIT-licensed CLI to virtualize macOS environments</a> (10 points | 
+              1 comment)<br>20. <a href="https://www.docker.com/blog/ga-launch-docker-bake/">Docker Bake is Now Generally Available</a> (13 points | 
+              3 comments)<br>21. <a href="https://youtu.be/RYHYiXMJdZI">The case for sans-io</a> (4 points | 
+              8 comments)<br>22. <a href="https://github.com/secureblue/Trivalent">Trivalent: A hardened chromium for desktop Linux inspired by Vanadium</a> (3 points | 
+              1 comment)<br>23. <a href="https://video.fosdem.org/2025/h1302/fosdem-2025-6479-a-tale-of-several-distros-joining-forces-for-a-common-goal-reproducible-builds.av1.webm">A tale of several distros joining forces for a common goal: reproducible builds</a> (4 points | 
+              no comments)<br>24. <a href="/s/np9f8i/fun_friday_what_s_weirdest_automation_you">Fun Friday: what's the weirdest automation you've ever made?</a> (16 points | 
+              42 comments)<br>25. <a href="https://jordankaye.dev/posts/refined/">Refined: simple refinement types for Rust</a> (13 points | 
+              10 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Sunday, February 9, 2025 at 6:20 AM UTC</guid></item></channel></rss>
