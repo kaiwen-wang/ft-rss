@@ -1,26 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Mon, 10 Feb 2025 13:22:12 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Monday, February 10, 2025 at 1:20 PM UTC]]></title><description><![CDATA[1. <a href="https://chrisdone.com/posts/naming-is-hard/">Naming sum types is often hard</a> (8 points | 
-              8 comments)<br>2. <a href="https://ewintr.nl/posts/2025/building-a-personal-private-ai-computer-on-a-budget/">Building a personal, private AI computer on a budget</a> (34 points | 
-              26 comments)<br>3. <a href="https://github.com/dpc/rostra">Rostra - a p2p (or rather f2f) social network</a> (13 points | 
-              1 comment)<br>4. <a href="https://blog.denv.it/posts/pmos-k3s-cluster/">postmarketOS-powered Kubernetes cluster</a> (14 points | 
-              4 comments)<br>5. <a href="https://ajxs.me/blog/How_Does_Adas_Memory_Safety_Compare_Against_Rust.html">How Does Ada's Memory Safety Compare Against Rust?</a> (12 points | 
-              1 comment)<br>6. <a href="https://wingolog.org/archives/2025/02/09/baffled-by-generational-garbage-collection">baffled by generational garbage collection</a> (39 points | 
-              17 comments)<br>7. <a href="https://www.phoronix.com/news/Linux-Patches-AC-Plug-s2idle">Linux Patches Adjust AC Plug/Unplug Behavior During s2idle To Match Windows</a> (5 points | 
-              4 comments)<br>8. <a href="https://ezrizhu.com/blog/obsidian-dir-enum">Obsidian Publish Directory Enumeration</a> (4 points | 
-              no comments)<br>9. <a href="https://arstechnica.com/tech-policy/2025/02/uk-demands-apple-break-encryption-to-allow-govt-spying-worldwide-reports-say/">UK demands Apple break encryption to allow gov’t spying worldwide, reports say</a> (13 points | 
-              16 comments)<br>10. <a href="/s/lupmsm/what_are_you_doing_this_week">What are you doing this week?</a> (2 points | 
-              2 comments)<br>11. <a href="https://fosdem.org/2025/schedule/event/fosdem-2025-5084-how-we-are-defending-software-freedom-against-apple-at-the-eu-s-highest-court/">How we are defending Software Freedom against Apple at the EU's highest court</a> (38 points | 
-              27 comments)<br>12. <a href="https://hexdocs.pm/birdie/">Birdie - Snapshot Testing</a> (9 points | 
-              5 comments)<br>13. <a href="https://misc.l3m.in/txt/raw_txt.txt">I blog with raw txt</a> (1 points | 
-              no comments)<br>14. <a href="https://2ality.com/2025/02/satisfies-operator.html">TypeScript: the `satisfies` operator</a> (15 points | 
-              no comments)<br>15. <a href="https://github.com/apenwarr/blip">blip: A tool for seeing your Internet latency</a> (16 points | 
-              2 comments)<br>16. <a href="https://iquilezles.org/articles/gpuconditionals/">Don't "optimize" conditional moves in shaders with mix()+step()</a> (25 points | 
-              5 comments)<br>17. <a href="https://computer.rip/2025-02-02-residential-networking-over-telephone.html">residential networking over telephone</a> (2 points | 
-              no comments)<br>18. <a href="https://brendangregg.com/blog/2014-05-11/strace-wow-much-syscall.html">strace can slow traced processes 400x worst case</a> (9 points | 
-              no comments)<br>19. <a href="https://www.egdaemon.com/posts/2025.01.30.introducing.egd/index.html">EG Public Alpha Announcement: Developer experience focused ci/cd</a> (2 points | 
-              3 comments)<br>20. <a href="https://www.youtube.com/watch?v=Fbiu-0mMT0w">Pragmatic ZIO</a> (8 points | 
-              1 comment)<br>21. <a href="https://rxdb.info/articles/firestore-alternative.html">RxDB - The Firestore Alternative That Can Sync with Your Own Backend</a> (4 points | 
-              no comments)<br>22. <a href="https://www.harmony-developers.com/p/deep-blue-insight-is-the-most-unique">HarmonyOS: "Deep Blue Insight" is the most unique new security ecology in 2024</a> (1 points | 
-              no comments)<br>23. <a href="https://irisc-research-syndicate.github.io/2025/02/06/initial-firmware-analysis/">ConnectX-5 Firmware tooling and initial analysis</a> (1 points | 
-              no comments)<br>24. <a href="https://probablydance.com/2025/02/08/why-does-integer-addition-approximate-float-multiplication/">Why Does Integer Addition Approximate Float Multiplication?</a> (25 points | 
-              2 comments)<br>25. <a href="https://github.com/mmomtchev/sqlite-wasm-http/blob/main/README.md">sqlite-wasm-http</a> (1 points | 
-              no comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Monday, February 10, 2025 at 1:20 PM UTC</guid></item></channel></rss>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Mon, 10 Feb 2025 14:15:08 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Monday, February 10, 2025 at 2:15 PM UTC]]></title><description><![CDATA[1. <a href="https://chrisdone.com/posts/naming-is-hard/">Naming sum types is often hard</a> (16 points | 
+              12 comments)<br>2. <a href="https://misc.l3m.in/txt/raw_txt.txt">I blog with raw txt</a> (6 points | 
+              1 comment)<br>3. <a href="https://ajxs.me/blog/How_Does_Adas_Memory_Safety_Compare_Against_Rust.html">How Does Ada's Memory Safety Compare Against Rust?</a> (18 points | 
+              3 comments)<br>4. <a href="https://ewintr.nl/posts/2025/building-a-personal-private-ai-computer-on-a-budget/">Building a personal, private AI computer on a budget</a> (34 points | 
+              26 comments)<br>5. <a href="https://github.com/dpc/rostra">Rostra - a p2p (or rather f2f) social network</a> (15 points | 
+              1 comment)<br>6. <a href="https://blog.denv.it/posts/pmos-k3s-cluster/">postmarketOS-powered Kubernetes cluster</a> (15 points | 
+              4 comments)<br>7. <a href="https://wingolog.org/archives/2025/02/09/baffled-by-generational-garbage-collection">baffled by generational garbage collection</a> (41 points | 
+              17 comments)<br>8. <a href="https://www.phoronix.com/news/Linux-Patches-AC-Plug-s2idle">Linux Patches Adjust AC Plug/Unplug Behavior During s2idle To Match Windows</a> (5 points | 
+              7 comments)<br>9. <a href="https://arstechnica.com/tech-policy/2025/02/uk-demands-apple-break-encryption-to-allow-govt-spying-worldwide-reports-say/">UK demands Apple break encryption to allow gov’t spying worldwide, reports say</a> (15 points | 
+              17 comments)<br>10. <a href="https://ezrizhu.com/blog/obsidian-dir-enum">Obsidian Publish Directory Enumeration</a> (4 points | 
+              no comments)<br>11. <a href="/s/lupmsm/what_are_you_doing_this_week">What are you doing this week?</a> (2 points | 
+              4 comments)<br>12. <a href="https://computer.rip/2025-02-02-residential-networking-over-telephone.html">residential networking over telephone</a> (5 points | 
+              no comments)<br>13. <a href="https://hexdocs.pm/birdie/">Birdie - Snapshot Testing</a> (10 points | 
+              5 comments)<br>14. <a href="https://fosdem.org/2025/schedule/event/fosdem-2025-5084-how-we-are-defending-software-freedom-against-apple-at-the-eu-s-highest-court/">How we are defending Software Freedom against Apple at the EU's highest court</a> (38 points | 
+              27 comments)<br>15. <a href="https://www.harmony-developers.com/p/deep-blue-insight-is-the-most-unique">HarmonyOS: "Deep Blue Insight" is the most unique new security ecology in 2024</a> (3 points | 
+              no comments)<br>16. <a href="https://github.com/apenwarr/blip">blip: A tool for seeing your Internet latency</a> (17 points | 
+              5 comments)<br>17. <a href="https://2ality.com/2025/02/satisfies-operator.html">TypeScript: the `satisfies` operator</a> (15 points | 
+              no comments)<br>18. <a href="https://www.youtube.com/watch?v=EzjWBmhO_1E">Feature Demo of Surface-Stable Fractal Dithering</a> (2 points | 
+              no comments)<br>19. <a href="https://www.msoos.org/2025/02/computing-tricky-probabilities/">Computing Tricky Probabilities</a> (2 points | 
+              no comments)<br>20. <a href="https://iquilezles.org/articles/gpuconditionals/">Don't "optimize" conditional moves in shaders with mix()+step()</a> (25 points | 
+              5 comments)<br>21. <a href="https://github.com/mmomtchev/sqlite-wasm-http/blob/main/README.md">sqlite-wasm-http</a> (2 points | 
+              no comments)<br>22. <a href="https://brendangregg.com/blog/2014-05-11/strace-wow-much-syscall.html">strace can slow traced processes 400x worst case</a> (11 points | 
+              no comments)<br>23. <a href="https://xpqz.github.io/kbook/Introduction.html">What about k?</a> (1 points | 
+              no comments)<br>24. <a href="https://blog.cortex.im/p/cortex-stand-alone-complex">Stand Alone Complex: (AI) Assistants should be individuals, not puppets</a> (1 points | 
+              no comments)<br>25. <a href="https://www.egdaemon.com/posts/2025.01.30.introducing.egd/index.html">EG Public Alpha Announcement: Developer experience focused ci/cd</a> (2 points | 
+              3 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Monday, February 10, 2025 at 2:15 PM UTC</guid></item></channel></rss>
