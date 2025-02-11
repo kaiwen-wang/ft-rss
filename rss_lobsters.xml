@@ -1,26 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Tue, 11 Feb 2025 04:18:10 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Tuesday, February 11, 2025 at 4:20 AM UTC]]></title><description><![CDATA[1. <a href="https://andrews.substack.com/p/zeroperl-sandboxed-perl-with-webassembly">Sandboxing Perl with WebAssembly</a> (24 points | 
-              11 comments)<br>2. <a href="https://atthis.link/blog/2025/58671.html">You Should Use /tmp/ More</a> (18 points | 
-              15 comments)<br>3. <a href="https://misc.l3m.in/txt/raw_txt.txt">I blog with raw txt</a> (22 points | 
-              51 comments)<br>4. <a href="http://jackkelly.name/blog/archives/2025/02/06/how_copyover_mud_servers_worked/">How Copyover MUD Servers Worked</a> (8 points | 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Tue, 11 Feb 2025 05:14:57 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Tuesday, February 11, 2025 at 5:15 AM UTC]]></title><description><![CDATA[1. <a href="https://andrews.substack.com/p/zeroperl-sandboxed-perl-with-webassembly">Sandboxing Perl with WebAssembly</a> (25 points | 
+              11 comments)<br>2. <a href="https://atthis.link/blog/2025/58671.html">You Should Use /tmp/ More</a> (20 points | 
+              19 comments)<br>3. <a href="https://misc.l3m.in/txt/raw_txt.txt">I blog with raw txt</a> (22 points | 
+              51 comments)<br>4. <a href="http://jackkelly.name/blog/archives/2025/02/06/how_copyover_mud_servers_worked/">How Copyover MUD Servers Worked</a> (9 points | 
               no comments)<br>5. <a href="https://chrisdone.com/posts/naming-is-hard/">Naming sum types is often hard</a> (27 points | 
-              34 comments)<br>6. <a href="https://isocpp.org/files/papers/P3620R0.pdf">Concerns with the proposed addition of fibers to C++ 26</a> (17 points | 
-              7 comments)<br>7. <a href="https://miraheze.org">Free Wiki Hosting, No Ads</a> (8 points | 
-              10 comments)<br>8. <a href="https://xpqz.github.io/kbook/Introduction.html">What about k?</a> (20 points | 
-              5 comments)<br>9. <a href="https://ajxs.me/blog/How_Does_Adas_Memory_Safety_Compare_Against_Rust.html">How Does Ada's Memory Safety Compare Against Rust?</a> (38 points | 
-              4 comments)<br>10. <a href="https://www.quantamagazine.org/undergraduate-upends-a-40-year-old-data-science-conjecture-20250210/">Undergraduate Invents Faster Hash Table</a> (8 points | 
-              2 comments)<br>11. <a href="https://github.com/pubky/pkarr">pkarr: Public Key Addressable Resource Records (sovereign TLDs)</a> (14 points | 
-              5 comments)<br>12. <a href="/s/lupmsm/what_are_you_doing_this_week">What are you doing this week?</a> (12 points | 
-              17 comments)<br>13. <a href="https://www.youtube.com/watch?v=EzjWBmhO_1E">Feature Demo of Surface-Stable Fractal Dithering</a> (20 points | 
+              35 comments)<br>6. <a href="https://miraheze.org">Free Wiki Hosting, No Ads</a> (9 points | 
+              11 comments)<br>7. <a href="https://www.quantamagazine.org/undergraduate-upends-a-40-year-old-data-science-conjecture-20250210/">Undergraduate Invents Faster Hash Table</a> (11 points | 
+              3 comments)<br>8. <a href="https://isocpp.org/files/papers/P3620R0.pdf">Concerns with the proposed addition of fibers to C++ 26</a> (18 points | 
+              7 comments)<br>9. <a href="https://xpqz.github.io/kbook/Introduction.html">What about k?</a> (21 points | 
+              5 comments)<br>10. <a href="https://github.com/pubky/pkarr">pkarr: Public Key Addressable Resource Records (sovereign TLDs)</a> (15 points | 
+              7 comments)<br>11. <a href="https://ajxs.me/blog/How_Does_Adas_Memory_Safety_Compare_Against_Rust.html">How Does Ada's Memory Safety Compare Against Rust?</a> (40 points | 
+              5 comments)<br>12. <a href="/s/lupmsm/what_are_you_doing_this_week">What are you doing this week?</a> (13 points | 
+              18 comments)<br>13. <a href="https://www.youtube.com/watch?v=EzjWBmhO_1E">Feature Demo of Surface-Stable Fractal Dithering</a> (20 points | 
               2 comments)<br>14. <a href="https://jvns.ca/blog/2025/02/05/some-terminal-frustrations/">Some terminal frustrations</a> (6 points | 
               1 comment)<br>15. <a href="https://www.npmjs.com/package/anansi-tags">Anansi-tags (now in NodeJS!)</a> (2 points | 
-              1 comment)<br>16. <a href="https://github.com/dpc/rostra">Rostra - a p2p (or rather f2f) social network</a> (23 points | 
-              7 comments)<br>17. <a href="https://ph3at.github.io/posts/X-Macros/">The Unreasonable Effectiveness of X Macros</a> (6 points | 
-              2 comments)<br>18. <a href="https://www.phoronix.com/news/Linux-Patches-AC-Plug-s2idle">Linux Patches Adjust AC Plug/Unplug Behavior During s2idle To Match Windows</a> (10 points | 
+              1 comment)<br>16. <a href="https://ph3at.github.io/posts/X-Macros/">The Unreasonable Effectiveness of X Macros</a> (7 points | 
+              2 comments)<br>17. <a href="https://github.com/dpc/rostra">Rostra - a p2p (or rather f2f) social network</a> (23 points | 
+              7 comments)<br>18. <a href="https://www.phoronix.com/news/Linux-Patches-AC-Plug-s2idle">Linux Patches Adjust AC Plug/Unplug Behavior During s2idle To Match Windows</a> (10 points | 
               11 comments)<br>19. <a href="https://arstechnica.com/tech-policy/2025/02/uk-demands-apple-break-encryption-to-allow-govt-spying-worldwide-reports-say/">UK demands Apple break encryption to allow gov’t spying worldwide, reports say</a> (29 points | 
-              19 comments)<br>20. <a href="https://yucan-ui.com/">Yucan UI Engine</a> (8 points | 
+              20 comments)<br>20. <a href="https://yucan-ui.com/">Yucan UI Engine</a> (8 points | 
               2 comments)<br>21. <a href="https://ciao-lang.org/">The Ciao Prolog System (Prolog implementation targeting WASM)</a> (4 points | 
               no comments)<br>22. <a href="https://ewintr.nl/posts/2025/building-a-personal-private-ai-computer-on-a-budget/">Building a personal, private AI computer on a budget</a> (37 points | 
-              32 comments)<br>23. <a href="https://computer.rip/2025-02-02-residential-networking-over-telephone.html">residential networking over telephone</a> (11 points | 
+              32 comments)<br>23. <a href="https://computer.rip/2025-02-02-residential-networking-over-telephone.html">residential networking over telephone</a> (12 points | 
               2 comments)<br>24. <a href="https://www.hlsl.co.uk/blog/2020/1/29/ieee754-is-not-followed">Elementary Functions and NOT Following the IEEE 754 Floating-Point Standard (2020)</a> (3 points | 
-              no comments)<br>25. <a href="https://blog.denv.it/posts/pmos-k3s-cluster/">postmarketOS-powered Kubernetes cluster</a> (15 points | 
-              4 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Tuesday, February 11, 2025 at 4:20 AM UTC</guid></item></channel></rss>
+              no comments)<br>25. <a href="https://archive.org/details/plan9designintro">Introduction to Operating System Abstractions using Plan 9</a> (1 points | 
+              no comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Tuesday, February 11, 2025 at 5:15 AM UTC</guid></item></channel></rss>
