@@ -1,26 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Thu, 13 Feb 2025 09:16:31 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Thursday, February 13, 2025 at 9:15 AM UTC]]></title><description><![CDATA[1. <a href="https://railsatscale.com/2025-02-12-tiny-jits-for-a-faster-ffi/">Tiny JITs for a Faster FFI</a> (18 points | 
-              3 comments)<br>2. <a href="https://flak.tedunangst.com/post/you-dont-link-all-of-libc">you don't link all of libc</a> (28 points | 
-              21 comments)<br>3. <a href="https://buttondown.com/hillelwayne/archive/are-efficiency-and-horizontal-scalability-at-odds/">Are Efficiency and Horizontal Scalability at odds?</a> (13 points | 
-              9 comments)<br>4. <a href="https://paulbutler.org/2025/smuggling-arbitrary-data-through-an-emoji/">Smuggling arbitrary data through an emoji</a> (35 points | 
-              6 comments)<br>5. <a href="https://interfacecraft.online/posts/blog/2025/how-i-automated-my-computer-life-with-macos-folder-actions/">How I Automated My Computer Life With macOS Folder Actions</a> (22 points | 
-              4 comments)<br>6. <a href="https://ki-editor.github.io/ki-editor/docs/normal-mode/space-menu#reveal">Ki Editor now supports Reveal</a> (8 points | 
-              1 comment)<br>7. <a href="https://alok.github.io/2024/09/28/discontinuous-derivative/">Derivative AT a Discontinuity</a> (12 points | 
-              1 comment)<br>8. <a href="https://blog.sulami.xyz/posts/llm-interviews/">LLMs Do Not Break Interviews</a> (2 points | 
-              no comments)<br>9. <a href="https://github.com/ouch-org/ouch">ouch: Painless compression and decompression in the terminal</a> (23 points | 
-              12 comments)<br>10. <a href="https://pjg1.site/linux-internet-from-scratch">How does a Linux machine connect to the internet, really?</a> (16 points | 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Thu, 13 Feb 2025 10:16:38 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Thursday, February 13, 2025 at 10:15 AM UTC]]></title><description><![CDATA[1. <a href="https://flak.tedunangst.com/post/you-dont-link-all-of-libc">you don't link all of libc</a> (30 points | 
+              23 comments)<br>2. <a href="https://railsatscale.com/2025-02-12-tiny-jits-for-a-faster-ffi/">Tiny JITs for a Faster FFI</a> (18 points | 
+              3 comments)<br>3. <a href="https://blog.sulami.xyz/posts/llm-interviews/">LLMs Do Not Break Interviews</a> (3 points | 
+              3 comments)<br>4. <a href="https://buttondown.com/hillelwayne/archive/are-efficiency-and-horizontal-scalability-at-odds/">Are Efficiency and Horizontal Scalability at odds?</a> (13 points | 
+              9 comments)<br>5. <a href="https://paulbutler.org/2025/smuggling-arbitrary-data-through-an-emoji/">Smuggling arbitrary data through an emoji</a> (35 points | 
+              6 comments)<br>6. <a href="https://interfacecraft.online/posts/blog/2025/how-i-automated-my-computer-life-with-macos-folder-actions/">How I Automated My Computer Life With macOS Folder Actions</a> (23 points | 
+              4 comments)<br>7. <a href="https://ki-editor.github.io/ki-editor/docs/normal-mode/space-menu#reveal">Ki Editor now supports Reveal</a> (9 points | 
+              1 comment)<br>8. <a href="https://alok.github.io/2024/09/28/discontinuous-derivative/">Derivative AT a Discontinuity</a> (12 points | 
+              1 comment)<br>9. <a href="https://github.com/ouch-org/ouch">ouch: Painless compression and decompression in the terminal</a> (24 points | 
+              14 comments)<br>10. <a href="https://pjg1.site/linux-internet-from-scratch">How does a Linux machine connect to the internet, really?</a> (16 points | 
               20 comments)<br>11. <a href="https://antirez.com/news/146">Reasoning models are just LLMs</a> (9 points | 
               5 comments)<br>12. <a href="https://dzone.com/articles/private-dns-nameserver">Your Network, Your Rules: Take Charge With Own DNS</a> (10 points | 
               no comments)<br>13. <a href="https://skiplabs.io/">Skip: A reactive framework to code declaratively and compute continuously</a> (10 points | 
               6 comments)<br>14. <a href="https://github.com/cosmos72/schemesh">schemesh: A Unix shell and Lisp REPL, fused together</a> (7 points | 
-              3 comments)<br>15. <a href="https://subethasoftware.com/2025/02/12/old-c-dog-new-c-tricks-null-ptr/">Old C dog, new C tricks: NULL != ptr</a> (2 points | 
-              3 comments)<br>16. <a href="https://www.schneier.com/blog/archives/2025/02/delivering-malware-through-abandoned-amazon-s3-buckets.html">Delivering Malware Through Abandoned Amazon S3 Buckets</a> (11 points | 
-              8 comments)<br>17. <a href="https://code.rosaelefanten.org/42links">42links: A bookmarking server, written in Lisp</a> (32 points | 
-              25 comments)<br>18. <a href="https://www.seangoedecke.com/taking-a-position/">Engineers who won’t commit force bad decisions</a> (2 points | 
-              1 comment)<br>19. <a href="https://vermaden.wordpress.com/2025/02/13/ghostbsd-pkg-repository-on-freebsd/">GhostBSD pkg(8) Repository on FreeBSD</a> (2 points | 
-              no comments)<br>20. <a href="https://github.com/arthurchoung/HOTDOG">HOTDOG: X11 Window Manager with Windows 3.1 Hot Dog Stand, Mac Classic and Aqua UI</a> (27 points | 
-              13 comments)<br>21. <a href="https://www.sandordargo.com/blog/2025/02/12/do-you-use-a-debugger">Do you use a debugger?</a> (6 points | 
-              8 comments)<br>22. <a href="https://blog.yoshuawuyts.com/a-survey-of-every-iterator-variant">A survey of every iterator variant</a> (8 points | 
-              7 comments)<br>23. <a href="https://xiph.org/flac/2025/02/11/flac-1-5-0-released.html">FLAC 1.5.0 released</a> (2 points | 
-              no comments)<br>24. <a href="https://fosdem.org/2025/schedule/event/fosdem-2025-6507-rust-for-linux/">Rust for Linux</a> (14 points | 
-              13 comments)<br>25. <a href="https://eev.ee/blog/2016/11/18/iteration-in-one-language-then-all-the-others/">Iteration in one language, then all the others (2016)</a> (9 points | 
-              no comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Thursday, February 13, 2025 at 9:15 AM UTC</guid></item></channel></rss>
+              3 comments)<br>15. <a href="https://jfmengels.net">Multi-files fixes in elm-review</a> (1 points | 
+              no comments)<br>16. <a href="https://www.seangoedecke.com/taking-a-position/">Engineers who won’t commit force bad decisions</a> (3 points | 
+              1 comment)<br>17. <a href="https://subethasoftware.com/2025/02/12/old-c-dog-new-c-tricks-null-ptr/">Old C dog, new C tricks: NULL != ptr</a> (2 points | 
+              4 comments)<br>18. <a href="https://www.schneier.com/blog/archives/2025/02/delivering-malware-through-abandoned-amazon-s3-buckets.html">Delivering Malware Through Abandoned Amazon S3 Buckets</a> (11 points | 
+              8 comments)<br>19. <a href="https://code.rosaelefanten.org/42links">42links: A bookmarking server, written in Lisp</a> (32 points | 
+              25 comments)<br>20. <a href="https://blog.yoshuawuyts.com/a-survey-of-every-iterator-variant">A survey of every iterator variant</a> (9 points | 
+              7 comments)<br>21. <a href="https://vermaden.wordpress.com/2025/02/13/ghostbsd-pkg-repository-on-freebsd/">GhostBSD pkg(8) Repository on FreeBSD</a> (2 points | 
+              no comments)<br>22. <a href="https://github.com/arthurchoung/HOTDOG">HOTDOG: X11 Window Manager with Windows 3.1 Hot Dog Stand, Mac Classic and Aqua UI</a> (27 points | 
+              14 comments)<br>23. <a href="https://www.sandordargo.com/blog/2025/02/12/do-you-use-a-debugger">Do you use a debugger?</a> (6 points | 
+              8 comments)<br>24. <a href="https://xiph.org/flac/2025/02/11/flac-1-5-0-released.html">FLAC 1.5.0 released</a> (2 points | 
+              no comments)<br>25. <a href="https://fosdem.org/2025/schedule/event/fosdem-2025-6507-rust-for-linux/">Rust for Linux</a> (14 points | 
+              15 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Thursday, February 13, 2025 at 10:15 AM UTC</guid></item></channel></rss>
