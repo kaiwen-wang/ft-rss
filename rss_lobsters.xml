@@ -1,26 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Mon, 17 Feb 2025 23:14:20 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Monday, February 17, 2025 at 11:15 PM UTC]]></title><description><![CDATA[1. <a href="https://maplant.com/2025-02-17-Why-I'm-Writing-a-Scheme-Implementation-in-2025-(The-Answer-is-Async-Rust).html">Why I'm Writing a Scheme Implementation in 2025 (The Answer is Async Rust)</a> (21 points | 
-              2 comments)<br>2. <a href="https://lwn.net/SubscriberLink/1008721/7c31808d76480012/">14 years of systemd</a> (17 points | 
-              16 comments)<br>3. <a href="https://www.wezm.net/v2/posts/2025/stylus/">Making the Web More Readable With Stylus</a> (38 points | 
-              26 comments)<br>4. <a href="https://ntietz.com/blog/can-i-ethically-use-llms/">Can I ethically use LLMs?</a> (17 points | 
-              2 comments)<br>5. <a href="https://eligrey.com/blog/choosing-a-browser/">Choosing a browser</a> (3 points | 
-              4 comments)<br>6. <a href="https://calbryant.uk/blog/speakers/">Design/build of some elegant, fully parametric speaker cabinets</a> (10 points | 
-              3 comments)<br>7. <a href="https://boyter.org/posts/searchcode-bigger-sqlite-than-you/">searchcode.com’s SQLite database is probably 6 terabytes bigger than yours</a> (12 points | 
-              8 comments)<br>8. <a href="https://github.com/decrazyo/nes86">nes86: x86 emulation on the NES</a> (5 points | 
-              2 comments)<br>9. <a href="https://yosefk.com/blog/cxx-thread-local-storage-performance.html">0+0 > 0: C++ thread-local storage performance</a> (8 points | 
-              8 comments)<br>10. <a href="https://chadnauseam.com/coding/random/calculator-app">How Android's calculator works with real numbers</a> (93 points | 
-              12 comments)<br>11. <a href="https://palette-tester.9elements.com/">Accessible color palette tester</a> (7 points | 
-              1 comment)<br>12. <a href="https://fosdem.org/2025/schedule/event/fosdem-2025-4902-f8-an-8-bit-architecture-designed-for-c-and-memory-efficiency/">f8 - an 8 bit architecture designed for C and memory efficiency</a> (12 points | 
-              3 comments)<br>13. <a href="https://troz.net/post/2025/mac_menu_data/">The Mac Menubar and SwiftUI</a> (5 points | 
-              no comments)<br>14. <a href="/s/yyju3z/when_is_oop_more_useful_modelling">When is OOP a More Useful Modelling Approach than Other Paradigms?</a> (15 points | 
-              37 comments)<br>15. <a href="https://arxiv.org/pdf/1503.09060">A Tutorial Introduction to the Lambda Calculus (2015)</a> (5 points | 
-              3 comments)<br>16. <a href="https://nmn.gl/blog/ai-and-learning">New Junior Developers Can’t Actually Code</a> (1 points | 
-              1 comment)<br>17. <a href="https://jarosz.dev/atomicessay/why-test-first-development-is-so-damn-hard/">Why Test-First Development Is So Damn Hard</a> (4 points | 
-              5 comments)<br>18. <a href="https://fosdem.org/2025/schedule/event/fosdem-2025-4852-how-browsers-really-load-web-pages/">How browsers really load Web pages</a> (3 points | 
-              no comments)<br>19. <a href="https://www.youtube.com/watch?v=sXwDrcd1t-E">This ESP32 antenna array can see WiFi</a> (20 points | 
-              1 comment)<br>20. <a href="https://bryce.co/undebuggable/">Debugging An Undebuggable App</a> (2 points | 
-              no comments)<br>21. <a href="https://www.jpt.sh/posts/third-wave-civic-tech/">Civic Tech's Third Wave</a> (28 points | 
-              6 comments)<br>22. <a href="https://ntietz.com/blog/whats-in-a-ring-buffer/#ring">What's in a ring buffer? And using them in Rust</a> (1 points | 
-              no comments)<br>23. <a href="https://github.com/swiftlang/swift-evolution/blob/main/proposals/0453-vector.md">Swift Evolution Proposal:  InlineArray, a fixed-size array</a> (1 points | 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Tue, 18 Feb 2025 01:12:27 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Tuesday, February 18, 2025 at 1:10 AM UTC]]></title><description><![CDATA[1. <a href="https://maplant.com/2025-02-17-Why-I'm-Writing-a-Scheme-Implementation-in-2025-(The-Answer-is-Async-Rust).html">Why I'm Writing a Scheme Implementation in 2025 (The Answer is Async Rust)</a> (25 points | 
+              5 comments)<br>2. <a href="https://lwn.net/SubscriberLink/1008721/7c31808d76480012/">14 years of systemd</a> (18 points | 
+              19 comments)<br>3. <a href="https://www.wezm.net/v2/posts/2025/stylus/">Making the Web More Readable With Stylus</a> (40 points | 
+              27 comments)<br>4. <a href="https://ntietz.com/blog/can-i-ethically-use-llms/">Can I ethically use LLMs?</a> (17 points | 
+              4 comments)<br>5. <a href="https://github.com/decrazyo/nes86">nes86: x86 emulation on the NES</a> (6 points | 
+              3 comments)<br>6. <a href="https://eligrey.com/blog/choosing-a-browser/">Choosing a browser</a> (3 points | 
+              6 comments)<br>7. <a href="https://boyter.org/posts/searchcode-bigger-sqlite-than-you/">searchcode.com’s SQLite database is probably 6 terabytes bigger than yours</a> (13 points | 
+              8 comments)<br>8. <a href="https://calbryant.uk/blog/speakers/">Design/build of some elegant, fully parametric speaker cabinets</a> (10 points | 
+              3 comments)<br>9. <a href="https://nmn.gl/blog/ai-and-learning">New Junior Developers Can’t Actually Code</a> (4 points | 
+              7 comments)<br>10. <a href="https://yosefk.com/blog/cxx-thread-local-storage-performance.html">0+0 > 0: C++ thread-local storage performance</a> (8 points | 
+              8 comments)<br>11. <a href="https://chadnauseam.com/coding/random/calculator-app">How Android's calculator works with real numbers</a> (94 points | 
+              12 comments)<br>12. <a href="https://fosdem.org/2025/schedule/event/fosdem-2025-4902-f8-an-8-bit-architecture-designed-for-c-and-memory-efficiency/">f8 - an 8 bit architecture designed for C and memory efficiency</a> (12 points | 
+              7 comments)<br>13. <a href="https://palette-tester.9elements.com/">Accessible color palette tester</a> (7 points | 
+              1 comment)<br>14. <a href="https://github.com/swiftlang/swift-evolution/blob/main/proposals/0453-vector.md">Swift Evolution Proposal:  InlineArray, a fixed-size array</a> (3 points | 
+              1 comment)<br>15. <a href="https://troz.net/post/2025/mac_menu_data/">The Mac Menubar and SwiftUI</a> (6 points | 
+              no comments)<br>16. <a href="https://bryce.co/undebuggable/">Debugging An Undebuggable App</a> (4 points | 
+              no comments)<br>17. <a href="/s/yyju3z/when_is_oop_more_useful_modelling">When is OOP a More Useful Modelling Approach than Other Paradigms?</a> (15 points | 
+              39 comments)<br>18. <a href="https://arxiv.org/pdf/1503.09060">A Tutorial Introduction to the Lambda Calculus (2015)</a> (5 points | 
+              3 comments)<br>19. <a href="https://jarosz.dev/atomicessay/why-test-first-development-is-so-damn-hard/">Why Test-First Development Is So Damn Hard</a> (4 points | 
+              5 comments)<br>20. <a href="https://fosdem.org/2025/schedule/event/fosdem-2025-4852-how-browsers-really-load-web-pages/">How browsers really load Web pages</a> (3 points | 
+              no comments)<br>21. <a href="https://www.youtube.com/watch?v=sXwDrcd1t-E">This ESP32 antenna array can see WiFi</a> (20 points | 
+              1 comment)<br>22. <a href="https://www.jpt.sh/posts/third-wave-civic-tech/">Civic Tech's Third Wave</a> (28 points | 
+              6 comments)<br>23. <a href="https://ntietz.com/blog/whats-in-a-ring-buffer/#ring">What's in a ring buffer? And using them in Rust</a> (1 points | 
               no comments)<br>24. <a href="https://bhoot.dev/2025/ux-design-rework-1-i-love-vnsgu/">UX Design Rework #1 - reworking my university hoarding</a> (1 points | 
               3 comments)<br>25. <a href="https://bsky.bad-example.com/can-atproto-scale-down/">Can atproto scale down?</a> (29 points | 
-              13 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Monday, February 17, 2025 at 11:15 PM UTC</guid></item></channel></rss>
+              13 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Tuesday, February 18, 2025 at 1:10 AM UTC</guid></item></channel></rss>
