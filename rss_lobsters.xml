@@ -1,26 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Thu, 20 Feb 2025 20:17:02 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Thursday, February 20, 2025 at 8:15 PM UTC]]></title><description><![CDATA[1. <a href="https://kmaasrud.com/blog/ai-vs-shower.html">AI vs. an extra minute in the shower</a> (18 points | 
-              12 comments)<br>2. <a href="https://blog.rust-lang.org/2025/02/20/Rust-1.85.0.html">Announcing Rust 1.85.0 and Rust 2024</a> (14 points | 
-              2 comments)<br>3. <a href="https://www.phoronix.com/news/Greg-KH-On-New-Rust-Code">Greg Kroah-Hartman Makes A Compelling Case For New Linux Kernel Drivers To Be Written In Rust</a> (123 points | 
-              132 comments)<br>4. <a href="https://blog.apnic.net/2024/10/22/the-ipv6-transition/">The IPv6 transition</a> (15 points | 
-              5 comments)<br>5. <a href="https://sunshowers.io/posts/monads-through-pbt/">Demystifying monads in Rust through property-based testing</a> (20 points | 
-              12 comments)<br>6. <a href="https://typst.app/blog/2025/typst-0.13/">Typst 0.13 is out now: Experimental HTML export, semantic paragraphs, and more</a> (70 points | 
-              16 comments)<br>7. <a href="https://jprx.io/cve-2025-24118/">TRAVERTINE (CVE-2025-24118): Race condition in XNU</a> (9 points | 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Thu, 20 Feb 2025 21:12:57 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Thursday, February 20, 2025 at 9:10 PM UTC]]></title><description><![CDATA[1. <a href="https://kmaasrud.com/blog/ai-vs-shower.html">AI vs. an extra minute in the shower</a> (19 points | 
+              13 comments)<br>2. <a href="https://blog.rust-lang.org/2025/02/20/Rust-1.85.0.html">Announcing Rust 1.85.0 and Rust 2024</a> (21 points | 
+              2 comments)<br>3. <a href="https://www.phoronix.com/news/Greg-KH-On-New-Rust-Code">Greg Kroah-Hartman Makes A Compelling Case For New Linux Kernel Drivers To Be Written In Rust</a> (124 points | 
+              132 comments)<br>4. <a href="https://blog.apnic.net/2024/10/22/the-ipv6-transition/">The IPv6 transition</a> (16 points | 
+              6 comments)<br>5. <a href="https://sunshowers.io/posts/monads-through-pbt/">Demystifying monads in Rust through property-based testing</a> (22 points | 
+              13 comments)<br>6. <a href="https://typst.app/blog/2025/typst-0.13/">Typst 0.13 is out now: Experimental HTML export, semantic paragraphs, and more</a> (73 points | 
+              17 comments)<br>7. <a href="https://jprx.io/cve-2025-24118/">TRAVERTINE (CVE-2025-24118): Race condition in XNU</a> (9 points | 
               2 comments)<br>8. <a href="https://jpcamara.com/2023/04/12/pgbouncer-is-useful.html">PgBouncer is useful, important, and fraught with peril</a> (13 points | 
-              1 comment)<br>9. <a href="/s/2t027q/we_trust_you_have_received_usual_lecture">We trust you have received the usual lecture from the local System Administrator</a> (30 points | 
-              13 comments)<br>10. <a href="https://github.com/lfnoise/sapf">sapf: - a Forth-like language for audio synthesis using lazy lists and APL-like auto-mapping</a> (10 points | 
-              no comments)<br>11. <a href="https://sacckey.dev/posts/implementing-a-game-boy-emulator-in-ruby/">Implementing a Game Boy emulator in Ruby</a> (6 points | 
-              no comments)<br>12. <a href="https://lwn.net/SubscriberLink/1009782/1d1e1918a55396b6/">Meshtastic: decentralized communication with low-power devices</a> (13 points | 
-              no comments)<br>13. <a href="https://www.infoworld.com/article/3820890/a-new-interpreter-in-python-3-14-delivers-a-free-speed-boost.html">A new interpreter in Python 3.14 delivers a free speed boost</a> (5 points | 
-              no comments)<br>14. <a href="https://buttondown.com/hillelwayne/archive/five-kinds-of-nondeterminism/">Five Kinds of Nondeterminism</a> (6 points | 
-              no comments)<br>15. <a href="https://paretosecurity.com/blog/being-a-happy-nixer-on-a-mac">Being a happy Nixer on a Mac</a> (25 points | 
-              23 comments)<br>16. <a href="https://scottaaronson.blog/?p=8669">FAQ on Microsoft’s topological qubit thing</a> (5 points | 
-              no comments)<br>17. <a href="https://www.hackster.io/news/the-raspberry-pi-rp2040-gets-a-surprise-speed-boost-unlocks-an-official-200mhz-mode-d6c9d267de5a">The Raspberry Pi RP2040 Gets a Surprise Speed Boost, Unlocks an Official 200MHz Mode</a> (17 points | 
-              no comments)<br>18. <a href="https://htmx.org/essays/interviews/leonard-richardson/">A Retrospective Interview w/Leonard Richardson (of RMM fame)</a> (2 points | 
-              no comments)<br>19. <a href="https://adi.onl/oral.pdf">What I Saw at the Evolution of Plan 9</a> (12 points | 
-              8 comments)<br>20. <a href="https://lucumr.pocoo.org/2025/2/20/ugly-code/">Ugly Code and Dumb Things</a> (3 points | 
-              no comments)<br>21. <a href="https://jazco.dev/2025/02/19/imperfection/">When Imperfect Systems are Good, Actually: Bluesky’s Lossy Timelines</a> (26 points | 
-              3 comments)<br>22. <a href="https://maxmcd.com/posts/http321/">HTTP3, 2, 1</a> (19 points | 
-              4 comments)<br>23. <a href="https://blog.sylver.dev/build-your-own-sqlite-part-5-evaluating-queries">Build your own SQLite in Rust, Part 5: Evaluating queries</a> (11 points | 
-              no comments)<br>24. <a href="https://blog.reverberate.org/2025/02/10/tail-call-updates.html">A Tail Calling Interpreter For Python (And Other Updates)</a> (1 points | 
-              no comments)<br>25. <a href="https://gitlab.freedesktop.org/wayland/wayland-protocols/-/commit/452e943b4991">Add Wayland color-management protocol</a> (36 points | 
-              9 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Thursday, February 20, 2025 at 8:15 PM UTC</guid></item></channel></rss>
+              1 comment)<br>9. <a href="https://github.com/lfnoise/sapf">sapf: - a Forth-like language for audio synthesis using lazy lists and APL-like auto-mapping</a> (12 points | 
+              no comments)<br>10. <a href="/s/2t027q/we_trust_you_have_received_usual_lecture">We trust you have received the usual lecture from the local System Administrator</a> (30 points | 
+              13 comments)<br>11. <a href="https://sacckey.dev/posts/implementing-a-game-boy-emulator-in-ruby/">Implementing a Game Boy emulator in Ruby</a> (8 points | 
+              no comments)<br>12. <a href="https://scottaaronson.blog/?p=8669">FAQ on Microsoft’s topological qubit thing</a> (8 points | 
+              no comments)<br>13. <a href="https://www.infoworld.com/article/3820890/a-new-interpreter-in-python-3-14-delivers-a-free-speed-boost.html">A new interpreter in Python 3.14 delivers a free speed boost</a> (6 points | 
+              no comments)<br>14. <a href="https://lwn.net/SubscriberLink/1009782/1d1e1918a55396b6/">Meshtastic: decentralized communication with low-power devices</a> (14 points | 
+              no comments)<br>15. <a href="https://buttondown.com/hillelwayne/archive/five-kinds-of-nondeterminism/">Five Kinds of Nondeterminism</a> (7 points | 
+              no comments)<br>16. <a href="https://bpp.sh/">Bash++: Bash with Classes</a> (3 points | 
+              no comments)<br>17. <a href="https://paretosecurity.com/blog/being-a-happy-nixer-on-a-mac">Being a happy Nixer on a Mac</a> (25 points | 
+              23 comments)<br>18. <a href="https://lucumr.pocoo.org/2025/2/20/ugly-code/">Ugly Code and Dumb Things</a> (4 points | 
+              no comments)<br>19. <a href="https://eieio.games/blog/running-pong-in-240-browser-tabs/">Running Pong in 240 Browser Tabs ·</a> (2 points | 
+              no comments)<br>20. <a href="https://ouroboros.rocks/blog/2022/02/12/what-is-wrong-with-the-architecture-of-the-internet/">What is wrong with the architecture of the Internet?</a> (2 points | 
+              1 comment)<br>21. <a href="https://www.hackster.io/news/the-raspberry-pi-rp2040-gets-a-surprise-speed-boost-unlocks-an-official-200mhz-mode-d6c9d267de5a">The Raspberry Pi RP2040 Gets a Surprise Speed Boost, Unlocks an Official 200MHz Mode</a> (17 points | 
+              no comments)<br>22. <a href="https://htmx.org/essays/interviews/leonard-richardson/">A Retrospective Interview w/Leonard Richardson (of RMM fame)</a> (2 points | 
+              no comments)<br>23. <a href="https://adi.onl/oral.pdf">What I Saw at the Evolution of Plan 9</a> (12 points | 
+              8 comments)<br>24. <a href="https://blog.sylver.dev/build-your-own-sqlite-part-5-evaluating-queries">Build your own SQLite in Rust, Part 5: Evaluating queries</a> (12 points | 
+              1 comment)<br>25. <a href="https://jazco.dev/2025/02/19/imperfection/">When Imperfect Systems are Good, Actually: Bluesky’s Lossy Timelines</a> (27 points | 
+              3 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Thursday, February 20, 2025 at 9:10 PM UTC</guid></item></channel></rss>
