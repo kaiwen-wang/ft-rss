@@ -1,26 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Wed, 26 Feb 2025 10:17:22 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Wednesday, February 26, 2025 at 10:15 AM UTC]]></title><description><![CDATA[1. <a href="https://olano.dev/blog/gleam-coming-from-erlang">Gleam, coming from Erlang</a> (47 points | 
-              5 comments)<br>2. <a href="https://porkmail.org/era/unix/award">Useless Use of Cat Award</a> (10 points | 
-              3 comments)<br>3. <a href="https://github.com/Hawzen/hdp">What would happen if we didn't use TCP or UDP?</a> (87 points | 
-              16 comments)<br>4. <a href="https://dl.acm.org/doi/10.1145/3386319">APL since 1978</a> (8 points | 
-              3 comments)<br>5. <a href="https://trifectatech.org/blog/zlib-rs-is-faster-than-c/">zlib-rs is faster than C</a> (23 points | 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Wed, 26 Feb 2025 11:13:38 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Wednesday, February 26, 2025 at 11:15 AM UTC]]></title><description><![CDATA[1. <a href="https://porkmail.org/era/unix/award">Useless Use of Cat Award</a> (11 points | 
+              6 comments)<br>2. <a href="https://olano.dev/blog/gleam-coming-from-erlang">Gleam, coming from Erlang</a> (47 points | 
+              5 comments)<br>3. <a href="https://dl.acm.org/doi/10.1145/3386319">APL since 1978</a> (9 points | 
+              4 comments)<br>4. <a href="https://github.com/Hawzen/hdp">What would happen if we didn't use TCP or UDP?</a> (87 points | 
+              16 comments)<br>5. <a href="https://trifectatech.org/blog/zlib-rs-is-faster-than-c/">zlib-rs is faster than C</a> (25 points | 
               7 comments)<br>6. <a href="https://blog.hboeck.de/archives/909-Mixing-up-Public-and-Private-Keys-in-OpenID-Connect-deployments.html">Mixing up Public and Private Keys in OpenID Connect deployments</a> (33 points | 
-              3 comments)<br>7. <a href="https://www.youtube.com/watch?v=-8k7jTF_JCg">Framework (2nd Gen) Event</a> (13 points | 
-              23 comments)<br>8. <a href="https://www.jmspae.se/write-ups/kebabs-train-stations/">"The closer to the train station, the worse the kebab"</a> (42 points | 
-              5 comments)<br>9. <a href="https://www.contraption.co/rails-versus-nextjs/">Why Ruby on Rails still matters</a> (3 points | 
-              3 comments)<br>10. <a href="https://www.scattered-thoughts.net/writing/other-kinds-of-talks/">Other kinds of talks</a> (42 points | 
-              1 comment)<br>11. <a href="https://lukecyca.com/2025/canadian-vps-review.html">Canadian VPS Review</a> (38 points | 
-              16 comments)<br>12. <a href="https://sockpuppet.org/blog/2025/02/09/fixing-illinois-foia/">I Went To SQL Injection Court</a> (3 points | 
-              no comments)<br>13. <a href="https://rishikeshs.com/blog-version/">Why and How I Version My Blog</a> (6 points | 
-              6 comments)<br>14. <a href="https://www.open-std.org/jtc1/sc22/wg14/www/docs/n3211.pdf">Standard proposal for memory-Safety in C (2024)</a> (3 points | 
-              no comments)<br>15. <a href="https://blog.gitbutler.com/how-git-core-devs-configure-git/">How Core Git Developers Configure Git</a> (86 points | 
-              38 comments)<br>16. <a href="http://jacko.io/smart_pointers.html">Smart Pointers Can't Solve Use-After-Free</a> (31 points | 
+              3 comments)<br>7. <a href="https://www.youtube.com/watch?v=-8k7jTF_JCg">Framework (2nd Gen) Event</a> (14 points | 
+              24 comments)<br>8. <a href="https://www.contraption.co/rails-versus-nextjs/">Why Ruby on Rails still matters</a> (4 points | 
+              3 comments)<br>9. <a href="https://www.jmspae.se/write-ups/kebabs-train-stations/">"The closer to the train station, the worse the kebab"</a> (44 points | 
+              5 comments)<br>10. <a href="https://sockpuppet.org/blog/2025/02/09/fixing-illinois-foia/">I Went To SQL Injection Court</a> (4 points | 
+              no comments)<br>11. <a href="https://www.open-std.org/jtc1/sc22/wg14/www/docs/n3211.pdf">Standard proposal for memory-Safety in C (2024)</a> (3 points | 
+              1 comment)<br>12. <a href="https://www.scattered-thoughts.net/writing/other-kinds-of-talks/">Other kinds of talks</a> (42 points | 
+              1 comment)<br>13. <a href="https://lukecyca.com/2025/canadian-vps-review.html">Canadian VPS Review</a> (39 points | 
+              17 comments)<br>14. <a href="https://rishikeshs.com/blog-version/">Why and How I Version My Blog</a> (7 points | 
+              6 comments)<br>15. <a href="https://blog.gitbutler.com/how-git-core-devs-configure-git/">How Core Git Developers Configure Git</a> (87 points | 
+              38 comments)<br>16. <a href="http://jacko.io/smart_pointers.html">Smart Pointers Can't Solve Use-After-Free</a> (32 points | 
               23 comments)<br>17. <a href="https://wiki.tcl-lang.org/page/Tcl%2FTk+application+binaries+through+Go">Tcl/Tk application binaries through Go</a> (26 points | 
-              4 comments)<br>18. <a href="https://v8.dev/blog/mutable-heap-number">Turbocharging V8 with mutable heap numbers</a> (10 points | 
-              2 comments)<br>19. <a href="https://bertptrs.nl/2025/02/23/rust-edition-2024-annotated.html">Rust edition 2024 annotated</a> (17 points | 
-              no comments)<br>20. <a href="https://terminalbytes.com/reviving-kindle-paperwhite-7th-gen/">Reviving an Old Kindle Paperwhite 7th Gen</a> (15 points | 
-              1 comment)<br>21. <a href="https://github.com/johnousterhout/aposd-vs-clean-code/blob/main/README.md">"A Philosophy of Software Design" vs "Clean Code"</a> (66 points | 
-              36 comments)<br>22. <a href="https://kingcons.io/notes/common-lisp.html">Why Common Lisp</a> (15 points | 
-              1 comment)<br>23. <a href="https://blog.spiraldb.com/zone-maps-or-queries-go-brrr/">Zone maps, or “queries go brrr”</a> (7 points | 
-              no comments)<br>24. <a href="https://bernsteinbear.com/blog/sctp/">Interprocedural Sparse Conditional Type Propagation</a> (1 points | 
-              no comments)<br>25. <a href="https://www.ericdaigle.ca/posts/breaking-into-dozens-of-apartments-in-five-minutes/">Breaking into dozens of apartment buildings in five minutes on my phone</a> (42 points | 
-              5 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Wednesday, February 26, 2025 at 10:15 AM UTC</guid></item></channel></rss>
+              4 comments)<br>18. <a href="https://terminalbytes.com/reviving-kindle-paperwhite-7th-gen/">Reviving an Old Kindle Paperwhite 7th Gen</a> (16 points | 
+              1 comment)<br>19. <a href="https://www.emergent-misalignment.com">Emergent Misalignment</a> (5 points | 
+              1 comment)<br>20. <a href="https://v8.dev/blog/mutable-heap-number">Turbocharging V8 with mutable heap numbers</a> (10 points | 
+              2 comments)<br>21. <a href="https://bertptrs.nl/2025/02/23/rust-edition-2024-annotated.html">Rust edition 2024 annotated</a> (17 points | 
+              no comments)<br>22. <a href="https://kingcons.io/notes/common-lisp.html">Why Common Lisp</a> (16 points | 
+              1 comment)<br>23. <a href="https://github.com/johnousterhout/aposd-vs-clean-code/blob/main/README.md">"A Philosophy of Software Design" vs "Clean Code"</a> (67 points | 
+              36 comments)<br>24. <a href="https://blog.spiraldb.com/zone-maps-or-queries-go-brrr/">Zone maps, or “queries go brrr”</a> (7 points | 
+              no comments)<br>25. <a href="https://bernsteinbear.com/blog/sctp/">Interprocedural Sparse Conditional Type Propagation</a> (1 points | 
+              no comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Wednesday, February 26, 2025 at 11:15 AM UTC</guid></item></channel></rss>
