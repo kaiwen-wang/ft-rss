@@ -1,26 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Thu, 27 Feb 2025 07:15:18 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Thursday, February 27, 2025 at 7:15 AM UTC]]></title><description><![CDATA[1. <a href="https://blog.mozilla.org/en/products/firefox/firefox-news/firefox-terms-of-use/">Firefox adds terms of use</a> (21 points | 
-              27 comments)<br>2. <a href="https://bhoot.dev/2025/cp-dot-copies-everything/">cp -  copying all files of a directory, including hidden ones</a> (24 points | 
-              11 comments)<br>3. <a href="https://frame.work/hr/en/blog/introducing-the-framework-desktop">Introducing the Framework Desktop</a> (24 points | 
-              37 comments)<br>4. <a href="https://www.youtube.com/watch?v=0mCsluv5FXA">TypeScript types can run DOOM</a> (40 points | 
-              6 comments)<br>5. <a href="https://sockpuppet.org/blog/2025/02/09/fixing-illinois-foia/">I Went To SQL Injection Court</a> (56 points | 
-              7 comments)<br>6. <a href="https://www.sminez.dev/socrates-is-a-state-machine/">Socrates is a state machine</a> (8 points | 
-              2 comments)<br>7. <a href="https://blog.golioth.io/the-miserable-state-of-modems-and-mobile-network-operators/">The Miserable State of Cellular Modems and Mobile Network Operators</a> (21 points | 
-              4 comments)<br>8. <a href="https://jcs.org/2025/02/26/imacg4k">iMac G4(K)</a> (8 points | 
-              1 comment)<br>9. <a href="https://blog.kizu.dev/intent-to-experiment-for-longer/">Intent to Experiment for Longer</a> (27 points | 
-              no comments)<br>10. <a href="https://bertrandmeyer.com/2025/02/25/new-preprint-programming-really-is-simple-mathematics/">Programming Really Is Simple Mathematics</a> (17 points | 
-              10 comments)<br>11. <a href="https://saurabhs.org/macos-tips">Assorted macOS Tips & Tricks</a> (2 points | 
-              1 comment)<br>12. <a href="https://go.dev/blog/swisstable">Faster Go maps with Swiss Tables - The Go Programming Language</a> (5 points | 
-              1 comment)<br>13. <a href="https://www.youtube.com/watch?v=rHxAdIFXplI">Hedy: Creating a Programming Language for Everyone</a> (6 points | 
-              7 comments)<br>14. <a href="https://porkmail.org/era/unix/award">Useless Use of Cat Award (2000)</a> (18 points | 
-              22 comments)<br>15. <a href="https://github.com/semaphoreio/semaphore">Semaphore CI/CD platform went Open Source</a> (2 points | 
-              no comments)<br>16. <a href="https://dl.acm.org/doi/10.1145/3386319">APL since 1978</a> (18 points | 
-              7 comments)<br>17. <a href="https://tweag.io/blog/2017-08-24-linear-types-packed-data/">Compact normal forms + linear types  = efficient network communication (2017)</a> (2 points | 
-              no comments)<br>18. <a href="https://freebsd.org/status/report-2024-10-2024-12/">FreeBSD 2024 Q4 Status Report</a> (4 points | 
-              no comments)<br>19. <a href="https://petal.blog/articles/exploiting-rednote.html">TikTok alternative RedNote (Xiaohongshu) fails basic security measures</a> (8 points | 
-              1 comment)<br>20. <a href="http://antocuni.eu/2025/02/26/over-the-clouds-cpython-pyodide-and-spy/">Over the clouds: CPython, Pyodide and SPy</a> (3 points | 
-              2 comments)<br>21. <a href="https://smoores.dev/post/no_such_thing_isomorphic_layout_effect/">There’s no such thing as an isomorphic layout effect</a> (5 points | 
-              no comments)<br>22. <a href="https://www.open-std.org/jtc1/sc22/wg14/www/docs/n3211.pdf">Standard proposal for memory-Safety in C (2024)</a> (12 points | 
-              5 comments)<br>23. <a href="https://security.googleblog.com/2025/02/securing-tomorrows-software-need-for.html">Securing tomorrow's software: the need for memory safety standards</a> (5 points | 
-              1 comment)<br>24. <a href="https://lukasz.langa.pl/f37aa97a-9ea3-4aeb-b6a0-9daeea5a7505/">A peek into a possible future of Python in the browser</a> (12 points | 
-              1 comment)<br>25. <a href="https://olano.dev/blog/gleam-coming-from-erlang">Gleam, coming from Erlang</a> (57 points | 
-              8 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Thursday, February 27, 2025 at 7:15 AM UTC</guid></item></channel></rss>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Thu, 27 Feb 2025 08:20:22 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Thursday, February 27, 2025 at 8:20 AM UTC]]></title><description><![CDATA[1. <a href="https://blog.mozilla.org/en/products/firefox/firefox-news/firefox-terms-of-use/">Firefox adds terms of use</a> (26 points | 
+              38 comments)<br>2. <a href="https://bhoot.dev/2025/cp-dot-copies-everything/">cp -  copying all files of a directory, including hidden ones</a> (25 points | 
+              11 comments)<br>3. <a href="https://www.youtube.com/watch?v=0mCsluv5FXA">TypeScript types can run DOOM</a> (41 points | 
+              9 comments)<br>4. <a href="https://frame.work/hr/en/blog/introducing-the-framework-desktop">Introducing the Framework Desktop</a> (24 points | 
+              43 comments)<br>5. <a href="https://www.sminez.dev/socrates-is-a-state-machine/">Socrates is a state machine</a> (9 points | 
+              3 comments)<br>6. <a href="https://sockpuppet.org/blog/2025/02/09/fixing-illinois-foia/">I Went To SQL Injection Court</a> (56 points | 
+              8 comments)<br>7. <a href="https://blog.golioth.io/the-miserable-state-of-modems-and-mobile-network-operators/">The Miserable State of Cellular Modems and Mobile Network Operators</a> (22 points | 
+              4 comments)<br>8. <a href="https://jcs.org/2025/02/26/imacg4k">iMac G4(K)</a> (9 points | 
+              1 comment)<br>9. <a href="https://saurabhs.org/macos-tips">Assorted macOS Tips & Tricks</a> (4 points | 
+              1 comment)<br>10. <a href="https://blog.kizu.dev/intent-to-experiment-for-longer/">Intent to Experiment for Longer</a> (28 points | 
+              no comments)<br>11. <a href="https://bertrandmeyer.com/2025/02/25/new-preprint-programming-really-is-simple-mathematics/">Programming Really Is Simple Mathematics</a> (17 points | 
+              10 comments)<br>12. <a href="https://github.com/semaphoreio/semaphore">Semaphore CI/CD platform went Open Source</a> (4 points | 
+              no comments)<br>13. <a href="https://go.dev/blog/swisstable">Faster Go maps with Swiss Tables - The Go Programming Language</a> (6 points | 
+              1 comment)<br>14. <a href="https://freebsd.org/status/report-2024-10-2024-12/">FreeBSD 2024 Q4 Status Report</a> (5 points | 
+              1 comment)<br>15. <a href="https://www.youtube.com/watch?v=rHxAdIFXplI">Hedy: Creating a Programming Language for Everyone</a> (6 points | 
+              7 comments)<br>16. <a href="https://porkmail.org/era/unix/award">Useless Use of Cat Award (2000)</a> (18 points | 
+              22 comments)<br>17. <a href="https://dl.acm.org/doi/10.1145/3386319">APL since 1978</a> (18 points | 
+              7 comments)<br>18. <a href="https://pthorpe92.dev/cursed-go/">Calling Rust from cursed Go</a> (2 points | 
+              no comments)<br>19. <a href="https://tweag.io/blog/2017-08-24-linear-types-packed-data/">Compact normal forms + linear types  = efficient network communication (2017)</a> (2 points | 
+              no comments)<br>20. <a href="https://petal.blog/articles/exploiting-rednote.html">TikTok alternative RedNote (Xiaohongshu) fails basic security measures</a> (8 points | 
+              1 comment)<br>21. <a href="https://www.icann.org/en/announcements/details/icann-update-launching-rdap-sunsetting-whois-27-01-2025-en">Launching RDAP; Sunsetting WHOIS</a> (1 points | 
+              no comments)<br>22. <a href="http://antocuni.eu/2025/02/26/over-the-clouds-cpython-pyodide-and-spy/">Over the clouds: CPython, Pyodide and SPy</a> (3 points | 
+              2 comments)<br>23. <a href="https://www.open-std.org/jtc1/sc22/wg14/www/docs/n3211.pdf">Standard proposal for memory-Safety in C (2024)</a> (12 points | 
+              5 comments)<br>24. <a href="https://smoores.dev/post/no_such_thing_isomorphic_layout_effect/">There’s no such thing as an isomorphic layout effect</a> (5 points | 
+              no comments)<br>25. <a href="https://security.googleblog.com/2025/02/securing-tomorrows-software-need-for.html">Securing tomorrow's software: the need for memory safety standards</a> (5 points | 
+              1 comment)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Thursday, February 27, 2025 at 8:20 AM UTC</guid></item></channel></rss>
