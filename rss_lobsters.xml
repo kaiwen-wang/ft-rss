@@ -1,26 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Fri, 28 Feb 2025 15:17:04 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Friday, February 28, 2025 at 3:15 PM UTC]]></title><description><![CDATA[1. <a href="https://github.com/fish-shell/fish-shell/releases/tag/4.0.0">Release fish shell 4.0.0, now ported to Rust</a> (112 points | 
-              25 comments)<br>2. <a href="https://interjectedfuture.com/visual-programming-is-stuck-on-the-form/">Visual programming is stuck on the form</a> (25 points | 
-              20 comments)<br>3. <a href="https://lwn.net/Articles/1005332/">A mouseless tale: trying for a keyboard-driven desktop</a> (8 points | 
-              5 comments)<br>4. <a href="https://cketti.de/2025/02/26/goodbye-k9mail/">Goodbye K-9 Mail</a> (49 points | 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Fri, 28 Feb 2025 16:20:21 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Friday, February 28, 2025 at 4:20 PM UTC]]></title><description><![CDATA[1. <a href="https://github.com/fish-shell/fish-shell/releases/tag/4.0.0">Release fish shell 4.0.0, now ported to Rust</a> (116 points | 
+              25 comments)<br>2. <a href="https://interjectedfuture.com/visual-programming-is-stuck-on-the-form/">Visual programming is stuck on the form</a> (28 points | 
+              22 comments)<br>3. <a href="https://lwn.net/Articles/1005332/">A mouseless tale: trying for a keyboard-driven desktop</a> (11 points | 
+              6 comments)<br>4. <a href="https://cketti.de/2025/02/26/goodbye-k9mail/">Goodbye K-9 Mail</a> (52 points | 
               3 comments)<br>5. <a href="https://tigerbeetle.com/blog/2025-02-27-why-we-designed-tigerbeetles-docs-from-scratch/">Why We Designed TigerBeetle's Docs from Scratch</a> (49 points | 
-              17 comments)<br>6. <a href="https://github.com/electronicarts/CnC_Red_Alert">Command and Conquer: Red Alert source code</a> (32 points | 
-              19 comments)<br>7. <a href="https://michael.stapelberg.ch/posts/2025-02-27-debug-hanging-go-programs/">Tips to debug hanging Go programs</a> (29 points | 
-              3 comments)<br>8. <a href="https://jonathan-frere.com/posts/jujutsu-shortest-ids/">Why are Jujutsu's ID Prefixes So Short?</a> (42 points | 
-              5 comments)<br>9. <a href="https://quanttype.net/posts/2025-02-25-leader-election-with-s3-and-if-match.html">Leader election with S3 and If-Match</a> (6 points | 
-              no comments)<br>10. <a href="https://www.shadaj.me/writing/distributed-programming-stalled">Distributed Systems Programming Has Stalled</a> (15 points | 
-              1 comment)<br>11. <a href="https://store.steampowered.com/news/app/2229890/view/502818210084553731">EA open sourced Command & Conquer, Red Alert, Renegade and Generals</a> (5 points | 
-              1 comment)<br>12. <a href="https://untested.sonnet.io/notes/lets-hold-hands/">Let's Hold Hands</a> (2 points | 
-              no comments)<br>13. <a href="https://blog.mozilla.org/en/products/firefox/firefox-news/firefox-terms-of-use/">Firefox adds terms of use</a> (116 points | 
-              145 comments)<br>14. <a href="https://byroot.github.io/ruby/performance/2025/02/24/http2-past-the-load-balancer.html">There Isn’t Much Point to HTTP/2 Past The Load Balancer</a> (17 points | 
-              no comments)<br>15. <a href="https://joeyh.name/blog/entry/WASM_Wayland_Web_WWW/">WASM Wayland Web (WWW)</a> (5 points | 
-              3 comments)<br>16. <a href="https://garnix.io/blog/garnix-modules">garnix modules</a> (4 points | 
-              no comments)<br>17. <a href="https://downrightnifty.me/blog/2025/02/27/eu-features-outside.html">Accessing region-locked iOS features, such as EU app stores</a> (12 points | 
-              2 comments)<br>18. <a href="https://www.youtube.com/watch?v=4RuLzL_q0zs&t=2640s">Simon Peyton Jones on Notes in source code (2021)</a> (5 points | 
-              2 comments)<br>19. <a href="https://www.learningtypescript.com/articles/branded-types">Branded Types</a> (13 points | 
-              6 comments)<br>20. <a href="https://www.computer.org/csdl/magazine/so/2020/03/09068304/1j30VMzNxLO">Testing Numbs Us to Our Loss of Intellectual Control (2020)</a> (24 points | 
-              11 comments)<br>21. <a href="https://moultano.wordpress.com/2025/02/24/you-should-make-cross-views/">Make Cross Views</a> (4 points | 
-              no comments)<br>22. <a href="https://youtu.be/l-9ALe3U-Fg">The Perceptron</a> (4 points | 
-              1 comment)<br>23. <a href="/s/eah1pb/what_are_you_doing_this_weekend">What are you doing this weekend?</a> (1 points | 
-              1 comment)<br>24. <a href="https://saurabhs.org/macos-tips">Assorted macOS Tips & Tricks</a> (52 points | 
-              5 comments)<br>25. <a href="https://terinstock.com/post/2025/02/Netboot-Windows-11-with-iSCSI-and-iPXE/">Netboot Windows 11 with iSCSI and iPXE</a> (1 points | 
-              no comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Friday, February 28, 2025 at 3:15 PM UTC</guid></item></channel></rss>
+              17 comments)<br>6. <a href="https://github.com/electronicarts/CnC_Red_Alert">Command and Conquer: Red Alert source code</a> (35 points | 
+              20 comments)<br>7. <a href="https://michael.stapelberg.ch/posts/2025-02-27-debug-hanging-go-programs/">Tips to debug hanging Go programs</a> (31 points | 
+              3 comments)<br>8. <a href="https://quanttype.net/posts/2025-02-25-leader-election-with-s3-and-if-match.html">Leader election with S3 and If-Match</a> (8 points | 
+              no comments)<br>9. <a href="https://jonathan-frere.com/posts/jujutsu-shortest-ids/">Why are Jujutsu's ID Prefixes So Short?</a> (43 points | 
+              5 comments)<br>10. <a href="https://joeyh.name/blog/entry/WASM_Wayland_Web_WWW/">WASM Wayland Web (WWW)</a> (7 points | 
+              5 comments)<br>11. <a href="https://untested.sonnet.io/notes/lets-hold-hands/">Let's Hold Hands</a> (3 points | 
+              no comments)<br>12. <a href="https://store.steampowered.com/news/app/2229890/view/502818210084553731">EA open sourced Command & Conquer, Red Alert, Renegade and Generals</a> (5 points | 
+              1 comment)<br>13. <a href="https://www.shadaj.me/writing/distributed-programming-stalled">Distributed Systems Programming Has Stalled</a> (15 points | 
+              1 comment)<br>14. <a href="https://byroot.github.io/ruby/performance/2025/02/24/http2-past-the-load-balancer.html">There Isn’t Much Point to HTTP/2 Past The Load Balancer</a> (18 points | 
+              no comments)<br>15. <a href="https://blog.mozilla.org/en/products/firefox/firefox-news/firefox-terms-of-use/">Firefox adds terms of use</a> (116 points | 
+              147 comments)<br>16. <a href="https://garnix.io/blog/garnix-modules">garnix modules</a> (4 points | 
+              no comments)<br>17. <a href="https://www.youtube.com/watch?v=4RuLzL_q0zs&t=2640s">Simon Peyton Jones on Notes in source code (2021)</a> (6 points | 
+              2 comments)<br>18. <a href="https://terinstock.com/post/2025/02/Netboot-Windows-11-with-iSCSI-and-iPXE/">Netboot Windows 11 with iSCSI and iPXE</a> (3 points | 
+              no comments)<br>19. <a href="https://downrightnifty.me/blog/2025/02/27/eu-features-outside.html">Accessing region-locked iOS features, such as EU app stores</a> (13 points | 
+              2 comments)<br>20. <a href="https://www.learningtypescript.com/articles/branded-types">Branded Types</a> (13 points | 
+              6 comments)<br>21. <a href="https://moultano.wordpress.com/2025/02/24/you-should-make-cross-views/">Make Cross Views</a> (5 points | 
+              no comments)<br>22. <a href="https://www.computer.org/csdl/magazine/so/2020/03/09068304/1j30VMzNxLO">Testing Numbs Us to Our Loss of Intellectual Control (2020)</a> (24 points | 
+              11 comments)<br>23. <a href="https://youtu.be/l-9ALe3U-Fg">The Perceptron</a> (4 points | 
+              1 comment)<br>24. <a href="/s/eah1pb/what_are_you_doing_this_weekend">What are you doing this weekend?</a> (1 points | 
+              1 comment)<br>25. <a href="https://saurabhs.org/macos-tips">Assorted macOS Tips & Tricks</a> (52 points | 
+              5 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Friday, February 28, 2025 at 4:20 PM UTC</guid></item></channel></rss>
