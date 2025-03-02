@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Sun, 02 Mar 2025 06:21:22 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Sunday, March 2, 2025 at 6:20 AM UTC]]></title><description><![CDATA[1. <a href="https://berthub.eu/articles/posts/you-can-no-longer-base-your-government-and-society-on-us-clouds/">It is no longer safe to move our governments and societies to US clouds</a> (138 points | 
-              63 comments)<br>2. <a href="https://blogsystem5.substack.com/p/hardware-autoconfiguration">Hardware discovery: ACPI & Device Tree</a> (11 points | 
-              9 comments)<br>3. <a href="https://www.macchaffee.com/blog/2025/deno/">Deno shows us there's a better way</a> (38 points | 
-              11 comments)<br>4. <a href="https://taylor.town/next-two-zeroes">Your Next Two Zeroes</a> (34 points | 
-              no comments)<br>5. <a href="https://danthedev.com/lisp-in-your-language">Lisp in Your Language</a> (18 points | 
-              1 comment)<br>6. <a href="https://bengarcia.dev/making-o1-o3-and-sonnet-3-7-hallucinate-for-everyone">Making o1, o3, and Sonnet 3.7 Hallucinate for Everyone</a> (11 points | 
-              2 comments)<br>7. <a href="https://www.bartoszsypytkowski.com/is-rust-a-good-fit-for-business-apps/">Is Rust a good fit for business apps?</a> (20 points | 
-              28 comments)<br>8. <a href="https://blog.izissise.net/posts/ngxp-upload/">Nginx Explorer - Upload</a> (6 points | 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Sun, 02 Mar 2025 07:13:43 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Sunday, March 2, 2025 at 7:15 AM UTC]]></title><description><![CDATA[1. <a href="https://berthub.eu/articles/posts/you-can-no-longer-base-your-government-and-society-on-us-clouds/">It is no longer safe to move our governments and societies to US clouds</a> (139 points | 
+              64 comments)<br>2. <a href="https://blogsystem5.substack.com/p/hardware-autoconfiguration">Hardware discovery: ACPI & Device Tree</a> (11 points | 
+              9 comments)<br>3. <a href="https://www.macchaffee.com/blog/2025/deno/">Deno shows us there's a better way</a> (39 points | 
+              11 comments)<br>4. <a href="https://taylor.town/next-two-zeroes">Your Next Two Zeroes</a> (37 points | 
+              no comments)<br>5. <a href="https://bengarcia.dev/making-o1-o3-and-sonnet-3-7-hallucinate-for-everyone">Making o1, o3, and Sonnet 3.7 Hallucinate for Everyone</a> (12 points | 
+              3 comments)<br>6. <a href="https://danthedev.com/lisp-in-your-language">Lisp in Your Language</a> (19 points | 
+              1 comment)<br>7. <a href="https://www.bartoszsypytkowski.com/is-rust-a-good-fit-for-business-apps/">Is Rust a good fit for business apps?</a> (21 points | 
+              30 comments)<br>8. <a href="https://blog.izissise.net/posts/ngxp-upload/">Nginx Explorer - Upload</a> (6 points | 
               no comments)<br>9. <a href="https://mental-reverb.com/blog.php?id=15">Infrastructural problems and instabilities caused by cloud services</a> (2 points | 
-              2 comments)<br>10. <a href="https://jade.fyi/blog/pinning-nixos-with-npins/">Pinning NixOS with npins, or how to kill channels forever without flakes</a> (7 points | 
-              2 comments)<br>11. <a href="https://andrews.substack.com/p/4-mains-or-nothing-at-all">4 mains or nothing at all</a> (11 points | 
-              no comments)<br>12. <a href="https://wiki.xxiivv.com/site/nebu">Nebu: a spreadsheet editor for Varvara</a> (2 points | 
-              no comments)<br>13. <a href="https://kibty.town/blog/todesktop/">how to gain code execution on millions of people and hundreds of popular apps</a> (42 points | 
+              2 comments)<br>10. <a href="https://wiki.xxiivv.com/site/nebu">Nebu: a spreadsheet editor for Varvara</a> (4 points | 
+              no comments)<br>11. <a href="https://jade.fyi/blog/pinning-nixos-with-npins/">Pinning NixOS with npins, or how to kill channels forever without flakes</a> (7 points | 
+              2 comments)<br>12. <a href="https://andrews.substack.com/p/4-mains-or-nothing-at-all">4 mains or nothing at all</a> (11 points | 
+              no comments)<br>13. <a href="https://kibty.town/blog/todesktop/">how to gain code execution on millions of people and hundreds of popular apps</a> (43 points | 
               6 comments)<br>14. <a href="https://jub0bs.com/posts/2025-02-28-cost-of-panic-recover/">The cost of Go's panic and recover</a> (14 points | 
               no comments)<br>15. <a href="https://untested.sonnet.io/notes/lets-hold-hands/">Let's Hold Hands</a> (45 points | 
               1 comment)<br>16. <a href="https://begriffs.com/posts/2018-03-20-user-defined-order.html">User-defined Order in SQL (2018)</a> (3 points | 
@@ -23,4 +23,4 @@
               3 comments)<br>23. <a href="https://www.hytradboi.com/2025/2016d6c4-b08d-40b3-af2f-67926ca8521f-enough-with-all-the-raft">Enough with all the Raft</a> (17 points | 
               3 comments)<br>24. <a href="/s/xhssly/thoughts_about_rustdoc">Thoughts about rustdoc</a> (15 points | 
               29 comments)<br>25. <a href="https://kyefox.com/ai-assisted-creativity/">AI-assisted creativity and the race to claim the future</a> (1 points | 
-              6 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Sunday, March 2, 2025 at 6:20 AM UTC</guid></item></channel></rss>
+              6 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Sunday, March 2, 2025 at 7:15 AM UTC</guid></item></channel></rss>
