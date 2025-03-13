@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Thu, 13 Mar 2025 05:15:46 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Thursday, March 13, 2025 at 5:15 AM UTC]]></title><description><![CDATA[1. <a href="https://ersei.net/en/blog/niri">The Future is Niri</a> (116 points | 
-              68 comments)<br>2. <a href="https://chimera-linux.org/news/2025/03/dropping-riscv.html">Dropping RISC-V support</a> (21 points | 
-              19 comments)<br>3. <a href="https://www.hillelwayne.com/post/javascript-puzzle/">A Perplexing Javascript Parsing Puzzle</a> (20 points | 
-              5 comments)<br>4. <a href="https://jnsgr.uk/2025/03/carefully-but-purposefully-oxidising-ubuntu/">Carefully But Purposefully Oxidising Ubuntu</a> (25 points | 
-              2 comments)<br>5. <a href="https://daringfireball.net/2025/03/something_is_rotten_in_the_state_of_cupertino">Something Is Rotten in the State of Cupertino</a> (8 points | 
-              4 comments)<br>6. <a href="https://soatok.blog/2025/03/12/on-the-insecurity-of-telecom-stacks-in-the-wake-of-salt-typhoon/">On The Insecurity of Telecom Stacks in the Wake of Salt Typhoon</a> (38 points | 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Thu, 13 Mar 2025 06:23:15 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Thursday, March 13, 2025 at 6:25 AM UTC]]></title><description><![CDATA[1. <a href="https://ersei.net/en/blog/niri">The Future is Niri</a> (116 points | 
+              68 comments)<br>2. <a href="https://chimera-linux.org/news/2025/03/dropping-riscv.html">Dropping RISC-V support</a> (23 points | 
+              20 comments)<br>3. <a href="https://daringfireball.net/2025/03/something_is_rotten_in_the_state_of_cupertino">Something Is Rotten in the State of Cupertino</a> (10 points | 
+              5 comments)<br>4. <a href="https://www.hillelwayne.com/post/javascript-puzzle/">A Perplexing Javascript Parsing Puzzle</a> (21 points | 
+              6 comments)<br>5. <a href="https://jnsgr.uk/2025/03/carefully-but-purposefully-oxidising-ubuntu/">Carefully But Purposefully Oxidising Ubuntu</a> (27 points | 
+              2 comments)<br>6. <a href="https://soatok.blog/2025/03/12/on-the-insecurity-of-telecom-stacks-in-the-wake-of-salt-typhoon/">On The Insecurity of Telecom Stacks in the Wake of Salt Typhoon</a> (39 points | 
               11 comments)<br>7. <a href="https://github.com/HaoboGu/rmk">rmk: Rust keyboard firmware library with layers, macros, real-time keymap editing, wireless(BLE) and split support</a> (34 points | 
               5 comments)<br>8. <a href="https://duckdb.org/2025/03/12/duckdb-ui.html">The DuckDB Local UI</a> (23 points | 
               2 comments)<br>9. <a href="https://devblogs.microsoft.com/typescript/typescript-native-port/">A 10x Faster TypeScript</a> (149 points | 
-              73 comments)<br>10. <a href="https://mirawelner.com/posts/fed_code.html">The Codebase of a National Lab I Worked At</a> (4 points | 
-              9 comments)<br>11. <a href="https://semgrep.dev/blog/2025/upgrading-semgrep-from-ocaml-4-to-ocaml-5/">Upgrading Semgrep from OCaml 4 to OCaml 5</a> (10 points | 
-              1 comment)<br>12. <a href="https://explaining.software/archive/complexity-as-entropy/">complexity as entropy</a> (7 points | 
+              74 comments)<br>10. <a href="https://semgrep.dev/blog/2025/upgrading-semgrep-from-ocaml-4-to-ocaml-5/">Upgrading Semgrep from OCaml 4 to OCaml 5</a> (11 points | 
+              1 comment)<br>11. <a href="https://mirawelner.com/posts/fed_code.html">The Codebase of a National Lab I Worked At</a> (4 points | 
+              9 comments)<br>12. <a href="https://explaining.software/archive/complexity-as-entropy/">complexity as entropy</a> (7 points | 
               no comments)<br>13. <a href="https://mirawelner.com/posts/TUM_thoughts.html">Perspectives from the Technical University of Munich</a> (26 points | 
               11 comments)<br>14. <a href="https://www.kmx.io/blog/why-stopped-everything-and-started-writing-C-again">Why I stopped everything and started writing C again</a> (6 points | 
               3 comments)<br>15. <a href="https://simonwillison.net/2025/Mar/11/using-llms-for-code/">Here’s how I use LLMs to help me write code</a> (64 points | 
@@ -18,9 +18,9 @@
               no comments)<br>18. <a href="https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/putty-icons/">Iconography of the PuTTY tools</a> (7 points | 
               no comments)<br>19. <a href="https://afmoreno.srht.site/blog/guile-hoot-fibers.html">Guile Hoot with Fibers</a> (6 points | 
               1 comment)<br>20. <a href="https://go.dev/blog/osroot">Traversal-resistant file APIs</a> (5 points | 
-              2 comments)<br>21. <a href="https://mcyoung.xyz/2025/03/11/formatters/">The Art of Formatting Code</a> (16 points | 
+              2 comments)<br>21. <a href="https://mcyoung.xyz/2025/03/11/formatters/">The Art of Formatting Code</a> (17 points | 
               11 comments)<br>22. <a href="https://dev.to/anthonymax/typescript-7-10x-speedup-and-the-go-language-1mkf">TypeScript 7: 10x Speedup and the Go Language</a> (1 points | 
               2 comments)<br>23. <a href="https://www.haiku-os.org/blog/waddlesplash/2025-03-11-haiku_activity_contract_report_february_2025/">Haiku Activity & Contract Report, February 2025</a> (7 points | 
               no comments)<br>24. <a href="https://www.dannyvankooten.com/blog/2022/rewriting-interpreter-rust/">(Re)writing an interpreter in Rust</a> (20 points | 
               8 comments)<br>25. <a href="https://eprint.iacr.org/2025/435">Constant-Time Code: The Pessimist Case</a> (4 points | 
-              no comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Thursday, March 13, 2025 at 5:15 AM UTC</guid></item></channel></rss>
+              no comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Thursday, March 13, 2025 at 6:25 AM UTC</guid></item></channel></rss>
