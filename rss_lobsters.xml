@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Sun, 16 Mar 2025 09:15:17 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Sunday, March 16, 2025 at 9:15 AM UTC]]></title><description><![CDATA[1. <a href="https://felix-knorr.net/posts/2025-03-16-helix-review.html">A Review of Helix after 1.5 Years</a> (11 points | 
-              4 comments)<br>2. <a href="https://herecomesthemoon.net/2025/03/multiple-return-values-in-go/">Were multiple return values Go's biggest mistake?</a> (29 points | 
-              87 comments)<br>3. <a href="https://alexn.org/blog/2025/03/15/firefox-extensions/">My Favorite Firefox Extensions</a> (16 points | 
-              12 comments)<br>4. <a href="https://arnaught.neocities.org/blog/2025/03/14/year-of-the-picotron-desktop">The Year of the Picotron Desktop</a> (18 points | 
-              no comments)<br>5. <a href="https://oldvcr.blogspot.com/2025/03/more-pro-for-dec-professional-380.html">More pro for the DEC Professional 380 (featuring PRO/VENIX)</a> (6 points | 
-              no comments)<br>6. <a href="https://thephd.dev/c2y-the-defer-technical-specification-its-time-go-go-go">The Defer Technical Specification: It Is Time</a> (4 points | 
-              4 comments)<br>7. <a href="https://www.stepsecurity.io/blog/harden-runner-detection-tj-actions-changed-files-action-is-compromised">Popular GitHub Action tj-actions/changed-files is compromised</a> (51 points | 
-              35 comments)<br>8. <a href="https://hire.jonasgalvez.com.br/2025/mar/15/capnproto/">Is Cap'n Proto Event Loop Friendly?</a> (5 points | 
-              1 comment)<br>9. <a href="https://giannirosato.com/blog/post/comparing-encoders/">Comparing Video Encoders</a> (6 points | 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Sun, 16 Mar 2025 10:15:32 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Sunday, March 16, 2025 at 10:15 AM UTC]]></title><description><![CDATA[1. <a href="https://felix-knorr.net/posts/2025-03-16-helix-review.html">A Review of Helix after 1.5 Years</a> (13 points | 
+              8 comments)<br>2. <a href="https://herecomesthemoon.net/2025/03/multiple-return-values-in-go/">Were multiple return values Go's biggest mistake?</a> (29 points | 
+              87 comments)<br>3. <a href="https://alexn.org/blog/2025/03/15/firefox-extensions/">My Favorite Firefox Extensions</a> (17 points | 
+              15 comments)<br>4. <a href="https://arnaught.neocities.org/blog/2025/03/14/year-of-the-picotron-desktop">The Year of the Picotron Desktop</a> (19 points | 
+              no comments)<br>5. <a href="https://thephd.dev/c2y-the-defer-technical-specification-its-time-go-go-go">The Defer Technical Specification: It Is Time</a> (7 points | 
+              4 comments)<br>6. <a href="https://oldvcr.blogspot.com/2025/03/more-pro-for-dec-professional-380.html">More pro for the DEC Professional 380 (featuring PRO/VENIX)</a> (6 points | 
+              no comments)<br>7. <a href="https://hire.jonasgalvez.com.br/2025/mar/15/capnproto/">Is Cap'n Proto Event Loop Friendly?</a> (5 points | 
+              2 comments)<br>8. <a href="https://www.stepsecurity.io/blog/harden-runner-detection-tj-actions-changed-files-action-is-compromised">Popular GitHub Action tj-actions/changed-files is compromised</a> (51 points | 
+              35 comments)<br>9. <a href="https://giannirosato.com/blog/post/comparing-encoders/">Comparing Video Encoders</a> (6 points | 
               1 comment)<br>10. <a href="https://youtu.be/FAl7iO2R6W4">AdaFruit FruitJam is a Mac 384K</a> (3 points | 
               no comments)<br>11. <a href="https://gitlab.com/worst-lang/brat">The Brat virtual machine</a> (5 points | 
               2 comments)<br>12. <a href="https://www.openmymind.net/ArenaAllocator-free-and-Nested-Arenas/">ArenaAllocator.free and Nested Arenas</a> (12 points | 
@@ -17,10 +17,10 @@
               no comments)<br>17. <a href="http://1997.webhistory.org/www.lists/www-talk.1993q2/0128.html">NCSA Mosaic 1.0 Released</a> (7 points | 
               2 comments)<br>18. <a href="https://web-apps-in-lisp.github.io/">Web Apps in Common Lisp</a> (4 points | 
               no comments)<br>19. <a href="https://lemire.me/blog/2025/03/15/speeding-up-c-code-with-template-lambdas/">Speeding up C++ code with template lambdas</a> (2 points | 
-              2 comments)<br>20. <a href="https://lwn.net/Articles/1012453/">A look at Firefox forks</a> (50 points | 
-              20 comments)<br>21. <a href="https://www.masteringemacs.org/article/introduction-magit-emacs-mode-git">An introduction to Magit, an Emacs mode for Git</a> (56 points | 
-              22 comments)<br>22. <a href="https://f055.net/technology/that-time-i/that-time-i-recreated-photoshop-in-c/">That time I recreated Photoshop in C++</a> (22 points | 
+              3 comments)<br>20. <a href="https://www.masteringemacs.org/article/introduction-magit-emacs-mode-git">An introduction to Magit, an Emacs mode for Git</a> (57 points | 
+              22 comments)<br>21. <a href="https://lwn.net/Articles/1012453/">A look at Firefox forks</a> (50 points | 
+              20 comments)<br>22. <a href="https://f055.net/technology/that-time-i/that-time-i-recreated-photoshop-in-c/">That time I recreated Photoshop in C++</a> (22 points | 
               7 comments)<br>23. <a href="https://eregon.me/blog/2025/03/14/matching-regexps-200-times-faster.html">Matching Regexps 200 Times Faster</a> (16 points | 
               2 comments)<br>24. <a href="https://blog.theori.io/reviving-the-modprobe-path-technique-overcoming-search-binary-handler-patch-2dcb8f0fae04">Reviving the modprobe_path Technique: Overcoming search_binary_handler() Patch</a> (2 points | 
               no comments)<br>25. <a href="https://blog.danslimmon.com/2025/03/14/did-u-ever-read-so-hard-u-accidentally-wrote/">did u ever read so hard u accidentally wrote?</a> (27 points | 
-              12 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Sunday, March 16, 2025 at 9:15 AM UTC</guid></item></channel></rss>
+              12 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Sunday, March 16, 2025 at 10:15 AM UTC</guid></item></channel></rss>
