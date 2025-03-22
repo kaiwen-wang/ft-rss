@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Sat, 22 Mar 2025 04:19:20 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Saturday, March 22, 2025 at 4:20 AM UTC]]></title><description><![CDATA[1. <a href="https://raphlinus.github.io/gpu/2025/03/21/good-parallel-computer.html">I want a good parallel computer</a> (28 points | 
-              6 comments)<br>2. <a href="https://garnix.io/blog/what-comes-after-gha">What Comes After GitHub Actions?</a> (20 points | 
-              23 comments)<br>3. <a href="https://anubis.techaro.lol/">Anubis: self hostable scraper defense software</a> (79 points | 
-              41 comments)<br>4. <a href="https://cendyne.dev/posts/2025-03-19-vibe-coding-vs-reality.html">"Vibe Coding" vs Reality</a> (41 points | 
-              48 comments)<br>5. <a href="https://blog.cloudflare.com/ai-labyrinth/">Trapping misbehaving bots in an AI Labyrinth</a> (11 points | 
-              17 comments)<br>6. <a href="https://www.pewresearch.org/decoded/2025/03/21/how-a-glitch-in-an-online-survey-replaced-the-word-yes-with-forks/">How a glitch in an online survey replaced the word ‘yes’ with ‘forks’</a> (6 points | 
-              no comments)<br>7. <a href="/s/exoxg9/what_are_you_doing_this_weekend">What are you doing this weekend?</a> (14 points | 
-              24 comments)<br>8. <a href="https://ipv6.hanazo.no/posts/ipv6-missed-opportunities-1/">The mistakes and missed opportunities in the design of IPv6 (episode 1)</a> (14 points | 
-              1 comment)<br>9. <a href="https://www.daemonology.net/blog/2025-03-21-Chunking-attacks-on-Tarsnap.html">Chunking attacks on Tarsnap (and others)</a> (5 points | 
-              no comments)<br>10. <a href="https://chimera-linux.org/news/2025/03/new-riscv-server.html">Chimera Linux NOT dropping RISC-V support after all</a> (21 points | 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Sat, 22 Mar 2025 05:15:23 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Saturday, March 22, 2025 at 5:15 AM UTC]]></title><description><![CDATA[1. <a href="https://raphlinus.github.io/gpu/2025/03/21/good-parallel-computer.html">I want a good parallel computer</a> (29 points | 
+              8 comments)<br>2. <a href="https://garnix.io/blog/what-comes-after-gha">What Comes After GitHub Actions?</a> (22 points | 
+              23 comments)<br>3. <a href="https://anubis.techaro.lol/">Anubis: self hostable scraper defense software</a> (80 points | 
+              43 comments)<br>4. <a href="https://blog.cloudflare.com/ai-labyrinth/">Trapping misbehaving bots in an AI Labyrinth</a> (12 points | 
+              17 comments)<br>5. <a href="https://cendyne.dev/posts/2025-03-19-vibe-coding-vs-reality.html">"Vibe Coding" vs Reality</a> (42 points | 
+              48 comments)<br>6. <a href="https://www.pewresearch.org/decoded/2025/03/21/how-a-glitch-in-an-online-survey-replaced-the-word-yes-with-forks/">How a glitch in an online survey replaced the word ‘yes’ with ‘forks’</a> (7 points | 
+              no comments)<br>7. <a href="/s/exoxg9/what_are_you_doing_this_weekend">What are you doing this weekend?</a> (15 points | 
+              24 comments)<br>8. <a href="https://www.daemonology.net/blog/2025-03-21-Chunking-attacks-on-Tarsnap.html">Chunking attacks on Tarsnap (and others)</a> (6 points | 
+              no comments)<br>9. <a href="https://ipv6.hanazo.no/posts/ipv6-missed-opportunities-1/">The mistakes and missed opportunities in the design of IPv6 (episode 1)</a> (15 points | 
+              1 comment)<br>10. <a href="https://chimera-linux.org/news/2025/03/new-riscv-server.html">Chimera Linux NOT dropping RISC-V support after all</a> (21 points | 
               18 comments)<br>11. <a href="/s/hrounk/how_share_mouse_keyboard_monitors">How to share mouse, keyboard, and monitors between windows, macos, and Linux?</a> (5 points | 
               14 comments)<br>12. <a href="https://lilysthings.org/blog/tiling-macos/">Tiling Window Managers on macOS</a> (36 points | 
               22 comments)<br>13. <a href="https://asahilinux.org/2025/03/progress-report-6-14/">Asahi Linux progress report: Linux kernel 6.14</a> (26 points | 
@@ -17,10 +17,10 @@
               no comments)<br>17. <a href="/s/xzfc84/recommendations_for_os_install_on_old_mac">Recommendations for an OS to install on an old Mac laptop?</a> (6 points | 
               13 comments)<br>18. <a href="https://alexalejandre.com/programming/deliberate-practice-for-developers/">Deliberate Practice for Developers</a> (22 points | 
               15 comments)<br>19. <a href="https://brandur.org/fragments/go-data-fixtures">The right way to do data fixtures in Go</a> (9 points | 
-              2 comments)<br>20. <a href="https://github.com/rustfoundation/interop-initiative">C++/Rust Interoperability Problem Statement</a> (3 points | 
-              no comments)<br>21. <a href="https://blog.zulip.com/2025/03/20/engineering-flexible-permissions/">Engineering flexible permissions for Zulip open-source team chat</a> (9 points | 
-              no comments)<br>22. <a href="https://github.com/tuananh/hyper-mcp">Hyper-MCP - MCP server in Rust with plugin system powered by WebAssembly and OCI registry</a> (9 points | 
-              2 comments)<br>23. <a href="https://github.com/sequentialread/pow-bot-deterrent">pow-bot-deterrent: A proof-of-work based bot deterrent</a> (5 points | 
-              1 comment)<br>24. <a href="https://www.tramline.app/blog/dear-apple-and-google-still-no-app-rollbacks">Dear Apple and Google: still no app rollbacks?</a> (11 points | 
-              16 comments)<br>25. <a href="https://susam.net/indieweb-does-not-need-to-take-off.html">The IndieWeb Doesn't Need to "Take Off"</a> (25 points | 
-              9 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Saturday, March 22, 2025 at 4:20 AM UTC</guid></item></channel></rss>
+              2 comments)<br>20. <a href="https://github.com/shaarli/Shaarli">Shaarli: personal, minimalist, super-fast, database free, bookmarking service</a> (3 points | 
+              no comments)<br>21. <a href="https://github.com/rustfoundation/interop-initiative">C++/Rust Interoperability Problem Statement</a> (3 points | 
+              no comments)<br>22. <a href="https://blog.zulip.com/2025/03/20/engineering-flexible-permissions/">Engineering flexible permissions for Zulip open-source team chat</a> (9 points | 
+              no comments)<br>23. <a href="https://github.com/tuananh/hyper-mcp">Hyper-MCP - MCP server in Rust with plugin system powered by WebAssembly and OCI registry</a> (9 points | 
+              2 comments)<br>24. <a href="https://github.com/sequentialread/pow-bot-deterrent">pow-bot-deterrent: A proof-of-work based bot deterrent</a> (5 points | 
+              1 comment)<br>25. <a href="https://www.tramline.app/blog/dear-apple-and-google-still-no-app-rollbacks">Dear Apple and Google: still no app rollbacks?</a> (11 points | 
+              17 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Saturday, March 22, 2025 at 5:15 AM UTC</guid></item></channel></rss>
