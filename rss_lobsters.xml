@@ -1,26 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Sun, 23 Mar 2025 22:15:58 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Sunday, March 23, 2025 at 10:15 PM UTC]]></title><description><![CDATA[1. <a href="https://it-notes.dragas.net/2025/03/23/osday-2025-why-choose-bsd-in-2025/">Why Choose to Use the BSDs in 2025</a> (15 points | 
-              7 comments)<br>2. <a href="https://matklad.github.io/2025/03/21/use-long-options-in-scripts.html">Use Long Options in Scripts</a> (46 points | 
-              44 comments)<br>3. <a href="https://www.mrlacey.com/2025/03/why-did-you-need-to-change-8-files-to.html">Why did you need to change 8 files to add one checkbox?</a> (22 points | 
-              34 comments)<br>4. <a href="https://git.sr.ht/~runxiyu/powxy">Powxy: anti-scraper reverse proxy</a> (21 points | 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Sun, 23 Mar 2025 23:14:34 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Sunday, March 23, 2025 at 11:15 PM UTC]]></title><description><![CDATA[1. <a href="https://it-notes.dragas.net/2025/03/23/osday-2025-why-choose-bsd-in-2025/">Why Choose to Use the BSDs in 2025</a> (22 points | 
+              9 comments)<br>2. <a href="https://matklad.github.io/2025/03/21/use-long-options-in-scripts.html">Use Long Options in Scripts</a> (48 points | 
+              45 comments)<br>3. <a href="https://www.mrlacey.com/2025/03/why-did-you-need-to-change-8-files-to.html">Why did you need to change 8 files to add one checkbox?</a> (23 points | 
+              34 comments)<br>4. <a href="https://git.sr.ht/~runxiyu/powxy">Powxy: anti-scraper reverse proxy</a> (22 points | 
               7 comments)<br>5. <a href="https://blog.poggs.com/2025/03/23/mikrotik-to-ubiquiti/">Mikrotik to Ubiquiti</a> (9 points | 
               5 comments)<br>6. <a href="https://akselmo.dev/posts/visual-woes/">KURLNavBar and me</a> (27 points | 
-              11 comments)<br>7. <a href="/s/tzwdfz/why_do_people_default_react_javascript">Why do people default to React and JavaScript for frontend and UIs?</a> (30 points | 
-              26 comments)<br>8. <a href="https://antirez.com/news/148">AI is useless, but it is our best bet for the future</a> (10 points | 
-              29 comments)<br>9. <a href="https://simonschreibt.de/gat/homeworld-2-backgrounds/">Technicalities of Homeworld 2 backgrounds</a> (13 points | 
-              no comments)<br>10. <a href="https://supaiku.com/attention-is-logarithmic">attention is logarithmic, actually</a> (6 points | 
+              11 comments)<br>7. <a href="https://simonschreibt.de/gat/homeworld-2-backgrounds/">Technicalities of Homeworld 2 backgrounds</a> (14 points | 
+              no comments)<br>8. <a href="/s/tzwdfz/why_do_people_default_react_javascript">Why do people default to React and JavaScript for frontend and UIs?</a> (30 points | 
+              26 comments)<br>9. <a href="https://antirez.com/news/148">AI is useless, but it is our best bet for the future</a> (10 points | 
+              32 comments)<br>10. <a href="https://supaiku.com/attention-is-logarithmic">attention is logarithmic, actually</a> (7 points | 
               1 comment)<br>11. <a href="https://tpaschalis.me/shallow-vs-deep-interfaces/">Deep vs Shallow Go interfaces</a> (4 points | 
-              2 comments)<br>12. <a href="http://www.righto.com/2025/03/mother-of-all-demos-usb-keyset-interface.html">A USB interface to the "Mother of All Demos" keyset</a> (6 points | 
-              no comments)<br>13. <a href="https://docs.rs/crabtime/latest/crabtime/">Crabtime: Zig's Comptime in Rust</a> (63 points | 
-              12 comments)<br>14. <a href="https://discourse.haskell.org/t/clickhaskell-0-2-2-years-anniversary-pre-stable-release/11692">ClickHaskell-0.2: 2 Years Anniversary pre-stable releas</a> (1 points | 
-              no comments)<br>15. <a href="https://youtu.be/sl1UQXgtepE">A decision maker's guide to Typed Functional Languages by Evan Czaplicki</a> (8 points | 
-              1 comment)<br>16. <a href="https://lucumr.pocoo.org/2025/3/23/from-string/">Bridging the Efficiency Gap Between FromStr and String</a> (1 points | 
-              no comments)<br>17. <a href="https://thejpster.org.uk/blog/blog-2025-03-22/">Playing with HP PA-RISC</a> (1 points | 
-              no comments)<br>18. <a href="https://www.youtube.com/watch?v=aMvIv6blzBs">Back to Basics: Lifetime Management in Cpp</a> (1 points | 
-              no comments)<br>19. <a href="https://blog.wilcoxd.com/2024/08/25/Scraping-Websites-with-Racket/">Scraping Websites with Racket</a> (1 points | 
-              no comments)<br>20. <a href="https://dustri.org/b/friends-dont-let-friends-write-production-software-in-python.html">Friends don't let friends write production software in Python</a> (2 points | 
-              no comments)<br>21. <a href="https://ayende.com/blog/202147-A/optimizing-by-170-000-by-not-being-silly">Optimizing by 170,000% by not being silly</a> (5 points | 
-              3 comments)<br>22. <a href="https://www.rahuljuliato.com/posts/vc-git-functions">Custom VC-Focused Emacs Functions to Enhance My Git Workflow</a> (7 points | 
-              3 comments)<br>23. <a href="https://www.youtube.com/watch?v=cQ7bcCrJMHc">A Brief Introduction to Esoteric Programming Languages [Video]</a> (2 points | 
-              no comments)<br>24. <a href="https://lmika.org/2025/03/18/dont-be-afraid-of-types.html">Don't Be Afraid Of Types</a> (20 points | 
-              28 comments)<br>25. <a href="https://github.com/bearstech/pussh">pussh: A simple SSH-based deployment tool written in Bash</a> (8 points | 
-              4 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Sunday, March 23, 2025 at 10:15 PM UTC</guid></item></channel></rss>
+              2 comments)<br>12. <a href="https://thejpster.org.uk/blog/blog-2025-03-22/">Playing with HP PA-RISC</a> (2 points | 
+              1 comment)<br>13. <a href="http://www.righto.com/2025/03/mother-of-all-demos-usb-keyset-interface.html">A USB interface to the "Mother of All Demos" keyset</a> (6 points | 
+              no comments)<br>14. <a href="https://docs.rs/crabtime/latest/crabtime/">Crabtime: Zig's Comptime in Rust</a> (63 points | 
+              12 comments)<br>15. <a href="https://discourse.haskell.org/t/clickhaskell-0-2-2-years-anniversary-pre-stable-release/11692">ClickHaskell-0.2: 2 Years Anniversary pre-stable releas</a> (1 points | 
+              no comments)<br>16. <a href="https://lucumr.pocoo.org/2025/3/23/from-string/">Bridging the Efficiency Gap Between FromStr and String</a> (1 points | 
+              1 comment)<br>17. <a href="https://dustri.org/b/friends-dont-let-friends-write-production-software-in-python.html">Friends don't let friends write production software in Python</a> (4 points | 
+              no comments)<br>18. <a href="https://blog.wilcoxd.com/2024/08/25/Scraping-Websites-with-Racket/">Scraping Websites with Racket</a> (2 points | 
+              no comments)<br>19. <a href="https://youtu.be/sl1UQXgtepE">A decision maker's guide to Typed Functional Languages by Evan Czaplicki</a> (8 points | 
+              1 comment)<br>20. <a href="https://enterprisecraftsmanship.com/posts/you-naming-tests-wrong/">You are naming your tests wrong</a> (1 points | 
+              no comments)<br>21. <a href="https://www.youtube.com/watch?v=aMvIv6blzBs">Back to Basics: Lifetime Management in Cpp</a> (1 points | 
+              no comments)<br>22. <a href="https://ayende.com/blog/202147-A/optimizing-by-170-000-by-not-being-silly">Optimizing by 170,000% by not being silly</a> (5 points | 
+              3 comments)<br>23. <a href="https://www.rahuljuliato.com/posts/vc-git-functions">Custom VC-Focused Emacs Functions to Enhance My Git Workflow</a> (7 points | 
+              3 comments)<br>24. <a href="https://www.youtube.com/watch?v=cQ7bcCrJMHc">A Brief Introduction to Esoteric Programming Languages [Video]</a> (2 points | 
+              no comments)<br>25. <a href="https://lmika.org/2025/03/18/dont-be-afraid-of-types.html">Don't Be Afraid Of Types</a> (20 points | 
+              28 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Sunday, March 23, 2025 at 11:15 PM UTC</guid></item></channel></rss>
