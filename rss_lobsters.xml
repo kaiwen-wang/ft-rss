@@ -1,26 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Thu, 27 Mar 2025 03:33:54 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Thursday, March 27, 2025 at 3:35 AM UTC]]></title><description><![CDATA[1. <a href="https://rustfoundation.org/media/ferrous-systems-donates-ferrocene-language-specification-to-rust-project/">Ferrous Systems Donates Ferrocene Language Specification to Rust Project</a> (57 points | 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Thu, 27 Mar 2025 04:19:28 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Thursday, March 27, 2025 at 4:20 AM UTC]]></title><description><![CDATA[1. <a href="https://rustfoundation.org/media/ferrous-systems-donates-ferrocene-language-specification-to-rust-project/">Ferrous Systems Donates Ferrocene Language Specification to Rust Project</a> (59 points | 
               12 comments)<br>2. <a href="https://thelibre.news/servo-vs-ladybird/">Servo vs Ladybird</a> (30 points | 
-              7 comments)<br>3. <a href="https://gpanders.com/blog/whats-new-in-neovim-0-11/">What's New in Neovim 0.11</a> (47 points | 
+              7 comments)<br>3. <a href="https://gpanders.com/blog/whats-new-in-neovim-0-11/">What's New in Neovim 0.11</a> (48 points | 
               4 comments)<br>4. <a href="https://chesedo.me/blog/monoio-introduction/">Introduction to Monoio: A High-Performance Rust Runtime</a> (30 points | 
-              10 comments)<br>5. <a href="https://youtu.be/Q3PgpCzEnks">antirez wants to make Redis open source, again</a> (12 points | 
+              11 comments)<br>5. <a href="https://youtu.be/Q3PgpCzEnks">antirez wants to make Redis open source, again</a> (13 points | 
               17 comments)<br>6. <a href="https://rachelbythebay.com/w/2025/03/25/atop/">You might want to stop running atop</a> (88 points | 
-              62 comments)<br>7. <a href="https://eduardoboucas.com/posts/2025-03-25-you-should-know-this-before-choosing-nextjs/">You should know this before choosing Next.js</a> (18 points | 
-              7 comments)<br>8. <a href="https://go.dev/blog/coretypes">Good-bye core types; Hello Go as we know and love it</a> (24 points | 
-              1 comment)<br>9. <a href="https://www.androidauthority.com/google-android-development-aosp-3538503/">Google will now develop the Android OS in private</a> (7 points | 
+              62 comments)<br>7. <a href="https://go.dev/blog/coretypes">Good-bye core types; Hello Go as we know and love it</a> (24 points | 
+              3 comments)<br>8. <a href="https://eduardoboucas.com/posts/2025-03-25-you-should-know-this-before-choosing-nextjs/">You should know this before choosing Next.js</a> (18 points | 
+              7 comments)<br>9. <a href="https://www.androidauthority.com/google-android-development-aosp-3538503/">Google will now develop the Android OS in private</a> (8 points | 
               no comments)<br>10. <a href="https://sethmlarson.dev/dont-bring-slop-to-a-slop-fight">Don't bring slop to a slop fight</a> (30 points | 
               15 comments)<br>11. <a href="https://opensource.microsoft.com/blog/2025/03/26/hyperlight-wasm-fast-secure-and-os-free/">Hyperlight Wasm: Fast, secure, and OS-free</a> (7 points | 
               no comments)<br>12. <a href="https://sophiabits.com/blog/you-just-cant-be-googling-select">You just can’t be Googling ‘Select’</a> (6 points | 
-              11 comments)<br>13. <a href="https://css-tricks.com/revisiting-css-border-image/">Revisiting CSS border-image</a> (6 points | 
-              2 comments)<br>14. <a href="https://101-things.readthedocs.io/en/latest/radio_receiver.html">Pi Pico Rx - A crystal radio for the digital age?</a> (13 points | 
-              1 comment)<br>15. <a href="https://www.linuxjournal.com/content/eu-os-bold-step-toward-digital-sovereignty-europe">Europen Union creates Fedora-based Linux distribution for the public sector</a> (2 points | 
-              4 comments)<br>16. <a href="https://googleprojectzero.blogspot.com/2025/03/blasting-past-webp.html">Blasting Past Webp</a> (7 points | 
-              no comments)<br>17. <a href="https://reproducible-builds.org/docs/commandments/">Commandments of reproducible builds</a> (5 points | 
-              no comments)<br>18. <a href="https://medium.com/@gvanrossum_83706/peg-parsing-series-de5d41b2ed60">PEG parsing series (2019)</a> (8 points | 
-              1 comment)<br>19. <a href="https://jurasofish.github.io/a-very-early-play-with-astrals-red-knot-static-type-checker.html">A Very (!) Early Play With Astral's Red Knot Static Type Checker</a> (4 points | 
-              no comments)<br>20. <a href="https://aneksteind.github.io/posts/2025-03-26.html">Matrix Profiles</a> (1 points | 
-              no comments)<br>21. <a href="https://tratt.net/laurie/blog/2025/better_shell_history_search.html">Better Shell History Search</a> (37 points | 
-              19 comments)<br>22. <a href="https://v8.dev/blog/leaving-the-sea-of-nodes">Land ahoy: leaving the Sea of Nodes</a> (62 points | 
-              9 comments)<br>23. <a href="https://www.youtube.com/watch?v=JeXOajFv8Dk">Bevy Meetup - Intermediate Representations for Reactive Structures</a> (1 points | 
-              no comments)<br>24. <a href="https://words.filippo.io/shrink-your-go-binaries-with-this-one-weird-trick/">Shrink your Go binaries with this one weird trick (2016)</a> (11 points | 
-              2 comments)<br>25. <a href="https://youtu.be/RcVA8Nj6HEo">What is plus times plus?</a> (11 points | 
-              3 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Thursday, March 27, 2025 at 3:35 AM UTC</guid></item></channel></rss>
+              13 comments)<br>13. <a href="https://css-tricks.com/revisiting-css-border-image/">Revisiting CSS border-image</a> (6 points | 
+              2 comments)<br>14. <a href="https://googleprojectzero.blogspot.com/2025/03/blasting-past-webp.html">Blasting Past Webp</a> (8 points | 
+              no comments)<br>15. <a href="https://101-things.readthedocs.io/en/latest/radio_receiver.html">Pi Pico Rx - A crystal radio for the digital age?</a> (13 points | 
+              1 comment)<br>16. <a href="https://www.linuxjournal.com/content/eu-os-bold-step-toward-digital-sovereignty-europe">European Union creates Fedora-based Linux distribution for the public sector</a> (2 points | 
+              4 comments)<br>17. <a href="https://blog.frost.kiwi/tunneling-corporate-firewalls/">Tunneling corporate firewalls for developers</a> (1 points | 
+              no comments)<br>18. <a href="https://reproducible-builds.org/docs/commandments/">Commandments of reproducible builds</a> (5 points | 
+              no comments)<br>19. <a href="https://medium.com/@gvanrossum_83706/peg-parsing-series-de5d41b2ed60">PEG parsing series (2019)</a> (8 points | 
+              1 comment)<br>20. <a href="https://jurasofish.github.io/a-very-early-play-with-astrals-red-knot-static-type-checker.html">A Very (!) Early Play With Astral's Red Knot Static Type Checker</a> (4 points | 
+              no comments)<br>21. <a href="https://aneksteind.github.io/posts/2025-03-26.html">Matrix Profiles</a> (1 points | 
+              no comments)<br>22. <a href="https://tratt.net/laurie/blog/2025/better_shell_history_search.html">Better Shell History Search</a> (37 points | 
+              19 comments)<br>23. <a href="https://v8.dev/blog/leaving-the-sea-of-nodes">Land ahoy: leaving the Sea of Nodes</a> (62 points | 
+              9 comments)<br>24. <a href="https://www.youtube.com/watch?v=JeXOajFv8Dk">Bevy Meetup - Intermediate Representations for Reactive Structures</a> (1 points | 
+              no comments)<br>25. <a href="https://words.filippo.io/shrink-your-go-binaries-with-this-one-weird-trick/">Shrink your Go binaries with this one weird trick (2016)</a> (11 points | 
+              2 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Thursday, March 27, 2025 at 4:20 AM UTC</guid></item></channel></rss>
