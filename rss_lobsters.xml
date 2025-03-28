@@ -1,26 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Fri, 28 Mar 2025 22:16:16 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Friday, March 28, 2025 at 10:15 PM UTC]]></title><description><![CDATA[1. <a href="https://jank-lang.org/blog/2025-03-28-error-reporting/">Can jank beat Clojure's error reporting?</a> (16 points | 
-              7 comments)<br>2. <a href="https://blog.startifact.com/posts/xee/">Xee: A Modern XPath and XSLT Engine in Rust</a> (67 points | 
-              32 comments)<br>3. <a href="https://reviews.ofb.biz/safari/article/1300.html">Apple Needs a Snow Sequoia</a> (31 points | 
-              13 comments)<br>4. <a href="https://jyn.dev/terrible-horrible-no-good-very-bad-python/">Terrible Horrible No Good Very Bad Python</a> (18 points | 
-              8 comments)<br>5. <a href="https://calabro.io/zig-cgo">Building Statically Linked Go Executables with CGO and Zig</a> (20 points | 
-              no comments)<br>6. <a href="https://mastodon.social/@organicmaps/114233788700982882">GitHub has gone - long live Forgejo</a> (13 points | 
-              3 comments)<br>7. <a href="https://dev.to/yawaramin/handling-form-errors-in-htmx-3ncg">Handling form errors in htmx</a> (8 points | 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Fri, 28 Mar 2025 23:15:39 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Friday, March 28, 2025 at 11:15 PM UTC]]></title><description><![CDATA[1. <a href="https://jank-lang.org/blog/2025-03-28-error-reporting/">Can jank beat Clojure's error reporting?</a> (19 points | 
+              8 comments)<br>2. <a href="https://blog.startifact.com/posts/xee/">Xee: A Modern XPath and XSLT Engine in Rust</a> (68 points | 
+              32 comments)<br>3. <a href="https://mastodon.social/@organicmaps/114233788700982882">Organic Maps: GitHub has gone - long live Forgejo</a> (18 points | 
+              6 comments)<br>4. <a href="https://reviews.ofb.biz/safari/article/1300.html">Apple Needs a Snow Sequoia</a> (35 points | 
+              14 comments)<br>5. <a href="https://calabro.io/zig-cgo">Building Statically Linked Go Executables with CGO and Zig</a> (23 points | 
+              no comments)<br>6. <a href="https://jyn.dev/terrible-horrible-no-good-very-bad-python/">Terrible Horrible No Good Very Bad Python</a> (18 points | 
+              8 comments)<br>7. <a href="https://dev.to/yawaramin/handling-form-errors-in-htmx-3ncg">Handling form errors in htmx</a> (8 points | 
               5 comments)<br>8. <a href="https://git.sr.ht/~runxiyu/dlcage">Safeishly use non-reentrant libraries with POSIX threads</a> (11 points | 
               5 comments)<br>9. <a href="https://www.scottsmitelli.com/articles/take-oncall-and-shove-it/">Take this on-call rotation and shove it</a> (49 points | 
-              51 comments)<br>10. <a href="https://taylor.town/flat-scraps-002">Data demand some damn respect</a> (8 points | 
+              53 comments)<br>10. <a href="https://taylor.town/flat-scraps-002">Data demand some damn respect</a> (9 points | 
               4 comments)<br>11. <a href="https://refactoringenglish.com/chapters/write-blog-posts-developers-read/">How to Write Blog Posts that Developers Read</a> (48 points | 
-              22 comments)<br>12. <a href="/s/05vftn/what_are_you_doing_this_weekend">What are you doing this weekend?</a> (6 points | 
-              14 comments)<br>13. <a href="https://welltypedwitch.bearblog.dev/the-way-were-thinking-about-breaking-changes-is-really-silly/">The way we're thinking about breaking changes is really silly</a> (16 points | 
-              8 comments)<br>14. <a href="https://www.rebol.com/article/0425.html">The problem with OOL is not the OO (2009)</a> (7 points | 
-              2 comments)<br>15. <a href="https://brainbaking.com/post/2025/03/an-ode-to-the-game-boy-advance/">An Ode To The Game Boy Advance</a> (4 points | 
-              no comments)<br>16. <a href="https://notes.eatonphil.com/2025-03-27-things-that-go-wrong-with-disk-io.html">Things that go wrong with disk IO</a> (24 points | 
-              7 comments)<br>17. <a href="https://xmpp.org/announcements/open-letter-meta-dma/">Open Letter to Meta: Support True Messaging Interoperability with XMPP</a> (30 points | 
-              21 comments)<br>18. <a href="https://spade-lang.org/">Spade, a hardware description language inspired by modern software languages</a> (50 points | 
-              9 comments)<br>19. <a href="https://ironarray.io/blog/compute-bigger">Compress Better, Compute Bigger</a> (7 points | 
+              22 comments)<br>12. <a href="/s/05vftn/what_are_you_doing_this_weekend">What are you doing this weekend?</a> (7 points | 
+              17 comments)<br>13. <a href="https://brainbaking.com/post/2025/03/an-ode-to-the-game-boy-advance/">An Ode To The Game Boy Advance</a> (6 points | 
+              no comments)<br>14. <a href="https://welltypedwitch.bearblog.dev/the-way-were-thinking-about-breaking-changes-is-really-silly/">The way we're thinking about breaking changes is really silly</a> (16 points | 
+              8 comments)<br>15. <a href="https://www.rebol.com/article/0425.html">The problem with OOL is not the OO (2009)</a> (7 points | 
+              2 comments)<br>16. <a href="https://spade-lang.org/">Spade, a hardware description language inspired by modern software languages</a> (51 points | 
+              9 comments)<br>17. <a href="https://notes.eatonphil.com/2025-03-27-things-that-go-wrong-with-disk-io.html">Things that go wrong with disk IO</a> (24 points | 
+              7 comments)<br>18. <a href="https://xmpp.org/announcements/open-letter-meta-dma/">Open Letter to Meta: Support True Messaging Interoperability with XMPP</a> (30 points | 
+              21 comments)<br>19. <a href="https://ironarray.io/blog/compute-bigger">Compress Better, Compute Bigger</a> (7 points | 
               no comments)<br>20. <a href="https://www.benshoof.org/blog/case-cracked">The Colonel’s Bequest – Case Cracked</a> (3 points | 
-              no comments)<br>21. <a href="https://webassembly.org/news/2025-03-27-spectec/">SpecTec has been adopted</a> (18 points | 
-              8 comments)<br>22. <a href="https://nullprogram.com/blog/2013/09/23/">Atom vs. RSS (2013)</a> (24 points | 
-              27 comments)<br>23. <a href="https://www.youtube.com/watch?v=nvVbY6JSlHY">Caelum, the hyper-functional programming language</a> (2 points | 
-              no comments)<br>24. <a href="https://gist.github.com/clausecker/721cda7172b82c179032859f3216a8ee">prepare()-ing for execution: a new API for process creation</a> (32 points | 
-              21 comments)<br>25. <a href="https://www.morling.dev/blog/jep-483-aot-class-loading-linking/">Let's Take a Look at... JEP 483: Ahead-of-Time Class Loading & Linking</a> (6 points | 
-              no comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Friday, March 28, 2025 at 10:15 PM UTC</guid></item></channel></rss>
+              no comments)<br>21. <a href="https://diziet.dreamwidth.org/19480.html">Rust is indeed woke</a> (4 points | 
+              no comments)<br>22. <a href="https://webassembly.org/news/2025-03-27-spectec/">SpecTec has been adopted</a> (19 points | 
+              8 comments)<br>23. <a href="https://nullprogram.com/blog/2013/09/23/">Atom vs. RSS (2013)</a> (25 points | 
+              27 comments)<br>24. <a href="https://www.youtube.com/watch?v=nvVbY6JSlHY">Caelum, the hyper-functional programming language</a> (2 points | 
+              no comments)<br>25. <a href="https://swift.org/blog/introducing-swiftly_10/">Introducing swiftly 1.0</a> (2 points | 
+              no comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Friday, March 28, 2025 at 11:15 PM UTC</guid></item></channel></rss>
