@@ -1,26 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Thu, 03 Apr 2025 16:20:15 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Thursday, April 3, 2025 at 4:20 PM UTC]]></title><description><![CDATA[1. <a href="https://agnishom.github.io/blog/2024/steam-deck/">The Steam Deck is Software-Freedom friendly</a> (14 points | 
-              8 comments)<br>2. <a href="https://lore.kernel.org/git/CAESOdVAspxUJKGAA58i0tvks4ZOfoGf1Aa5gPr0FXzdcywqUUw@mail.gmail.com/T/#u">Gerrit, GitButler, and Jujutsu projects collaborating on change-id commit footer</a> (124 points | 
-              33 comments)<br>3. <a href="https://blog.rust-lang.org/2025/04/03/Rust-1.86.0.html">Announcing Rust 1.86.0</a> (23 points | 
-              1 comment)<br>4. <a href="https://github.com/pdtpartners/nix-ninja">Introducing Nix Ninja – open-source Ninja-compatible build system for Nix</a> (11 points | 
-              3 comments)<br>5. <a href="https://nolanlawson.com/2025/04/02/ai-ambivalence/">AI ambivalence</a> (66 points | 
-              47 comments)<br>6. <a href="https://graphite.rs/blog/graphite-progress-report-q4-2024/">Graphite (Rusty FOSS procedural 2D design app) new feature demos from Q4</a> (11 points | 
-              no comments)<br>7. <a href="https://indico.cern.ch/event/1477299/contributions/6366311/attachments/3044120/5378338/20250403-HEPiX-cern-els7.pdf">Keeping the LHC colliding: Providing Extended Lifecycle support for EL7 (by moving to Debian)</a> (15 points | 
-              2 comments)<br>8. <a href="https://leanrada.com/notes/css-only-lqip/">Minimal CSS-only blurry image placeholders</a> (28 points | 
-              2 comments)<br>9. <a href="https://chronicles.mad-scientist.club/tales/grepping-logs-remains-terrible/">Grepping logs remains terrible</a> (56 points | 
-              50 comments)<br>10. <a href="https://sr.ht/%7Ebptato/chawan/">chawan: TUI Web Browser</a> (31 points | 
-              15 comments)<br>11. <a href="https://diff.wikimedia.org/2025/04/01/how-crawlers-impact-the-operations-of-the-wikimedia-projects/">How crawlers impact the operations of the Wikimedia projects</a> (41 points | 
-              13 comments)<br>12. <a href="https://www.gatesnotes.com/meet-bill/source-code/reader/microsoft-original-source-code?WT.mc_id=20250331100000_Microsoft-50th_MED-MED">Celebrate 50 years of Microsoft with the company's original source code</a> (3 points | 
-              2 comments)<br>13. <a href="https://github.com/werf/nelm">Nelm, a Helm 3 alternative, is generally available now</a> (4 points | 
-              5 comments)<br>14. <a href="https://github.com/tsoding/arena">arena: Arena Allocator implementation in pure C as an stb-style single-file library</a> (7 points | 
-              no comments)<br>15. <a href="https://s2.dev/blog/dst">DST for async Rust</a> (6 points | 
-              no comments)<br>16. <a href="https://valkey.io/blog/new-hash-table/">Valkey - A new hash table</a> (20 points | 
-              3 comments)<br>17. <a href="https://www.djangoproject.com/weblog/2025/apr/02/django-52-released/">Django 5.2 released</a> (27 points | 
-              5 comments)<br>18. <a href="https://clickhouse.com/blog/rust">A Year of Rust in ClickHouse</a> (17 points | 
-              1 comment)<br>19. <a href="https://tratt.net/laurie/blog/2025/the_fifth_kind_of_optimisation.html">The Fifth Kind of Optimisation</a> (13 points | 
-              16 comments)<br>20. <a href="https://lists.mindrot.org/pipermail/openssh-unix-dev/2025-April/041855.html">OpenSSH 10 call for testing, DSA deprecated</a> (6 points | 
-              no comments)<br>21. <a href="https://fzakaria.com/2025/04/02/nix-that-looks-like-bazel">Nix that looks like Bazel</a> (1 points | 
-              no comments)<br>22. <a href="https://github.com/InitWare/InitWare">InitWare: systemd-like clone for BSDs</a> (1 points | 
-              no comments)<br>23. <a href="https://www.sandordargo.com/blog/2025/04/02/cpp26-variadic-friends">C++26: variadic friends</a> (5 points | 
-              1 comment)<br>24. <a href="https://www.uber.com/en-GB/blog/ubers-journey-to-ray-on-kubernetes-ray-setup/">Ray on Kubernetes at Uber</a> (1 points | 
-              no comments)<br>25. <a href="https://www.schneier.com/blog/archives/2025/04/cell-phone-opsec-for-border-crossings.html">Cell Phone OPSEC for Border Crossings</a> (10 points | 
-              6 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Thursday, April 3, 2025 at 4:20 PM UTC</guid></item></channel></rss>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Thu, 03 Apr 2025 17:15:12 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Thursday, April 3, 2025 at 5:15 PM UTC]]></title><description><![CDATA[1. <a href="https://agnishom.github.io/blog/2024/steam-deck/">The Steam Deck is Software-Freedom friendly</a> (20 points | 
+              9 comments)<br>2. <a href="https://lore.kernel.org/git/CAESOdVAspxUJKGAA58i0tvks4ZOfoGf1Aa5gPr0FXzdcywqUUw@mail.gmail.com/T/#u">Gerrit, GitButler, and Jujutsu projects collaborating on change-id commit footer</a> (127 points | 
+              33 comments)<br>3. <a href="https://blog.rust-lang.org/2025/04/03/Rust-1.86.0.html">Announcing Rust 1.86.0</a> (25 points | 
+              2 comments)<br>4. <a href="https://github.com/pdtpartners/nix-ninja">Introducing Nix Ninja – open-source Ninja-compatible build system for Nix</a> (12 points | 
+              3 comments)<br>5. <a href="https://nolanlawson.com/2025/04/02/ai-ambivalence/">AI ambivalence</a> (68 points | 
+              47 comments)<br>6. <a href="https://graphite.rs/blog/graphite-progress-report-q4-2024/">Graphite (Rusty FOSS procedural 2D design app) new feature demos from Q4</a> (13 points | 
+              no comments)<br>7. <a href="https://indico.cern.ch/event/1477299/contributions/6363918/attachments/3044399/5378883/20250403-HEPiX-cern-els7.pdf">Keeping the LHC colliding: Providing Extended Lifecycle support for EL7 (by moving to Debian)</a> (16 points | 
+              2 comments)<br>8. <a href="https://leanrada.com/notes/css-only-lqip/">Minimal CSS-only blurry image placeholders</a> (30 points | 
+              2 comments)<br>9. <a href="https://github.com/InitWare/InitWare">InitWare: systemd-like fork for BSDs</a> (7 points | 
+              2 comments)<br>10. <a href="https://chronicles.mad-scientist.club/tales/grepping-logs-remains-terrible/">Grepping logs remains terrible</a> (57 points | 
+              50 comments)<br>11. <a href="https://diff.wikimedia.org/2025/04/01/how-crawlers-impact-the-operations-of-the-wikimedia-projects/">How crawlers impact the operations of the Wikimedia projects</a> (44 points | 
+              13 comments)<br>12. <a href="https://sr.ht/%7Ebptato/chawan/">chawan: TUI Web Browser</a> (32 points | 
+              15 comments)<br>13. <a href="https://www.gatesnotes.com/meet-bill/source-code/reader/microsoft-original-source-code?WT.mc_id=20250331100000_Microsoft-50th_MED-MED">Celebrate 50 years of Microsoft with the company's original source code</a> (4 points | 
+              2 comments)<br>14. <a href="https://github.com/werf/nelm">Nelm, a Helm 3 alternative, is generally available now</a> (4 points | 
+              6 comments)<br>15. <a href="https://github.com/linkdd/regname">regname: Mass renamer TUI written in Rust</a> (1 points | 
+              no comments)<br>16. <a href="https://openjdk.org/projects/valhalla/design-notes/in-defense-of-erasure">How We Got the Generics We Have: (Or, how I learned to stop worrying and love erasure)</a> (2 points | 
+              no comments)<br>17. <a href="https://github.com/tsoding/arena">arena: Arena Allocator implementation in pure C as an stb-style single-file library</a> (7 points | 
+              no comments)<br>18. <a href="https://fzakaria.com/2025/04/02/nix-that-looks-like-bazel">Nix that looks like Bazel</a> (2 points | 
+              no comments)<br>19. <a href="https://s2.dev/blog/dst">DST for async Rust</a> (6 points | 
+              no comments)<br>20. <a href="https://valkey.io/blog/new-hash-table/">Valkey - A new hash table</a> (20 points | 
+              3 comments)<br>21. <a href="https://www.djangoproject.com/weblog/2025/apr/02/django-52-released/">Django 5.2 released</a> (27 points | 
+              5 comments)<br>22. <a href="https://clickhouse.com/blog/rust">A Year of Rust in ClickHouse</a> (17 points | 
+              1 comment)<br>23. <a href="https://thirty-five.com/overengineered-anchoring">Overengineered anchor links</a> (1 points | 
+              no comments)<br>24. <a href="https://ultrasciencelabs.com/lab-notes/why-we-are-still-using-88x31-buttons">Why we are still using 88x31 buttons</a> (1 points | 
+              no comments)<br>25. <a href="https://tratt.net/laurie/blog/2025/the_fifth_kind_of_optimisation.html">The Fifth Kind of Optimisation</a> (13 points | 
+              16 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Thursday, April 3, 2025 at 5:15 PM UTC</guid></item></channel></rss>
