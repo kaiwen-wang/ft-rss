@@ -1,26 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Fri, 11 Apr 2025 04:20:59 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Friday, April 11, 2025 at 4:20 AM UTC]]></title><description><![CDATA[1. <a href="https://inclouds.space/localhost-domains">.localhost domains</a> (21 points | 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Fri, 11 Apr 2025 05:17:53 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Friday, April 11, 2025 at 5:15 AM UTC]]></title><description><![CDATA[1. <a href="https://inclouds.space/localhost-domains">.localhost domains</a> (21 points | 
               24 comments)<br>2. <a href="https://vermaden.wordpress.com/2025/04/11/freebsd-jails-security/">FreeBSD Jails Security (versus Podman)</a> (5 points | 
-              3 comments)<br>3. <a href="https://www.brautaset.org/posts/yaml-exponent-problem.html">The YAML Exponent Problem causing chaos in your config files</a> (9 points | 
+              4 comments)<br>3. <a href="https://www.brautaset.org/posts/yaml-exponent-problem.html">The YAML Exponent Problem causing chaos in your config files</a> (9 points | 
               10 comments)<br>4. <a href="https://nguyenhuythanh.com/posts/having-fun-with-a-scamming-crypto-job/">Having Fun With a Scamming Crypto Job</a> (40 points | 
-              6 comments)<br>5. <a href="https://funcall.blogspot.com/2025/04/lisp-programs-dont-have-parentheses.html">Lisp Programs Don't Have Parentheses</a> (18 points | 
-              25 comments)<br>6. <a href="https://elenacross7.medium.com/%EF%B8%8F-the-s-in-mcp-stands-for-security-91407b33ed6b">The “S” in MCP Stands for Security</a> (11 points | 
+              7 comments)<br>5. <a href="https://funcall.blogspot.com/2025/04/lisp-programs-dont-have-parentheses.html">Lisp Programs Don't Have Parentheses</a> (19 points | 
+              26 comments)<br>6. <a href="https://elenacross7.medium.com/%EF%B8%8F-the-s-in-mcp-stands-for-security-91407b33ed6b">The “S” in MCP Stands for Security</a> (12 points | 
               8 comments)<br>7. <a href="https://github.com/sourcefrog/cargo-mutants">cargo-mutants: :zombie: Inject bugs and see if your tests catch them</a> (8 points | 
-              3 comments)<br>8. <a href="https://diziet.dreamwidth.org/11840.html">chiark’s skip-skip-cross-up-grade (2022)</a> (6 points | 
-              1 comment)<br>9. <a href="https://lilysthings.org/blog/coreboot/">“It’s not that bad” they told me - Coreboot</a> (64 points | 
-              5 comments)<br>10. <a href="https://susam.net/elliptical-python-programming.html">Elliptical Python Programming</a> (37 points | 
-              6 comments)<br>11. <a href="https://developers.redhat.com/articles/2025/04/10/6-usability-improvements-gcc-15">6 usability improvements in GCC 15</a> (11 points | 
-              no comments)<br>12. <a href="https://whynothugo.nl/journal/2025/04/09/man-pages-are-great-man-readers-are-the-problem/">Man pages are great, man readers are the problem</a> (88 points | 
-              55 comments)<br>13. <a href="https://ohadravid.github.io/posts/2025-04-08-btrees-and-mental-models/">BTrees, Inverted Indices, and a Model for Full Text Search</a> (8 points | 
-              1 comment)<br>14. <a href="https://www.muppetlabs.com/~breadbox/txt/mopb.html">My Own Private Binary: An Idiosyncratic Introduction to Linux Kernel Modules</a> (4 points | 
-              no comments)<br>15. <a href="https://git.sr.ht/~meejah/git-withme">git-withme - Peer-to-peer, encrypted, ephemeral Git collaboration (git daemon with encryption)</a> (29 points | 
-              9 comments)<br>16. <a href="https://glthr.com/myst-graph-1">The Myst Graph: A New Perspective on Myst</a> (18 points | 
-              1 comment)<br>17. <a href="https://developer.mozilla.org/en-US/blog/h1-element-styles/">Default styles for h1 elements are changing</a> (1 points | 
-              no comments)<br>18. <a href="https://adamj.eu/tech/2025/04/07/django-whats-new-5.2/">Django: what’s new in 5.2</a> (17 points | 
-              1 comment)<br>19. <a href="https://districtdatalabs.com/time-maps-visualizing-discrete-events-across-many-timescales/">Time Maps: Visualizing Discrete Events for Data Analysis</a> (3 points | 
-              no comments)<br>20. <a href="https://lptk.github.io/programming/2019/10/15/simple-essence-y-combinator.html">The Y Combinator Explained in Python</a> (12 points | 
-              1 comment)<br>21. <a href="https://natkr.com/2025-04-10-async-from-scratch-1/">Async from scratch 1: What's in a Future, anyway?</a> (12 points | 
-              3 comments)<br>22. <a href="https://jpfennell.com/posts/enum-type-size/">A surprising enum size optimization in the Rust compiler</a> (66 points | 
-              22 comments)<br>23. <a href="https://youtube.com/watch?v=vhhAWd_NKBI">Using Python 1.0 in 2022</a> (1 points | 
-              no comments)<br>24. <a href="https://datatracker.ietf.org/doc/rfc1855/">RFC 1855: Netiquette Guidelines (1995)</a> (4 points | 
-              1 comment)<br>25. <a href="https://github.com/facet-rs/facet">facet: Rust reflection, serialization, deserialization — know the shape of your types</a> (45 points | 
-              8 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Friday, April 11, 2025 at 4:20 AM UTC</guid></item></channel></rss>
+              5 comments)<br>8. <a href="https://developer.mozilla.org/en-US/blog/h1-element-styles/">Default styles for h1 elements are changing</a> (4 points | 
+              no comments)<br>9. <a href="https://diziet.dreamwidth.org/11840.html">chiark’s skip-skip-cross-up-grade (2022)</a> (6 points | 
+              1 comment)<br>10. <a href="https://lilysthings.org/blog/coreboot/">“It’s not that bad” they told me - Coreboot</a> (64 points | 
+              5 comments)<br>11. <a href="https://susam.net/elliptical-python-programming.html">Elliptical Python Programming</a> (37 points | 
+              6 comments)<br>12. <a href="https://developers.redhat.com/articles/2025/04/10/6-usability-improvements-gcc-15">6 usability improvements in GCC 15</a> (11 points | 
+              no comments)<br>13. <a href="https://whynothugo.nl/journal/2025/04/09/man-pages-are-great-man-readers-are-the-problem/">Man pages are great, man readers are the problem</a> (88 points | 
+              55 comments)<br>14. <a href="https://ohadravid.github.io/posts/2025-04-08-btrees-and-mental-models/">BTrees, Inverted Indices, and a Model for Full Text Search</a> (8 points | 
+              1 comment)<br>15. <a href="https://www.muppetlabs.com/~breadbox/txt/mopb.html">My Own Private Binary: An Idiosyncratic Introduction to Linux Kernel Modules</a> (4 points | 
+              no comments)<br>16. <a href="https://git.sr.ht/~meejah/git-withme">git-withme - Peer-to-peer, encrypted, ephemeral Git collaboration (git daemon with encryption)</a> (31 points | 
+              9 comments)<br>17. <a href="https://media.ccc.de/v/osmodevcon2024-200-low-cost-high-speed-data-acquisition-over-hdmi#t=1915">Low cost, high speed data acquisition over HDMI</a> (1 points | 
+              no comments)<br>18. <a href="https://adamj.eu/tech/2025/04/07/django-whats-new-5.2/">Django: what’s new in 5.2</a> (19 points | 
+              1 comment)<br>19. <a href="https://glthr.com/myst-graph-1">The Myst Graph: A New Perspective on Myst</a> (18 points | 
+              2 comments)<br>20. <a href="https://districtdatalabs.com/time-maps-visualizing-discrete-events-across-many-timescales/">Time Maps: Visualizing Discrete Events for Data Analysis</a> (3 points | 
+              no comments)<br>21. <a href="https://lptk.github.io/programming/2019/10/15/simple-essence-y-combinator.html">The Y Combinator Explained in Python</a> (12 points | 
+              1 comment)<br>22. <a href="https://natkr.com/2025-04-10-async-from-scratch-1/">Async from scratch 1: What's in a Future, anyway?</a> (13 points | 
+              3 comments)<br>23. <a href="https://jpfennell.com/posts/enum-type-size/">A surprising enum size optimization in the Rust compiler</a> (67 points | 
+              22 comments)<br>24. <a href="https://youtube.com/watch?v=vhhAWd_NKBI">Using Python 1.0 in 2022</a> (1 points | 
+              no comments)<br>25. <a href="https://github.com/facet-rs/facet">facet: Rust reflection, serialization, deserialization — know the shape of your types</a> (45 points | 
+              8 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Friday, April 11, 2025 at 5:15 AM UTC</guid></item></channel></rss>
