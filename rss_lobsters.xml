@@ -1,26 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Mon, 14 Apr 2025 20:18:58 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Monday, April 14, 2025 at 8:20 PM UTC]]></title><description><![CDATA[1. <a href="https://gleam.run/news/global-rename-and-find-references/">Gleam v1.10.0 released</a> (44 points | 
-              2 comments)<br>2. <a href="https://www.openmymind.net/Zigs-New-LinkedList-API/">Zig's new LinkedList API (it's time to learn @fieldParentPtr)</a> (20 points | 
-              19 comments)<br>3. <a href="https://blog.snork.dev/posts/we-don-t-need-no-virtualization.html">We don’t need no virtualization</a> (11 points | 
-              14 comments)<br>4. <a href="https://kerrick.blog/articles/2025/ship-software-that-does-nothing/">Ship Software That Does Nothing</a> (62 points | 
-              22 comments)<br>5. <a href="https://hackers.pub/@hongminhee/2025/why-use-fedify">Ditch the DIY Drama: Why Use Fedify Instead of Building ActivityPub from Scratch?</a> (15 points | 
-              6 comments)<br>6. <a href="https://www.scs.stanford.edu/~dm/blog/param-pack.html">C++20 idioms for parameter packs</a> (9 points | 
-              2 comments)<br>7. <a href="/s/t788y0/what_are_you_doing_this_week">What are you doing this week?</a> (12 points | 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Mon, 14 Apr 2025 21:15:55 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Monday, April 14, 2025 at 9:15 PM UTC]]></title><description><![CDATA[1. <a href="https://gleam.run/news/global-rename-and-find-references/">Gleam v1.10.0 released</a> (45 points | 
+              2 comments)<br>2. <a href="https://www.openmymind.net/Zigs-New-LinkedList-API/">Zig's new LinkedList API (it's time to learn @fieldParentPtr)</a> (21 points | 
+              20 comments)<br>3. <a href="https://blog.snork.dev/posts/we-don-t-need-no-virtualization.html">We don’t need no virtualization</a> (11 points | 
+              16 comments)<br>4. <a href="https://kerrick.blog/articles/2025/ship-software-that-does-nothing/">Ship Software That Does Nothing</a> (62 points | 
+              24 comments)<br>5. <a href="https://www.scs.stanford.edu/~dm/blog/param-pack.html">C++20 idioms for parameter packs</a> (10 points | 
+              2 comments)<br>6. <a href="https://hackers.pub/@hongminhee/2025/why-use-fedify">Ditch the DIY Drama: Why Use Fedify Instead of Building ActivityPub from Scratch?</a> (15 points | 
+              6 comments)<br>7. <a href="/s/t788y0/what_are_you_doing_this_week">What are you doing this week?</a> (12 points | 
               17 comments)<br>8. <a href="https://www.joshwcomeau.com/blog/the-post-developer-era/">The Post-Developer Era</a> (6 points | 
-              2 comments)<br>9. <a href="https://arxiv.org/abs/2309.07932">Flat origami is Turing complete</a> (6 points | 
-              1 comment)<br>10. <a href="https://loganius.org/2025/04/i-bought-a-mac/">I bought a Mac</a> (29 points | 
-              6 comments)<br>11. <a href="https://uwplse.org/2025/03/31/Algebraic-Knitting.html">Algebraic Semantics for Machine Knitting</a> (6 points | 
-              1 comment)<br>12. <a href="https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1094969">git-remote-http is linked against incompatibly licensed OpenSSL</a> (6 points | 
-              1 comment)<br>13. <a href="https://utcc.utoronto.ca/~cks/space/blog/web/ShortTLSCertificatesComing">Mandatory short duration TLS certificates are probably coming soon</a> (27 points | 
-              43 comments)<br>14. <a href="https://hoverbear.org/blog/rust-state-machine-pattern/">Pretty State Machine Patterns in Rust</a> (5 points | 
-              1 comment)<br>15. <a href="https://gitlab.com/-/snippets/2149340">An ssh adventure; or, why l10n support is important</a> (3 points | 
-              1 comment)<br>16. <a href="https://blog.rpanachi.com/after-25-years-writing-software-here-are-a-few-more-things-ive-learned-so-far-part2">I've been writing software for the last 25 years. Here are a few more things I've learned so far (part 2)</a> (5 points | 
-              no comments)<br>17. <a href="https://keithp.com/blogs/sanitizer-fun/">Fun with -fsanitize=undefined and Picolibc</a> (4 points | 
-              1 comment)<br>18. <a href="https://ntietz.com/blog/python-is-an-interpreted-language-with-a-compiler/">Python is an interpreted language with a compiler</a> (2 points | 
-              7 comments)<br>19. <a href="https://subalpinecircuits.com/ssd1306-and-font-rendering/">SSD1306 display drivers and font rendering</a> (3 points | 
+              2 comments)<br>9. <a href="https://arxiv.org/abs/2309.07932">Flat origami is Turing complete</a> (7 points | 
+              1 comment)<br>10. <a href="https://uwplse.org/2025/03/31/Algebraic-Knitting.html">Algebraic Semantics for Machine Knitting</a> (7 points | 
+              1 comment)<br>11. <a href="https://loganius.org/2025/04/i-bought-a-mac/">I bought a Mac</a> (29 points | 
+              6 comments)<br>12. <a href="https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1094969">git-remote-http is linked against incompatibly licensed OpenSSL</a> (7 points | 
+              1 comment)<br>13. <a href="https://ntietz.com/blog/python-is-an-interpreted-language-with-a-compiler/">Python is an interpreted language with a compiler</a> (4 points | 
+              10 comments)<br>14. <a href="https://utcc.utoronto.ca/~cks/space/blog/web/ShortTLSCertificatesComing">Mandatory short duration TLS certificates are probably coming soon</a> (27 points | 
+              43 comments)<br>15. <a href="https://hoverbear.org/blog/rust-state-machine-pattern/">Pretty State Machine Patterns in Rust</a> (5 points | 
+              1 comment)<br>16. <a href="https://gitlab.com/-/snippets/2149340">An ssh adventure; or, why l10n support is important</a> (3 points | 
+              1 comment)<br>17. <a href="https://blog.rpanachi.com/after-25-years-writing-software-here-are-a-few-more-things-ive-learned-so-far-part2">I've been writing software for the last 25 years. Here are a few more things I've learned so far (part 2)</a> (5 points | 
+              no comments)<br>18. <a href="https://keithp.com/blogs/sanitizer-fun/">Fun with -fsanitize=undefined and Picolibc</a> (4 points | 
+              1 comment)<br>19. <a href="https://subalpinecircuits.com/ssd1306-and-font-rendering/">SSD1306 display drivers and font rendering</a> (3 points | 
               no comments)<br>20. <a href="https://www.macstories.net/stories/macpad-how-i-created-the-hybrid-mac-ipad-laptop-and-tablet-that-apple-wont-make/">MacPad: How I Created the Hybrid Mac-iPad Laptop and Tablet That Apple Won’t Make (2024)</a> (2 points | 
               no comments)<br>21. <a href="https://htmx.org/docs/#caching">htmx Documentation - Caching</a> (4 points | 
-              no comments)<br>22. <a href="https://xeiaso.net/notes/2025/anubis-works/">Anubis works</a> (129 points | 
-              56 comments)<br>23. <a href="https://github.com/ashtf8/EinkPDA">An E-Ink PDA device using the ESP32 S3</a> (33 points | 
+              no comments)<br>22. <a href="https://xeiaso.net/notes/2025/anubis-works/">Anubis works</a> (130 points | 
+              57 comments)<br>23. <a href="https://github.com/ashtf8/EinkPDA">An E-Ink PDA device using the ESP32 S3</a> (33 points | 
               2 comments)<br>24. <a href="https://arstechnica.com/gadgets/2025/04/a-history-of-the-internet-part-1-an-arpa-dream-takes-form/">An Ars Technica history of the Internet, part 1</a> (4 points | 
-              no comments)<br>25. <a href="https://github.com/stasinek/stasm">Stasm: GCC/Clang inline assembly wrapper, C macro pre-processor based. ASM for human beings</a> (2 points | 
-              no comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Monday, April 14, 2025 at 8:20 PM UTC</guid></item></channel></rss>
+              no comments)<br>25. <a href="https://www.boringcactus.com/2025/04/13/2025-survey-of-rust-gui-libraries.html">A 2025 Survey of Rust GUI Libraries</a> (1 points | 
+              no comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Monday, April 14, 2025 at 9:15 PM UTC</guid></item></channel></rss>
