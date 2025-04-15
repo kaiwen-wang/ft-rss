@@ -1,26 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Tue, 15 Apr 2025 17:15:22 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Tuesday, April 15, 2025 at 5:15 PM UTC]]></title><description><![CDATA[1. <a href="https://sourcehut.org/blog/2025-04-15-you-cannot-have-our-users-data/">You cannot have our user's data</a> (20 points | 
-              5 comments)<br>2. <a href="https://mcyoung.xyz/2025/04/14/target-triples/">What the Hell Is a Target Triple?</a> (39 points | 
-              14 comments)<br>3. <a href="https://borretti.me/article/two-years-of-rust">Two Years of Rust</a> (22 points | 
-              5 comments)<br>4. <a href="https://aerynos.com/">AerynOS</a> (9 points | 
-              3 comments)<br>5. <a href="https://www.boringcactus.com/2025/04/13/2025-survey-of-rust-gui-libraries.html">A 2025 Survey of Rust GUI Libraries</a> (42 points | 
-              18 comments)<br>6. <a href="https://gleam.run/news/global-rename-and-find-references/">Gleam v1.10.0 released</a> (67 points | 
-              3 comments)<br>7. <a href="https://antiz.fr/blog/archlinux-official-wsl-image/">Arch Linux now has an official WSL image</a> (6 points | 
-              1 comment)<br>8. <a href="https://dylanbeattie.net/2025/04/11/the-problem-with-vibe-coding.html">The Problem with “Vibe Coding”</a> (19 points | 
-              3 comments)<br>9. <a href="https://concerningquality.com/bug-bash-2025/">Bug Bash 2025 Conference Experience</a> (10 points | 
-              3 comments)<br>10. <a href="https://www.joshwcomeau.com/blog/the-post-developer-era/">The Post-Developer Era</a> (30 points | 
-              7 comments)<br>11. <a href="https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1094969">git-remote-http is linked against incompatibly licensed OpenSSL</a> (25 points | 
-              48 comments)<br>12. <a href="https://github.com/bobschrag/clolog">clolog</a> (2 points | 
-              no comments)<br>13. <a href="https://www.codesimplicity.com/post/what-makes-a-great-developer-experience/">What Makes a Great Developer Experience?</a> (3 points | 
-              1 comment)<br>14. <a href="https://blog.snork.dev/posts/we-don-t-need-no-virtualization.html">We don’t need no virtualization</a> (21 points | 
-              28 comments)<br>15. <a href="https://macwright.com/2025/04/12/tidbyt-second-life">Tidbyt without the company</a> (14 points | 
-              2 comments)<br>16. <a href="https://oblac.rs/2025-04-15-when-life-gives-you-java/">When Life Gives You Java</a> (2 points | 
-              no comments)<br>17. <a href="https://www.geoffreylitt.com/2025/04/12/how-i-made-a-useful-ai-assistant-with-one-sqlite-table-and-a-handful-of-cron-jobs.html">Stevens: a hackable AI assistant using a single SQLite table and a handful of cron jobs</a> (12 points | 
-              2 comments)<br>18. <a href="https://dl.acm.org/doi/pdf/10.1145/362384.362685">A Relational Model of Data (1969)</a> (5 points | 
-              no comments)<br>19. <a href="https://joedavisson.com/software/w65c832/w65c832.html">Getting Started with W65C832</a> (2 points | 
-              no comments)<br>20. <a href="https://blog.dogac.dev/how-do-one-time-passwords-work/">Behind the 6-digit code: Building HOTP and TOTP from scratch</a> (7 points | 
-              no comments)<br>21. <a href="https://ocamlpro.com/blog/2025_02_19_the_flambda2_snippets_4/">Flambda2 Ep. 4: How to write a purely functional compiler</a> (1 points | 
-              1 comment)<br>22. <a href="https://www.openmymind.net/Zigs-New-LinkedList-API/">Zig's new LinkedList API (it's time to learn @fieldParentPtr)</a> (26 points | 
-              22 comments)<br>23. <a href="https://ahoy.eu">AHOY! European Social Web Day 2025</a> (2 points | 
-              no comments)<br>24. <a href="https://arxiv.org/abs/2309.07932">Flat origami is Turing complete</a> (17 points | 
-              1 comment)<br>25. <a href="https://natkr.com/2025-04-15-async-from-scratch-2/">Async from scratch 2: Wake me maybe</a> (3 points | 
-              2 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Tuesday, April 15, 2025 at 5:15 PM UTC</guid></item></channel></rss>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Tue, 15 Apr 2025 18:21:51 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Tuesday, April 15, 2025 at 6:20 PM UTC]]></title><description><![CDATA[1. <a href="https://borretti.me/article/two-years-of-rust">Two Years of Rust</a> (24 points | 
+              6 comments)<br>2. <a href="https://mcyoung.xyz/2025/04/14/target-triples/">What the Hell Is a Target Triple?</a> (40 points | 
+              15 comments)<br>3. <a href="https://sourcehut.org/blog/2025-04-15-you-cannot-have-our-users-data/">You cannot have our user's data</a> (34 points | 
+              9 comments)<br>4. <a href="https://aerynos.com/">AerynOS</a> (12 points | 
+              3 comments)<br>5. <a href="https://www.boringcactus.com/2025/04/13/2025-survey-of-rust-gui-libraries.html">A 2025 Survey of Rust GUI Libraries</a> (44 points | 
+              19 comments)<br>6. <a href="https://antiz.fr/blog/archlinux-official-wsl-image/">Arch Linux now has an official WSL image</a> (8 points | 
+              2 comments)<br>7. <a href="https://gleam.run/news/global-rename-and-find-references/">Gleam v1.10.0 released</a> (68 points | 
+              3 comments)<br>8. <a href="https://concerningquality.com/bug-bash-2025/">Bug Bash 2025 Conference Experience</a> (12 points | 
+              3 comments)<br>9. <a href="https://dylanbeattie.net/2025/04/11/the-problem-with-vibe-coding.html">The Problem with “Vibe Coding”</a> (19 points | 
+              3 comments)<br>10. <a href="https://oblac.rs/2025-04-15-when-life-gives-you-java/">When Life Gives You Java</a> (4 points | 
+              no comments)<br>11. <a href="https://www.joshwcomeau.com/blog/the-post-developer-era/">The Post-Developer Era</a> (30 points | 
+              7 comments)<br>12. <a href="https://www.codesimplicity.com/post/what-makes-a-great-developer-experience/">What Makes a Great Developer Experience?</a> (5 points | 
+              1 comment)<br>13. <a href="https://github.com/bobschrag/clolog">clolog</a> (3 points | 
+              no comments)<br>14. <a href="https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1094969">git-remote-http is linked against incompatibly licensed OpenSSL</a> (25 points | 
+              51 comments)<br>15. <a href="https://www.geoffreylitt.com/2025/04/12/how-i-made-a-useful-ai-assistant-with-one-sqlite-table-and-a-handful-of-cron-jobs.html">Stevens: a hackable AI assistant using a single SQLite table and a handful of cron jobs</a> (13 points | 
+              3 comments)<br>16. <a href="https://macwright.com/2025/04/12/tidbyt-second-life">Tidbyt without the company</a> (15 points | 
+              2 comments)<br>17. <a href="https://blog.snork.dev/posts/we-don-t-need-no-virtualization.html">We don’t need no virtualization</a> (21 points | 
+              30 comments)<br>18. <a href="https://dl.acm.org/doi/pdf/10.1145/362384.362685">A Relational Model of Data (1969)</a> (5 points | 
+              no comments)<br>19. <a href="https://natkr.com/2025-04-15-async-from-scratch-2/">Async from scratch 2: Wake me maybe</a> (4 points | 
+              2 comments)<br>20. <a href="https://joedavisson.com/software/w65c832/w65c832.html">Getting Started with W65C832</a> (2 points | 
+              no comments)<br>21. <a href="https://blog.dogac.dev/how-do-one-time-passwords-work/">Behind the 6-digit code: Building HOTP and TOTP from scratch</a> (7 points | 
+              no comments)<br>22. <a href="https://ocamlpro.com/blog/2025_02_19_the_flambda2_snippets_4/">Flambda2 Ep. 4: How to write a purely functional compiler</a> (1 points | 
+              1 comment)<br>23. <a href="https://www.openmymind.net/Zigs-New-LinkedList-API/">Zig's new LinkedList API (it's time to learn @fieldParentPtr)</a> (26 points | 
+              22 comments)<br>24. <a href="https://arxiv.org/abs/2309.07932">Flat origami is Turing complete</a> (18 points | 
+              1 comment)<br>25. <a href="https://ahoy.eu">AHOY! European Social Web Day 2025</a> (2 points | 
+              no comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Tuesday, April 15, 2025 at 6:20 PM UTC</guid></item></channel></rss>
