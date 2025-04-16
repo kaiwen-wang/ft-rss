@@ -1,26 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Wed, 16 Apr 2025 19:12:20 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Wednesday, April 16, 2025 at 7:10 PM UTC]]></title><description><![CDATA[1. <a href="https://infosec.exchange/@briankrebs/114343835430587973">MITRE will stop issuing new CVEs</a> (96 points | 
-              33 comments)<br>2. <a href="https://antirez.com/news/150">Reproducing Hacker News writing style fingerprinting</a> (12 points | 
-              3 comments)<br>3. <a href="https://microsoft.design/articles/introducing-kermit-a-typeface-for-kids/">Introducing Kermit: A typeface for kids</a> (9 points | 
-              2 comments)<br>4. <a href="https://vercel.com/blog/update-on-spain-and-laliga-blocks-of-the-internet">Update on Spain and LaLiga blocks of the internet</a> (26 points | 
-              1 comment)<br>5. <a href="https://git.gammaspectra.live/git/go-away#why">go-away (another http proxy for LLM scraper defence)</a> (36 points | 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Wed, 16 Apr 2025 20:19:10 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Wednesday, April 16, 2025 at 8:20 PM UTC]]></title><description><![CDATA[1. <a href="https://infosec.exchange/@briankrebs/114343835430587973">MITRE will stop issuing new CVEs</a> (100 points | 
+              36 comments)<br>2. <a href="https://vercel.com/blog/update-on-spain-and-laliga-blocks-of-the-internet">Update on Spain and LaLiga blocks of the internet</a> (29 points | 
+              2 comments)<br>3. <a href="https://microsoft.design/articles/introducing-kermit-a-typeface-for-kids/">Introducing Kermit: A typeface for kids</a> (11 points | 
+              2 comments)<br>4. <a href="https://antirez.com/news/150">Reproducing Hacker News writing style fingerprinting</a> (13 points | 
+              3 comments)<br>5. <a href="https://git.gammaspectra.live/git/go-away#why">go-away (another http proxy for LLM scraper defence)</a> (38 points | 
               no comments)<br>6. <a href="https://maknee.github.io/blog/2025/3FS-Performance-Journal-1/">An Intro to DeepSeek's Distributed File System</a> (4 points | 
-              1 comment)<br>7. <a href="https://overreacted.io/jsx-over-the-wire/">JSX Over The Wire</a> (25 points | 
-              4 comments)<br>8. <a href="https://borretti.me/article/two-years-of-rust">Two Years of Rust</a> (65 points | 
-              47 comments)<br>9. <a href="https://www.feldera.com/blog/cutting-down-rust-compile-times-from-30-to-2-minutes-with-one-thousand-crates">Cutting Down Rust Compile Times With One Thousand Crates</a> (20 points | 
-              17 comments)<br>10. <a href="https://v.cx/2025/04/mastodon-exit-interview">Mastodon Exit Interview</a> (9 points | 
-              6 comments)<br>11. <a href="https://www.sandordargo.com/blog/2025/04/16/raw-loops-for-performance">Raw loops for performance?</a> (8 points | 
-              8 comments)<br>12. <a href="https://marcoroth.dev/posts/introducing-herb">Introducing Herb: A new HTML-Aware ERB Parser for smarting developer tooling</a> (4 points | 
-              1 comment)<br>13. <a href="https://alexandrefrancois.org/Resonate/">Resonate</a> (3 points | 
-              no comments)<br>14. <a href="https://spiraldb.com/post/so-you-want-to-use-object-storage">Getting better performance out of object storage</a> (1 points | 
-              1 comment)<br>15. <a href="https://blog.typeobject.com/posts/2025-northguard-announcement/">Northguard: Scalable Log Storage at Linkedin (announcement event)</a> (1 points | 
-              no comments)<br>16. <a href="https://sourcehut.org/blog/2025-04-15-you-cannot-have-our-users-data/">You cannot have our user's data</a> (125 points | 
-              27 comments)<br>17. <a href="https://antiz.fr/blog/archlinux-official-wsl-image/">Arch Linux now has an official WSL image</a> (35 points | 
-              9 comments)<br>18. <a href="https://blog.jetbrains.com/idea/2025/04/the-story-behind-k2-mode-and-how-it-works/">The Story Behind K2 Mode and How It Works</a> (9 points | 
-              12 comments)<br>19. <a href="https://www.youtube.com/watch?v=-HNpim5x-IE">What Every Programmer Should Know about How CPUs Work • Matt Godbolt • GOTO 2024</a> (3 points | 
-              no comments)<br>20. <a href="https://mcyoung.xyz/2025/04/14/target-triples/">What the Hell Is a Target Triple?</a> (74 points | 
-              28 comments)<br>21. <a href="https://benbridle.com/projects/torque.html">Torque – A lightweight meta-assembler for any processor</a> (2 points | 
-              no comments)<br>22. <a href="https://blogs.gnome.org/mcatanzaro/2025/04/15/dangerous-arbitrary-file-read-vulnerability-in-yelp-cve-2025-3155/">Dangerous Arbitrary File Read Vulnerability in Yelp (CVE-2025-3155)</a> (10 points | 
-              2 comments)<br>23. <a href="https://oblac.rs/2025-04-15-when-life-gives-you-java/">When Life Gives You Java</a> (22 points | 
-              3 comments)<br>24. <a href="https://cliutils.gitlab.io/modern-cmake/README.html">An Introduction to Modern CMake</a> (17 points | 
-              4 comments)<br>25. <a href="https://aerynos.com/">AerynOS</a> (26 points | 
-              7 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Wednesday, April 16, 2025 at 7:10 PM UTC</guid></item></channel></rss>
+              1 comment)<br>7. <a href="https://blog.tangled.sh/pulls">the lifecycle of a pull request</a> (3 points | 
+              no comments)<br>8. <a href="https://v.cx/2025/04/mastodon-exit-interview">Mastodon Exit Interview</a> (16 points | 
+              13 comments)<br>9. <a href="https://overreacted.io/jsx-over-the-wire/">JSX Over The Wire</a> (25 points | 
+              4 comments)<br>10. <a href="https://borretti.me/article/two-years-of-rust">Two Years of Rust</a> (66 points | 
+              50 comments)<br>11. <a href="https://lambdaisland.com/blog/2025-04-16-fennel">Learning Fennel from Scratch to Develop Neovim Plugins</a> (4 points | 
+              no comments)<br>12. <a href="https://www.youtube.com/watch?v=-HNpim5x-IE">What Every Programmer Should Know about How CPUs Work • Matt Godbolt • GOTO 2024</a> (5 points | 
+              1 comment)<br>13. <a href="https://www.feldera.com/blog/cutting-down-rust-compile-times-from-30-to-2-minutes-with-one-thousand-crates">Cutting Down Rust Compile Times With One Thousand Crates</a> (20 points | 
+              18 comments)<br>14. <a href="https://www.sandordargo.com/blog/2025/04/16/raw-loops-for-performance">Raw loops for performance?</a> (8 points | 
+              8 comments)<br>15. <a href="https://benbridle.com/projects/torque.html">Torque – A lightweight meta-assembler for any processor</a> (4 points | 
+              no comments)<br>16. <a href="https://marcoroth.dev/posts/introducing-herb">Introducing Herb: A new HTML-Aware ERB Parser for smarting developer tooling</a> (4 points | 
+              1 comment)<br>17. <a href="https://alexandrefrancois.org/Resonate/">Resonate</a> (3 points | 
+              no comments)<br>18. <a href="https://spiraldb.com/post/so-you-want-to-use-object-storage">Getting better performance out of object storage</a> (1 points | 
+              1 comment)<br>19. <a href="https://sourcehut.org/blog/2025-04-15-you-cannot-have-our-users-data/">You cannot have our user's data</a> (126 points | 
+              27 comments)<br>20. <a href="https://blog.typeobject.com/posts/2025-northguard-announcement/">Northguard: Scalable Log Storage at Linkedin (announcement event)</a> (1 points | 
+              no comments)<br>21. <a href="https://antiz.fr/blog/archlinux-official-wsl-image/">Arch Linux now has an official WSL image</a> (36 points | 
+              9 comments)<br>22. <a href="https://blog.jetbrains.com/idea/2025/04/the-story-behind-k2-mode-and-how-it-works/">The Story Behind K2 Mode and How It Works</a> (9 points | 
+              12 comments)<br>23. <a href="https://github.com/samanthaoldenburg/swank-decorators">swank-decorators: Python-inspired decorators for Ruby</a> (3 points | 
+              no comments)<br>24. <a href="https://mcyoung.xyz/2025/04/14/target-triples/">What the Hell Is a Target Triple?</a> (74 points | 
+              28 comments)<br>25. <a href="https://blogs.gnome.org/mcatanzaro/2025/04/15/dangerous-arbitrary-file-read-vulnerability-in-yelp-cve-2025-3155/">Dangerous Arbitrary File Read Vulnerability in Yelp (CVE-2025-3155)</a> (10 points | 
+              2 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Wednesday, April 16, 2025 at 8:20 PM UTC</guid></item></channel></rss>
