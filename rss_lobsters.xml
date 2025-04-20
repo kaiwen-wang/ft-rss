@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Sun, 20 Apr 2025 01:25:21 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Sunday, April 20, 2025 at 1:25 AM UTC]]></title><description><![CDATA[1. <a href="https://ohadravid.github.io/posts/2025-04-19-frank/">Frankenstein’s `__init__`</a> ( points | 
-              8 comments)<br>2. <a href="https://docs.google.com/presentation/d/e/2PACX-1vSmIbSwh1_DXKEMU5YKgYpt5_b4yfOfpfEOKS5_cvtLdiHsX6zt-gNeisamRuCtDtCb2SbTafTI8V47/pub">On Bloat</a> ( points | 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Sun, 20 Apr 2025 03:06:23 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Sunday, April 20, 2025 at 3:05 AM UTC]]></title><description><![CDATA[1. <a href="https://ohadravid.github.io/posts/2025-04-19-frank/">Frankenstein’s `__init__`</a> ( points | 
+              9 comments)<br>2. <a href="https://docs.google.com/presentation/d/e/2PACX-1vSmIbSwh1_DXKEMU5YKgYpt5_b4yfOfpfEOKS5_cvtLdiHsX6zt-gNeisamRuCtDtCb2SbTafTI8V47/pub">On Bloat</a> ( points | 
               17 comments)<br>3. <a href="https://htmx.org/essays/vendoring/">Vendoring</a> ( points | 
               16 comments)<br>4. <a href="https://www.well-typed.com/blog/2023/04/falsify/">falsify: Hypothesis-inspired shrinking for Haskell</a> ( points | 
-              7 comments)<br>5. <a href="https://validark.dev/posts/deus-lex-machina/">Deus Lex Machina: releasing a new compacting Zig tokenizer</a> ( points | 
-              5 comments)<br>6. <a href="https://github.com/zarldev/goenums">goenums: Type Safe Enum generator for Go</a> ( points | 
-              no comments)<br>7. <a href="https://hexdocs.pm/lustre/announcements/2025-04-19.html">Lustre v5.0.0 released</a> ( points | 
-              no comments)<br>8. <a href="https://jan.wildeboer.net/2025/04/Web-is-Broken-Botnet-Part-2/">The Web is Broken — Botnet Part 2</a> ( points | 
-              2 comments)<br>9. <a href="https://venam.net/blog/unix/2025/04/18/mechanism_policy.html">Buried Toggles Begging to be Brought to Light</a> ( points | 
+              7 comments)<br>5. <a href="https://github.com/zarldev/goenums">goenums: Type Safe Enum generator for Go</a> ( points | 
+              no comments)<br>6. <a href="https://jan.wildeboer.net/2025/04/Web-is-Broken-Botnet-Part-2/">The Web is Broken — Botnet Part 2</a> ( points | 
+              3 comments)<br>7. <a href="https://hexdocs.pm/lustre/announcements/2025-04-19.html">Lustre v5.0.0 released</a> ( points | 
+              no comments)<br>8. <a href="https://validark.dev/posts/deus-lex-machina/">Deus Lex Machina: releasing a new compacting Zig tokenizer</a> ( points | 
+              5 comments)<br>9. <a href="https://venam.net/blog/unix/2025/04/18/mechanism_policy.html">Buried Toggles Begging to be Brought to Light</a> ( points | 
               no comments)<br>10. <a href="https://blog.vortan.dev/ematching/">Efficient E-Matching for Super Optimizers</a> ( points | 
               no comments)<br>11. <a href="https://github.com/Kuberwastaken/backdooms">backdooms: A self-contained game that fits inside a QR code</a> ( points | 
               1 comment)<br>12. <a href="https://easters.dev/">Easters - an adventofcode-like challenge for easter</a> ( points | 
@@ -19,8 +19,8 @@
               no comments)<br>19. <a href="https://simonwillison.net/2025/Apr/18/gemini-image-segmentation/">Image segmentation using Gemini 2.5</a> ( points | 
               5 comments)<br>20. <a href="https://blog.glyph.im/2025/04/stop-writing-init-methods.html">Stop Writing `__init__` Methods</a> ( points | 
               40 comments)<br>21. <a href="https://linderud.dev/blog/easter-hack-terraform-provider-openwrt/">Easter hack: terraform-provider-openwrt</a> ( points | 
-              no comments)<br>22. <a href="https://lawrencecpaulson.github.io/2025/03/14/revisiting_demillo.html">Revisiting an early critique of formal verification</a> ( points | 
-              2 comments)<br>23. <a href="https://www.pixelbeat.org/programming/shell_script_mistakes.html">Common shell script mistakes</a> ( points | 
-              18 comments)<br>24. <a href="https://dan.langille.org/2025/04/17/using-ssh-authorized-keys-to-decide-what-the-incoming-connection-can-do/">Using ~/.ssh/authorized keys to decide what the incoming connection can do</a> ( points | 
+              no comments)<br>22. <a href="https://www.pixelbeat.org/programming/shell_script_mistakes.html">Common shell script mistakes</a> ( points | 
+              18 comments)<br>23. <a href="https://lawrencecpaulson.github.io/2025/03/14/revisiting_demillo.html">Revisiting an early critique of formal verification</a> ( points | 
+              2 comments)<br>24. <a href="https://dan.langille.org/2025/04/17/using-ssh-authorized-keys-to-decide-what-the-incoming-connection-can-do/">Using ~/.ssh/authorized keys to decide what the incoming connection can do</a> ( points | 
               15 comments)<br>25. <a href="https://ieeexplore.ieee.org/document/1671509">System Design of a Cellular APL Computer</a> ( points | 
-              2 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Sunday, April 20, 2025 at 1:25 AM UTC</guid></item></channel></rss>
+              2 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Sunday, April 20, 2025 at 3:05 AM UTC</guid></item></channel></rss>
