@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Sat, 26 Apr 2025 05:15:31 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Saturday, April 26, 2025 at 5:15 AM UTC]]></title><description><![CDATA[1. <a href="https://www.phoronix.com/news/Linus-Torvalds-Anti-Case-Fold">Linus Torvalds Expresses His Hatred For Case-Insensitive File-Systems</a> ( points | 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Sat, 26 Apr 2025 06:22:11 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Saturday, April 26, 2025 at 6:20 AM UTC]]></title><description><![CDATA[1. <a href="https://www.phoronix.com/news/Linus-Torvalds-Anti-Case-Fold">Linus Torvalds Expresses His Hatred For Case-Insensitive File-Systems</a> ( points | 
               27 comments)<br>2. <a href="https://mrshiny608.github.io/MrShiny608/optimisation/2025/04/22/OhNoYouDidnt.html">O(no) You Didn’t</a> ( points | 
-              7 comments)<br>3. <a href="https://udidahan.com/2009/09/01/dont-delete-just-dont/">Don’t Delete – Just Don’t (2009)</a> ( points | 
+              8 comments)<br>3. <a href="https://udidahan.com/2009/09/01/dont-delete-just-dont/">Don’t Delete – Just Don’t (2009)</a> ( points | 
               17 comments)<br>4. <a href="https://devenv.sh/blog/2025/04/25/devenv-16-extensible-ad-hoc-nix-environments/">devenv 1.6: Extensible Ad-Hoc Nix Environments</a> ( points | 
               5 comments)<br>5. <a href="https://github.com/githwxi/XATSHOME">ATS3 Xanadu released</a> ( points | 
               4 comments)<br>6. <a href="https://alt-romes.github.io/posts/2025-04-25-unsure-calculator-in-100-lines-of-haskell.html">Implementing Unsure Calculator in 100 lines of Haskell</a> ( points | 
@@ -9,18 +9,18 @@
               no comments)<br>9. <a href="https://gcc.gnu.org/pipermail/gcc/2025-April/245971.html">GCC 15.1 Released</a> ( points | 
               1 comment)<br>10. <a href="https://discuss.systems/@ricci/114396317436420669">How decentralized is the fediverse, really?</a> ( points | 
               15 comments)<br>11. <a href="https://research.swtch.com/diffcover">Differential Coverage for Debugging</a> ( points | 
-              no comments)<br>12. <a href="https://arstechnica.com/information-technology/2018/07/the-beos-filesystem/">The BeOS file system, an OS geek retrospective (2018)</a> ( points | 
-              no comments)<br>13. <a href="https://www.cncf.io/blog/2025/04/24/protecting-nats-and-the-integrity-of-open-source-cncfs-commitment-to-the-community/">Protecting NATS and the integrity of open source: CNCF’s commitment to the community</a> ( points | 
-              18 comments)<br>14. <a href="https://beyondloom.com/blog/slicedice.html">K Slices, K Dices</a> ( points | 
-              1 comment)<br>15. <a href="https://github.com/densumesh/actix-request-reply-cache">actix-request-reply-cache: A Redis-backed response caching middleware for Actix Web applications</a> ( points | 
-              2 comments)<br>16. <a href="https://code.mendhak.com/gpl-v2-address-letter/">I wrote to the address in the GPLv2 license notice and received the GPLv3 license</a> ( points | 
-              13 comments)<br>17. <a href="https://joshleeb.com/posts/kar-design.html">Designing Kar</a> ( points | 
-              no comments)<br>18. <a href="https://simonsafar.com/2025/path_as_system_call/">PATH should be a system call</a> ( points | 
-              29 comments)<br>19. <a href="https://salsa.debian.org/debian/units/-/raw/master/definitions.units">/usr/share/units/definitions.units</a> ( points | 
-              4 comments)<br>20. <a href="https://blog.cr.yp.to/20250423-mceliece.html">McEliece standardization</a> ( points | 
-              no comments)<br>21. <a href="https://wanix.sh/">Wanix :: Virtual environment kit for the local-first web, inspired by Plan 9</a> ( points | 
+              1 comment)<br>12. <a href="https://beyondloom.com/blog/slicedice.html">K Slices, K Dices</a> ( points | 
+              1 comment)<br>13. <a href="https://arstechnica.com/information-technology/2018/07/the-beos-filesystem/">The BeOS file system, an OS geek retrospective (2018)</a> ( points | 
+              no comments)<br>14. <a href="https://www.cncf.io/blog/2025/04/24/protecting-nats-and-the-integrity-of-open-source-cncfs-commitment-to-the-community/">Protecting NATS and the integrity of open source: CNCF’s commitment to the community</a> ( points | 
+              18 comments)<br>15. <a href="https://wanix.sh/">Wanix :: Virtual environment kit for the local-first web, inspired by Plan 9</a> ( points | 
+              no comments)<br>16. <a href="https://github.com/densumesh/actix-request-reply-cache">actix-request-reply-cache: A Redis-backed response caching middleware for Actix Web applications</a> ( points | 
+              2 comments)<br>17. <a href="https://code.mendhak.com/gpl-v2-address-letter/">I wrote to the address in the GPLv2 license notice and received the GPLv3 license</a> ( points | 
+              13 comments)<br>18. <a href="https://joshleeb.com/posts/kar-design.html">Designing Kar</a> ( points | 
+              no comments)<br>19. <a href="https://simonsafar.com/2025/path_as_system_call/">PATH should be a system call</a> ( points | 
+              29 comments)<br>20. <a href="https://salsa.debian.org/debian/units/-/raw/master/definitions.units">/usr/share/units/definitions.units</a> ( points | 
+              4 comments)<br>21. <a href="https://blog.cr.yp.to/20250423-mceliece.html">McEliece standardization</a> ( points | 
               no comments)<br>22. <a href="/s/k9ll9q/what_are_you_doing_this_weekend">What are you doing this weekend?</a> ( points | 
               20 comments)<br>23. <a href="https://crates.io/crates/inline-python">inline-python: Inline Python code directly in your Rust code</a> ( points | 
               no comments)<br>24. <a href="https://mlajtos.mu/posts/new-kind-of-paper">New Kind of Paper</a> ( points | 
               no comments)<br>25. <a href="https://technicalwriting.dev/analytics/sheets.html">Export Google Analytics data to Sheets via Apps Script</a> ( points | 
-              no comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Saturday, April 26, 2025 at 5:15 AM UTC</guid></item></channel></rss>
+              no comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Saturday, April 26, 2025 at 6:20 AM UTC</guid></item></channel></rss>
