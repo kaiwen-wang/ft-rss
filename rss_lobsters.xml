@@ -1,26 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Tue, 29 Apr 2025 11:14:38 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Tuesday, April 29, 2025 at 11:15 AM UTC]]></title><description><![CDATA[1. <a href="https://deadmoney.gg/news/articles/migrating-away-from-rust">Migrating away from Rust</a> ( points | 
-              8 comments)<br>2. <a href="https://ochagavia.nl/blog/what-the-heck-is-aead-again/">What the heck is AEAD again?</a> ( points | 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Tue, 29 Apr 2025 12:36:59 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Tuesday, April 29, 2025 at 12:35 PM UTC]]></title><description><![CDATA[1. <a href="https://deadmoney.gg/news/articles/migrating-away-from-rust">Migrating away from Rust</a> ( points | 
+              13 comments)<br>2. <a href="https://ochagavia.nl/blog/what-the-heck-is-aead-again/">What the heck is AEAD again?</a> ( points | 
               2 comments)<br>3. <a href="https://simonwillison.net/2025/Apr/28/give-it-away-for-free/">Giving software away for free</a> ( points | 
-              7 comments)<br>4. <a href="https://dgl.cx/2025/04/using-haproxy-to-stop-scrapers">Using HAProxy to protect me from scrapers</a> ( points | 
+              8 comments)<br>4. <a href="https://dgl.cx/2025/04/using-haproxy-to-stop-scrapers">Using HAProxy to protect me from scrapers</a> ( points | 
               13 comments)<br>5. <a href="https://www.openbsd.org/77.html">OpenBSD 7.7</a> ( points | 
               10 comments)<br>6. <a href="https://www.cs.cmu.edu/~rwh/papers/dtal/OGI-CSE-99-008.pdf">A Dependently Typed Assembly Language</a> ( points | 
-              5 comments)<br>7. <a href="https://mariozechner.at/posts/2025-04-20-boxie/">Boxie - an always offline audio player for my 3 year old</a> ( points | 
-              19 comments)<br>8. <a href="https://reports.zksecurity.xyz/reports/near-p256/">Audit of the Rust p256 Crate</a> ( points | 
-              2 comments)<br>9. <a href="https://onemillionchessboards.com/">One million chessboards</a> ( points | 
-              2 comments)<br>10. <a href="https://qwenlm.github.io/blog/qwen3/">Qwen3: Think Deeper, Act Faster</a> ( points | 
-              4 comments)<br>11. <a href="https://avohq.io/blog/markdown-image-uploads-easy-mde-rails">Markdown image uploads with EasyMDE and Active Storage</a> ( points | 
-              no comments)<br>12. <a href="https://flak.tedunangst.com/post/anticrawl">anticrawl</a> ( points | 
-              2 comments)<br>13. <a href="https://thelinell.com/posts/2025/elo_in_the_mlb/">The Elo Rating System in the MLB</a> ( points | 
-              1 comment)<br>14. <a href="https://austinhenley.com/blog/groupprojects.html">The design of software engineering course projects</a> ( points | 
-              1 comment)<br>15. <a href="https://arthi-chaud.github.io/posts/packed/">Packed Data support in Haskell</a> ( points | 
-              no comments)<br>16. <a href="https://en.wikipedia.org/wiki/Good_regulator_theorem">Good regulator theorem</a> ( points | 
-              3 comments)<br>17. <a href="https://dgsq.net/2025-04-27-averages/">Computer Architects Can't Find the Average</a> ( points | 
-              6 comments)<br>18. <a href="/s/ahnsrl/what_are_you_doing_this_week">What are you doing this week?</a> ( points | 
-              7 comments)<br>19. <a href="https://jelv.is/blog/Generating-Mazes-with-Inductive-Graphs/">Generating Mazes with Inductive Graphs (2017)</a> ( points | 
-              2 comments)<br>20. <a href="https://devblogs.microsoft.com/oldnewthing/20250428-00/?p=111121">Why did Windows 7, for a few months, log on slower if you have a solid color background?</a> ( points | 
-              no comments)<br>21. <a href="https://github.com/mezantrop/i486SX_soft_FPU">i486SX_soft_FPU: Bring back FPU emulation for i486SX CPU on NetBSD</a> ( points | 
-              2 comments)<br>22. <a href="https://pierrezemb.fr/posts/simulation-driven-development/">What if we embraced simulation-driven development?</a> ( points | 
-              5 comments)<br>23. <a href="https://www.runpyxl.com/gpio">Python sub-micro GPIO</a> ( points | 
-              4 comments)<br>24. <a href="https://cacm.acm.org/blogcacm/reversing-the-fossilization-of-computer-science-conferences/">Reversing the Fossilization of Computer Science Conferences – Communications of the ACM</a> ( points | 
-              no comments)<br>25. <a href="https://simonwillison.net/2025/Apr/26/o3-photo-locations/">Watching o3 guess a photo’s location is surreal, dystopian and wildly entertaining</a> ( points | 
-              19 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Tuesday, April 29, 2025 at 11:15 AM UTC</guid></item></channel></rss>
+              5 comments)<br>7. <a href="https://devblogs.microsoft.com/oldnewthing/20250428-00/?p=111121">Why did Windows 7, for a few months, log on slower if you have a solid color background?</a> ( points | 
+              no comments)<br>8. <a href="https://qwenlm.github.io/blog/qwen3/">Qwen3: Think Deeper, Act Faster</a> ( points | 
+              4 comments)<br>9. <a href="https://mariozechner.at/posts/2025-04-20-boxie/">Boxie - an always offline audio player for my 3 year old</a> ( points | 
+              19 comments)<br>10. <a href="https://onemillionchessboards.com/">One million chessboards</a> ( points | 
+              2 comments)<br>11. <a href="https://reports.zksecurity.xyz/reports/near-p256/">Audit of the Rust p256 Crate</a> ( points | 
+              2 comments)<br>12. <a href="https://en.wikipedia.org/wiki/Good_regulator_theorem">Good regulator theorem</a> ( points | 
+              3 comments)<br>13. <a href="https://austinhenley.com/blog/groupprojects.html">The design of software engineering course projects</a> ( points | 
+              2 comments)<br>14. <a href="https://avohq.io/blog/markdown-image-uploads-easy-mde-rails">Markdown image uploads with EasyMDE and Active Storage</a> ( points | 
+              no comments)<br>15. <a href="https://thelinell.com/posts/2025/elo_in_the_mlb/">The Elo Rating System in the MLB</a> ( points | 
+              1 comment)<br>16. <a href="https://flak.tedunangst.com/post/anticrawl">anticrawl</a> ( points | 
+              2 comments)<br>17. <a href="https://arthi-chaud.github.io/posts/packed/">Packed Data support in Haskell</a> ( points | 
+              no comments)<br>18. <a href="https://purplesyringa.moe/blog/why-performance-optimization-is-hard-work/">Why performance optimization is hard work</a> ( points | 
+              no comments)<br>19. <a href="https://blog.tylerglaiel.com/p/programming-languages-should-have">Programming languages should have a tree traversal primitive</a> ( points | 
+              no comments)<br>20. <a href="https://blog.yoshuawuyts.com/syntactic-musings-on-match-expressions/">Syntactic musings on match expressions</a> ( points | 
+              no comments)<br>21. <a href="https://dgsq.net/2025-04-27-averages/">Computer Architects Can't Find the Average</a> ( points | 
+              6 comments)<br>22. <a href="/s/ahnsrl/what_are_you_doing_this_week">What are you doing this week?</a> ( points | 
+              8 comments)<br>23. <a href="https://pierrezemb.fr/posts/simulation-driven-development/">What if we embraced simulation-driven development?</a> ( points | 
+              6 comments)<br>24. <a href="https://www.runpyxl.com/gpio">Python sub-micro GPIO</a> ( points | 
+              4 comments)<br>25. <a href="https://jelv.is/blog/Generating-Mazes-with-Inductive-Graphs/">Generating Mazes with Inductive Graphs (2017)</a> ( points | 
+              2 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Tuesday, April 29, 2025 at 12:35 PM UTC</guid></item></channel></rss>
