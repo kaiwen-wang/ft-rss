@@ -1,26 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Wed, 30 Apr 2025 05:17:12 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Wednesday, April 30, 2025 at 5:15 AM UTC]]></title><description><![CDATA[1. <a href="https://jepsen.io/analyses/amazon-rds-for-postgresql-17.4">Jepsen: Amazon RDS for PostgreSQL 17.4</a> ( points | 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Wed, 30 Apr 2025 06:25:12 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Wednesday, April 30, 2025 at 6:25 AM UTC]]></title><description><![CDATA[1. <a href="https://jepsen.io/analyses/amazon-rds-for-postgresql-17.4">Jepsen: Amazon RDS for PostgreSQL 17.4</a> ( points | 
               12 comments)<br>2. <a href="https://matklad.github.io/2025/04/22/horizontal-scroll.html">Against Horizontal Scroll</a> ( points | 
               4 comments)<br>3. <a href="https://andymasley.substack.com/p/a-cheat-sheet-for-conversations-about">A cheat sheet for why using ChatGPT is not bad for the environment</a> ( points | 
-              42 comments)<br>4. <a href="https://deadmoney.gg/news/articles/migrating-away-from-rust">Migrating away from Rust</a> ( points | 
-              60 comments)<br>5. <a href="https://idiallo.com/blog/zipbomb-protection">I use Zip Bombs to Protect my Server</a> ( points | 
-              4 comments)<br>6. <a href="https://www.hytradboi.com/2025/03580e19-4646-4fba-91c3-17eaba6935b0-throwing-it-all-away---how-extreme-rewriting-changed-the-way-i-build-databases">Throwing it all away - how extreme rewriting changed the way I build databases</a> ( points | 
+              44 comments)<br>4. <a href="https://idiallo.com/blog/zipbomb-protection">I use Zip Bombs to Protect my Server</a> ( points | 
+              5 comments)<br>5. <a href="https://deadmoney.gg/news/articles/migrating-away-from-rust">Migrating away from Rust</a> ( points | 
+              61 comments)<br>6. <a href="https://www.hytradboi.com/2025/03580e19-4646-4fba-91c3-17eaba6935b0-throwing-it-all-away---how-extreme-rewriting-changed-the-way-i-build-databases">Throwing it all away - how extreme rewriting changed the way I build databases</a> ( points | 
               no comments)<br>7. <a href="https://blog.tylerglaiel.com/p/programming-languages-should-have">Programming languages should have a tree traversal primitive</a> ( points | 
-              21 comments)<br>8. <a href="https://ochagavia.nl/blog/what-the-heck-is-aead-again/">What the heck is AEAD again?</a> ( points | 
-              6 comments)<br>9. <a href="https://purplesyringa.moe/blog/why-performance-optimization-is-hard-work/">Why performance optimization is hard work</a> ( points | 
-              no comments)<br>10. <a href="https://git.gammaspectra.live/git/go-away/releases/tag/v0.6.0">go-away release v0.6.0</a> ( points | 
-              no comments)<br>11. <a href="https://github.com/kai-qu/notation">Quotes on notation design & how it affects thought</a> ( points | 
-              no comments)<br>12. <a href="https://blog.yoshuawuyts.com/syntactic-musings-on-match-expressions/">Syntactic musings on match expressions</a> ( points | 
-              3 comments)<br>13. <a href="https://gist.github.com/wa008/4da70e1970b590497bf057e4358a6248">[vimrc] Bracket and quote matching and automatic shifting</a> ( points | 
-              1 comment)<br>14. <a href="https://pyrefly.org/">Pyrefly: A faster Python type checker written in Rust</a> ( points | 
-              no comments)<br>15. <a href="https://github.com/dtonhofer/prolog_notes">Prolog Notes</a> ( points | 
-              no comments)<br>16. <a href="https://aplwiki.com/wiki/Comparison_with_traditional_mathematics">Comparison with Traditional Mathematics</a> ( points | 
-              no comments)<br>17. <a href="https://devblogs.microsoft.com/oldnewthing/20250428-00/?p=111121">Why did Windows 7, for a few months, log on slower if you have a solid color background?</a> ( points | 
-              no comments)<br>18. <a href="https://simonwillison.net/2025/Apr/28/give-it-away-for-free/">Giving software away for free</a> ( points | 
-              20 comments)<br>19. <a href="https://625.uk.com/tv_logos/bbc1_85.htm">BBC 1 1985 - A Computer Originated World (1999)</a> ( points | 
-              no comments)<br>20. <a href="https://smustafa.blog/2025/04/30/the-abysmal-state-of-contract-software-development/">The Abysmal State of Contract Software Development</a> ( points | 
-              no comments)<br>21. <a href="https://lisp-journey.gitlab.io/blog/discovering-the-lispworks-ide/">Discovering the Lispworks IDE</a> ( points | 
-              no comments)<br>22. <a href="http://archie.macdomain.net/">Archie anonymous FTP search revival</a> ( points | 
-              3 comments)<br>23. <a href="https://blog.christianposta.com/the-updated-mcp-oauth-spec-is-a-mess/">The MCP Authorization Spec Is... a Mess for Enterprise</a> ( points | 
+              21 comments)<br>8. <a href="https://gist.github.com/wa008/4da70e1970b590497bf057e4358a6248">[vimrc] Bracket and quote matching and automatic shifting</a> ( points | 
+              2 comments)<br>9. <a href="https://pyrefly.org/">Pyrefly: A faster Python type checker written in Rust</a> ( points | 
+              1 comment)<br>10. <a href="https://smustafa.blog/2025/04/30/the-abysmal-state-of-contract-software-development/">The Abysmal State of Contract Software Development</a> ( points | 
+              1 comment)<br>11. <a href="https://ochagavia.nl/blog/what-the-heck-is-aead-again/">What the heck is AEAD again?</a> ( points | 
+              6 comments)<br>12. <a href="https://purplesyringa.moe/blog/why-performance-optimization-is-hard-work/">Why performance optimization is hard work</a> ( points | 
+              no comments)<br>13. <a href="https://git.gammaspectra.live/git/go-away/releases/tag/v0.6.0">go-away release v0.6.0</a> ( points | 
+              no comments)<br>14. <a href="https://github.com/kai-qu/notation">Quotes on notation design & how it affects thought</a> ( points | 
+              no comments)<br>15. <a href="https://blog.yoshuawuyts.com/syntactic-musings-on-match-expressions/">Syntactic musings on match expressions</a> ( points | 
+              3 comments)<br>16. <a href="https://github.com/dtonhofer/prolog_notes">Prolog Notes</a> ( points | 
+              no comments)<br>17. <a href="https://aplwiki.com/wiki/Comparison_with_traditional_mathematics">Comparison with Traditional Mathematics</a> ( points | 
+              no comments)<br>18. <a href="https://lisp-journey.gitlab.io/blog/discovering-the-lispworks-ide/">Discovering the Lispworks IDE</a> ( points | 
+              no comments)<br>19. <a href="https://devblogs.microsoft.com/oldnewthing/20250428-00/?p=111121">Why did Windows 7, for a few months, log on slower if you have a solid color background?</a> ( points | 
+              no comments)<br>20. <a href="https://msteveb.github.io/autosetup/">autosetup</a> ( points | 
+              1 comment)<br>21. <a href="https://underjord.io/elixir-is-not-owned-by-big-tech.html">Elixir is not owned by Big Tech</a> ( points | 
+              no comments)<br>22. <a href="https://simonwillison.net/2025/Apr/28/give-it-away-for-free/">Giving software away for free</a> ( points | 
+              20 comments)<br>23. <a href="https://625.uk.com/tv_logos/bbc1_85.htm">BBC 1 1985 - A Computer Originated World (1999)</a> ( points | 
               no comments)<br>24. <a href="https://thoughtbot.com/blog/between-immutability-and-memoization-you-might-have-to-choose">Between immutability and memoization, you might have to choose</a> ( points | 
-              no comments)<br>25. <a href="https://cloud.google.com/blog/topics/threat-intelligence/2024-zero-day-trends">Hello 0-Days, My Old Friend: A 2024 Zero-Day Exploitation Analysis</a> ( points | 
-              4 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Wednesday, April 30, 2025 at 5:15 AM UTC</guid></item></channel></rss>
+              no comments)<br>25. <a href="http://archie.macdomain.net/">Archie anonymous FTP search revival</a> ( points | 
+              3 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Wednesday, April 30, 2025 at 6:25 AM UTC</guid></item></channel></rss>
