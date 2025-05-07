@@ -1,26 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Wed, 07 May 2025 17:15:47 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Wednesday, May 7, 2025 at 5:15 PM UTC]]></title><description><![CDATA[1. <a href="https://zed.dev/blog/fastest-ai-code-editor">Zed Editor adds full AI capabilities</a> ( points | 
-              23 comments)<br>2. <a href="https://blog.jetbrains.com/clion/2025/05/clion-is-now-free-for-non-commercial-use/">CLion Is Now Free for Non-Commercial Use</a> ( points | 
-              10 comments)<br>3. <a href="https://www.youtube.com/watch?v=Yqaon6YHzaU">Finale - How Music Software Dies</a> ( points | 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Wed, 07 May 2025 18:24:54 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Wednesday, May 7, 2025 at 6:25 PM UTC]]></title><description><![CDATA[1. <a href="https://zed.dev/blog/fastest-ai-code-editor">Zed Editor adds full AI capabilities</a> ( points | 
+              26 comments)<br>2. <a href="https://blog.jetbrains.com/clion/2025/05/clion-is-now-free-for-non-commercial-use/">CLion Is Now Free for Non-Commercial Use</a> ( points | 
+              12 comments)<br>3. <a href="https://www.youtube.com/watch?v=Yqaon6YHzaU">Finale - How Music Software Dies</a> ( points | 
               3 comments)<br>4. <a href="https://www.fosskers.ca/en/blog/optimizing-common-lisp">Optimizing Common Lisp</a> ( points | 
               no comments)<br>5. <a href="https://security.opensuse.org/2025/05/07/deepin-desktop-removal.html">Removal of Deepin Desktop from openSUSE due to packaging policy violation</a> ( points | 
-              no comments)<br>6. <a href="https://www.linkedin.com/posts/danielstenberg_hackerone-curl-activity-7324820893862363136-glb1">curl now requires disclosing whether AI was used on bug reports</a> ( points | 
-              34 comments)<br>7. <a href="https://raz.sh/blog/2025-05-02_a_critical_look_at_mcp">A Critical Look at MCP</a> ( points | 
-              2 comments)<br>8. <a href="https://notashelf.dev/posts/curse-of-knowing">The Curse of Knowing How, or; Fixing Everything</a> ( points | 
-              17 comments)<br>9. <a href="https://matklad.github.io/2025/05/06/performance-profile-visualization-challenge.html">Performance Profile Visualization Challenge</a> ( points | 
-              1 comment)<br>10. <a href="https://dbushell.com/2025/05/07/glossary-web-component/">Glossary Web Component</a> ( points | 
-              14 comments)<br>11. <a href="https://www.haproxy.com/blog/state-of-ssl-stacks">The state of SSL stacks</a> ( points | 
-              7 comments)<br>12. <a href="https://github.com/al13n321/nnd">nnd: A TUI alternative to gdb</a> ( points | 
-              4 comments)<br>13. <a href="https://github.com/argoproj/argo-cd/releases/tag/v3.0.0">Argo CD v3.0.0</a> ( points | 
-              3 comments)<br>14. <a href="https://sherifelmetwally.com/writing/writing-arabic-in-english">Writing Arabic in English: My journey in creating a phonetic Arabic keyboard</a> ( points | 
-              1 comment)<br>15. <a href="https://github.com/reubeno/brush">bash/POSIX-compatible shell implemented in Rust</a> ( points | 
-              6 comments)<br>16. <a href="https://forum.lazarus.freepascal.org/index.php?topic=71050.0">Lazarus release 4.0</a> ( points | 
-              no comments)<br>17. <a href="https://ohadravid.github.io/posts/2025-05-serde-reflect/">A Rust API Inspired by Python, Powered by Serde</a> ( points | 
-              no comments)<br>18. <a href="https://anukari.com/blog/devlog/an-appeal-to-apple">An appeal to Apple from Anukari regarding GPU frequency scaling</a> ( points | 
-              18 comments)<br>19. <a href="https://eikopf.bearblog.dev/newtyped-indices-are-proofs/">Newtyped Indices are Proofs</a> ( points | 
-              1 comment)<br>20. <a href="https://www.chrisarmstrong.dev/posts/ocaml-cross-compilation-an-experiment">OCaml cross-compilation: an experiment</a> ( points | 
-              no comments)<br>21. <a href="https://foundation.tlapl.us/challenge/index.html">GenAI-accelerated TLA+ challenge</a> ( points | 
-              23 comments)<br>22. <a href="https://val.packett.cool/blog/podfox/">Podfox: World's First Container-Aware Browser</a> ( points | 
-              18 comments)<br>23. <a href="https://trifectatech.org/blog/memory-safe-sudo-to-become-the-default-in-ubuntu/">Memory-safe sudo to become the default in Ubuntu</a> ( points | 
-              5 comments)<br>24. <a href="https://nmattia.com/posts/2025-05-07-airpods-hearing-test-animation/">Recreating an iOS Animation with GLSL (interactive tutorial)</a> ( points | 
-              no comments)<br>25. <a href="https://ounapuu.ee/posts/2024/12/11/wireguard-backup-fleet/">How to build a fleet of networked offsite backups using Linux, WireGuard and rsync</a> ( points | 
-              4 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Wednesday, May 7, 2025 at 5:15 PM UTC</guid></item></channel></rss>
+              no comments)<br>6. <a href="https://matklad.github.io/2025/05/06/performance-profile-visualization-challenge.html">Performance Profile Visualization Challenge</a> ( points | 
+              1 comment)<br>7. <a href="https://notashelf.dev/posts/curse-of-knowing">The Curse of Knowing How, or; Fixing Everything</a> ( points | 
+              17 comments)<br>8. <a href="https://www.linkedin.com/posts/danielstenberg_hackerone-curl-activity-7324820893862363136-glb1">curl now requires disclosing whether AI was used on bug reports</a> ( points | 
+              35 comments)<br>9. <a href="https://raz.sh/blog/2025-05-02_a_critical_look_at_mcp">A Critical Look at MCP</a> ( points | 
+              2 comments)<br>10. <a href="https://dbushell.com/2025/05/07/glossary-web-component/">Glossary Web Component</a> ( points | 
+              15 comments)<br>11. <a href="https://sherifelmetwally.com/writing/writing-arabic-in-english">Writing Arabic in English: My journey in creating a phonetic Arabic keyboard</a> ( points | 
+              1 comment)<br>12. <a href="https://www.haproxy.com/blog/state-of-ssl-stacks">The state of SSL stacks</a> ( points | 
+              7 comments)<br>13. <a href="https://github.com/al13n321/nnd">nnd: A TUI alternative to gdb</a> ( points | 
+              4 comments)<br>14. <a href="https://github.com/argoproj/argo-cd/releases/tag/v3.0.0">Argo CD v3.0.0</a> ( points | 
+              4 comments)<br>15. <a href="https://ohadravid.github.io/posts/2025-05-serde-reflect/">A Rust API Inspired by Python, Powered by Serde</a> ( points | 
+              no comments)<br>16. <a href="https://futhark-lang.org/blog/2025-05-07-implement-your-language-twice.html">Implement your language twice</a> ( points | 
+              no comments)<br>17. <a href="https://eikopf.bearblog.dev/newtyped-indices-are-proofs/">Newtyped Indices are Proofs</a> ( points | 
+              1 comment)<br>18. <a href="https://github.com/reubeno/brush">bash/POSIX-compatible shell implemented in Rust</a> ( points | 
+              6 comments)<br>19. <a href="https://www.sarasoueidan.com/blog/css-carousels-accessibility/">Are 'CSS Carousels' accessible?</a> ( points | 
+              1 comment)<br>20. <a href="https://forum.lazarus.freepascal.org/index.php?topic=71050.0">Lazarus release 4.0</a> ( points | 
+              no comments)<br>21. <a href="https://anukari.com/blog/devlog/an-appeal-to-apple">An appeal to Apple from Anukari regarding GPU frequency scaling</a> ( points | 
+              18 comments)<br>22. <a href="https://www.chrisarmstrong.dev/posts/ocaml-cross-compilation-an-experiment">OCaml cross-compilation: an experiment</a> ( points | 
+              1 comment)<br>23. <a href="https://moxie.org/2024/09/23/a-good-engineer.html">The magic of software; or, what makes a good engineer also makes a good engineering organization</a> ( points | 
+              no comments)<br>24. <a href="https://foundation.tlapl.us/challenge/index.html">GenAI-accelerated TLA+ challenge</a> ( points | 
+              23 comments)<br>25. <a href="https://val.packett.cool/blog/podfox/">Podfox: World's First Container-Aware Browser</a> ( points | 
+              18 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Wednesday, May 7, 2025 at 6:25 PM UTC</guid></item></channel></rss>
