@@ -1,26 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Fri, 09 May 2025 14:17:07 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Friday, May 9, 2025 at 2:15 PM UTC]]></title><description><![CDATA[1. <a href="https://vincents.dev/blog/rust-dependencies-scare-me/?">Rust Dependencies scare Me</a> ( points | 
-              56 comments)<br>2. <a href="https://mort.io/blog/nu-posix/">Rusty Nu POSIX</a> ( points | 
-              4 comments)<br>3. <a href="https://webassembly.org/news/2025-03-20-wasm-2.0/">Wasm 2.0 Completed</a> ( points | 
-              no comments)<br>4. <a href="https://www.ligeiagames.com/ligeia-blog/castle-kellmore-rendering">2.5D rendering on PlayDate</a> ( points | 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Fri, 09 May 2025 15:17:53 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Friday, May 9, 2025 at 3:15 PM UTC]]></title><description><![CDATA[1. <a href="https://vincents.dev/blog/rust-dependencies-scare-me/?">Rust Dependencies scare Me</a> ( points | 
+              61 comments)<br>2. <a href="https://webassembly.org/news/2025-03-20-wasm-2.0/">Wasm 2.0 Completed</a> ( points | 
+              1 comment)<br>3. <a href="https://mort.io/blog/nu-posix/">Rusty Nu POSIX</a> ( points | 
+              4 comments)<br>4. <a href="https://www.ligeiagames.com/ligeia-blog/castle-kellmore-rendering">2.5D rendering on PlayDate</a> ( points | 
               5 comments)<br>5. <a href="https://sizeof.cat/post/web-browser-telemetry-2025-edition/">Web Browser telemetry</a> ( points | 
-              8 comments)<br>6. <a href="https://samwho.dev/reservoir-sampling/">Reservoir Sampling</a> ( points | 
-              7 comments)<br>7. <a href="https://overreacted.io/static-as-a-server/">Static as a Server</a> ( points | 
-              6 comments)<br>8. <a href="https://youtube.com/watch?v=gthm-0Av93Q&pp=ygUjd2UgZmluaXNoZWQgZGVjb21waWxpbmcgbGVnbyBpc2xhbmQ%3D">So we finished decompiling LEGO Island</a> ( points | 
+              9 comments)<br>6. <a href="https://overreacted.io/static-as-a-server/">Static as a Server</a> ( points | 
+              7 comments)<br>7. <a href="https://samwho.dev/reservoir-sampling/">Reservoir Sampling</a> ( points | 
+              7 comments)<br>8. <a href="https://youtube.com/watch?v=gthm-0Av93Q&pp=ygUjd2UgZmluaXNoZWQgZGVjb21waWxpbmcgbGVnbyBpc2xhbmQ%3D">So we finished decompiling LEGO Island</a> ( points | 
               no comments)<br>9. <a href="https://potetm.com/devtalk/stability-by-design.html">Stability by Design</a> ( points | 
-              17 comments)<br>10. <a href="https://spritely.institute/news/announcing-spritely-oaken.html">Announcing Spritely Oaken</a> ( points | 
-              9 comments)<br>11. <a href="https://anto.pt/articles/go-http-responsewriter">Build your own ResponseWriter: safer HTTP in Go</a> ( points | 
-              2 comments)<br>12. <a href="https://gencmurat.com/en/posts/memory-safety-features-in-zig/">Memory Safety Features in Zig</a> ( points | 
-              77 comments)<br>13. <a href="https://dev.to/yawaramin/easy-parsing-with-reasonable-error-messages-in-ocamls-angstrom-g5f">Easy parsing with reasonable error messages in OCaml's Angstrom</a> ( points | 
-              no comments)<br>14. <a href="https://www.bbc.co.uk/news/articles/c62j2gr8866o">Wikipedia legally challenges 'flawed' online safety rules</a> ( points | 
-              1 comment)<br>15. <a href="https://www.contrapositivediary.com/?p=5399">New Edition of FreePascal From Square One</a> ( points | 
-              1 comment)<br>16. <a href="/s/ukvcyk/which_ai_arena_is_one_we_can_actually_trust">Which AI "arena" is the one we can actually trust?</a> ( points | 
-              11 comments)<br>17. <a href="https://fedoramagazine.org/building-your-own-atomic-bootc-desktop/">Building your own Atomic (bootc) Desktop</a> ( points | 
-              4 comments)<br>18. <a href="https://alic.dev/blog/fast-lexing">Beating the fastest lexer generator in Rust (2023)</a> ( points | 
-              no comments)<br>19. <a href="https://bernsteinbear.com/blog/creduce/">You can use C-Reduce for any language</a> ( points | 
-              2 comments)<br>20. <a href="https://pdubroy.github.io/200andchange/">200 and change</a> ( points | 
-              no comments)<br>21. <a href="/s/t5fvm1/what_are_you_doing_this_weekend">What are you doing this weekend?</a> ( points | 
-              1 comment)<br>22. <a href="https://github.com/schlagmichdoch/PairDrop">PairDrop: peer-to-peer file sharing in your browser</a> ( points | 
-              no comments)<br>23. <a href="https://blog.gripdev.xyz/2025/05/06/ebpf-mystery-when-is-ipv4-not-ipv4-when-its-ipv6/">eBPF mystery: When is IPv4 not IPv4? When it's pretending to be IPv6</a> ( points | 
-              no comments)<br>24. <a href="https://hardenedlinux.org/blog/2025-05-07-the-path-to-memory-safety-is-inevitable/">The Path to Memory Safety is Inevitable</a> ( points | 
-              4 comments)<br>25. <a href="https://nexo.sh/posts/microservices-for-startups/">Microservices Are a Tax Your Startup Probably Can’t Afford</a> ( points | 
-              no comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Friday, May 9, 2025 at 2:15 PM UTC</guid></item></channel></rss>
+              19 comments)<br>10. <a href="https://spritely.institute/news/announcing-spritely-oaken.html">Announcing Spritely Oaken</a> ( points | 
+              11 comments)<br>11. <a href="https://buttondown.com/hillelwayne/archive/write-the-most-clever-code-you-possibly-can/">Write the most clever code you possibly can</a> ( points | 
+              no comments)<br>12. <a href="https://anto.pt/articles/go-http-responsewriter">Build your own ResponseWriter: safer HTTP in Go</a> ( points | 
+              2 comments)<br>13. <a href="https://www.bbc.co.uk/news/articles/c62j2gr8866o">Wikipedia legally challenges 'flawed' online safety rules</a> ( points | 
+              1 comment)<br>14. <a href="https://gencmurat.com/en/posts/memory-safety-features-in-zig/">Memory Safety Features in Zig</a> ( points | 
+              77 comments)<br>15. <a href="/s/t5fvm1/what_are_you_doing_this_weekend">What are you doing this weekend?</a> ( points | 
+              5 comments)<br>16. <a href="https://dev.to/yawaramin/easy-parsing-with-reasonable-error-messages-in-ocamls-angstrom-g5f">Easy parsing with reasonable error messages in OCaml's Angstrom</a> ( points | 
+              no comments)<br>17. <a href="https://www.contrapositivediary.com/?p=5399">New Edition of FreePascal From Square One</a> ( points | 
+              1 comment)<br>18. <a href="/s/ukvcyk/which_ai_arena_is_one_we_can_actually_trust">Which AI "arena" is the one we can actually trust?</a> ( points | 
+              12 comments)<br>19. <a href="https://fedoramagazine.org/building-your-own-atomic-bootc-desktop/">Building your own Atomic (bootc) Desktop</a> ( points | 
+              4 comments)<br>20. <a href="https://blog.gripdev.xyz/2025/05/06/ebpf-mystery-when-is-ipv4-not-ipv4-when-its-ipv6/">eBPF mystery: When is IPv4 not IPv4? When it's pretending to be IPv6</a> ( points | 
+              no comments)<br>21. <a href="https://alic.dev/blog/fast-lexing">Beating the fastest lexer generator in Rust (2023)</a> ( points | 
+              no comments)<br>22. <a href="https://bernsteinbear.com/blog/creduce/">You can use C-Reduce for any language</a> ( points | 
+              2 comments)<br>23. <a href="https://pdubroy.github.io/200andchange/">200 and change</a> ( points | 
+              no comments)<br>24. <a href="https://github.com/schlagmichdoch/PairDrop">PairDrop: peer-to-peer file sharing in your browser</a> ( points | 
+              no comments)<br>25. <a href="https://hardenedlinux.org/blog/2025-05-07-the-path-to-memory-safety-is-inevitable/">The Path to Memory Safety is Inevitable</a> ( points | 
+              6 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Friday, May 9, 2025 at 3:15 PM UTC</guid></item></channel></rss>
