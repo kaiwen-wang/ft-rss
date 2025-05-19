@@ -1,26 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Mon, 19 May 2025 08:25:56 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Monday, May 19, 2025 at 8:25 AM UTC]]></title><description><![CDATA[1. <a href="https://btxx.org/posts/beginners-guide-sourcehut/">A Beginner's Guide to SourceHut</a> ( points | 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Mon, 19 May 2025 09:19:54 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Monday, May 19, 2025 at 9:20 AM UTC]]></title><description><![CDATA[1. <a href="https://btxx.org/posts/beginners-guide-sourcehut/">A Beginner's Guide to SourceHut</a> ( points | 
               13 comments)<br>2. <a href="https://notgull.net/calloop/">async/await versus the Calloop Model</a> ( points | 
-              2 comments)<br>3. <a href="https://anonymousdata.medium.com/postman-is-logging-all-your-secrets-and-environment-variables-9c316e92d424">Postman is logging all your secrets and environment variables</a> ( points | 
-              43 comments)<br>4. <a href="https://gist.github.com/taramtrampam/fca4e599992909b48a3ba1ce69e215a2">"Safe" YAML monster</a> ( points | 
-              8 comments)<br>5. <a href="https://amberwilliams.io/blogs/building-my-own-pkms">Ditching Obsidian and building my own</a> ( points | 
-              2 comments)<br>6. <a href="https://github.com/skift-org/vaev">Another HTML/CSS engine</a> ( points | 
-              2 comments)<br>7. <a href="https://btxx.org/posts/x220/">The X220 ThinkPad is the Best Laptop in the World (2023)</a> ( points | 
-              21 comments)<br>8. <a href="https://beej.us/blog/data/mastodon-comments/">Adding Mastodon Comments to your Blog</a> ( points | 
-              6 comments)<br>9. <a href="https://github.com/trycua/cua/tree/main/libs/lumier">macOS VMs in a Docker Container</a> ( points | 
-              4 comments)<br>10. <a href="https://xenodium.com/llm-text-chat-is-everywhere-whos-optimizing-ux">LLM text chat is everywhere. Who’s optimizing its UX?</a> ( points | 
-              4 comments)<br>11. <a href="https://corrode.dev/blog/rust-option-handling-best-practices/">Don't Unwrap Options: There Are Better Ways</a> ( points | 
-              3 comments)<br>12. <a href="https://pwy.io/posts/mimalloc-cigarette/">Mimalloc Cigarette: Losing one week of my life catching a memory leak</a> ( points | 
-              no comments)<br>13. <a href="https://rustunit.com/blog/2025/05-18-bevy-ios-deep-linking/">iOS Deep-Linking with Bevy in Rust</a> ( points | 
-              no comments)<br>14. <a href="https://www.youtube.com/watch?v=GoyNMFccbow">The little editor that could</a> ( points | 
-              no comments)<br>15. <a href="https://suberic.net/~dmm/projects/mystical/README.html">Mystical</a> ( points | 
-              6 comments)<br>16. <a href="https://vivekdhami.com/posts/git-move-repo-files-with-history/">Git: Move files from one repo to another with history (2021)</a> ( points | 
-              no comments)<br>17. <a href="https://fabiensanglard.net/2168/index.html">Building my childhood dream PC</a> ( points | 
-              1 comment)<br>18. <a href="https://blog.mozilla.org/security/2025/05/17/firefox-security-response-to-pwn2own-2025/">Firefox Security Response to pwn2own 2025</a> ( points | 
-              6 comments)<br>19. <a href="https://www.redblobgames.com/blog/2025-05-08-mapgen4-trade-routes/">Mapgen4 trade routes</a> ( points | 
-              no comments)<br>20. <a href="https://smallcultfollowing.com/babysteps/blog/2025/05/15/10-years-of-rust/">Rust turns 10</a> ( points | 
-              no comments)<br>21. <a href="https://holdtherobot.com/blog/2025/05/11/linux-on-android-with-ar-glasses/">Coding Without a Laptop - Two Weeks with AR Glasses and Linux on Android</a> ( points | 
-              no comments)<br>22. <a href="https://kevinschoon.com/blog/announcing-ayllu-0.4">Ayllu Code Forge 0.4 Has Been Released</a> ( points | 
-              no comments)<br>23. <a href="https://blog.papey.fr/post/08-ruby-objects/">Demystifying Ruby (2/3): Objects, Objects everywhere</a> ( points | 
-              no comments)<br>24. <a href="https://corrode.dev/blog/expressions/">Thinking in Expressions</a> ( points | 
-              no comments)<br>25. <a href="https://corrode.dev/blog/lifetimes/">Don't Worry About Lifetimes</a> ( points | 
-              no comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Monday, May 19, 2025 at 8:25 AM UTC</guid></item></channel></rss>
+              2 comments)<br>3. <a href="https://corrode.dev/blog/rust-option-handling-best-practices/">Don't Unwrap Options: There Are Better Ways</a> ( points | 
+              4 comments)<br>4. <a href="https://github.com/trycua/cua/tree/main/libs/lumier">macOS VMs in a Docker Container</a> ( points | 
+              6 comments)<br>5. <a href="https://anonymousdata.medium.com/postman-is-logging-all-your-secrets-and-environment-variables-9c316e92d424">Postman is logging all your secrets and environment variables</a> ( points | 
+              44 comments)<br>6. <a href="https://btxx.org/posts/x220/">The X220 ThinkPad is the Best Laptop in the World (2023)</a> ( points | 
+              22 comments)<br>7. <a href="https://gist.github.com/taramtrampam/fca4e599992909b48a3ba1ce69e215a2">"Safe" YAML monster</a> ( points | 
+              8 comments)<br>8. <a href="https://amberwilliams.io/blogs/building-my-own-pkms">Ditching Obsidian and building my own</a> ( points | 
+              3 comments)<br>9. <a href="https://xenodium.com/llm-text-chat-is-everywhere-whos-optimizing-ux">LLM text chat is everywhere. Who’s optimizing its UX?</a> ( points | 
+              5 comments)<br>10. <a href="https://beej.us/blog/data/mastodon-comments/">Adding Mastodon Comments to your Blog</a> ( points | 
+              6 comments)<br>11. <a href="https://github.com/skift-org/vaev">Another HTML/CSS engine</a> ( points | 
+              2 comments)<br>12. <a href="https://holdtherobot.com/blog/2025/05/11/linux-on-android-with-ar-glasses/">Coding Without a Laptop - Two Weeks with AR Glasses and Linux on Android</a> ( points | 
+              no comments)<br>13. <a href="https://pwy.io/posts/mimalloc-cigarette/">Mimalloc Cigarette: Losing one week of my life catching a memory leak</a> ( points | 
+              no comments)<br>14. <a href="https://rustunit.com/blog/2025/05-18-bevy-ios-deep-linking/">iOS Deep-Linking with Bevy in Rust</a> ( points | 
+              no comments)<br>15. <a href="https://vivekdhami.com/posts/git-move-repo-files-with-history/">Git: Move files from one repo to another with history (2021)</a> ( points | 
+              no comments)<br>16. <a href="https://docs.hatchet.run/blog/fastest-postgres-inserts">The fastest Postgres inserts</a> ( points | 
+              no comments)<br>17. <a href="https://www.youtube.com/watch?v=GoyNMFccbow">The little editor that could</a> ( points | 
+              no comments)<br>18. <a href="https://fabiensanglard.net/2168/index.html">Building my childhood dream PC</a> ( points | 
+              1 comment)<br>19. <a href="https://www.redblobgames.com/blog/2025-05-08-mapgen4-trade-routes/">Mapgen4 trade routes</a> ( points | 
+              no comments)<br>20. <a href="https://suberic.net/~dmm/projects/mystical/README.html">Mystical</a> ( points | 
+              6 comments)<br>21. <a href="https://blog.racket-lang.org/2025/05/racket-v8-17.html">Racket v8.17</a> ( points | 
+              no comments)<br>22. <a href="https://webkit.org/blog/16929/contrast-color/">How to have the browser pick a contrasting color in CSS</a> ( points | 
+              no comments)<br>23. <a href="https://frida.re/news/2025/05/17/frida-17-0-0-released/">Frida 17.0.0 Released</a> ( points | 
+              no comments)<br>24. <a href="https://blog.mozilla.org/security/2025/05/17/firefox-security-response-to-pwn2own-2025/">Firefox Security Response to pwn2own 2025</a> ( points | 
+              6 comments)<br>25. <a href="https://smallcultfollowing.com/babysteps/blog/2025/05/15/10-years-of-rust/">Rust turns 10</a> ( points | 
+              no comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Monday, May 19, 2025 at 9:20 AM UTC</guid></item></channel></rss>
