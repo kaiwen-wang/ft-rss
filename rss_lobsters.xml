@@ -1,26 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Wed, 21 May 2025 03:10:11 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Wednesday, May 21, 2025 at 3:10 AM UTC]]></title><description><![CDATA[1. <a href="https://deno.com/blog/greatly-exaggerated">Reports of Deno's Demise Have Been Greatly Exaggerated</a> ( points | 
-              19 comments)<br>2. <a href="https://f3.forgefriends.org/">An Open File Format for storing the information from a forge such as issues, pull/merge requests, milestones</a> ( points | 
-              5 comments)<br>3. <a href="https://matklad.github.io/2025/05/20/open-source-cant-coordinate.html">Open Source Can't Coordinate</a> ( points | 
-              33 comments)<br>4. <a href="https://mmapped.blog/posts/28-enlightenmentware">Enlightenmentware</a> ( points | 
-              10 comments)<br>5. <a href="https://seiya.me/blog/hypervisor-as-a-library">Hypervisor as a Library</a> ( points | 
-              1 comment)<br>6. <a href="https://apply.coop">apply.coop - Matching people with jobs that fit their values & passions</a> ( points | 
-              no comments)<br>7. <a href="https://fly.io/blog/litestream-revamped/">Litestream: Revamped</a> ( points | 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Wed, 21 May 2025 04:21:51 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Wednesday, May 21, 2025 at 4:20 AM UTC]]></title><description><![CDATA[1. <a href="https://deno.com/blog/greatly-exaggerated">Reports of Deno's Demise Have Been Greatly Exaggerated</a> ( points | 
+              21 comments)<br>2. <a href="https://f3.forgefriends.org/">An Open File Format for storing the information from a forge such as issues, pull/merge requests, milestones</a> ( points | 
+              5 comments)<br>3. <a href="https://apply.coop">apply.coop - Matching people with jobs that fit their values & passions</a> ( points | 
+              no comments)<br>4. <a href="https://matklad.github.io/2025/05/20/open-source-cant-coordinate.html">Open Source Can't Coordinate</a> ( points | 
+              36 comments)<br>5. <a href="https://mmapped.blog/posts/28-enlightenmentware">Enlightenmentware</a> ( points | 
+              10 comments)<br>6. <a href="https://seiya.me/blog/hypervisor-as-a-library">Hypervisor as a Library</a> ( points | 
+              1 comment)<br>7. <a href="https://fly.io/blog/litestream-revamped/">Litestream: Revamped</a> ( points | 
               3 comments)<br>8. <a href="https://agent-kilo.github.io/jwno/">Jwno: a tiling WM for Windows, written in Janet</a> ( points | 
               2 comments)<br>9. <a href="https://hardenedbsd.org/article/shawn-webb/2025-05-20/optional-rust-freebsd-support-may-2025-status-report">Optional Rust-In-FreeBSD Support May 2025 Status Report</a> ( points | 
               no comments)<br>10. <a href="/s/7q3ntz/tag_proposal_concatenative">Tag Proposal: concatenative</a> ( points | 
               1 comment)<br>11. <a href="https://devclass.com/2025/05/16/interview-chief-maintainer-of-qt-project-on-language-independence-kde-and-the-pain-of-qt-5-to-qt-6/">Interview: Chief maintainer of Qt project on language independence, KDE, and the pain of Qt 5 to Qt 6</a> ( points | 
-              no comments)<br>12. <a href="https://sniffnet.net/news/rethink-over-workaround/">When rethinking a codebase is better than a workaround</a> ( points | 
-              1 comment)<br>13. <a href="https://vitonsky.net/blog/2025/05/17/language-detection/">Don't Guess My Language</a> ( points | 
-              47 comments)<br>14. <a href="https://blog.swgillespie.me/posts/monorepo-ingredients/">The Ingredients of a Productive Monorepo</a> ( points | 
-              1 comment)<br>15. <a href="https://noelberry.ca/posts/making_games_in_2025/">Making Video Games in 2025 (without an engine)</a> ( points | 
-              23 comments)<br>16. <a href="https://krebsonsecurity.com/2025/05/krebsonsecurity-hit-with-near-record-6-3-tbps-ddos/">KrebsOnSecurity Hit With Near-Record 6.3 Tbps DDoS</a> ( points | 
-              no comments)<br>17. <a href="https://blogs.windows.com/windowsdeveloper/2025/05/19/the-windows-subsystem-for-linux-is-now-open-source/">The Windows Subsystem for Linux is now open source</a> ( points | 
-              22 comments)<br>18. <a href="https://farlow.dev/2025/05/17/ocaml-on-calculator">Compiling OCaml to the TI-84+ CE Calculator</a> ( points | 
-              no comments)<br>19. <a href="https://bernsteinbear.com/blog/simple-search/">A simple search engine from scratch</a> ( points | 
-              1 comment)<br>20. <a href="https://www.youtube.com/watch?v=LSNQuFEDOyQ">Lerp smoothing is broken</a> ( points | 
-              2 comments)<br>21. <a href="https://ziglang.org/devlog/2025/#2025-05-20">FreeBSD and NetBSD Zig Cross-Compilation Support</a> ( points | 
-              1 comment)<br>22. <a href="https://alexwlchan.net/2025/personal-archive-of-the-web/">Building a personal archive of the web, the slow way</a> ( points | 
-              14 comments)<br>23. <a href="https://devblogs.microsoft.com/commandline/edit-is-now-open-source/">Microsoft Edit is now open source</a> ( points | 
-              38 comments)<br>24. <a href="https://www.schneems.com/2025/05/07/bad-type-patterns-the-duplicate-duck/">Bad Type Patterns - The Duplicate duck</a> ( points | 
-              no comments)<br>25. <a href="https://serce.me/posts/2025-05-19-justification-filler-phrases">Justification Filler Phrases</a> ( points | 
-              15 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Wednesday, May 21, 2025 at 3:10 AM UTC</guid></item></channel></rss>
+              no comments)<br>12. <a href="https://krebsonsecurity.com/2025/05/krebsonsecurity-hit-with-near-record-6-3-tbps-ddos/">KrebsOnSecurity Hit With Near-Record 6.3 Tbps DDoS</a> ( points | 
+              no comments)<br>13. <a href="https://sniffnet.net/news/rethink-over-workaround/">When rethinking a codebase is better than a workaround</a> ( points | 
+              1 comment)<br>14. <a href="https://vitonsky.net/blog/2025/05/17/language-detection/">Don't Guess My Language</a> ( points | 
+              47 comments)<br>15. <a href="https://noelberry.ca/posts/making_games_in_2025/">Making Video Games in 2025 (without an engine)</a> ( points | 
+              24 comments)<br>16. <a href="https://blog.swgillespie.me/posts/monorepo-ingredients/">The Ingredients of a Productive Monorepo</a> ( points | 
+              1 comment)<br>17. <a href="https://ziglang.org/devlog/2025/#2025-05-20">FreeBSD and NetBSD Zig Cross-Compilation Support</a> ( points | 
+              1 comment)<br>18. <a href="https://blogs.windows.com/windowsdeveloper/2025/05/19/the-windows-subsystem-for-linux-is-now-open-source/">The Windows Subsystem for Linux is now open source</a> ( points | 
+              22 comments)<br>19. <a href="https://farlow.dev/2025/05/17/ocaml-on-calculator">Compiling OCaml to the TI-84+ CE Calculator</a> ( points | 
+              no comments)<br>20. <a href="https://bernsteinbear.com/blog/simple-search/">A simple search engine from scratch</a> ( points | 
+              1 comment)<br>21. <a href="https://www.youtube.com/watch?v=LSNQuFEDOyQ">Lerp smoothing is broken</a> ( points | 
+              2 comments)<br>22. <a href="https://alexwlchan.net/2025/personal-archive-of-the-web/">Building a personal archive of the web, the slow way</a> ( points | 
+              14 comments)<br>23. <a href="https://mmapped.blog/posts/18-if-composers-were-hackers">If composers were hackers</a> ( points | 
+              1 comment)<br>24. <a href="https://devblogs.microsoft.com/commandline/edit-is-now-open-source/">Microsoft Edit is now open source</a> ( points | 
+              38 comments)<br>25. <a href="https://www.schneems.com/2025/05/07/bad-type-patterns-the-duplicate-duck/">Bad Type Patterns - The Duplicate duck</a> ( points | 
+              no comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Wednesday, May 21, 2025 at 4:20 AM UTC</guid></item></channel></rss>
