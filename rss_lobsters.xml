@@ -1,26 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Fri, 23 May 2025 12:35:26 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Friday, May 23, 2025 at 12:35 PM UTC]]></title><description><![CDATA[1. <a href="https://aphyr.com/posts/387-the-future-of-customer-support-is-lies-i-guess">The Future of Customer Support is Lies, I Guess</a> ( points | 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Fri, 23 May 2025 13:28:03 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Friday, May 23, 2025 at 1:30 PM UTC]]></title><description><![CDATA[1. <a href="https://aphyr.com/posts/387-the-future-of-customer-support-is-lies-i-guess">The Future of Customer Support is Lies, I Guess</a> ( points | 
               28 comments)<br>2. <a href="https://ohadravid.github.io/posts/2025-05-rav1d-faster/">Making the rav1d Video Decoder 1% Faster</a> ( points | 
-              no comments)<br>3. <a href="https://signal.org/blog/signal-doesnt-recall/">By Default, Signal Doesn't Recall</a> ( points | 
-              21 comments)<br>4. <a href="https://www.brendangregg.com/blog/2025-05-22/3-years-of-extremely-remote-work.html">3 Years of Extremely Remote Work</a> ( points | 
-              25 comments)<br>5. <a href="https://deplet.ing/the-copilot-delusion/">The Copilot Delusion</a> ( points | 
-              1 comment)<br>6. <a href="https://www.freebsd.org/status/report-2025-01-2025-03/">FreeBSD Status Report 2025Q1</a> ( points | 
-              no comments)<br>7. <a href="https://people.csail.mit.edu/rachit/post/transpiler/">Transpiler is a meaningless word (2023)</a> ( points | 
-              51 comments)<br>8. <a href="https://deniz.aksimsek.tr/2025/hypersystem/">Hypersystem: a pixel display font for Hypermedia Systems</a> ( points | 
-              no comments)<br>9. <a href="https://flak.tedunangst.com/post/another-tale-of-gomod-bloat">another tale of go.mod bloat</a> ( points | 
-              11 comments)<br>10. <a href="https://www.enterprisedb.com/blog/debugging-memory-leaks-postgres-heaptrack-edition">Debugging memory leaks in Postgres, heaptrack edition</a> ( points | 
-              1 comment)<br>11. <a href="https://devblogs.microsoft.com/typescript/announcing-typescript-native-previews/">Announcing TypeScript Native Previews</a> ( points | 
-              no comments)<br>12. <a href="https://natkr.com/2025-05-22-async-from-scratch-3/">Async from scratch 3: Pinned against the wall</a> ( points | 
+              no comments)<br>3. <a href="https://deplet.ing/the-copilot-delusion/">The Copilot Delusion</a> ( points | 
+              1 comment)<br>4. <a href="https://signal.org/blog/signal-doesnt-recall/">By Default, Signal Doesn't Recall</a> ( points | 
+              21 comments)<br>5. <a href="https://www.brendangregg.com/blog/2025-05-22/3-years-of-extremely-remote-work.html">3 Years of Extremely Remote Work</a> ( points | 
+              25 comments)<br>6. <a href="https://devblogs.microsoft.com/typescript/announcing-typescript-native-previews/">Announcing TypeScript Native Previews</a> ( points | 
+              1 comment)<br>7. <a href="https://www.freebsd.org/status/report-2025-01-2025-03/">FreeBSD Status Report 2025Q1</a> ( points | 
+              no comments)<br>8. <a href="https://people.csail.mit.edu/rachit/post/transpiler/">Transpiler is a meaningless word (2023)</a> ( points | 
+              52 comments)<br>9. <a href="https://flak.tedunangst.com/post/another-tale-of-gomod-bloat">another tale of go.mod bloat</a> ( points | 
+              11 comments)<br>10. <a href="https://deniz.aksimsek.tr/2025/hypersystem/">Hypersystem: a pixel display font for Hypermedia Systems</a> ( points | 
+              no comments)<br>11. <a href="https://www.enterprisedb.com/blog/debugging-memory-leaks-postgres-heaptrack-edition">Debugging memory leaks in Postgres, heaptrack edition</a> ( points | 
+              1 comment)<br>12. <a href="https://natkr.com/2025-05-22-async-from-scratch-3/">Async from scratch 3: Pinned against the wall</a> ( points | 
               3 comments)<br>13. <a href="https://blog.plover.com/tech/gpt/claude-xar.html">Claude and I write a utility program</a> ( points | 
-              6 comments)<br>14. <a href="https://youtube.com/watch?v=dQI7y7eSUGU">Recreating performant fish school animation of Abzû</a> ( points | 
+              7 comments)<br>14. <a href="https://youtube.com/watch?v=dQI7y7eSUGU">Recreating performant fish school animation of Abzû</a> ( points | 
               no comments)<br>15. <a href="https://wiki.c2.com/?ClosuresAndObjectsAreEquivalent">Closures And Objects Are Equivalent (2013)</a> ( points | 
-              5 comments)<br>16. <a href="https://fgiesen.wordpress.com/2025/05/21/oodle-2-9-14-and-intel-13th-14th-gen-cpus/">Oodle 2.9.14 and Intel 13th/14th gen CPUs</a> ( points | 
-              2 comments)<br>17. <a href="https://push.cx/typeid-in-lua">TypeID in Lua</a> ( points | 
-              10 comments)<br>18. <a href="https://lwn.net/SubscriberLink/1020576/fcef31015579a9b1/">Recent disruptive changes from Setuptools</a> ( points | 
-              27 comments)<br>19. <a href="https://railsatscale.com/2025-05-21-fast-allocations-in-ruby-3-5/">Fast Allocations in Ruby 3.5</a> ( points | 
-              1 comment)<br>20. <a href="https://rsadowski.de/posts/2025/fio_simple_benckmarking/">OpenBSD IO benchmarking: How Many Jobs Are Worth It?</a> ( points | 
-              no comments)<br>21. <a href="https://oppi.li/posts/tales_from_mainframe_modernization/">Tales From Mainframe Modernization</a> ( points | 
-              7 comments)<br>22. <a href="https://ashvardanian.com/posts/beyond-openmp-in-cpp-rust/">Fork Union: Beyond OpenMP in C++ and Rust?</a> ( points | 
-              no comments)<br>23. <a href="https://wingolog.org/archives/2025/05/22/whippet-lab-notebook-guile-heuristics-and-heap-growth">Whippet GC notes on Guile, heuristics, and heap growth</a> ( points | 
-              no comments)<br>24. <a href="https://sigkill.dk/blog/2025-04-03-gradbench.html">The GradBench Benchmark Suite for Automatic Differentiation</a> ( points | 
-              no comments)<br>25. <a href="https://punkx.org/jackdoe/misery.html">Machinist and Machine</a> ( points | 
-              2 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Friday, May 23, 2025 at 12:35 PM UTC</guid></item></channel></rss>
+              5 comments)<br>16. <a href="https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/whoosh-rocket/">Nasa's whoosh rocket</a> ( points | 
+              no comments)<br>17. <a href="https://fgiesen.wordpress.com/2025/05/21/oodle-2-9-14-and-intel-13th-14th-gen-cpus/">Oodle 2.9.14 and Intel 13th/14th gen CPUs</a> ( points | 
+              2 comments)<br>18. <a href="https://push.cx/typeid-in-lua">TypeID in Lua</a> ( points | 
+              10 comments)<br>19. <a href="https://ashvardanian.com/posts/beyond-openmp-in-cpp-rust/">Fork Union: Beyond OpenMP in C++ and Rust?</a> ( points | 
+              no comments)<br>20. <a href="https://railsatscale.com/2025-05-21-fast-allocations-in-ruby-3-5/">Fast Allocations in Ruby 3.5</a> ( points | 
+              1 comment)<br>21. <a href="https://lwn.net/SubscriberLink/1020576/fcef31015579a9b1/">Recent disruptive changes from Setuptools</a> ( points | 
+              28 comments)<br>22. <a href="https://sigkill.dk/blog/2025-04-03-gradbench.html">The GradBench Benchmark Suite for Automatic Differentiation</a> ( points | 
+              no comments)<br>23. <a href="https://rsadowski.de/posts/2025/fio_simple_benckmarking/">OpenBSD IO benchmarking: How Many Jobs Are Worth It?</a> ( points | 
+              no comments)<br>24. <a href="https://oppi.li/posts/tales_from_mainframe_modernization/">Tales From Mainframe Modernization</a> ( points | 
+              7 comments)<br>25. <a href="https://wingolog.org/archives/2025/05/22/whippet-lab-notebook-guile-heuristics-and-heap-growth">Whippet GC notes on Guile, heuristics, and heap growth</a> ( points | 
+              no comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Friday, May 23, 2025 at 1:30 PM UTC</guid></item></channel></rss>
