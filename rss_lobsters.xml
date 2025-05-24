@@ -1,26 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Sat, 24 May 2025 09:16:24 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Saturday, May 24, 2025 at 9:15 AM UTC]]></title><description><![CDATA[1. <a href="https://oppi.li/posts/configuring_jujutsu/">Configuring Jujutsu</a> ( points | 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Sat, 24 May 2025 10:16:45 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Saturday, May 24, 2025 at 10:15 AM UTC]]></title><description><![CDATA[1. <a href="https://oppi.li/posts/configuring_jujutsu/">Configuring Jujutsu</a> ( points | 
               9 comments)<br>2. <a href="https://fabianlindfors.se/blog/making-postgres-distributed/">Making Postgres distributed with FoundationDB</a> ( points | 
               7 comments)<br>3. <a href="https://old.reddit.com/r/rust/comments/1ktph3c/media_the_gcc_compiler_backend_can_now_fully">The GCC compiler backend can now fully bootstrap the Rust compiler</a> ( points | 
               2 comments)<br>4. <a href="https://antelang.org/blog/why_effects/">Why Algebraic Effects?</a> ( points | 
-              19 comments)<br>5. <a href="https://lwn.net/Articles/1020571/">The future of Flatpak</a> ( points | 
+              21 comments)<br>5. <a href="https://lwn.net/Articles/1020571/">The future of Flatpak</a> ( points | 
               20 comments)<br>6. <a href="https://nixos.org/blog/announcements/2025/nixos-2505/">NixOS 25.05 released</a> ( points | 
-              4 comments)<br>7. <a href="https://rachelbythebay.com/w/2025/05/22/ssl/">Why I no longer have an old-school cert on my https site</a> ( points | 
-              no comments)<br>8. <a href="https://devblogs.microsoft.com/typescript/announcing-typescript-native-previews/">Announcing TypeScript Native Previews</a> ( points | 
-              8 comments)<br>9. <a href="https://domenic.me/fsrs/">Spaced Repetition Systems Have Gotten Way Better</a> ( points | 
-              10 comments)<br>10. <a href="https://jan.wildeboer.net/2025/02/Blocking-Stealthy-Botnets/">Those Stealthy Botnets</a> ( points | 
+              5 comments)<br>7. <a href="https://rachelbythebay.com/w/2025/05/22/ssl/">Why I no longer have an old-school cert on my https site</a> ( points | 
+              no comments)<br>8. <a href="https://domenic.me/fsrs/">Spaced Repetition Systems Have Gotten Way Better</a> ( points | 
+              10 comments)<br>9. <a href="https://devblogs.microsoft.com/typescript/announcing-typescript-native-previews/">Announcing TypeScript Native Previews</a> ( points | 
+              8 comments)<br>10. <a href="https://jan.wildeboer.net/2025/02/Blocking-Stealthy-Botnets/">Those Stealthy Botnets</a> ( points | 
               9 comments)<br>11. <a href="https://lynn.sh/guix-emacs-file-manager.html">Emacs dired-mode as a file manager</a> ( points | 
               2 comments)<br>12. <a href="https://deplet.ing/the-copilot-delusion/">The Copilot Delusion</a> ( points | 
-              10 comments)<br>13. <a href="https://blog.plover.com/Unix/whitespace.html">The shell and its problems in handling of whitespace (2023)</a> ( points | 
+              11 comments)<br>13. <a href="https://blog.plover.com/Unix/whitespace.html">The shell and its problems in handling of whitespace (2023)</a> ( points | 
               7 comments)<br>14. <a href="https://www.linusakesson.net/scene/kaleidoscopico/index.php">Kaleidoscopico</a> ( points | 
               no comments)<br>15. <a href="https://www.youtube.com/watch?v=UJfF3-13aFo">A 10x Faster TypeScript</a> ( points | 
               6 comments)<br>16. <a href="/s/6ajfsx/what_are_you_doing_this_weekend">What are you doing this weekend?</a> ( points | 
-              12 comments)<br>17. <a href="https://aphyr.com/posts/387-the-future-of-customer-support-is-lies-i-guess">The Future of Customer Support is Lies, I Guess</a> ( points | 
-              40 comments)<br>18. <a href="https://philipotoole.com/rqlite-turns-10-lessons-from-a-decade-of-building-distributed-systems/">rqlite turns 10: Observations from a decade building Distributed Systems</a> ( points | 
-              no comments)<br>19. <a href="https://pok.acm.org/meetings/foils/McGrew18paper.pdf">Forgotten APL Influences (2016)</a> ( points | 
+              13 comments)<br>17. <a href="https://aphyr.com/posts/387-the-future-of-customer-support-is-lies-i-guess">The Future of Customer Support is Lies, I Guess</a> ( points | 
+              40 comments)<br>18. <a href="https://pok.acm.org/meetings/foils/McGrew18paper.pdf">Forgotten APL Influences (2016)</a> ( points | 
+              no comments)<br>19. <a href="https://philipotoole.com/rqlite-turns-10-lessons-from-a-decade-of-building-distributed-systems/">rqlite turns 10: Observations from a decade building Distributed Systems</a> ( points | 
               no comments)<br>20. <a href="https://www.freebsd.org/status/report-2025-01-2025-03/">FreeBSD Status Report 2025Q1</a> ( points | 
               no comments)<br>21. <a href="https://github.com/dotnet/runtime/blob/main/docs/design/coreclr/jit/DeabstractionAndConditionalEscapeAnalysis.md#de-abstraction-and-conditional-escape-analysis">De-Abstraction and Conditional Escape Analysis</a> ( points | 
               no comments)<br>22. <a href="https://ohadravid.github.io/posts/2025-05-rav1d-faster/">Making the rav1d Video Decoder 1% Faster</a> ( points | 
               no comments)<br>23. <a href="https://mattweidner.com/2025/05/21/text-without-crdts.html">Collaborative Text Editing without CRDTs or OT</a> ( points | 
               3 comments)<br>24. <a href="https://blog.alexbeals.com/posts/reverse-engineering-ios-deeplinking-for-shortcuts">Reverse Engineering iOS Shortcuts Deeplinks</a> ( points | 
               1 comment)<br>25. <a href="https://simonmar.github.io/posts/2025-05-22-Glean-Haskell.html">Indexing Hackage: Glean vs. hiedb</a> ( points | 
-              no comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Saturday, May 24, 2025 at 9:15 AM UTC</guid></item></channel></rss>
+              no comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Saturday, May 24, 2025 at 10:15 AM UTC</guid></item></channel></rss>
