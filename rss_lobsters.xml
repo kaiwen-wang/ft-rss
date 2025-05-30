@@ -1,26 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Fri, 30 May 2025 22:16:25 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Friday, May 30, 2025 at 10:15 PM UTC]]></title><description><![CDATA[1. <a href="https://blog.snork.dev/posts/a-poor-man-s-types.html">A poor man’s types</a> ( points | 
-              18 comments)<br>2. <a href="/s/ytefme/when_was_last_time_you_broke_production">When was the last time you broke production and how?</a> ( points | 
-              20 comments)<br>3. <a href="https://biggo.com/news/202505261334_MinIO_Removes_Web_UI_Features">MinIO Removes Web UI Features from Community Version, Pushes Users to Paid Plans</a> ( points | 
-              15 comments)<br>4. <a href="https://fireborn.mataroa.blog/blog/i-want-to-love-linux-it-doesnt-love-me-back-post-3-speakup-brltty-and-the-forgotten-infrastructure-of-console-access/">I Want to Love Linux. It Doesn't Love Me Back: Post 3 – Speakup, BRLTTY, and the Forgotten Infrastructure of Console Access</a> ( points | 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lobsters Top Stories]]></title><description><![CDATA[Lobsters Top Stories]]></description><link>https://lobste.rs/</link><image><url>https://lobste.rs/apple-touch-icon-144.png</url><title>Lobsters Top Stories</title><link>https://lobste.rs/</link></image><generator>RSS for Node</generator><lastBuildDate>Fri, 30 May 2025 23:16:16 GMT</lastBuildDate><item><title><![CDATA[Lobsters Top Stories: Friday, May 30, 2025 at 11:15 PM UTC]]></title><description><![CDATA[1. <a href="https://blog.snork.dev/posts/a-poor-man-s-types.html">A poor man’s types</a> ( points | 
+              18 comments)<br>2. <a href="https://biggo.com/news/202505261334_MinIO_Removes_Web_UI_Features">MinIO Removes Web UI Features from Community Version, Pushes Users to Paid Plans</a> ( points | 
+              16 comments)<br>3. <a href="/s/ytefme/when_was_last_time_you_broke_production">When was the last time you broke production and how?</a> ( points | 
+              20 comments)<br>4. <a href="https://fireborn.mataroa.blog/blog/i-want-to-love-linux-it-doesnt-love-me-back-post-3-speakup-brltty-and-the-forgotten-infrastructure-of-console-access/">I Want to Love Linux. It Doesn't Love Me Back: Post 3 – Speakup, BRLTTY, and the Forgotten Infrastructure of Console Access</a> ( points | 
               18 comments)<br>5. <a href="/s/xkvw45/what_are_you_doing_this_weekend">What are you doing this weekend?</a> ( points | 
-              9 comments)<br>6. <a href="https://notes.skillstopractice.com/pbp.pdf">Programming Beyond Practices</a> ( points | 
-              3 comments)<br>7. <a href="https://blog.pomdtr.me/posts/tweety-v1/">The case for using a web browser as your terminal</a> ( points | 
-              50 comments)<br>8. <a href="https://mtlynch.io/notes/which-new-language/">Which New Language Should I Learn for Web Development?</a> ( points | 
-              41 comments)<br>9. <a href="https://lexi-lambda.github.io/blog/2025/05/29/a-break-from-programming-languages/">A break from programming languages</a> ( points | 
-              21 comments)<br>10. <a href="https://www.chosenplaintext.ca/articles/radix-2-51-trick.html">The radix 2^51 trick to 256-bit addition (2020)</a> ( points | 
+              11 comments)<br>6. <a href="https://notes.skillstopractice.com/pbp.pdf">Programming Beyond Practices</a> ( points | 
+              3 comments)<br>7. <a href="https://mtlynch.io/notes/which-new-language/">Which New Language Should I Learn for Web Development?</a> ( points | 
+              42 comments)<br>8. <a href="https://blog.pomdtr.me/posts/tweety-v1/">The case for using a web browser as your terminal</a> ( points | 
+              50 comments)<br>9. <a href="https://lexi-lambda.github.io/blog/2025/05/29/a-break-from-programming-languages/">A break from programming languages</a> ( points | 
+              22 comments)<br>10. <a href="https://www.chosenplaintext.ca/articles/radix-2-51-trick.html">The radix 2^51 trick to 256-bit addition (2020)</a> ( points | 
               2 comments)<br>11. <a href="https://www.dbreunig.com/2025/05/30/using-slop-forensics-to-determine-model-ancestry.html">Using ‘Slop Forensics’ to Determine Model Ancestry</a> ( points | 
               1 comment)<br>12. <a href="https://www.youtube.com/watch?v=DG5gLPFKcbk">Types and other techniques as an accessibility tool for the ADHD brain</a> ( points | 
               1 comment)<br>13. <a href="https://lukasatkinson.de/2025/net-negative-cursor/">Net-Negative Cursor</a> ( points | 
               11 comments)<br>14. <a href="https://matttproud.com/blog/posts/x-window-system-boot-stipple.html">Iconography of the X Window System: The Boot Stipple</a> ( points | 
-              no comments)<br>15. <a href="https://www.zdnet.com/article/the-linux-6-15-kernel-arrives-and-its-big-a-victory-for-rust-fans/">The Linux 6.15 kernel arrives and it's big a victory for Rust fans</a> ( points | 
-              no comments)<br>16. <a href="https://thiswebsitedoesnotexist.net/">This website does not exist</a> ( points | 
-              7 comments)<br>17. <a href="https://shenlanguage.org/TBoS/tbos.html">The Book of Shen</a> ( points | 
-              2 comments)<br>18. <a href="http://blomqu.ist/posts/2025/loop-recognition">Revisiting Loop Recognition in C++... in Rust</a> ( points | 
-              7 comments)<br>19. <a href="https://daniel.haxx.se/blog/2025/05/29/decomplexification/">Decomplexification</a> ( points | 
-              no comments)<br>20. <a href="https://cacm.acm.org/practice/systems-correctness-practices-at-amazon-web-services/">Systems Correctness Practices at Amazon Web Services</a> ( points | 
-              2 comments)<br>21. <a href="https://defn.io/2025/05/30/racket-thread-stack-dumps/">What is Racket DOING???</a> ( points | 
-              no comments)<br>22. <a href="https://sourcehut.org/blog/2025-05-29-whats-cooking-q2/">What's cooking on SourceHut? Q2 2025</a> ( points | 
-              13 comments)<br>23. <a href="https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app/">Announcing dotnet run app.cs—A simpler way to start with C# and .NET 10</a> ( points | 
-              no comments)<br>24. <a href="https://undeadly.org/cgi?action=article;sid=20250529080623">Making openat(2) and friends more useful in practice</a> ( points | 
+              no comments)<br>15. <a href="https://thiswebsitedoesnotexist.net/">This website does not exist</a> ( points | 
+              7 comments)<br>16. <a href="https://www.zdnet.com/article/the-linux-6-15-kernel-arrives-and-its-big-a-victory-for-rust-fans/">The Linux 6.15 kernel arrives and it's big a victory for Rust fans</a> ( points | 
+              no comments)<br>17. <a href="https://shenlanguage.org/TBoS/tbos.html">The Book of Shen</a> ( points | 
+              2 comments)<br>18. <a href="https://defn.io/2025/05/30/racket-thread-stack-dumps/">What is Racket DOING???</a> ( points | 
+              no comments)<br>19. <a href="http://blomqu.ist/posts/2025/loop-recognition">Revisiting Loop Recognition in C++... in Rust</a> ( points | 
+              7 comments)<br>20. <a href="https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app/">Announcing dotnet run app.cs—A simpler way to start with C# and .NET 10</a> ( points | 
+              2 comments)<br>21. <a href="https://daniel.haxx.se/blog/2025/05/29/decomplexification/">Decomplexification</a> ( points | 
+              no comments)<br>22. <a href="https://cacm.acm.org/practice/systems-correctness-practices-at-amazon-web-services/">Systems Correctness Practices at Amazon Web Services</a> ( points | 
+              2 comments)<br>23. <a href="https://sourcehut.org/blog/2025-05-29-whats-cooking-q2/">What's cooking on SourceHut? Q2 2025</a> ( points | 
+              13 comments)<br>24. <a href="https://undeadly.org/cgi?action=article;sid=20250529080623">Making openat(2) and friends more useful in practice</a> ( points | 
               7 comments)<br>25. <a href="https://lambdaisland.com/blog/2025-05-13-on-interactive">On Interactive Development</a> ( points | 
-              2 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Friday, May 30, 2025 at 10:15 PM UTC</guid></item></channel></rss>
+              2 comments)<br>]]></description><guid isPermaLink="false">Lobsters Top Stories: Friday, May 30, 2025 at 11:15 PM UTC</guid></item></channel></rss>
